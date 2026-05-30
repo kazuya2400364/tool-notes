@@ -59,6 +59,7 @@ const STORE_KEYS = {
   saved: "tool-notes:saved",
   read: "tool-notes:read",
   hidden: "tool-notes:hidden",
+  lastSeen: "tool-notes:last-seen",
 };
 
 const state = {
@@ -69,6 +70,8 @@ const state = {
   sort: "newest",
   query: "",
   sources: new Set(),
+  lastSeenAt: localStorage.getItem(STORE_KEYS.lastSeen) || null,
+  newPicks: [],
   saved: loadSet(STORE_KEYS.saved),
   read: loadSet(STORE_KEYS.read),
   hidden: loadSet(STORE_KEYS.hidden),
@@ -83,6 +86,9 @@ const els = {
   sourceFilters: document.querySelector("#sourceFilters"),
   itemCount: document.querySelector("#itemCount"),
   lastUpdated: document.querySelector("#lastUpdated"),
+  newPicks: document.querySelector("#newPicks"),
+  newPicksList: document.querySelector("#newPicksList"),
+  markSeen: document.querySelector("#markSeenButton"),
   toast: document.querySelector("#toast"),
   refresh: document.querySelector("#refreshButton"),
   filterToggle: document.querySelector("#filterToggleButton"),
@@ -128,6 +134,7 @@ function bindEvents() {
   els.filterDone.addEventListener("click", closeFilterSheet);
   els.filterBackdrop.addEventListener("click", closeFilterSheet);
   els.clearFilters.addEventListener("click", clearFilters);
+  els.markSeen.addEventListener("click", markNewPicksSeen);
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeFilterSheet();
   });
@@ -141,6 +148,7 @@ async function loadFeed(force = false) {
     if (!response.ok) throw new Error(`Feed request failed: ${response.status}`);
     const payload = await response.json();
     state.items = Array.isArray(payload.items) ? payload.items : [];
+    updateNewPicks();
     renderFilters();
     render();
     const updated = payload.generatedAt ? formatDate(payload.generatedAt) : "unknown";
@@ -291,10 +299,66 @@ function clearFilters() {
 function render() {
   const items = getVisibleItems();
   els.itemCount.textContent = String(items.length);
+  renderNewPicks();
   els.feed.innerHTML = items.map(renderCard).join("");
   els.empty.classList.toggle("hidden", items.length > 0);
   renderActiveFilters();
   bindCardActions();
+}
+
+function updateNewPicks() {
+  const baseline = state.lastSeenAt ? Date.parse(state.lastSeenAt) : Date.now() - 1000 * 60 * 60 * 24;
+  state.newPicks = state.items
+    .filter((item) => Date.parse(item.fetchedAt || item.publishedAt || 0) > baseline)
+    .sort((a, b) => {
+      const popularityDelta = Number(b.popularity || b.score || 0) - Number(a.popularity || a.score || 0);
+      if (popularityDelta !== 0) return popularityDelta;
+      return Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0);
+    })
+    .slice(0, 5);
+  updateAppBadge(state.newPicks.length);
+}
+
+function renderNewPicks() {
+  els.newPicks.classList.toggle("hidden", state.newPicks.length === 0);
+  if (!state.newPicks.length) {
+    els.newPicksList.innerHTML = "";
+    return;
+  }
+  els.newPicksList.innerHTML = state.newPicks
+    .map((item) => {
+      return `
+        <a class="pick-item" href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer" data-pick-id="${escapeAttr(item.id)}">
+          <span>${escapeHtml(SOURCE_LABELS[item.sourceGroup || inferSourceGroup(item)] || item.sourceName || "Source")}</span>
+          <strong>${escapeHtml(item.title)}</strong>
+        </a>
+      `;
+    })
+    .join("");
+  els.newPicksList.querySelectorAll("[data-pick-id]").forEach((link) => {
+    link.addEventListener("click", () => {
+      state.read.add(link.dataset.pickId);
+      saveSet(STORE_KEYS.read, state.read);
+    });
+  });
+}
+
+function markNewPicksSeen() {
+  state.lastSeenAt = new Date().toISOString();
+  localStorage.setItem(STORE_KEYS.lastSeen, state.lastSeenAt);
+  state.newPicks = [];
+  updateAppBadge(0);
+  render();
+  showToast("New picks cleared");
+}
+
+function updateAppBadge(count) {
+  if ("setAppBadge" in navigator) {
+    navigator.setAppBadge(count).catch(() => {});
+  }
+  if (count === 0 && "clearAppBadge" in navigator) {
+    navigator.clearAppBadge().catch(() => {});
+  }
 }
 
 function renderActiveFilters() {

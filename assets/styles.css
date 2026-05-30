@@ -305,6 +305,72 @@ h2 {
   text-align: right;
 }
 
+.new-picks {
+  display: grid;
+  gap: 10px;
+  margin: 0 0 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 14px 34px rgba(23, 23, 23, 0.08);
+}
+
+.new-picks-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.compact {
+  min-width: auto;
+  min-height: 32px;
+  padding: 0 10px;
+  font-size: 0.76rem;
+}
+
+.new-picks-list {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.new-picks-list::-webkit-scrollbar {
+  display: none;
+}
+
+.pick-item {
+  display: flex;
+  flex: 0 0 78%;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 84px;
+  padding: 9px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfbf9;
+  color: inherit;
+  text-decoration: none;
+}
+
+.pick-item span {
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 850;
+}
+
+.pick-item strong {
+  display: -webkit-box;
+  overflow: hidden;
+  color: var(--ink);
+  font-size: 0.9rem;
+  line-height: 1.38;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
 .feed {
   display: grid;
   gap: 10px;
