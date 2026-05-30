@@ -9,6 +9,16 @@ const CATEGORY_LABELS = {
   databricks: "Databricks",
 };
 
+const CATEGORY_ICONS = {
+  all: { label: "All", glyph: "all" },
+  openai: { label: "OpenAI", glyph: "ai" },
+  anthropic: { label: "Anthropic", icon: "https://cdn.simpleicons.org/anthropic/111111" },
+  google: { label: "Gemini", icon: "https://cdn.simpleicons.org/googlegemini/4A5568" },
+  cursor: { label: "Cursor", icon: "https://cdn.simpleicons.org/cursor/111111" },
+  notion: { label: "Notion", icon: "https://cdn.simpleicons.org/notion/111111" },
+  databricks: { label: "Databricks", icon: "https://cdn.simpleicons.org/databricks/FF3621" },
+};
+
 const TYPE_LABELS = {
   usecase: "Use cases",
   tips: "Tips",
@@ -39,7 +49,7 @@ const SOURCE_ICONS = {
   note: { label: "note", icon: "https://cdn.simpleicons.org/note/41C9B4" },
   reddit: { label: "Reddit", icon: "https://cdn.simpleicons.org/reddit/FF4500" },
   hn: { label: "Hacker News", icon: "https://cdn.simpleicons.org/ycombinator/F0652F" },
-  devto: { label: "dev.to", icon: "https://cdn.simpleicons.org/devdotto/FFFFFF" },
+  devto: { label: "dev.to", icon: "https://cdn.simpleicons.org/devdotto/111111" },
   youtube: { label: "YouTube", icon: "https://cdn.simpleicons.org/youtube/FF0000" },
   blog: { label: "Blog", glyph: "rss" },
   other: { label: "Other", glyph: "dot" },
@@ -147,10 +157,29 @@ async function loadFeed(force = false) {
 }
 
 function renderFilters() {
-  renderChipRow(els.categoryFilters, "category", CATEGORY_LABELS);
+  renderCategoryFilters();
   renderChipRow(els.typeFilters, "type", TYPE_LABELS);
   renderSourceFilters();
   renderActiveFilters();
+}
+
+function renderCategoryFilters() {
+  const values = [...new Set(state.items.map((item) => item.category).filter(Boolean))];
+  const available = Object.keys(CATEGORY_LABELS).filter((value) => values.includes(value));
+  const chips = [{ value: "all", label: "All" }, ...available.map((value) => ({ value, label: CATEGORY_LABELS[value] }))];
+  els.categoryFilters.innerHTML = chips
+    .map((chip) => {
+      const active = state.category === chip.value ? " active" : "";
+      return `<button class="chip tool-chip${active}" type="button" data-category="${escapeAttr(chip.value)}" aria-label="${escapeAttr(chip.label)}" title="${escapeAttr(chip.label)}">${renderCategoryIcon(chip.value)}</button>`;
+    })
+    .join("");
+  els.categoryFilters.querySelectorAll("button").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.category = button.dataset.category;
+      renderFilters();
+      render();
+    });
+  });
 }
 
 function renderChipRow(container, key, labels) {
@@ -211,6 +240,18 @@ function renderSourceIcon(source) {
     return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 19h.01"></path><path d="M5 5a14 14 0 0 1 14 14"></path><path d="M5 12a7 7 0 0 1 7 7"></path></svg><span class="source-name">${escapeHtml(label)}</span>`;
   }
   return `<span class="source-glyph dot-glyph" aria-hidden="true"></span><span class="source-name">${escapeHtml(label)}</span>`;
+}
+
+function renderCategoryIcon(category) {
+  const icon = CATEGORY_ICONS[category] || CATEGORY_ICONS.all;
+  const label = CATEGORY_LABELS[category] || icon.label || category;
+  if (icon.icon) {
+    return `<img src="${escapeAttr(icon.icon)}" alt="" loading="lazy"><span class="source-name">${escapeHtml(label)}</span>`;
+  }
+  if (icon.glyph === "ai") {
+    return `<span class="source-glyph ai-glyph" aria-hidden="true">AI</span><span class="source-name">${escapeHtml(label)}</span>`;
+  }
+  return `<span class="source-glyph all-glyph" aria-hidden="true"><span></span><span></span><span></span><span></span></span><span class="source-name">${escapeHtml(label)}</span>`;
 }
 
 function setMode(mode) {
