@@ -12,7 +12,38 @@
         "Codex coding workflow",
         "Codex \u4f7f\u3044\u65b9"
       ],
-      "rss": []
+      "rss": [
+        {
+          "name": "Zenn ChatGPT",
+          "url": "https://zenn.dev/topics/chatgpt/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Qiita ChatGPT",
+          "url": "https://qiita.com/tags/chatgpt/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "dev.to OpenAI",
+          "url": "https://dev.to/feed/tag/openai",
+          "type": "tips",
+          "limit": 12
+        },
+        {
+          "name": "HN OpenAI",
+          "url": "https://hnrss.org/newest?q=OpenAI",
+          "type": "article",
+          "limit": 12
+        },
+        {
+          "name": "Reddit ChatGPT",
+          "url": "https://www.reddit.com/r/ChatGPT/search.rss?q=workflow%20OR%20tips%20OR%20use%20case&restrict_sr=on&sort=new",
+          "type": "tips",
+          "limit": 12
+        }
+      ]
     },
     {
       "id": "anthropic",
@@ -24,7 +55,38 @@
         "Claude productivity examples",
         "Claude artifacts use cases"
       ],
-      "rss": []
+      "rss": [
+        {
+          "name": "Zenn Claude",
+          "url": "https://zenn.dev/topics/claude/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Qiita Claude",
+          "url": "https://qiita.com/tags/claude/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "dev.to Claude",
+          "url": "https://dev.to/feed/tag/claude",
+          "type": "tips",
+          "limit": 12
+        },
+        {
+          "name": "HN Claude",
+          "url": "https://hnrss.org/newest?q=Claude",
+          "type": "article",
+          "limit": 12
+        },
+        {
+          "name": "Reddit ClaudeAI",
+          "url": "https://www.reddit.com/r/ClaudeAI/search.rss?q=Claude%20Code%20OR%20workflow%20OR%20tips&restrict_sr=on&sort=new",
+          "type": "tips",
+          "limit": 12
+        }
+      ]
     },
     {
       "id": "google",
@@ -39,7 +101,32 @@
         {
           "name": "Google AI Blog",
           "url": "https://blog.google/technology/ai/rss/",
-          "type": "article"
+          "type": "article",
+          "limit": 20
+        },
+        {
+          "name": "Zenn Gemini",
+          "url": "https://zenn.dev/topics/gemini/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Qiita Gemini",
+          "url": "https://qiita.com/tags/gemini/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "dev.to Gemini",
+          "url": "https://dev.to/feed/tag/gemini",
+          "type": "tips",
+          "limit": 12
+        },
+        {
+          "name": "HN Gemini",
+          "url": "https://hnrss.org/newest?q=Gemini",
+          "type": "article",
+          "limit": 12
         }
       ]
     },
@@ -53,7 +140,32 @@
         "Cursor composer tutorial",
         "Cursor AI \u4f7f\u3044\u65b9"
       ],
-      "rss": []
+      "rss": [
+        {
+          "name": "Zenn Cursor",
+          "url": "https://zenn.dev/topics/cursor/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Qiita Cursor",
+          "url": "https://qiita.com/tags/cursor/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "HN Cursor",
+          "url": "https://hnrss.org/newest?q=Cursor%20AI",
+          "type": "article",
+          "limit": 12
+        },
+        {
+          "name": "Reddit Cursor",
+          "url": "https://www.reddit.com/r/cursor/search.rss?q=workflow%20OR%20tips%20OR%20rules&restrict_sr=on&sort=new",
+          "type": "tips",
+          "limit": 12
+        }
+      ]
     },
     {
       "id": "notion",
@@ -65,7 +177,26 @@
         "Notion AI \u6d3b\u7528",
         "Notion \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 \u4f7f\u3044\u65b9"
       ],
-      "rss": []
+      "rss": [
+        {
+          "name": "Zenn Notion",
+          "url": "https://zenn.dev/topics/notion/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Qiita Notion",
+          "url": "https://qiita.com/tags/notion/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "Reddit Notion",
+          "url": "https://www.reddit.com/r/Notion/search.rss?q=template%20OR%20workflow%20OR%20automation&restrict_sr=on&sort=new",
+          "type": "tips",
+          "limit": 12
+        }
+      ]
     },
     {
       "id": "databricks",
@@ -81,7 +212,26 @@
         {
           "name": "Databricks Blog",
           "url": "https://www.databricks.com/feed",
-          "type": "article"
+          "type": "article",
+          "limit": 20
+        },
+        {
+          "name": "Qiita Databricks",
+          "url": "https://qiita.com/tags/databricks/feed",
+          "type": "tips",
+          "limit": 20
+        },
+        {
+          "name": "HN Databricks",
+          "url": "https://hnrss.org/newest?q=Databricks",
+          "type": "article",
+          "limit": 12
+        },
+        {
+          "name": "Reddit Databricks",
+          "url": "https://www.reddit.com/r/databricks/search.rss?q=workflow%20OR%20tips%20OR%20notebook&restrict_sr=on&sort=new",
+          "type": "tips",
+          "limit": 12
         }
       ]
     }
@@ -101,6 +251,21 @@
       "name": "Databricks YouTube",
       "category": "databricks",
       "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA"
+    },
+    {
+      "name": "IndyDevDan",
+      "category": "anthropic",
+      "url": "https://www.youtube.com/@IndyDevDan"
+    },
+    {
+      "name": "AI Jason",
+      "category": "openai",
+      "url": "https://www.youtube.com/@AIJasonZ"
+    },
+    {
+      "name": "All About AI",
+      "category": "openai",
+      "url": "https://www.youtube.com/@AllAboutAI"
     }
   ],
   "qualityFilters": {
@@ -113,7 +278,11 @@
       "WEEL",
       "EdgeHUB",
       "SEO Japan",
-      "Databricks Docs"
+      "Databricks Docs",
+      "PR TIMES",
+      "newspicks.com",
+      "\u7a93\u306e\u675c",
+      "\u30cb\u30b3\u30cb\u30b3\u30cb\u30e5\u30fc\u30b9"
     ],
     "blockedDomains": [
       "ai-market.jp",
@@ -140,7 +309,10 @@
       "\\u6599\\u91d1.*\\u5fb9\\u5e95\\u89e3\\u8aac",
       "\\u3068\\u306f\\uff1f.*\\u5fb9\\u5e95\\u89e3\\u8aac",
       "\\u5b8c\\u5168\\u30ac\\u30a4\\u30c9",
-      "\\u521d\\u5fc3\\u8005\\u5411\\u3051"
+      "\\u521d\\u5fc3\\u8005\\u5411\\u3051",
+      "Can anyone help me",
+      "Seriously, wtf",
+      "COLLECTION OF SOULS"
     ]
   }
 }

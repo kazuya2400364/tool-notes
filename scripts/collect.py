@@ -22,6 +22,9 @@ SOURCES_PATH = ROOT / "data" / "sources.json"
 ITEMS_PATH = ROOT / "data" / "items.json"
 MAX_ITEMS = 500
 TIMEOUT = 18
+GOOGLE_NEWS_LIMIT = 8
+DEFAULT_FEED_LIMIT = 20
+YOUTUBE_LIMIT = 12
 
 PRACTICAL_KEYWORDS = {
     "tips": ["tips", "tricks", "便利", "コツ", "使い方", "活用"],
@@ -66,11 +69,22 @@ def main() -> int:
         for query in category.get("queries", []):
             collected.extend(fetch_google_news(query, category["id"], errors, quality_filters))
         for rss_source in category.get("rss", []):
-            collected.extend(fetch_feed(rss_source["url"], category["id"], rss_source["name"], rss_source.get("type", "article"), errors, quality_filters=quality_filters))
+            collected.extend(
+                fetch_feed(
+                    rss_source["url"],
+                    category["id"],
+                    rss_source["name"],
+                    rss_source.get("type", "article"),
+                    errors,
+                    quality_filters=quality_filters,
+                    limit=int(rss_source.get("limit", DEFAULT_FEED_LIMIT)),
+                )
+            )
 
     for channel in sources.get("youtube", []):
-        url = f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(channel['channelId'])}"
-        collected.extend(fetch_feed(url, channel["category"], channel["name"], "video", errors, quality_filters=quality_filters))
+        url = youtube_feed_url(channel, errors)
+        if url:
+            collected.extend(fetch_feed(url, channel["category"], channel["name"], "video", errors, quality_filters=quality_filters, limit=YOUTUBE_LIMIT))
 
     merged = merge_items(collected, existing)
     if stable_items(existing) == stable_items(merged[:MAX_ITEMS]):
@@ -104,10 +118,10 @@ def load_existing_items() -> list[dict]:
 def fetch_google_news(query: str, category: str, errors: list[str], quality_filters: dict) -> list[dict]:
     params = urllib.parse.urlencode({"q": query, "hl": "ja", "gl": "JP", "ceid": "JP:ja"})
     url = f"https://news.google.com/rss/search?{params}"
-    return fetch_feed(url, category, f"Google News: {query}", "article", errors, query=query, quality_filters=quality_filters)
+    return fetch_feed(url, category, f"Google News: {query}", "article", errors, query=query, quality_filters=quality_filters, limit=GOOGLE_NEWS_LIMIT)
 
 
-def fetch_feed(url: str, category: str, source_name: str, default_type: str, errors: list[str], query: str | None = None, quality_filters: dict | None = None) -> list[dict]:
+def fetch_feed(url: str, category: str, source_name: str, default_type: str, errors: list[str], query: str | None = None, quality_filters: dict | None = None, limit: int | None = None) -> list[dict]:
     try:
         body = request_url(url)
         root = ET.fromstring(body)
@@ -117,7 +131,7 @@ def fetch_feed(url: str, category: str, source_name: str, default_type: str, err
 
     entries = parse_entries(root)
     items = []
-    for entry in entries:
+    for entry in entries[: limit or DEFAULT_FEED_LIMIT]:
         title = clean_text(entry.get("title", ""))
         link = normalize_google_news_url(entry.get("link", ""))
         if not title or not link:
@@ -145,6 +159,33 @@ def fetch_feed(url: str, category: str, source_name: str, default_type: str, err
         }
         items.append(item)
     return items
+
+
+def youtube_feed_url(channel: dict, errors: list[str]) -> str | None:
+    if channel.get("channelId"):
+        return f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(channel['channelId'])}"
+
+    channel_url = channel.get("url", "")
+    if not channel_url:
+        errors.append(f"{channel.get('name', 'YouTube')}: missing channelId or url")
+        return None
+
+    try:
+        body = request_url(channel_url).decode("utf-8", errors="ignore")
+    except Exception as exc:
+        errors.append(f"{channel.get('name', channel_url)}: {exc}")
+        return None
+
+    feed_match = re.search(r'<link[^>]+type=["\']application/rss\+xml["\'][^>]+href=["\']([^"\']+)["\']', body)
+    if feed_match:
+        return html.unescape(feed_match.group(1))
+
+    id_match = re.search(r'"channelId"\s*:\s*"(UC[^"]+)"', body) or re.search(r"channel/(UC[\w-]+)", body)
+    if id_match:
+        return f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(id_match.group(1))}"
+
+    errors.append(f"{channel.get('name', channel_url)}: could not resolve YouTube channel RSS")
+    return None
 
 
 def request_url(url: str) -> bytes:
