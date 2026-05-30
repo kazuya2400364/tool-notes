@@ -3,15 +3,7 @@
     {
       "id": "openai",
       "label": "OpenAI",
-      "queries": [
-        "ChatGPT productivity tips",
-        "ChatGPT workflow automation",
-        "ChatGPT \u6d3b\u7528\u4e8b\u4f8b",
-        "ChatGPT \u4fbf\u5229\u306a\u4f7f\u3044\u65b9",
-        "OpenAI Codex examples",
-        "Codex coding workflow",
-        "Codex \u4f7f\u3044\u65b9"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Zenn ChatGPT",
@@ -24,6 +16,18 @@
           "url": "https://qiita.com/tags/chatgpt/feed",
           "type": "tips",
           "limit": 20
+        },
+        {
+          "name": "note ChatGPT",
+          "url": "https://note.com/hashtag/ChatGPT/rss",
+          "type": "tips",
+          "limit": 16
+        },
+        {
+          "name": "note Codex",
+          "url": "https://note.com/hashtag/Codex/rss",
+          "type": "tips",
+          "limit": 16
         },
         {
           "name": "dev.to OpenAI",
@@ -48,13 +52,7 @@
     {
       "id": "anthropic",
       "label": "Anthropic",
-      "queries": [
-        "Claude Code tips",
-        "Claude Code workflow",
-        "Claude Code \u4f7f\u3044\u65b9",
-        "Claude productivity examples",
-        "Claude artifacts use cases"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Zenn Claude",
@@ -67,6 +65,18 @@
           "url": "https://qiita.com/tags/claude/feed",
           "type": "tips",
           "limit": 20
+        },
+        {
+          "name": "note Claude",
+          "url": "https://note.com/hashtag/Claude/rss",
+          "type": "tips",
+          "limit": 16
+        },
+        {
+          "name": "note Claude Code",
+          "url": "https://note.com/hashtag/ClaudeCode/rss",
+          "type": "tips",
+          "limit": 16
         },
         {
           "name": "dev.to Claude",
@@ -91,12 +101,7 @@
     {
       "id": "google",
       "label": "Google Gemini",
-      "queries": [
-        "Gemini AI Studio tutorial",
-        "Gemini productivity tips",
-        "Gemini \u4f7f\u3044\u65b9",
-        "Google Gemini workflow examples"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Google AI Blog",
@@ -117,6 +122,12 @@
           "limit": 20
         },
         {
+          "name": "note Gemini",
+          "url": "https://note.com/hashtag/Gemini/rss",
+          "type": "tips",
+          "limit": 16
+        },
+        {
           "name": "dev.to Gemini",
           "url": "https://dev.to/feed/tag/gemini",
           "type": "tips",
@@ -133,13 +144,7 @@
     {
       "id": "cursor",
       "label": "Cursor",
-      "queries": [
-        "Cursor AI tips",
-        "Cursor AI workflow",
-        "Cursor rules examples",
-        "Cursor composer tutorial",
-        "Cursor AI \u4f7f\u3044\u65b9"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Zenn Cursor",
@@ -152,6 +157,12 @@
           "url": "https://qiita.com/tags/cursor/feed",
           "type": "tips",
           "limit": 20
+        },
+        {
+          "name": "note Cursor",
+          "url": "https://note.com/hashtag/Cursor/rss",
+          "type": "tips",
+          "limit": 16
         },
         {
           "name": "HN Cursor",
@@ -170,13 +181,7 @@
     {
       "id": "notion",
       "label": "Notion",
-      "queries": [
-        "Notion AI workflow",
-        "Notion productivity system",
-        "Notion template automation",
-        "Notion AI \u6d3b\u7528",
-        "Notion \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406 \u4f7f\u3044\u65b9"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Zenn Notion",
@@ -191,6 +196,12 @@
           "limit": 20
         },
         {
+          "name": "note Notion",
+          "url": "https://note.com/hashtag/Notion/rss",
+          "type": "tips",
+          "limit": 16
+        },
+        {
           "name": "Reddit Notion",
           "url": "https://www.reddit.com/r/Notion/search.rss?q=template%20OR%20workflow%20OR%20automation&restrict_sr=on&sort=new",
           "type": "tips",
@@ -201,13 +212,7 @@
     {
       "id": "databricks",
       "label": "Databricks",
-      "queries": [
-        "Databricks use cases",
-        "Databricks notebook tips",
-        "Databricks data engineering workflow",
-        "Databricks \u6d3b\u7528\u4e8b\u4f8b",
-        "Databricks AI BI examples"
-      ],
+      "queries": [],
       "rss": [
         {
           "name": "Databricks Blog",
@@ -220,6 +225,12 @@
           "url": "https://qiita.com/tags/databricks/feed",
           "type": "tips",
           "limit": 20
+        },
+        {
+          "name": "note Databricks",
+          "url": "https://note.com/hashtag/Databricks/rss",
+          "type": "tips",
+          "limit": 16
         },
         {
           "name": "HN Databricks",

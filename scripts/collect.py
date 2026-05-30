@@ -51,10 +51,12 @@ TRACKING_PARAMS = {
 def main() -> int:
     sources = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
     quality_filters = sources.get("qualityFilters", {})
+    allowed_sources = configured_source_names(sources)
     existing = [
         item
         for item in load_existing_items()
-        if not is_blocked_source(
+        if item.get("sourceName") in allowed_sources
+        and not is_blocked_source(
             item.get("title", ""),
             item.get("url", ""),
             item.get("sourceName", ""),
@@ -103,6 +105,16 @@ def main() -> int:
     if errors:
         print(f"Completed with {len(errors)} source errors.", file=sys.stderr)
     return 0
+
+
+def configured_source_names(sources: dict) -> set[str]:
+    names = set()
+    for category in sources.get("categories", []):
+        for rss_source in category.get("rss", []):
+            names.add(rss_source.get("name", ""))
+    for channel in sources.get("youtube", []):
+        names.add(channel.get("name", ""))
+    return {name for name in names if name}
 
 
 def load_existing_items() -> list[dict]:

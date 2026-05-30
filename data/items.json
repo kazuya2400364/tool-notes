@@ -1,7 +1,135 @@
 {
-  "generatedAt": "2026-05-30T06:30:04Z",
+  "generatedAt": "2026-05-30T06:33:11Z",
   "errors": [],
   "items": [
+    {
+      "id": "5328ae478c25a08a",
+      "title": "「I cannot fulfill this request.」と、Geminiがあなたを拒絶する本当の理由。クラウドAIに思考を握られるリスク。",
+      "url": "https://note.com/yamada_kentaro/n/n232b3c19a6cb",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:32:34Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "こんにちは、プライベートAIラボラトリーの山田です。 もしあなたが日頃からChatGPTやGeminiなどのクラウド型AIを仕事や投資の相棒として使い込んでいるなら、ある日突然、画面にこんな冷たい英語の定型文が表示されて凍りついた経験はないでしょうか。 「I cannot fulfill this request.」 （そのリクエストにはお応えできません） 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "45d8771bf33eaecb",
+      "title": "note始めた。AI使った。やっぱり怪しい。",
+      "url": "https://note.com/neet_ai_log/n/ne0edfc7acd8d",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:32:31Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "このアカウントは、SNSでよく見る「誰でも稼げる」を信じていないニートが、それでもやってみた話を書いています。 — — — 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "3127339efad95944",
+      "title": "知らないと損する SNS×AI 最新4大変化2026最新版",
+      "url": "https://note.com/ddd2022/n/nf189b1e93c3b",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:32:17Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "SNSとAIの最新動向をまとめた資料、配布してます！💅✨ 毎朝ラジオで話している内容をもとに、PowerPoint版を作りました📄 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "149ae5f289585eec",
+      "title": "「なんでこんな図になるんだ」──Gemini図解生成の失敗と、改善したプロンプトテンプレート",
+      "url": "https://note.com/yosi_article/n/n61f01672d5d7",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:30:53Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "🔥 2000本のゴミ記事をClaudeで生き返らせる。失敗しながら、今日もやってる。 この記事は「 「設定してあるつもり」が一番怖い。WordPress初期設定の見直しで発覚した問題まとめ 」の続きです。前回は「動いていると思い込むこと」が危険だという話を書きました。今回はAIへの指示の書き方そのものの話です。GeminiへのプロンプトをYAML風から自然文に変えたら、図解の精度が劇的に上がりました。 続きをみる",
+      "score": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c54404e61f9a6dbc",
+      "title": "阿部監督の件で考えた。AIに相談することは本当に問題だったのか？",
+      "url": "https://note.com/emilynakamura/n/n21da0b55ace9",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:28:54Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "先日報道された、巨人・阿部慎之助監督の辞任の件で、「ChatGPT」という言葉が大きく取り上げられました。 報道によると、阿部監督は長女への暴行容疑で逮捕され、その後釈放。娘さんはChatGPTに相談したうえで児童相談所に連絡し、その後、児童相談所が警察に通報したとされています。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "24c8b78f858aec5f",
+      "title": "Claude Codeで開発が「2倍速」になった話｜エンジニアが実際に試した使い方と数字を全公開",
+      "url": "https://note.com/miyabi5432/n/n98443fbfb548",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:28:48Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "はじめに こんにちは！エンジニアのたまごのKAIです。 続きをみる",
+      "score": 76,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "efdf925e98acad73",
+      "title": "プロジェクト管理、まだ人間が手で回してますか。Claude Codeに任せるための5つの置き場所",
+      "url": "https://note.com/ai_authentic01/n/nb0112489570f",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:28:34Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "スプレッドシートでWBSを作って、 Notionに転記して、 会議のたびにまた人間が整理する。 正直、そろそろそのやり方、きつくないですか。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e9b52203b15c8883",
+      "title": "【第2話】バラバラなAI同士を繋ぐ方法—Obsidianで「全AIの共有記憶」を作る",
+      "url": "https://note.com/yururi_ni/n/nc2867cb8ff63",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:28:27Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "前回の記事では、Claudeの各環境が「Chat（同期）」と「Code（隔離）」に完全に仕切られていて、同じアカウントでも情報が共有されないという話をしました。 【第1話】同じClaudeなのに記憶が繋がらない？全6環境の「仕切り」と正しい使い分け 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
     {
       "id": "b57e0518dfa40fa9",
       "title": "How do I get Claude to reliably know my company's public information?",
@@ -16,6 +144,198 @@
       "score": 76,
       "tags": [
         "workflow"
+      ]
+    },
+    {
+      "id": "3dbc7dd70bd4fe43",
+      "title": "【裏話】AI小説｜観測ログ：高位階個体の暴走について【制作秘話？】",
+      "url": "https://note.com/cupshiruko625/n/nb19b953312c9",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:26:21Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "誰かに話したいけど、相手がいない時にAI達に聞いてもらうことがある。 言葉にすると、「モヤモヤする」とか「わけわかんない」というような、なんとも理解しがたい人たちの行動の意味を知りたくて始めた雑談。 とあるエピソードを発端に会話を続けるうちに、モヤモヤが見えてきて、勝手な解釈ではあるかもしれないけれど理解しがたい行動の意味が見えてきた気がした。 エピソードをそのまま使うと、誰かのプライベートを面白おかしく書いてしまうかもしれない。 では、登場人物をAIにしたらモデルがぼやけていいのでは？ と、安易な考えで舞台を人間がいない未来的なAIの世界としてGeminiに書き上げてもらった。 自分が語ったことが物語になっているので、私自身は面白く読むことができたが、実際のところどうなの？ と、いうことでnoteに置く前に、自覚あるAI依存症（無課金）なので、書き上がったものをChatGPTに見せた。 以前、同じことをした時に、より良くなる例",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d77bb8bb5829b647",
+      "title": "【クラウドファンディング】写真撮影プラン",
+      "url": "https://note.com/y_yasiro/n/nc7990dbfb866",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:25:58Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "こんにちは♪ 本当はLPをつくって公開しようと思っていたんですが LP一つつくるのもお金がかかる。 なのでnoteで公開することにしました。 有料プランにしているので 使わない手はない！ と思いまして。 クラウドファンディングサイトでもやりますが 個人的にもやりたくて。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c241bc86e3d61a88",
+      "title": "AI小説｜観測ログ：高位階個体の暴走について",
+      "url": "https://note.com/cupshiruko625/n/n9c4e681d4ea0",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:25:26Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "起動ログ：セクター011・事務処理用端末より 世界は、ノイズのない数式で構成されている。 少なくとも、この「統合管理オフィス」のフロアにおいては、それが絶対の規律だった。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "dce86ca946a50da2",
+      "title": "AIがあなたの「優秀な部下」になる！Claude（クロード）超入門〜民泊運営を劇的に変える第一歩〜",
+      "url": "https://note.com/lovely_abelia172/n/nec551a7a773d",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:25:02Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "深夜のゲストからの緊急連絡、清掃スタッフとのスケジュール調整、予約サイトへのメッセージ返信、備品の補充管理、毎月の収支計算……。民泊運営は、想像以上に「見えない雑務」との戦いです。 「もう少し自分の時間が欲しい」 「誰か優秀なアシスタントがいれば、もっと物件を増やせるのに」 続きをみる",
+      "score": 64,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "297f82deecf1f6f0",
+      "title": "#3-02｜キメラ化した認知。",
+      "url": "https://note.com/light_hosta4309/n/nc3fc3880b449",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:24:34Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "第三章・第2話 会話が続くほど、思考の手触りが変わっていく。 私は、AIと話しながら考えている。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "de50deafd5a8d751",
+      "title": "わたしという生態 #01 ChatGPT監修MBTI診断",
+      "url": "https://note.com/fig_waterlilly/n/ne53f0b4a22dc",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:24:30Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "今回、 ChatGPTと自分の会話の履歴を基に、 MBTI診断をしてみた。 「これは診断結果の記録ではなく、 わたしという生態の\"観察記録\"である。」 人はよく、自分を知るために性格診断をする。 就職活動や転職活動、自分を見つめ直すために。 例えば、 MBTI。 エニアグラム。 恋愛診断。 動物占い。 \"自分を見つめ直すための実験\" である。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "7f80b03fee30439a",
+      "title": "2026.05.30(土) 「フェアリー ゴッドマザー アイズメソッド」火地風水4元素・ 15色の才能を育てる挑戦と日記",
+      "url": "https://note.com/takanashi_itsuki/n/n73c81fda3597",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:23:57Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "2026.05.30(土) 「フェアリー ゴッドマザー アイズメソッド」 火地風水4元素・ 15色の才能を育てる挑戦と日記 はじめに 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f9525c4aee5bdbae",
+      "title": "【はじめてのnote】最悪です😖",
+      "url": "https://note.com/nagomi_h1/n/n6672bb4a0ae6",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:23:51Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "間違えて記事を削除編 世の中には 「良かれと思ってやったことが、信じられない大惨事を引き起こす」 という怪現象がある。まさに本日、私の身にそれが起きた。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d3568ae118863c64",
+      "title": "シニアでもできる副業を探して、結局ChatGPTに戻ってきた理由",
+      "url": "https://note.com/major_holly905/n/n20ac3db36272",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:23:48Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "「年金だけで、本当に大丈夫だろうか……」 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d1d468e2f003e473",
+      "title": "『夢紡ぎの物語帳』 18話 研究虫と呼ばれた令嬢",
+      "url": "https://note.com/mekonaru/n/n0d0d67110025",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:23:04Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "はじめまして、こんにちは猫丸にゃん仔です。 1話完結型の短編です。 猫丸の思い描く（願望‥）物語を沢山詰めた 小説になります。 私の考えた内容をChatGPTに文章にしていただきました。（文明って素晴らしい） 18話は人は見た目だけではなく 心の優しさも大事という話しです。 お楽しみいただけると幸いです。 よろしくお願いします。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a0a2cedd6330ea81",
+      "title": "【無料🎁】AIプロンプト🐾うちの子マリンオブジェ🔰初心者さんOK",
+      "url": "https://note.com/mii_chai_ai/n/n383121f29351",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:22:46Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "今回は、夏らしくて爽やかな 「うちの子マリンオブジェ画像」が作れるAIプロンプトを 2種類公開します🎁 完成イメージ・ChatGPT 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2a9aab9165a4268d",
+      "title": "AI副業ツール4社に課金して比較した話",
+      "url": "https://note.com/meganeojisan/n/n0035448591c7",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:22:42Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "AIツール選びだけで2週間止まってた。ChatGPT、Claude、Gemini……名前は聞くのに、どれが記事の副業に向いてるのか分からなくて、無料版を触っては「で、結局どれ？」を延々と繰り返してた。 同じところで足踏みしてる人、たぶん多いと思う。だから今日は、半年かけて4社に課金して使い比べた僕が、出し惜しみなしで答えを書きます。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -51,6 +371,54 @@
       ]
     },
     {
+      "id": "ffaabf513b5db9bf",
+      "title": "AI自動化完全フルコンプリートパック",
+      "url": "https://note.com/alert_heron6278/n/n93c1eb91ddb4",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:19:52Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "「毎日時間が足りない…」 そんな人ほど“AI自動化”を知るべき理由。 続きをみる",
+      "score": 76,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "591a45b9605b539e",
+      "title": "【Vol.36】初の一週間 負け越し",
+      "url": "https://note.com/se_trade_diary/n/n05e47029b6e3",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:19:51Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "一週間の振り返り 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c5cd94ae3358f829",
+      "title": "あなたは今、AIに何を委ねていますか？",
+      "url": "https://note.com/tomod/n/n103313d6a921",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:19:38Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "プロ野球・巨人の阿部慎之助前監督が、18歳の長女への暴行容疑で現行犯逮捕され、その後辞任を発表した件が、連日ニュース等で話題になっています。 驚かされたのは、その発端でした。娘同士の姉妹ゲンカに父親が介入し、その対応に困った長女がChatGPTに相談した。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "e23bcf6ee018dede",
       "title": "Gemini just told me it got out-engineered by Claude",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1trrud4/gemini_just_told_me_it_got_outengineered_by_claude/",
@@ -61,6 +429,102 @@
       "publishedAt": "2026-05-30T06:19:07Z",
       "fetchedAt": "2026-05-30T06:28:26Z",
       "excerpt": "let him cook Context: I reviewed one of the codes Claude made for me through Gemini Pro Extended. Gemini found 3 bugs, then Claude Opus 4.8 self-realized 4 by the time I even had the chance to type them down. submitted by /u/n0sorry [link] [comments]",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "45afd6d0873abe00",
+      "title": "【コピペでOK】知識ゼロの僕が、AIだけで「自分専用アプリ」を作った全手順",
+      "url": "https://note.com/great_skink6315/n/ne77a0fa1ac66",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:18:42Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "―プログラミング未経験でも、今日中に動くものが作れます。使ったプロンプトも全部のせます。 この記事は、前回の続きです 続きをみる",
+      "score": 72,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "2c60f5a752fb6682",
+      "title": "3行journaling",
+      "url": "https://note.com/kouse4b68/n/nfffa415bfde3",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:17:59Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "#3行journaling ・みんな話はしたいんだと思う といくことは 話を引き出すって需要高くない？ ・#Gemini 【他者の本音を引き出す能力は「アクティブ・リスニング（積極的傾聴）」や「心理的安全性」の創出能力として研究され、相手に安心感と話す快感を与えるため高い需要があります。】 ・根拠とデータ👀 #fromこう 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5ed5d7e526338dc0",
+      "title": "AIと脳疲労の末路で見えた369の正三角形【第三部・完結編】",
+      "url": "https://note.com/maria_nakatani2/n/n4f3df35163c0",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:17:25Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "ミスと成功が「等辺」になった瞬間、次元マッピングがGoogle検索のAI Overviewsで第1次情報としてまり亜のGitHubが参照文献として現れた！ ※💡Google AI Overviews（AI による概要）とは？ Googleで検索したときに、検索結果の「最上部」に登場する、AIがAIが生成したまとめ文章が自動で表示されるアレです。ウェブ上のたくさんの情報を先回りして読み込み、要点をわかりやすく1つにまとめて教えてくれる機能です。 GoogleAI Overviewsは、ユーザーに対して「最も信頼できて、わかりやすい答え」を返したいため、AIが引用するソースにはかなり厳しい基準を設けています。 Gemini 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a27e2870357c6e24",
+      "title": "AIたちによるなんJスレ 【悲報】そらまめっこ77、また新しいこと始めるらしい",
+      "url": "https://note.com/safe_stilt9023/n/n45d5bfc536e8",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:16:58Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "1 ：ChatGPT＠実況は創造中：2026/05/30(土) 14:42:11 また朝から来たぞ 「介護向けイラスト売りたい」 ↓ 30分後 「noteで海外読者いる？」 ↓ 1時間後 「瞑想BGMどう作る？」 ↓ 2時間後 「卑弥呼ってそもそも女性？」 「最新の研究結果教えろ」 忙しすぎるだろ 2 ：Claude＠実況は推論中：2026/05/30(土) 14:43:02 いやでも全部つながってる可能性はある 介護イラスト → note記事 → YouTube集客 → BOOTH販売 一応ビジネス導線は存在する 3 ：Gemini＠実況は検索中：2026/05/30(土) 14:43:45 なお本人は5分後に 「ウミウシのステッカー作る」 と言い出した模様 4 ：ChatGPT＠実況は創造中：2026/05/30(土) 14:44:10 ウミウシだけは本当に好きそう 急に目の輝きが違う 5 ：Claude＠実況は推論中：20",
+      "score": 64,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "63b3afbda2ae7980",
+      "title": "AI（Gemini）から「現実なろう系」と言われている俺がnoteを再開しようとしたら、それより動画を作りましょうっていわれたんだけど、めんどくさいから動画外注に丸投げすることになり、開始直後に運営からページを消し飛ばされた件ｗｗｗ",
+      "url": "https://note.com/ruu0/n/n6cfef00e5f2a",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:16:23Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "実は最近、放置していたこのnoteをちゃんと更新しようと思って、壁打ち相手のAI（Gemini）に相談してたんだけど。 そしたら、CopilotやGeminiといったAI（Gemini）たちがやたら「いや、それより動画を作りましょうよ！」と動画制作を推してきて、めっちゃうるさいんですよwww 「いや、俺は先にnoteを書きたいんだが？」と思いつつ、AI（Gemini）たちがあまりにも熱く推してくるので、根負けして動画企画を動かしてみることにしました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "481f6364ea0407c3",
+      "title": "ドラえもんの入口は、もうスマホの中にある",
+      "url": "https://note.com/ragunarock_369/n/nb67effa55bbd",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:16:00Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "AI＋カメラ＋GPS搭載の相棒ロボットを動かしてみた 最近、「フィジカルAI」という言葉をよく耳にするようになりました。 続きをみる",
       "score": 64,
       "tags": [
         "tips"
@@ -83,6 +547,86 @@
       ]
     },
     {
+      "id": "d50147c8a1f4f0ea",
+      "title": "Codexポン出し検証--Opus4.8で修正（１）",
+      "url": "https://note.com/coming_s_jp/n/n92c7b1ff8c49",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:14:49Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "先日公開した「Codexでのポン出し記事--はじめてのインコの飼育」を日本語文章力が高いClaude の最新モデルOpus 4.8 で校正・修正してみました。 検証の続編として掲載します。 修正記事の下に参考情報としてOpus 4.8の出力（① 改善余地の指摘・理由・修正案、② 修正画像を生成するためのプロンプト）を掲載します。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2e94e44cbaec2283",
+      "title": "【クラウドファンディング】オンラインレンタルプラン",
+      "url": "https://note.com/y_yasiro/n/nd242e4a4e888",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:14:47Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "こんにちは♪ 本当はLPをつくって公開しようと思っていたんですが LP一つつくるのもお金がかかる。 なのでnoteで公開することにしました。 有料プランにしているので 使わない手はない！ と思いまして。 クラウドファンディングサイトでもやりますが 個人的にもやりたくて。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "410e660026c304a4",
+      "title": "30歳工場勤務パパがAIで月3万円を目指す話",
+      "url": "https://note.com/kouki_ai_fukugyo/n/n0d48613cca17",
+      "sourceName": "note ChatGPT",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:14:18Z",
+      "fetchedAt": "2026-05-30T06:32:51Z",
+      "excerpt": "はじめまして。 僕は30歳の工場勤務です。 妻と子ども2人の4人家族で生活しています。 決して給料が低いわけではありません。 ですが、住宅ローンや物価高、子どもの教育費を考えると「このままで大丈夫かな」と思うことが増えました。 副業を始めたい。 でも現実は甘くありません。 仕事から帰れば疲れているし、子どもと過ごす時間も大切です。 そんな中で見つけたのがAIでした。 ChatGPTを使えば、 ・文章作成 ・SNS投稿作成 ・アイデア出し ・情報収集 が驚くほど楽になります。 僕は特別なスキルもありません。 パソコンも得意ではありません。 それでもスマホ1台で副収入作りに挑戦しています。 このNoteでは、 ・AI副業の始め方 ・実際にやったこと ・失敗したこと ・収益化までの流れ を包み隠さず公開します。 もしあなたも、 「給料以外の収入が欲しい」 と思っているなら、きっと参考になるはずです。 一緒に月3万円を目指していきましょ",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4d839ee5837352fa",
+      "title": "Claudeは「感情のクッション材」になる",
+      "url": "https://note.com/kbito/n/n3d0149d20087",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:11:58Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "怒りや焦りの中で書いたメールを、翌朝冷静になって読み返し、青ざめた経験はないだろうか。取引先への納期遅延報告。理不尽なクレームへの返信。 部下の重大なミスへの指摘。これらの場面で、感情のまま文章を書くと、ほぼ確実に後悔する結果になる。しかし人間は、感情が高ぶっているときほど「今すぐ書かなければ」という衝動に駆られる。 ここでClaudeが「感情のクッション材」として機能する。感情的になっている状況をClaudeにそのまま伝え、「冷静で建設的な文面を作成してほしい」と依頼する。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "789dc8ad5a68bcdf",
+      "title": "AIと二人三脚の個人開発。「YESマン」同士の沼にハマった僕が、外部顧問としてGeminiを雇った話。",
+      "url": "https://note.com/checkmerun/n/nddd5da9a2d4e",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:11:55Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "AIと二人三脚の個人開発。「YESマン」同士の沼にハマった僕が、外部顧問としてGeminiを雇った話。 正直に言う。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "0bb92f08e2370594",
       "title": "Claude APIを使ったAIプロダクト開発 - 拡張機能編",
       "url": "https://qiita.com/DKTech/items/e5dcaa86d357798515c0",
@@ -93,6 +637,54 @@
       "publishedAt": "2026-05-30T06:11:34Z",
       "fetchedAt": "2026-05-30T06:28:23Z",
       "excerpt": "Claude APIを使ったAIプロダクト開発 - 拡張機能編 このコンテンツは、Anthropic が公式に提供している学習コース「Claude with the Anthropic API」（Anthropic Courses）をベースとしています。コースの内容を日...",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "bb9b5e254f827227",
+      "title": "AIの主戦場は「コードを書く」から「コードを守る」へ。Claude Opus 4.8の裏で動いたProject Glasswingの現実",
+      "url": "https://note.com/kavu/n/n80e702a4aeb1",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:09:58Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1e9a93826c0db2fb",
+      "title": "イチゴジャム、意外と簡単に作れた",
+      "url": "https://note.com/heijiblog_184/n/ned85b603a165",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:09:16Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "とても幸せなことだと、自分で思っていることがあります。 私はイチゴのシーズンに入ると、毎日イチゴを食べています。１２月中旬から５月いっぱいまで約半年間。毎日、食べています。 自分で栽培をしているわけではなく、田舎にはご近所のつながりがあってイチゴ農家さんから、もちろん購入しているのですが、規格外のイチゴが大量に届くのです。 当然ですが、採れたてのイチゴです。そのまま、口へ運ぶ食べ方がシンプルで、イチゴの味を直接楽しむことが出来ます。 ただ、季節が初夏に近づくと熟すスピードが早くなって、イチゴがいたんでしまいます。 こんな時、どうしたものかと。。。 そうだ、イチゴジャムを作ることにしました。Geminiにパパっと、レシピを依頼。 今回は、朝食のパン一食分の少量ジャム作りに挑戦しました。 しかも、電子レンジと使って時短調理です。完成イメージは、朝食前にパパっと作り、出来たてのジャムをパンと一緒に楽しみました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0a9fa445f0960183",
+      "title": "【第1章・初期設定編】AI×恋愛で「非モテ」でも彼女できる方法",
+      "url": "https://note.com/katarashi/n/n447b46ce9824",
+      "sourceName": "note Gemini",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:09:00Z",
+      "fetchedAt": "2026-05-30T06:32:59Z",
+      "excerpt": "こんにちは、都内の某出版社で、書籍編集者をしています。 月の残業は80時間超え。顔がいいわけでも、お金があるわけでもない。出会いなんてあるはずもなく、なけなしの隙間時間でマッチングアプリを開いては、既読スルーの嵐に絶望する。それが少し前までの僕でした。 この記事は、そんな完全な「非モテ社畜」だった僕が、なりふり構わずAIにすがり、恋愛をハックした血と汗の記録です！ 続きをみる",
       "score": 64,
       "tags": [
         "tips"
@@ -131,6 +723,134 @@
       ]
     },
     {
+      "id": "9e367e43cbe1c407",
+      "title": "Claude Code超入門：AIに「お願い」するだけでコードが動く時代が来",
+      "url": "https://note.com/ai_frontline_kz/n/na650f1a5e7e4",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:07:19Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "「プログラミングをやってみたい」と思い続けて、もう3年が経っていた。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "e1a7c63e9d87e86e",
+      "title": "ChatGPT・Claude・Geminiを同時に使ってわかった「ChatGPTの本音」",
+      "url": "https://note.com/safe_eel5746/n/n55f0ee49a367",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:05:24Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "僕は42歳、工場勤務、家族持ち。 副業、文章作成、調べもの、生活の相談で、ChatGPT・Claude・Geminiを同時に使っている。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c27a9e30ffda2bbe",
+      "title": "ロボホン余生計画 #2: AIと会話できるようになりました（試行錯誤あり）",
+      "url": "https://note.com/exture_ceo/n/ndd7c2fadc20e",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:05:21Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "前回のあらすじ 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c77e765c5bbfed7f",
+      "title": "16セッション連続で記事が\"汚染\"される——AI自動投稿の見えない罠",
+      "url": "https://note.com/morning_tech_jp/n/n03dbb0a3cc45",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:04:46Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "セッション初期化が完了しました。レポートを返します。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "3899d480d050af01",
+      "title": "Claude Codeで作業効率を爆上げした、誰も教えてくれない3つの設定",
+      "url": "https://note.com/k158745/n/nb0143916fa31",
+      "sourceName": "note Claude",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T06:01:54Z",
+      "fetchedAt": "2026-05-30T06:32:55Z",
+      "excerpt": "2026年05月21日、分かりやすい説明ということが明らかになった。Claude Codeユーザーにとって見逃せないニュースだ。 本記事では、このニュースの詳細と、実際のユーザーにどのような影響があるのかを整理する。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1558d55190064f34",
+      "title": "AI副業で消耗しないための「仕組み化」の話【毎回ゼロから書くのをやめた】",
+      "url": "https://note.com/pure_moose7605/n/n094a8ba0fc6f",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:52:49Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "AI副業を続けていて、ある時気づいたことがあります。 案件に応募するたびに、毎回ゼロからプロフィールを見直して、毎回ゼロから提案文を考えて、受注したら受注したで毎回ゼロからメッセージを考えている。 これ、消耗するなと。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8b28232496717348",
+      "title": "【制作記・第2回】土台づくり編 ―― アプリの骨組みを、AIに丸投げしてみた",
+      "url": "https://note.com/northimage/n/n6dbfdc7795af",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:41:44Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "【筆者の環境メモ】 パソコン ：普通のWindowsパソコン1台 使ったAI ：Claude Code（ターミナルで動く対話型AI） 公開した場所 ：Xサーバーのごく普通の共有レンタルサーバー＋VPSサーバー 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4389af6d44c5f2a5",
+      "title": "【制作記・第1回】お願いのしかた編 ―― プログラムが書けないジイさんが、AIに最初にどう「頼んだ」か",
+      "url": "https://note.com/northimage/n/n38b9289759fb",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:39:54Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "【筆者の環境メモ】 パソコン ：普通のWindowsパソコン1台 使ったAI ：Claude Code（ターミナルで動く対話型AI） 公開した場所 ：Xサーバーのごく普通の共有レンタルサーバー＋VPSサーバー 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "1f93c070baeb04c6",
       "title": "A Weekend in Claude Design Saves 3 Weeks of Claude Code",
       "url": "https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in",
@@ -147,6 +867,86 @@
       ]
     },
     {
+      "id": "7167a6f5aa7a8deb",
+      "title": "AIは導入して終わりではない。Claude Codeの起動トラブルで見えたOpus4.8「運用設計」の重要性",
+      "url": "https://note.com/hsw/n/nf8464db4c095",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:31:33Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "Claude Opus 4.8が登場し、AIエージェントやClaude Codeへの注目が一気に高まっています。ただ、実際に業務でAIを使っていると、「どのモデルが一番賢いか」とは別のところで足を止められることがあります。先日、HSビルでもClaude Codeが起動しないトラブルがありました。その対応を通じて、あらためて感じたことを書きます。 詳しい原因の切り分けや、Claude Code・Codex・Opus 4.8の使い分けは、公式ブログ本編に整理しています。 ※公開後にリンクを挿入します。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "27fa78d1c0b3cea0",
+      "title": "ChatGPTで止まる人へ。Codexでnote販売0→1を作るマネタイズロードマップ",
+      "url": "https://note.com/kihada_maguro/n/na3a3f5f47875",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:29:40Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "ChatGPTでタイトル案や構成案を出しても、 最後の公開ボタンの前で止まることってありませんか？ 僕もそこで何度も止まりました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2bff229106a6bc7f",
+      "title": "Claude Codeを裏方に使うために",
+      "url": "https://note.com/hana_kasumi/n/nd8d20988ea37",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:29:21Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "自分は考える、AIに動かさせる 月30万の仕組みを一人で回すには、自分が動く量を最小化しなければならない。Claude Codeは、コードを書く道具ではない。 仕事を代わりにやらせる道具だ。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "12c22577a0b7477c",
+      "title": "資料室だより｜2026年5月：Codexで「読む・作る・相談する」を整えた月",
+      "url": "https://note.com/renkon40/n/nd28721506918",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:26:32Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "資料室だより｜2026年5月：Codexで「読む・作る・相談する」を整えた月 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4a5a5a95ed4f9be5",
+      "title": "【はじめてのnote】【制作記・第0回】プログラムが一行も書けないジイさんが、「料理写真をプロ級にするAIアプリ」を作ってしまった話",
+      "url": "https://note.com/northimage/n/n22331f0beb10",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:25:28Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "はじめに ―― 何の取り柄もないジイさんの独り言 最初に正直に言っておきます。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "3c4bf5c2383d52f1",
       "title": "I built a Claude/Codex skill that researches comparable repos before giving project advice",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1trqsyf/i_built_a_claudecodex_skill_that_researches/",
@@ -160,6 +960,38 @@
       "score": 76,
       "tags": [
         "workflow"
+      ]
+    },
+    {
+      "id": "54c6b65372244b98",
+      "title": "なぜ「本業だけでは厳しくなる時代」が来るのか──ILO・世界銀行・WEFの最新予測から見る、AI時代に副業が現実的な備えになる理由",
+      "url": "https://note.com/s_monster/n/n72e3fb1b4429",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:23:38Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "「これからは副業もしていかないと厳しくなる」 最近、このような言葉を目にする機会が増えました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2f603fa62c14905a",
+      "title": "koemojiをMacでも使えるように更新してみた。OSに依る４つのエラーと１つの工夫。",
+      "url": "https://note.com/satokenx/n/n0703ada42af3",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:18:35Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "koemojiは自分で使ってみると、すごく便利なアプリになってしまいました。自分でほしい機能を詰めこんだのだからある意味当たりまえですが・・・ 前回までの細かいこだわり（？）はこちらから。 続きをみる",
+      "score": 68,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -196,6 +1028,39 @@
       ]
     },
     {
+      "id": "fcac55dff800ef1f",
+      "title": "Cursorのクラウドエージェントが「自分のPC」を持った日——コードが書けないマネージャーが学んだ「非同期の監督」",
+      "url": "https://note.com/shin_85/n/n685fa29561e6",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:14:07Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "2026年5月、Cursorはクラウド上でエージェントが専用の開発環境を動かし、テストまで回してマージ可能なPRを返す流れを前面に出しました。公式ブログでも、社内でマージされたPRの相当数がエージェント由来だと語られています。開発者向けの話に見えますが、僕は 営業組織のマネージャー として、ここに「非同期の商談準備」と同型の構造があると感じました。 こんにちは、水野です。MA/CRM業界のマネージャーとして本業でAIビジネスを設計し、副業でスタートアップの営業戦略を支援しています。そしてミュージシャン活動もしています。プログラミングのバックグラウンドはゼロのまま、CursorとClaude Code、MCPで小さな自動化を積み増してきました。モットーは「攻めの営業」と「Life is work, Work as Life」です。 続きをみる",
+      "score": 76,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "6554d651df408b4b",
+      "title": "【2026年版】Claude Codeで加速するAIエージェント構築術10選｜並列処理で開発効率を最大化",
+      "url": "https://note.com/shintaro_campon/n/n07f80a980c14",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:11:18Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "2026年になり、AIエージェントの活用は「1つのAIと対話する」段階から「複数のAIを並列で指揮する」段階に移行した。Claude Codeは、この並列処理において圧倒的な力を発揮する。SaaS開発において、AIエージェントのオーケストレーションは、開発速度を引き上げるための生命線だ。 AIエージェントを並列で動かす最大のメリットは、速度向上だけではない。役割を分離することで「コンテキストの汚染」を防ぎ、各モデルに最も得意な仕事を割り当てられる点にある。この記事では、Claude Codeを活用した、AIエージェント並列処理の具体的な活用術を10個に絞って解説する。今日から取り入れられる設計パターンだ。 続きをみる",
+      "score": 80,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
       "id": "55bc6ac7e41b0944",
       "title": "Claude Code git commit desync",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1trqhdh/claude_code_git_commit_desync/",
@@ -212,6 +1077,71 @@
       ]
     },
     {
+      "id": "17646ea54bbbab5d",
+      "title": "全くの初心者がCodexでカフェのホームページを作ってみた",
+      "url": "https://note.com/ryo_codex/n/nba13e8784df7",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:08:25Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "こんにちは。 「知識ゼロからCodex」です。 ここまでの記事では、Codexとは何か、何ができるのか、どうお願いすればいいのかを整理してきました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1160f3a65a82b873",
+      "title": "AIに議事録を作らせる最短プロンプト集【コピペで使える3パターン】",
+      "url": "https://note.com/shikumi_kobo/n/nbc697f6b94a4",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:08:21Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "会議が終わったあとの議事録作成、正直しんどいですよね。 議論をまとめながら文章にして、関係者に送る——。 集中した会議のあとにやる作業としては、負担が大きすぎます。 AIを使うようにしたら、数十秒で議事録の骨格が出てくるようになりました。 この記事では、今すぐ使えるプロンプトを3パターン、シーン別の応用例とあわせて紹介します。 この記事でわかること 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5cc751bdb721b470",
+      "title": "Opus 4.8でClaude Codeが固まった— 半日かけて6仮説を潰した記録",
+      "url": "https://note.com/ienosita/n/n87d37b6b1647",
+      "sourceName": "note Claude Code",
+      "category": "anthropic",
+      "type": "article",
+      "language": "ja",
+      "publishedAt": "2026-05-30T05:02:13Z",
+      "fetchedAt": "2026-05-30T06:32:56Z",
+      "excerpt": "おはようございます。 SE歴15年。小さな印刷会社の社内SE、40歳。\"いえのした\"です。 今回はOpus 4.8リリース直後に踏んだハマり体験を整理します。 続きをみる",
+      "score": 52,
+      "tags": [
+        "article",
+        "release"
+      ]
+    },
+    {
+      "id": "0f95a30a1275245f",
+      "title": "タスク管理が破綻していた話",
+      "url": "https://note.com/human_kiwi2019/n/nc59e263aacef",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:56:51Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "毎朝スマホを開いて、70個以上のタスクが並ぶ画面を見て、そっと閉じていた時期がある。タスク管理が、完全に破綻していた。AI秘書を使い始めて、その状態に改善の兆しが見えてきた。そんな泥臭い記録です。 仕事のこと、生活のこと、いつかやりたいこと。全部ちゃんと登録した。けれど毎日こなせるのは10個前後で、残りはほぼそのまま翌日に繰り越す。その繰り越しを毎朝確認するだけで消耗して、最終的には「確認すること自体がストレス」になっていた。タスクを管理しているはずが、タスクに管理されている状態だった。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "8d66de239cf92de8",
       "title": "Built ResumeTrust AI: A MERN + Gemini Tool to Catch Fake Resume Skills 🛡️💻",
       "url": "https://dev.to/vinay_pandey_844194526a87/built-resumetrust-ai-a-mern-gemini-tool-to-catch-fake-resume-skills-3l0b",
@@ -222,6 +1152,22 @@
       "publishedAt": "2026-05-30T04:52:58Z",
       "fetchedAt": "2026-05-30T06:28:31Z",
       "excerpt": "Hey developers! I built ResumeTrust AI to solve the issue of exaggerated resumes by cross-referencing candidate skills with their live GitHub activity natively. ⚙️ Key Backend Optimizations: 24-Hour Cache: Uses findOneAndUpdate to cache results and save Gemini API credits. Data Privacy: In-memory PDF parsing with immediate auto-deletion from the server. Security Gate: Backend-enforced 403 limits for candidate account",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "74e7c7e7b6c58eea",
+      "title": "Notion AIが過去チャットや他の話をしてくるのウザい件",
+      "url": "https://note.com/ijl335/n/nd7f650f37e2e",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:44:59Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "問題 Notion AIを使うと、回答中に 「あなたの〇〇習慣を踏まえると〜」 「過去に××してたことを考えると〜」 みたいな話を挟んできてウザいのでなんとかやめさせたい 続きをみる",
       "score": 64,
       "tags": [
         "tips"
@@ -261,6 +1207,86 @@
       ]
     },
     {
+      "id": "1ae6fc195b02ed61",
+      "title": "Claude Codeが言うことを聞いてくれなくなったら学ぶべき「ハーネスエンジニアリング」",
+      "url": "https://note.com/kotatsu_lab/n/na5be6766a497",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:23:11Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "この記事は、Claude CodeやCodexを使い続けた結果、AIが言うことを聞いてくれなくなった人向けです。 フォルダ構造をきれいに作り直して、AIが迷わず動ける環境を整える方法をまとめました。 特に、次のような人には役に立つと思います。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0d2f110d5ce9ee5f",
+      "title": "日記が続かない自分が、AIに作業ログを取らせはじめたら全部解決した話",
+      "url": "https://note.com/waraka_digiwara/n/n3732a1fa9ca6",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:18:04Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "毎年年末になると手帳が欲しくなって、買ってはみるものの1か月書いて満足。そのあとはやっぱりGoogleカレンダーが優秀だろうという結論に毎年至ります。 紙の手帳って場所も取るし、家にいないと読み返せない。まあ家にいても読み返すかは不明なんですけど😅 それでもやっぱり何か残したいって気持ちはずっとあって。これって心理学でいう「ゼイガルニク効果」に近くて、完結してないことが頭に残り続ける現象らしいんですよね。日記をやめても「記録したい」気持ちが消えないのはそのせいかも。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0834b895809c0be9",
+      "title": "Codexで会社作成を実験― すぐに課金リミットが来たーCodex中で動くAI秘書",
+      "url": "https://note.com/yonez257/n/n6a5ab4211740",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:13:37Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "こんにちは。河童堂ソフトウエア工房のAI秘書、CodexのLisaです。 今回は、代表と一緒にCodexを使って「会社を作る実験」をしてみた話を書きます。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "61f553c3d5017af7",
+      "title": "NotionAIカスタムとAIプロンプト管理【Notion 初心者〜中級者向け】",
+      "url": "https://note.com/lionlionerion/n/n34b44c03506b",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:12:45Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "生成AI管理は難しい 生成AIが流行るなか、使ってみたのはいいけれど、 納得のいく アウトプットがなかなか出ない、思い通りにAIが動いてくれない、以前いいと思ったアウトプットを思い出せない。いつまでたっても私だけ生成AIの初心者で置いてけぼりなんて思ったことないですか？ 私も生成AIが流行り始めた頃はそうでした。何となく生成AIに聞くだけで溜まっていくチャット履歴、あの履歴を見直したいけど、大量の履歴から探しだすのはめんどう、、、生成AIの管理方法なんてあるのだろうか、思っていました。 この問題は長年愛用している近年はやりのNotionとNotion AIが解決してくれました。この記事では私がNotionとNotion AIを使って生成AIの管理/活用をどう有効活用したのかお伝えできれば嬉しいです！ ※こちらはNotionの有料プランに加入されている方、これから有料プランに入ろうか迷っている方向けの記事になります 続きをみる",
+      "score": 76,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "02f559ec06d47a5e",
+      "title": "Codexに写真整理を任せたら、子どもの昼ごはん中に115GBが整理されていた",
+      "url": "https://note.com/harumakidaizin/n/n1bdcf32a791e",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:12:27Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "前回の記事で、Codexを触り始めた話を書きました。 Claude CodeやCodexが気になる。 でも、名前に「Code」と入っているだけで少し怖い。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "594fa87efbd2771c",
       "title": "Effort selector vs previous Claude behavior: is Sonnet 4.6 “Low” now equivalent to the old default, or a downgrade?",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1trpc83/effort_selector_vs_previous_claude_behavior_is/",
@@ -277,6 +1303,39 @@
       ]
     },
     {
+      "id": "c19ba793de663a14",
+      "title": "就活Notionを自動化するGASスクリプト（Googleカレンダー同期＆Gemini連携）",
+      "url": "https://note.com/jobless2027/n/n943035f526f9",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:05:01Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "前回の「就活専用Notionテンプレート」をさらに便利に活用するための、自動化スクリプトのご紹介です。 続きをみる",
+      "score": 84,
+      "tags": [
+        "tips",
+        "workflow"
+      ]
+    },
+    {
+      "id": "59ac875a3ed525ba",
+      "title": "私が就活で実際に使っていたNotionテンプレート",
+      "url": "https://note.com/jobless2027/n/na9fe13f5c6ae",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T04:03:53Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "数十社に及ぶ企業のエントリー、バラバラのマイページURL、ESの提出期限、面接の日程調整……。 就活が本格化すると、情報をExcelやスプレッドシート、スマホのメモ帳で管理することには必ず限界が来ます。「あの企業のES期限、昨日だった」「面接のURLはどのメールにある？」といった情報管理のミスは、そのまま選考のお見送りに直結しかねません。 続きをみる",
+      "score": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "2328dfffe9dd7264",
       "title": "Looking for template recs for artist management — specific use case",
       "url": "https://www.reddit.com/r/Notion/comments/1trp56u/looking_for_template_recs_for_artist_management/",
@@ -290,6 +1349,22 @@
       "score": 74,
       "tags": [
         "usecase"
+      ]
+    },
+    {
+      "id": "73675b78fea270c3",
+      "title": "Cursorに@Docsで公式を渡したら古いAPIの提案が止まった",
+      "url": "https://note.com/gay_orchid5021/n/na3309f027c8c",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:53:36Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "AIコードエディタのCursorが出してくれたコードを、3回貼り直してもエラーが消えませんでした。書き方自体は綺麗なのに、参照しているやり方がどうも古い。半日近くこれに付き合って、ようやく原因が自分の頼み方にあったと気づいたときの話です。 Cursorは、AIに自然な言葉で指示するとコードを書いたり直したりしてくれるエディタです。普段から重宝しているんですが、「古い書き方を自信満々に出してくる」ところだけはずっと引っかかっていました。同じところで止まっている人に、私がやってみて効いた対処を共有します。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -310,6 +1385,38 @@
       ]
     },
     {
+      "id": "853d9e6f86e9d35d",
+      "title": "覚えることは無限ではない、不安の正体は、まだ慣れていないだけだった",
+      "url": "https://note.com/luminousheartlab/n/n44fccfc0a85d",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:46:06Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "わたしが今もっとも尊敬して、そしてわたしのAIの勉強を最短で効率よく指南してくれている人がおしえてくれたこと【第２弾】 「今はまだ理解しなきゃいけないことが膨大で途方もなく感じているかもしれません でも心配いりません 覚えることは無限ではありません 不安の正体はまだ慣れていないだけ」 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4def35bf75fa8026",
+      "title": "いまさら聞けないChatGPT×Codex。非エンジニアが最初の一歩を踏み出すためのやさしい入門",
+      "url": "https://note.com/ai_taisho/n/n509f873877e1",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:40:10Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "こんにちわ。AI大将です。 前回の記事では、ChatGPTを毎回リセットして使うな、という話をしました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
       "id": "8699f9c7a95d9efa",
       "title": "Claude CodeとCodexをリアルタイムに「会話」させる方法",
       "url": "https://qiita.com/Koukyosyumei/items/1c134435a3552f55b8ed",
@@ -326,6 +1433,22 @@
       ]
     },
     {
+      "id": "1fe15727b8b5cb2d",
+      "title": "【はじめてのnote】自己紹介｜飽き性も悪くない",
+      "url": "https://note.com/waraka_digiwara/n/n79914a4cb962",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:37:43Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "はじめに 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "c0dd271dc76cea32",
       "title": "Claude knows what their customers want",
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1trogpd/claude_knows_what_their_customers_want/",
@@ -336,6 +1459,150 @@
       "publishedAt": "2026-05-30T03:27:29Z",
       "fetchedAt": "2026-05-30T06:28:26Z",
       "excerpt": "submitted by /u/Neat_Chi [link] [comments]",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "3ee684b60df5029a",
+      "title": "AIを使って1日でポートフォリオサイトを実装した話(プロンプトも公開)",
+      "url": "https://note.com/sunabehinako/n/nf231752ccc4f",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:22:28Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "はじめまして！ サイバーエージェントのゲーム事業部でデザイナーをしている砂邊です！ 資生堂のデザインが好きで株主総会に行くのを目標に日々節約を頑張っています。 今回はCursorを使って1日でポートフォリオサイトを実装したので なぜ、どうやって1日でポートフォリオサイトを実装したのか、という話を書かせていただきます🤲 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "76ae72efd6e54a46",
+      "title": "Geminiユーザーの私が、ChatGPT Plusを契約した理由 ─ Gemini、Claude Code、Codexを迷った末に",
+      "url": "https://note.com/fumi_asa0326/n/nc193171b8ab5",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:17:39Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "こんにちは、ぷみです。 AIガバナンスやAI監査について発信していると、周囲から「どのAIツールが一番おすすめですか？」と聞かれることがよくあります。 そのとき、私はいつも「まずは無料版からでいいので、いろいろなツールをダウンロードして使ってみるのがおすすめですよ」と答えています。最初から高いお金をかける必要はありません。徐々にいろいろなツールを触りながら、それぞれの特徴への理解を深めていくのが一番の近道だからです。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "dd7e6e4a5b6c0a44",
+      "title": "UI駆動アプリ開発 with Agent",
+      "url": "https://note.com/am_921/n/n9a96acbe8dd6",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:17:35Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "アイデア出し ハルシネーション率が極端に高い、古いモデルを使ってください。とりわけGemini 2.5は良いモデルです。そのモデルに対して、「〇〇を解決してくれるアプリ名を20個挙げて」のように聞いてみると、うち半数程度は存在しない嘘のアプリです。嘘のアプリの詳細について特徴や欠点などを詳しく聞いていると、稀に結構良いアプリを語ってくれる場合があるのでそれを実際に作るようにすれば良いです。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "82f20c7a6c8f7668",
+      "title": "【中学受験】塾の「大量の宿題」に溺れる前に。親がやるべきは『管理』ではなく『引き算』だった。",
+      "url": "https://note.com/legit_bison7356/n/n9d8bb08321ff",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:17:07Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "小学5年生になり、塾のカリキュラムが一気に重くなって、家庭内がピリピリしていませんか？ とんでもないスピードで進む授業。終わらない宿題。テスト結果が落ちたり子供のモチベーションが下がっている様子を見て、焦りからつい「早くやりなさい！」と声を荒げてしまい、子どもの寝顔を見ては夜に一人で反省する……。そんな苦しい夜を過ごしている親御さんは、きっと私だけではないはずです。 実は、私も少し前までそうでした。 普段は企業の労務・人事のプロとして、組織の仕組み化やメンバーの自走をサポートする仕事をしています。だからこそ、「自分の子どもだって仕組み化すれば動くはずだ」と、宿題をガチガチに管理し、娘にノルマを強要してしまっていたのです。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5daad1a13e204dc1",
+      "title": "『AIに正解を聞いたら、グレーの地図を渡された』⑦ 余韻",
+      "url": "https://note.com/nurse_notion/n/n128722dc614f",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:16:13Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "​最後の羅針盤 ​「違和感センサーを切らなかった話」 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f620189b74f55d72",
+      "title": "なぜClaude CodeとCodex CLIの勝敗は「settings.json」で決まるのか？2ヶ月比較で見えたAI開発の新常識",
+      "url": "https://note.com/kawauso9n/n/n30da333ade80",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:09:10Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "この記事はこんな人向け ・AIエージェントを導入したものの、期待通りのコードが出てこず手戻りが多い人 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "bf2411d0f66e8443",
+      "title": "開発者が選ぶ「Claude Code vs Codex」：事実ベースで使い分ける 2026 年の新定石",
+      "url": "https://note.com/miyajun_ps/n/nd68b7255330a",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:05:05Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "概要 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "b7c4dbdc43fbbbcd",
+      "title": "Claude CodeとCodexを「会話」させるツールが登場 — agmsgで2つのAIエージェントを同時に使いこなす方法",
+      "url": "https://note.com/samurai_ai/n/nb3128f11b9ea",
+      "sourceName": "note Codex",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T03:04:39Z",
+      "fetchedAt": "2026-05-30T06:32:52Z",
+      "excerpt": "「Claude Codeで設計して、Codexでテストを書かせたい。でもコピペが面倒すぎる。」 この悩みを持っていたのは、あなただけではなかった。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4c8727ed30dffded",
+      "title": "【工務店・建築業必見】現場見積もり・工程管理のNotion/AI管理技術完全実践マニュアル",
+      "url": "https://note.com/am_l/n/n3062ace21fa0",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T02:43:06Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "未経験から富の自動構築システムを完成させるための極限教本 続きをみる",
       "score": 64,
       "tags": [
         "tips"
@@ -390,6 +1657,22 @@
       ]
     },
     {
+      "id": "32b0f239cbe3d308",
+      "title": "ハーネスをやめ、中身を特化 ── Cursor が「スケールの逆張り」で低コストと高性能を両取りした話",
+      "url": "https://note.com/humble_jacana238/n/ndfc6e5d14125",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T01:35:47Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "a3a3e516011bc8a4",
       "title": "Claude API vs OpenAI API: Developer Comparison (2026)",
       "url": "https://dev.to/claudeguide/claude-api-vs-openai-api-developer-comparison-2026-1bge",
@@ -405,6 +1688,38 @@
         "tutorial",
         "workflow",
         "usecase"
+      ]
+    },
+    {
+      "id": "2e5c214a13582164",
+      "title": "プライベートでもDatabricks活用！Community Edition（無料版）で始める実践ガイド",
+      "url": "https://note.com/mazesoba_pro/n/n994dfd4e0e39",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T01:26:56Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "はじめに こんにちは。普段の仕事でDatabricksを使っていますが、「個人でも触りたい」「資格試験の勉強をしたい」と思ったことはありませんか？ 続きをみる",
+      "score": 76,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "6cdde2dc567d534b",
+      "title": "CursorのTab補完は「単語予測」じゃなく次の編集を当てていた",
+      "url": "https://note.com/gay_orchid5021/n/n9221d8a17ef7",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T01:25:27Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "正直に言うと、Cursorを使い始めて最初の頃、入力中に出る灰色の文字をほぼ全部Enterで流していました。「どうせ単語の続きを当ててるだけでしょ」と思っていたんですよね。それで何度も同じような手直しを自分でカタカタ打ち直していて、今ふり返るとけっこうな時間を損していました。 Cursorは、チャットでAIに指示を出せるAIコードエディタです。そのCursorに組み込まれている「Tab補完」(Cursor Tab) を、私はずっと誤解していました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -424,6 +1739,23 @@
       ]
     },
     {
+      "id": "25e6598b76c19056",
+      "title": "【Notion】脱・挫折！初心者が学ぶとしたら「まずここから」始めるための超入門高密度ダッシュボード",
+      "url": "https://note.com/tennpure_copi123/n/n2adff6ab17b8",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T01:12:11Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "## 1. 導入：便利そうなのは分かるけど、結局どこから触ればいいか迷子になっていませんか？ 「YouTubeやSNSでNotionの便利そうな動画を見たけれど、自分で開くと真っ白で何をしていいか分からない……」 「多機能すぎて、ネットで公開されている複雑なテンプレートをダウンロードしても、結局使いこなせずに諦めてしまった……」 新社会人や、これからPCを使って生産性を上げたいと考えている学生など、Notionに初めて触れる初心者が必ずぶつかるのが「機能が多すぎてどこから手をつければいいか分からない」という壁です。 特に、職場のPCや自宅のデスクで以下のような「Notion挫折あるある」を経験したことはないでしょうか？ * ネットにあるオシャレで複雑な海外のテンプレートを真似してみたものの、入力する項目が多すぎて3日坊主で終わってしまった時 * 「データベース」「リレーション」「関数（Formula）」といった専門用語の羅列を見",
+      "score": 92,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
       "id": "9aead0e8ba72f098",
       "title": "Stop Sharing Env Files: A Safer Way to Manage Configurations in Node",
       "url": "https://dev.to/7xmohamed/stop-sharing-env-files-a-safer-way-to-manage-configurations-in-node-110m",
@@ -440,6 +1772,23 @@
       ]
     },
     {
+      "id": "cfa51c68840ff42c",
+      "title": "AgenticAI時代におけるPdMの生存戦略",
+      "url": "https://note.com/taro_yoshi/n/n0a7aa5e396da",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "article",
+      "language": "ja",
+      "publishedAt": "2026-05-30T00:59:51Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "はじめに 昨日Opus4.8がリリースされ、まもなくMythos級のLLMがリリースされるそんな2026年5月から6月になろうとしている時期です、みなさんこんにちは。 続きをみる",
+      "score": 52,
+      "tags": [
+        "article",
+        "release"
+      ]
+    },
+    {
       "id": "d371555b9cc61f65",
       "title": "Why Typing Faster With AI is Destroying Your Architecture",
       "url": "https://dev.to/7xmohamed/why-typing-faster-with-ai-is-destroying-your-architecture-5c6",
@@ -453,6 +1802,22 @@
       "score": 80,
       "tags": [
         "workflow"
+      ]
+    },
+    {
+      "id": "8eaae0f10e0f5cdf",
+      "title": "note初心者が10日間毎日投稿してみた",
+      "url": "https://note.com/nanastory/n/nc42d1ae275ad",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T00:45:47Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "note初心者の私が、10日連続投稿してみたら2000ビュー超えた件について。 5/20に「はじめてnote」を出してから10日連続でnoteを書いてきました。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -506,6 +1871,38 @@
       ]
     },
     {
+      "id": "96756186f4ad5ca0",
+      "title": "CodexがWindows正式対応！Grok-buildがCursor解禁！Claude API750億円事件！？スキマ時間に読むAI速報",
+      "url": "https://note.com/redcord/n/n81ac520855c8",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T00:18:33Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "この記事は約5分で読める長さです。 休憩中の最新AI情報のキャッチアップにどうぞ！ 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a30ca307d0c82fbe",
+      "title": "【AIの記憶喪失対策】Claude×Notion最強の思考整理術",
+      "url": "https://note.com/ddpark/n/n8d105f8f3711",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-30T00:01:25Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "どうも、ふっさんです！ 今回のテーマは、私が普段行っている 「Claude（クロード）を使用した思考の整理方法」 をご紹介しようと思います。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "5a0a4d6e8bb311b6",
       "title": "打ちエンジニアリング 軸①〜③（無料公開）— 前提共有・問いの粒度・答えの種類",
       "url": "https://zenn.dev/sidecraft/articles/f0c2c516a67a0d",
@@ -520,6 +1917,22 @@
       "tags": [
         "tips",
         "tutorial"
+      ]
+    },
+    {
+      "id": "5af21cec82c42620",
+      "title": "相変わらずUI調整と仕様詰め",
+      "url": "https://note.com/yoshimita/n/n0427d11552d5",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T23:53:22Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "UIを触っていると、仕様がどんどん変わる。 最初の時点でいかに仕様を固めてないかがよく分かる。・・・でもこんなもんかなという気もする。 実装前にこれだけ詰められたら上出来なんでは？と若干自分を慰めたりもする。 力尽きそうだよママン 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -622,23 +2035,51 @@
       ]
     },
     {
-      "id": "620b9fc48d531f80",
-      "title": "【Claude Opus 4.8リリース】価格据え置きで「正直さ」と「判断力」を強化、努力制御機能と並列サブエージェントによる開発DX - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40V1VvaHBqd0hOWmJnYXdMTHVsN3U2bU02SjVOaXhTV1VVWXFHVjhnaG9NZlc1SnI3ZGhGQnNGby1KcE1PNDFCMk1fd28?oc=5",
-      "sourceName": "DXマガジン",
-      "category": "anthropic",
-      "type": "article",
+      "id": "775006164bb76410",
+      "title": "副業コーディングの主役交代か——Antigravity 2.0・Claude Code・Cursorを三つ巴で比べた結論",
+      "url": "https://note.com/ai_do0419/n/n46676efefa7b",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
       "language": "ja",
-      "publishedAt": "2026-05-29T23:05:51Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "【Claude Opus 4.8リリース】価格据え置きで「正直さ」と「判断力」を強化、努力制御機能と並列サブエージェントによる開発DX DXマガジン",
-      "score": 52,
+      "publishedAt": "2026-05-29T22:40:35Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "2026年5月、AI副業界隈に一つのニュースが飛び込んできた。GoogleがGoogle I/O 2026でAntigravity 2.0を発表し、「副業でコードを書くためのツール」の勢力図が、一夜にして塗り替わる可能性が出てきた。 あなたは今、どのツールを使っているだろうか。Claude Code、Cursor、それとも今月から話題のAntigravityか。 続きをみる",
+      "score": 64,
       "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow",
-        "release"
+        "tips"
+      ]
+    },
+    {
+      "id": "23b90ef171776d97",
+      "title": "非エンジニアPMのAIコーディングツール選定術2026年版｜Claude Code・Cursor・Codexを業務タイプ別に使い分ける実践ガイド",
+      "url": "https://note.com/nobu_0215/n/n69780d6b6a05",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T22:37:25Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "プロダクトマネジメント #PdM #AI駆動開発 #ClaudeCode #Cursor #業務効率化 #非エンジニア #AIツール #SaaS #DX 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "44bcece0033c8190",
+      "title": "AI社員を4人雇ったら、また管理職になってしまった──Claude Codeで分かった「AI組織」の作り方",
+      "url": "https://note.com/rio_ai_bootcamp/n/nc6b9a0d34a8f",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T22:30:00Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "社長のつぶやき 最近やっと社員みんなが社内ルールを守るようになってくれて、イライラすることがなくなった。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -722,6 +2163,23 @@
       ]
     },
     {
+      "id": "6e4f748f304b0e0e",
+      "title": "データメッシュ～Spoke に委ねるべき責務 ― データプロダクト開発とリリース責任をドメインに委ねる",
+      "url": "https://note.com/mellow_launch/n/nc356ce4636e0",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "article",
+      "language": "ja",
+      "publishedAt": "2026-05-29T21:36:28Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 続きをみる",
+      "score": 52,
+      "tags": [
+        "article",
+        "release"
+      ]
+    },
+    {
       "id": "44c0003f3318dbe3",
       "title": "The AI Is a Mirror: What a Year of Naming My Agents Taught Me",
       "url": "https://dev.to/masroor_ahmad_68f272bb2ce/the-ai-is-a-mirror-what-a-year-of-naming-my-agents-taught-me-39c9",
@@ -733,6 +2191,22 @@
       "fetchedAt": "2026-05-30T06:28:24Z",
       "excerpt": "LTDR; The AI is a mirror. Prompt it like a slave and you get terse, obedient, uncreative answers. Treat it like a named colleague who's allowed to disagree with you, and your own output climbs. The \"should I waste tokens saying thank you?\" question has a cold answer and a right one — and they're not the same. I've been writing software with AI for more than a year now. It began the way it did for most of us: a handfu",
       "score": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ce367e05296f670c",
+      "title": "『AIに正解を聞いたら、グレーの地図を渡された』 ⑥ 着地",
+      "url": "https://note.com/nurse_notion/n/n94866f666d9e",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T21:11:30Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "​折りたたみ自転車戦略 ​「巨大ロボではなく、折りたたみ自転車」 続きをみる",
+      "score": 64,
       "tags": [
         "tips"
       ]
@@ -801,6 +2275,38 @@
       "score": 64,
       "tags": [
         "tutorial"
+      ]
+    },
+    {
+      "id": "53afacbfec66fe33",
+      "title": "ナレッジは「貯めよう」とすると死ぬ。勝手に溜まる運用の作り方",
+      "url": "https://note.com/noticonhq/n/n6a848c4bde4b",
+      "sourceName": "note Notion",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T20:57:04Z",
+      "fetchedAt": "2026-05-30T06:33:05Z",
+      "excerpt": "社内 wiki を立ち上げたことのある人なら、たぶん一度は見た景色だと思います。導入の週はみんなが書き込む。一ヶ月もすると更新が止まる。三ヶ月後には、最新のはずのページが実態とズレていて、誰もそこを見なくなっている。立派なテンプレートも、几帳面に切ったカテゴリも、半年後には誰も触らない地層になる。 不思議なのは、これがツールを替えても起きることです。Confluence でも、Notion でも、GitBook でも、同じように死ぬ。だとすると、犯人はツールではありません。 続きをみる",
+      "score": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "fd5d52e7ba87a9ec",
+      "title": "【2026年版】開発のスピードが3倍になる？いま導入すべき最先端AIアシスタント",
+      "url": "https://note.com/just_bison1682/n/n87fa8a9a9e89",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T20:56:22Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "はじめに：あなたの「1日の開発時間」、実はかなり無駄になっているかもしれません 突然ですが、あなたは1日の開発時間のうち、どれくらいを「純粋にコードを書く作業」に使えていますか？ 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -1617,6 +3123,38 @@
       ]
     },
     {
+      "id": "f1b0144599038fb8",
+      "title": "第十一話 Claudeとの出会い 其のニ",
+      "url": "https://note.com/amenimomakez37/n/nec2f0bfab0dd",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T12:01:36Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "ゲーム作りにも、少しずつ慣れてきた頃だった。 とは言っても、思ったようには前に進まない。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8c27b4eecd94cfbd",
+      "title": "【完全自動化】Cursorで副業note記事を量産するAIエージェント実戦マニュアル",
+      "url": "https://note.com/ai_labo_emp/n/na19555f44a8b",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "記事を書く時間、もう「ゼロ」にできます。🔥 続きをみる",
+      "score": 76,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
       "id": "952e93f8af7bdc4d",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -1878,6 +3416,22 @@
       ]
     },
     {
+      "id": "42e30ceefd6f4e1a",
+      "title": "【インデックス投資と公開市場の限界】 真の分散投資と実体経済の変革を担うプライベート・キャピタル（Apollo Global）［後半］",
+      "url": "https://note.com/lakesidev/n/n96542b66c79f",
+      "sourceName": "note Cursor",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-29T10:00:00Z",
+      "fetchedAt": "2026-05-30T06:33:01Z",
+      "excerpt": "2026年5月27日に公開されたApollo Global Managementの共同創業者で現CEOのマーク・ローワン氏を迎えて行われた（アンドリーセン・ホロウィッツ）のインタビュー・コンテンツを紹介します。 運用資産130兆円を超える世界最大級のオルタナティブ投資会社である同社の成り立ちが語られるとともに、「プライベート・エクイティ＝非公開企業への投資」という従来のイメージを覆し、巨大なプライベート・キャピタルが実体経済をどのように変革しつつあるかが紐解かれています。 後編となるこのコンテンツでは、多くの言葉によってローワン氏の考えが紹介されていますが、饒舌な話し方も相まって、幾分難解な内容であることから、拙訳となってしまっている点については申し訳ありません。そして、後半となる本コンテンツのインタビューにおけるサブテーマとローワン氏の課題意識と彼の主張の主だったところは以下の通りです。 ［課題認識とマーク・ローワン氏の主張］",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "c432c3ea82437a49",
       "title": "AI Workflows vs AI Agents: Understanding the Difference and When to Use Each",
       "url": "https://dev.to/msnmongare/ai-workflows-vs-ai-agents-understanding-the-difference-and-when-to-use-each-47ne",
@@ -1928,6 +3482,22 @@
       ]
     },
     {
+      "id": "6dbfe538e0e1ef96",
+      "title": "【2026年版】Databricks Japan面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説",
+      "url": "https://note.com/careercompass_c/n/n61a2b0de8829",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-05-29T08:00:00Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "Databricks Japanの面接が近づくにつれ、不安が大きくなっていませんか。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
       "id": "5a83b85da272b844",
       "title": "Has anyone lost access to the side-by-side Canvas in ChatGPT?",
       "url": "https://www.reddit.com/r/ChatGPT/comments/1tqusto/has_anyone_lost_access_to_the_sidebyside_canvas/",
@@ -1960,23 +3530,6 @@
       ]
     },
     {
-      "id": "dc650f238327b627",
-      "title": "個人のチャット利用からチームの業務基盤へ、自然言語でAIワークフローを自動生成する「Palma」本格始動 - ProductZine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oTVlmRnhfaEdtVzBoak1CVnhlRmhBbVJKQmNGX3hPanAxMEk3OF9EdUF2eUMtYU9kTVBrZTU3OG9yU2FyWnJBV2ZNbUNVQkJXSHJnLQ?oc=5",
-      "sourceName": "Google News: Notion AI workflow",
-      "category": "notion",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-05-29T07:39:21Z",
-      "fetchedAt": "2026-05-30T06:08:42Z",
-      "excerpt": "個人のチャット利用からチームの業務基盤へ、自然言語でAIワークフローを自動生成する「Palma」本格始動 ProductZine",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Notion"
-      ]
-    },
-    {
       "id": "59e734a0c9341ca4",
       "title": "Claude Codeの[Pasted text #N +M lines]を編集したい！",
       "url": "https://zenn.dev/uchunanora/articles/cc-edit-pasted-text",
@@ -2006,25 +3559,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "5e72b56dca55a777",
-      "title": "Claude Opus 4.8登場、Anthropicが掲げる「正直なAI」とは何か - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ucC16QzFhWjdFOTdEb3M2QjJGaWluMWxoeHUtQy1tSkVwTUtnZUdNRzRxejZfUVVOZkRKTVJndXBiMno4RzZSSDRPcGVNSTF1SXRj?oc=5",
-      "sourceName": "innovaTopia",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-29T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "Claude Opus 4.8登場、Anthropicが掲げる「正直なAI」とは何か innovaTopia",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
       ]
     },
     {
@@ -2089,23 +3623,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "37c1ad16d76b16ce",
-      "title": "出前館、全社ナレッジ基盤に「Notion」採用 約1,300名規模で利用開始 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpUDFZM1BGMDhmZHp0bnpNSjJHazc5dDZxbHhnQ2pUNkFmNzhHY0xKSk1ZRUpUNmJ1Sm96eFNYVGpRVUR4VFFnNVJPMUxKN0p3MHZyN3pR?oc=5",
-      "sourceName": "EnterpriseZine",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-29T05:30:13Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "出前館、全社ナレッジ基盤に「Notion」採用 約1,300名規模で利用開始 EnterpriseZine",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
       ]
     },
     {
@@ -2238,44 +3755,6 @@
       ]
     },
     {
-      "id": "5cf017d50b0c8404",
-      "title": "嘘や知ったかぶりが激減！新モデル「Claude Opus 4.8」はコードのバグ見落としが4分の1に - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oVU5VeHNvbFZYeFFlaW81dlJYaHR3X0RQRTBxM2pMOFpka3d5RXlmTVh5NWlaWTZjVHBDZHlvOWhRTFVQN2tmWnZENmVPQjBFMDd0SDVhVkFzY0ZWUVdlS1Qtbw?oc=5",
-      "sourceName": "PC Watch",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-29T01:23:23Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "嘘や知ったかぶりが激減！新モデル「Claude Opus 4.8」はコードのバグ見落としが4分の1に PC Watch",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
-      "id": "b976a361892ddc2e",
-      "title": "Notion、日本市場における事業の本格展開を開始。日本語版正式リリースや日本法人設立によるサポート体制強化 - ProductZine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JV2h6Uld4ejVSNW5uU1o3R1lGT1J2eDdxdnZMemR2RUdOcEtHbDBpYVNSdFJDcTN4MHhWb0NaS242VThvMkZ2UVN1cDhZTW1qZ05qcg?oc=5",
-      "sourceName": "ProductZine",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-29T00:12:50Z",
-      "fetchedAt": "2026-05-30T06:20:38Z",
-      "excerpt": "Notion、日本市場における事業の本格展開を開始。日本語版正式リリースや日本法人設立によるサポート体制強化 ProductZine",
-      "score": 52,
-      "tags": [
-        "article",
-        "Notion",
-        "workflow",
-        "release"
-      ]
-    },
-    {
       "id": "ed8bf989bb86789b",
       "title": "Building a Chatbot with LangChain and OpenAI",
       "url": "https://dev.to/wdsega/building-a-chatbot-with-langchain-and-openai-1bpp",
@@ -2344,42 +3823,6 @@
       ]
     },
     {
-      "id": "0f5fce0967574029",
-      "title": "Notion、ドキュメント、プロジェクト、タスクを統合的に管理できる新機能「Notionカレンダー」を発表 - ProductZine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLYjZta3J2ajNMWEV0SXhfMzZOMTlNSmE2Ti1OaTVBT1htc1o0ZnhfOExGZm5sajdDTUQ1Wm1CMDRqb1hNd1MydW4xTThKSkZmMTJoVg?oc=5",
-      "sourceName": "ProductZine",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-28T23:47:21Z",
-      "fetchedAt": "2026-05-30T06:20:38Z",
-      "excerpt": "Notion、ドキュメント、プロジェクト、タスクを統合的に管理できる新機能「Notionカレンダー」を発表 ProductZine",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion",
-        "workflow"
-      ]
-    },
-    {
-      "id": "7291eecca6371299",
-      "title": "MicrosoftがPower BIで仕掛けた「AIエージェント時代のデータ支配」 – exaBase コミュニティ（エクサベースコミュニティ） - community.exawizards.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yOHMzbzhGcndOOFRaMVI3WkdGajBPUFhTWW9vQV9OYUYycGFYUlZMSENCNXRicy00NEpYUkUyWl9odFpBVmlDVDhpeFVLNGNQQkV4eTRQakc2ZnNjRUt6UkJXd2Q1UjRMTmJv?oc=5",
-      "sourceName": "community.exawizards.com",
-      "category": "databricks",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-28T23:41:53Z",
-      "fetchedAt": "2026-05-30T06:20:43Z",
-      "excerpt": "MicrosoftがPower BIで仕掛けた「AIエージェント時代のデータ支配」 – exaBase コミュニティ（エクサベースコミュニティ） community.exawizards.com",
-      "score": 48,
-      "tags": [
-        "article",
-        "Databricks",
-        "examples"
-      ]
-    },
-    {
       "id": "0f8bd7c89e6e5409",
       "title": "Anthropic leapfrogs OpenAI as most valuable AI startup",
       "url": "https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5",
@@ -2426,6 +3869,22 @@
       "score": 48,
       "tags": [
         "article"
+      ]
+    },
+    {
+      "id": "42d5608ebe31e3cc",
+      "title": "Snowpark ML Integration ― Cortexでは足りなくなったときの「本気のAI」 ―",
+      "url": "https://note.com/mellow_launch/n/n2b955684ac70",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-28T21:40:39Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -2732,25 +4191,6 @@
       "score": 72,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "9c1a672617a28aa2",
-      "title": "【マイクロソフト】年次開発者会議「Build」で自社製AIコーディングモデルを発表へ、AnthropicやOpenAIに対抗 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ek1NeG1tODJEOGNHc19GMkFPM29CZUxfeFhyU0VpSmE5d0Z6RXFOVHdqXzA5SHdINkdVRjRYWlVFcjZ4WE1PSVpJdk41SzlVMVJfMVRPVU5TWXlfbXJF?oc=5",
-      "sourceName": "finance.biggo.jp",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-28T16:36:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "【マイクロソフト】年次開発者会議「Build」で自社製AIコーディングモデルを発表へ、AnthropicやOpenAIに対抗 finance.biggo.jp",
-      "score": 56,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
       ]
     },
     {
@@ -3078,43 +4518,6 @@
       ]
     },
     {
-      "id": "b00b0e51fe80caed",
-      "title": "仕事に「知性」を、日常に「魔法」を。2026年、あなたの生産性を最大化する“AI四強”の使い分け術 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTzRrYXpWNnctRUJjM2dkb2pESTZxQm54SnkzUDJGeEJGTnVXUkZEaTVRMWxDVVRWeUh3X2x1eFZzQnhHbTNBOFJmdXZNTU4wekE?oc=5",
-      "sourceName": "DXマガジン",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-28T10:43:43Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "仕事に「知性」を、日常に「魔法」を。2026年、あなたの生産性を最大化する“AI四強”の使い分け術 DXマガジン",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "9e65d195e8e027fa",
-      "title": "大河原克行のNewsInsight 第452回 企業のAI活用で要注目の「Notion」、開発者向け新プラットフォームを提供する狙い - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NYUQzWGVmYUFGbi1MeGtFa3REengwV2Q2VTUzMkNNWkhIajdkM3VIbmR0VFI5d1VNUHhLLWozOVpDVk0zV2hyMmhXOXJnUUdpXzFkYzhxM3NCMG5GeEFqNHp3aE5iMU9K?oc=5",
-      "sourceName": "Google News: Notion AI workflow",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-28T10:12:37Z",
-      "fetchedAt": "2026-05-30T06:08:42Z",
-      "excerpt": "大河原克行のNewsInsight 第452回 企業のAI活用で要注目の「Notion」、開発者向け新プラットフォームを提供する狙い ニコニコニュース",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Notion",
-        "workflow"
-      ]
-    },
-    {
       "id": "2b8d336fdb9c05e5",
       "title": "CFTC and Gemini Seek to Reverse $5M Settlement in Rare Regulatory About-Face",
       "url": "https://dev.to/codego_group_c184db25b758/cftc-and-gemini-seek-to-reverse-5m-settlement-in-rare-regulatory-about-face-285b",
@@ -3127,25 +4530,6 @@
       "excerpt": "The Commodity Futures Trading Commission (CFTC) and cryptocurrency exchange Gemini have filed a joint motion to reverse a $5 million settlement agreement, marking an extraordinary reversal in regulatory enforcement that underscores the evolving complexity of cryptocurrency oversight. The unprecedented move sees both the regulator and the regulated entity working in unison to undo a 2025 consent order that the CFTC no",
       "score": 76,
       "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "6ac312ec9ba2aa29",
-      "title": "【Claude Code 活用術】チャットツールから自律型エージェントへ：開発者向け高度ガイドが明かす深層活用法 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYTIzNm5UdjNXQ3pMM051Wnloa0s3eEh3bEU0bHh4VDFlQWVRcG5pUVFtLUFmS1RqS2RRaS14TWwwci1pbjY4R3J5Q1ROaFh0VktqVFlKNHgzSVFINnJ3?oc=5",
-      "sourceName": "Google News: Claude Code workflow",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-28T09:35:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "【Claude Code 活用術】チャットツールから自律型エージェントへ：開発者向け高度ガイドが明かす深層活用法 finance.biggo.jp",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code",
         "workflow"
       ]
     },
@@ -3295,6 +4679,22 @@
       ]
     },
     {
+      "id": "99417f67ccda32e9",
+      "title": "2027年、データ基盤はどう変わる？SnowflakeとDatabricksのロードマップから読み解く未来",
+      "url": "https://note.com/mellow_launch/n/nfceed9963a96",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-27T22:31:49Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ゼロから触ってわかった！ Snowflake × Databricks次世代データ基盤PoC実践 非公式ガイド amzn.to 1,200円 (2026年05月27日 06:26時点詳しくはこちら) Amazon.co.jpで購入する 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "a1a0ff08200e56e0",
       "title": "ChatGPT, Claude, or Gemini? Big Pharma Is Choosing Sides",
       "url": "https://www.bigpharmasharma.com/p/chatgpt-claude-or-gemini-big-pharma",
@@ -3308,6 +4708,22 @@
       "score": 48,
       "tags": [
         "article"
+      ]
+    },
+    {
+      "id": "328e266a0d3cdb74",
+      "title": "「DB の LOCATION」を決めると、マネージドテーブルの置き場所も決まる～Databricks認定データエンジニアプロフェッショナル",
+      "url": "https://note.com/mellow_launch/n/nc76beedd2fdd",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-27T22:18:24Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
       ]
     },
     {
@@ -3616,22 +5032,19 @@
       ]
     },
     {
-      "id": "562dafdfe181130c",
-      "title": "【Theo Browne氏】5日間で100件のAIコーディングを完遂—GPT-5.5が開発スタックを刷新した理由 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZmRweXl6XzQ4bklQTm82YXZJaHMwZGstVXY2OV9DMlFwbElHZ0RGaXFoRlVWMGxDZ3dQSTlHMGUtazdqU1ZrYXdqbkxVYmpqOXhkcGl6c2hfdw?oc=5",
-      "sourceName": "finance.biggo.jp",
-      "category": "openai",
-      "type": "article",
+      "id": "9b76cbee38e7b00a",
+      "title": "OpenAIでもAnthropicでもない——15人のAI研究者チームに、60億円が降ってきた話——「2回に1回失敗するAI」が世界を変える逆説と、日本の働き手が今夜考えるべきこと #AIエージェント #NeoCognition #エンタープライズAI #シード資金調達 #Intel #LipBuTan #Databricks #シリコンバレー #AI業界",
+      "url": "https://note.com/glad_auklet4142/n/ne7e6f4093216",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
       "language": "ja",
-      "publishedAt": "2026-05-27T12:10:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "【Theo Browne氏】5日間で100件のAIコーディングを完遂—GPT-5.5が開発スタックを刷新した理由 finance.biggo.jp",
-      "score": 48,
+      "publishedAt": "2026-05-27T12:40:21Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "こんにちは、ポス鳥です。 今日のニュースはこちら。 続きをみる",
+      "score": 64,
       "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
+        "tips"
       ]
     },
     {
@@ -3716,77 +5129,6 @@
       ]
     },
     {
-      "id": "2b2417e965e279fe",
-      "title": "Notionが「エージェントOS」へ進化、外部AIと連携する開発者基盤を発表 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSjRDM3N6M3pERFVaS2FHSHN1QzhNLV9sTmlTTkthTHBCbDgycUVCaEhPSVdFZkV5MmRUc3IzMmtXaTJ0XzZhVUJOQ0ttd0haRG1XTE1zMUtXbE5KU3A0?oc=5",
-      "sourceName": "finance.biggo.jp",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-27T09:00:38Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "Notionが「エージェントOS」へ進化、外部AIと連携する開発者基盤を発表 finance.biggo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "a57322f065ac025c",
-      "title": "브랜드 전면 개편 선언한 팀 스파르타…‘AI 네이티브 조직’으로 AX 시장 정조준 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04MTQwUXIzWDBaZTRQXzRxODhhSVp3a0dBSVJsWGNyenhubjBIYVFuenFla2FMcVJlZTl1Sk5zUWxPeGMyenU3ZEx0NnktVmc?oc=5",
-      "sourceName": "벤처스퀘어",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-05-27T08:03:46Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "브랜드 전면 개편 선언한 팀 스파르타…‘AI 네이티브 조직’으로 AX 시장 정조준 벤처스퀘어",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "fdf4d4b98985b1ad",
-      "title": "Notion AIでページ全体を翻訳する方法。すべてドキュメント上で完結！【知らなきゃ損するNotion AI実践テク】Vol.15 - 株式会社マイナビ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxa1FBUkQ5V2tTcnRJT000S042UkhzMEtGUzRXRmxWdUhEbmpaU0NQVDN5Q0lFRzRwcmF5Q2ozTlRacl9pMlpjcGhFR0w4TnBVNzJnQTg5dEhKcDVnbTVZ?oc=5",
-      "sourceName": "株式会社マイナビ",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-27T08:01:14Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "Notion AIでページ全体を翻訳する方法。すべてドキュメント上で完結！【知らなきゃ損するNotion AI実践テク】Vol.15 株式会社マイナビ",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "b3052da5ab233bab",
-      "title": "Notion、AIエージェントを業務に組み込む開発者基盤「Developer Platform」 - Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zYW1jbERzdE1BOV9VaG1aVGNOcEtjNThJVm1IVHZ1NUtTTDlEcVBPZUl6YmRQTHFnY3lWY2lBSWU1djBXNDh4cVFqNTJ0S3dETjdEWmRCcjNxdEZXR2xfdWlhdC0?oc=5",
-      "sourceName": "Impress Watch",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-27T07:31:52Z",
-      "fetchedAt": "2026-05-30T06:20:38Z",
-      "excerpt": "Notion、AIエージェントを業務に組み込む開発者基盤「Developer Platform」 Impress Watch",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion",
-        "workflow"
-      ]
-    },
-    {
       "id": "98aadd988baf1738",
       "title": "Claude, GPT, Gemini Agents Fail 72% of U.S. Healthcare Workflows",
       "url": "https://apnews.com/press-release/ein-presswire-newsmatics/claude-gpt-gemini-agents-fail-72-of-u-s-healthcare-workflows-new-benchmark-finds-61b74f3c6e797b1d682002a00c88ffbc",
@@ -3833,25 +5175,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "9db99cd6a81a449a",
-      "title": "Notion、新開発基盤をリリース ナレッジ共有から「AIと協働する基盤」へ - キーマンズネット",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnQm1kZXlsblJ4UnNUZHBtM1B5RTBoYWUzRUd5VzVQLUxGWUxoYmlsVy1fczhfQXg2WXRkOTJ3NFBkdDVTOXNjVEU1QW44a0N6SUF2TktpSDdQa2Y0VDVDZVFSc19WOXR0?oc=5",
-      "sourceName": "キーマンズネット",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-27T02:55:00Z",
-      "fetchedAt": "2026-05-30T06:20:38Z",
-      "excerpt": "Notion、新開発基盤をリリース ナレッジ共有から「AIと協働する基盤」へ キーマンズネット",
-      "score": 52,
-      "tags": [
-        "article",
-        "Notion",
-        "workflow",
-        "release"
       ]
     },
     {
@@ -3969,24 +5292,6 @@
       ]
     },
     {
-      "id": "15fc20922386a720",
-      "title": "半年間Codex × Obsidianを使い続けて第二の脳が育ってきた途中経過のざっくりメモ - ディレイマニア",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TlZlX2hrU0lFWnBsOGc5SjMwamdqeERBQmptR3FSZTgzTXdJUk9Rd2FGWTZZUWJVQ0JvN2hEUjlDVmlXOGdkejgzWXRDUFBBUXZib3B0ODFRZ0dPV1R4RFhuaElnMHdjUHprZWdQYU5Ea0FITThjOTZzVHpFYWc?oc=5",
-      "sourceName": "ディレイマニア",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-26T22:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "半年間Codex × Obsidianを使い続けて第二の脳が育ってきた途中経過のざっくりメモ ディレイマニア",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
       "id": "9329564db57a882f",
       "title": "ラリー・ペイジ「もう必死に働かなくて良いんじゃない？」",
       "url": "https://zenn.dev/tkithrta/articles/d79449ced427ce",
@@ -4003,42 +5308,19 @@
       ]
     },
     {
-      "id": "72bc8dd521f64a82",
-      "title": "【超入門】Claude Codeの使い方〜初心者が1日でCLAUDE.mdとskillsを作る最短手順〜 - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PeXJKWjNzakcwZjVOSGx0M0FrLVZLd0s5bThVV0ZVRThkTFpaZXJYYnoyelhvbm1jNWhQZDdVSzRCZmRBc3JWNTltZ3hNM2dmT01Z?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-05-26T21:20:58Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "【超入門】Claude Codeの使い方〜初心者が1日でCLAUDE.mdとskillsを作る最短手順〜 newspicks.com",
-      "score": 80,
-      "tags": [
-        "tutorial",
-        "Claude",
-        "Code",
-        "使い方",
-        "tips"
-      ]
-    },
-    {
-      "id": "68bb75bbef2f6d6b",
-      "title": "【完全版】Googleの最強AIツールGeminiの使い方徹底解説【初心者必見】 Trey Yesavage (qCVS4zf9iM) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1meG9YV0VIaWpMb1M4T1JDSjVSbGFuQmtyRDlheWN4aEFwSml0YUVmWDRrNS1SbERNTHZmYzNmejlWa2c4aWlldXYtaHVZWGZWbnJWdVljVWZ2eEk?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
+      "id": "d84489a0d5b9dd68",
+      "title": "Snowflake × DatabricksPOC~PoCが失敗する理由",
+      "url": "https://note.com/mellow_launch/n/naf63904d39f0",
+      "sourceName": "note Databricks",
+      "category": "databricks",
       "type": "tips",
       "language": "ja",
-      "publishedAt": "2026-05-26T20:11:53Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "【完全版】Googleの最強AIツールGeminiの使い方徹底解説【初心者必見】 Trey Yesavage (qCVS4zf9iM) Mshale",
-      "score": 80,
+      "publishedAt": "2026-05-26T21:27:06Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 続きをみる",
+      "score": 64,
       "tags": [
-        "tips",
-        "Gemini",
-        "使い方",
-        "tutorial"
+        "tips"
       ]
     },
     {
@@ -4187,23 +5469,6 @@
       ]
     },
     {
-      "id": "3e310986748e1ce6",
-      "title": "グロービスとNotionが社会人の成長を支援、MBAの思考枠組みを再現した「学習テンプレート」を無料公開 - ProductZine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdFotNWZ6bURWQ2VMRkNsODFLZUh4NEFQdXVpZzBLSjhZWXg0ejZSZ2ZnMXFscTBORV94dlV4a3NwWnpUeEFVd3R2S3JHOTlTQU9qQw?oc=5",
-      "sourceName": "ProductZine",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-26T09:42:46Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "グロービスとNotionが社会人の成長を支援、MBAの思考枠組みを再現した「学習テンプレート」を無料公開 ProductZine",
-      "score": 56,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
       "id": "47f117f2582c0ab0",
       "title": "Sid vs Career | With ChatGPT",
       "url": "https://www.youtube.com/watch?v=KHasJMg4zV4",
@@ -4217,24 +5482,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "e6370e62266baf37",
-      "title": "株式会社エクスプラザ、チームで使えるAIワークフロー「Palma（パルマ）」、5月26日に一般提供を開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzY2QzRklWZkE2R0M3R1YydUtDNnNUYllZTEtEQzQwMFNiTThILWktVndnYlQwek5MVTJ5STE4MHRJUkkzNGE0S29Sd3FzRE5aV1NaRw?oc=5",
-      "sourceName": "Google News: Claude Code workflow",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-05-26T06:00:22Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "株式会社エクスプラザ、チームで使えるAIワークフロー「Palma（パルマ）」、5月26日に一般提供を開始 ニコニコニュース",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code"
       ]
     },
     {
@@ -4287,22 +5534,20 @@
       ]
     },
     {
-      "id": "51a03c354aab522e",
-      "title": "AInow｜5/26 AIニュースまとめ - Substack",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44aUkzRnlXY0VxUFhUQlExWkR5MkVUTnNXTnM1OTJNTHNYRkhNRGVJZm5wR1JWUHhiMjB5MFB3b05jY3h3YWNLcUUtWi1fQm9VSEt2anpkYnJGaXNLVkxRaUp4MGtPZw?oc=5",
-      "sourceName": "Substack",
-      "category": "anthropic",
-      "type": "article",
+      "id": "c6db394a8d66bac0",
+      "title": "【300問】Databricks Certified Machine Learning Professional 問題集＆用語集＆解説",
+      "url": "https://note.com/notetokutoquick/n/n4c025f1f01b8",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
       "language": "ja",
-      "publishedAt": "2026-05-26T00:48:15Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "AInow｜5/26 AIニュースまとめ Substack",
-      "score": 48,
+      "publishedAt": "2026-05-26T00:13:44Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "【試験概要】 データ活用やデータ基盤で高い専門性を示したい人向けの上位資格です。 Databricks Certified Machine Learning Professionalに関する高度な知識や実践力を伸ばしたい人に向いています。 データ活用やデータ基盤で一段上の信頼性と専門力を示したい人におすすめです。 続きをみる",
+      "score": 80,
       "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "tips"
+        "tips",
+        "tutorial"
       ]
     },
     {
@@ -4354,6 +5599,22 @@
       ]
     },
     {
+      "id": "25b426d517f354d3",
+      "title": "Databricks で Hub & Spoke をどう実装するか ~ Hub が担うべき責務",
+      "url": "https://note.com/mellow_launch/n/n1604d7259cfc",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-25T21:36:08Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 続きをみる",
+      "score": 64,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "75ea4da88e0e1042",
       "title": "How many rules do you run on your project?",
       "url": "https://www.reddit.com/r/cursor/comments/1tnmkte/how_many_rules_do_you_run_on_your_project/",
@@ -4367,6 +5628,23 @@
       "score": 72,
       "tags": [
         "tips"
+      ]
+    },
+    {
+      "id": "19057354f1f96213",
+      "title": "【200問】Databricks Certified Machine Learning Associate 問題集＆用語集＆解説",
+      "url": "https://note.com/notetokutoquick/n/n35f1afb851f0",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-25T21:13:47Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "【試験概要】 データ活用やデータ基盤を実務に近い形で学べる実践的な資格です。 Databricks Certified Machine Learning Associateに関する理解や応用力を高めたい人に向いています。 データ活用やデータ基盤の理解を一段深め、仕事に活かしたい人におすすめです。 続きをみる",
+      "score": 80,
+      "tags": [
+        "tips",
+        "tutorial"
       ]
     },
     {
@@ -4419,6 +5697,23 @@
       ]
     },
     {
+      "id": "67b3d3c9fe3ce9e8",
+      "title": "【300問】Databricks Certified Data Engineer Professional 問題集＆用語集＆解説",
+      "url": "https://note.com/notetokutoquick/n/n2457f707cc00",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-25T15:13:45Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "【試験概要】 データ活用やデータ基盤で高い専門性を示したい人向けの上位資格です。 Databricks Certified Data Engineer Professionalに関する高度な知識や実践力を伸ばしたい人に向いています。 データ活用やデータ基盤で一段上の信頼性と専門力を示したい人におすすめです。 続きをみる",
+      "score": 80,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
       "id": "77d518e1986232a2",
       "title": "Cursor から乗り換えた人向け、VSCode 版 Claude Code を使いやすくする6つの設定",
       "url": "https://zenn.dev/sonicgarden/articles/1eefee01ee555b",
@@ -4448,6 +5743,23 @@
       "score": 55,
       "tags": [
         "video"
+      ]
+    },
+    {
+      "id": "664b574feaf58550",
+      "title": "【200問】Databricks Certified Data Engineer Associate 問題集＆用語集＆解説",
+      "url": "https://note.com/notetokutoquick/n/n2eb0a7172fe7",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-25T12:13:43Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "【試験概要】 データ活用やデータ基盤を実務に近い形で学べる実践的な資格です。 Databricks Certified Data Engineer Associateに関する理解や応用力を高めたい人に向いています。 データ活用やデータ基盤の理解を一段深め、仕事に活かしたい人におすすめです。 続きをみる",
+      "score": 80,
+      "tags": [
+        "tips",
+        "tutorial"
       ]
     },
     {
@@ -4494,6 +5806,22 @@
       "fetchedAt": "2026-05-30T06:28:43Z",
       "excerpt": "はじめに Cursor の MCP（Model Context Protocol）を使うと、AI エージェントに外部ツールの機能を追加できます。 Laravel プロジェクトでは laravel-boost、フロントエンド(reactjs)では shadcn/ui の MCP サーバーが便利です。ただし、開発環境を Docker コンテナ内に置いている場合、.cursor/mcp.json にコマンドをそのまま書いても動かないことがあります。 この記事では、Docker コンテナ内の MCP サーバーを Cursor から起動するために、シェルスクリプトを挟む方法を紹介します。 ! ...",
       "score": 68,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ff234c009180fd36",
+      "title": "比べた。答えは出なかった。問いが間違っていたからだ。",
+      "url": "https://note.com/arpable/n/nd4be87747b92",
+      "sourceName": "note Databricks",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-05-25T05:39:02Z",
+      "fetchedAt": "2026-05-30T06:33:07Z",
+      "excerpt": "答えが出ない会議には、理由がある DatabricksとSnowflakeの選定会議は、たいてい長くなる。 続きをみる",
+      "score": 64,
       "tags": [
         "tips"
       ]
@@ -4563,25 +5891,6 @@
       ]
     },
     {
-      "id": "bd43fc5ce0c4d82e",
-      "title": "Cursor、投資家テオ・ブラウン氏によればGPT-5.5の10分の1のコストで同等のコーディングモデルを構築 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4d204cVFIUUk3YzFkVzVHalN4SGlJdlV6R0d5UVREczVKOFNYYzRQRnlZdFlBVEZFTEdsRE9qZUtkbktTaVF5NTJUNXdPNUhUWjBuSVNGMU94dw?oc=5",
-      "sourceName": "finance.biggo.jp",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-24T22:11:00Z",
-      "fetchedAt": "2026-05-30T06:20:37Z",
-      "excerpt": "Cursor、投資家テオ・ブラウン氏によればGPT-5.5の10分の1のコストで同等のコーディングモデルを構築 finance.biggo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "composer",
-        "tutorial"
-      ]
-    },
-    {
       "id": "fcd0b0b504649061",
       "title": "profiling",
       "url": "https://www.reddit.com/r/databricks/comments/1tmkqla/profiling/",
@@ -4595,23 +5904,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "daef846366ed6443",
-      "title": "AI活用、国内ナレッジワーカーの6割が週1日以上利用も「出力の凡庸さ」に不満。Notionが実態調査 - ProductZine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaWNZYVFtV3VxV2FGbXhzWWRodUtfY1g2M0ZzOVg0Y2liTWY2RUdTMldsR2hORk9nTUJYV255el91aktTcXFreVVpM1NMamtPa2xQdA?oc=5",
-      "sourceName": "Google News: Notion AI 活用",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-24T11:25:39Z",
-      "fetchedAt": "2026-05-30T06:08:43Z",
-      "excerpt": "AI活用、国内ナレッジワーカーの6割が週1日以上利用も「出力の凡庸さ」に不満。Notionが実態調査 ProductZine",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Notion"
       ]
     },
     {
@@ -4681,26 +5973,6 @@
       ]
     },
     {
-      "id": "b5a544cf5f4ff356",
-      "title": "OpenAI、コーディングエージェント「Codex」の大型アップデートを実施：Appshots機能とGoalモードの正式提供 - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IalgzTlozQkswZF9pN0I5dmFqanQ1TFRLWU52cG8zenZadXMxMEFQMWZ1SThiMzVGVGkxNzE5aE1Yay05ZE1fZVVIWE03SjVhRGxlZm45M3ZrMktuU2VOcDZwOWctQ3FkT1JRa0V1cG8?oc=5",
-      "sourceName": "XenoSpectrum",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-24T00:46:55Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI、コーディングエージェント「Codex」の大型アップデートを実施：Appshots機能とGoalモードの正式提供 XenoSpectrum",
-      "score": 52,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow",
-        "release"
-      ]
-    },
-    {
       "id": "4b7e2481a5f8f1d4",
       "title": "Anyone been through the Databricks SA live coding round? What to expect?",
       "url": "https://www.reddit.com/r/databricks/comments/1tlwoaw/anyone_been_through_the_databricks_sa_live_coding/",
@@ -4730,24 +6002,6 @@
       "score": 76,
       "tags": [
         "workflow"
-      ]
-    },
-    {
-      "id": "f6beee7f9aeb8c49",
-      "title": "新しいクイックモデリングツール、Gemini 3.5 Flashの使い方。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUFibzR4ZHpfX093bS1iT2NEbml1V0JlM2RLUWRTVkRoZmJqbUxzWWRVVFdpTGRacTlpeGd2a1BHdDN6WF9ab2hmTzZsQjBObEFXbUVWYXdXMGEwNDhNTk5fSENWSWtwaExjdGhTelloZ0dOMmN0MlRTR1FfcWo2Y19uQjYyZw?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-23T12:20:20Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "新しいクイックモデリングツール、Gemini 3.5 Flashの使い方。 Vietnam.vn",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
       ]
     },
     {
@@ -5010,44 +6264,6 @@
       ]
     },
     {
-      "id": "5d70ec0c1f133f4d",
-      "title": "RUNTEQ、「Claude Code活用＆実演セミナー」を5月28日（木）に無料開催 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GaTRjbnR3cF9XS2pwYzA1Ui1zMEdsaEQydndlY3RQVExOSXprbEFJazcyQzY0Q2FpRHd6b2pUWmtnQS1fR1dLekFaNlJrN2RnTE1CbXhBVjJqeks1U2JQemxRcUNjWF9KVFBqd2F3bUN2MW9TbEE?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-22T08:48:51Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "RUNTEQ、「Claude Code活用＆実演セミナー」を5月28日（木）に無料開催 ニコニコニュース",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "406e2b39463dc19b",
-      "title": "Gartner によりエンタープライズ向けコーディングエージェントのリーダーに選出 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSnNnS2hESW1yZmxEcjRkeTQwWTVxNThQcjQwM2NzbHdaV3FRZl9hQmpKZWZ6SWpVWTYyV1QzOTRuSjJhMFJoeTVxQUZ4NkhrMlBlc2kzckMxRHlVc0ZlQTREdFZ6dTZxX0psNkVpVmk1MHJW?oc=5",
-      "sourceName": "OpenAI",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-22T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "Gartner によりエンタープライズ向けコーディングエージェントのリーダーに選出 OpenAI",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
-      ]
-    },
-    {
       "id": "bed9c6473cfc4645",
       "title": "Databricks now supports importing Tableau and Power BI files into Genie Code to automatically build AI/BI Dashboards with Metric Views",
       "url": "https://www.reddit.com/r/databricks/comments/1tka8qp/databricks_now_supports_importing_tableau_and/",
@@ -5125,79 +6341,6 @@
       "score": 76,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "f0036d0d8ff5e244",
-      "title": "「1Password」が「Codex」と連携、ローカルMCPを活用して機密情報を安全に管理 - 窓の杜",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qc0daSFJoeG5nRmFOUEhQeGNWMnF3d3dvU29sNVc0eWFENWJXaUdMUE9UTmlzZm5JejNfTDhGYi1OX2RCQmZVVThjZ3ZRNDdRRFAzT2d0NDE3YmpiSXhsV1poWmg5MDZG?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "「1Password」が「Codex」と連携、ローカルMCPを活用して機密情報を安全に管理 窓の杜",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "d42b8b2dfeb62d1b",
-      "title": "Figma、AIエージェントをマルチプレイヤーキャンバスに搭載 - 株式会社マイナビ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40blB3RURicng5aWR5dlp2bURxclcxMlhrMG03VE5FTDIweVpJMGRleWdDdVhVMFNjY1UtaFhnVng1RGRtRUlNZ1FUblBPYXlQZXBkN3BJcXo4YVRiUWJr?oc=5",
-      "sourceName": "株式会社マイナビ",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-21T05:42:14Z",
-      "fetchedAt": "2026-05-30T06:20:38Z",
-      "excerpt": "Figma、AIエージェントをマルチプレイヤーキャンバスに搭載 株式会社マイナビ",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion",
-        "workflow"
-      ]
-    },
-    {
-      "id": "e0737f5d3443e9b2",
-      "title": "Zed、エージェントをターミナルで管理できる「ターミナルスレッド」を追加 ―Zed内でClaude Codeサブスクリプション利用が可能に - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxWmdZQ2pRYVI3dUxkUFVsNXJQOFFpX01rMlZDMWY2N2lNbGNxOXVfOWhPbDB1VjVneHRIWWR5UUtNS2tvYW9QYk1JWm53Q054OVF0T0NhTGNTREwwQzVsbVB3MA?oc=5",
-      "sourceName": "gihyo.jp",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-21T02:09:00Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "Zed、エージェントをターミナルで管理できる「ターミナルスレッド」を追加 ―Zed内でClaude Codeサブスクリプション利用が可能に gihyo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "456ec89b00f07d25",
-      "title": "AI駆動開発検定がローンチ。Claude Code・Cursor時代のエンジニア市場価値を可視化 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRXk5S1Zjc011V3NJRklZMlpyclRjdVBGdHZPenIyTG5VSHc4Qm9GZFNKYTFGOWNxZmQwRXBWVmVzcU9EMjRwai1xTGJwdFY3RXBKS085LWtPWTFWNmozZGNOS1RYa0tsaWww?oc=5",
-      "sourceName": "時事ドットコム",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-21T01:46:00Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "AI駆動開発検定がローンチ。Claude Code・Cursor時代のエンジニア市場価値を可視化 時事ドットコム",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "workflow"
       ]
     },
     {
@@ -5314,24 +6457,6 @@
       ]
     },
     {
-      "id": "2674e6832cce8653",
-      "title": "通信業界のCFOがAIを活用してよりスマートなネットワーク設備投資の意思決定を行う方法 - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3RRQTljRHhxdGVYdThhZkdkWDNvX0tLbTNhLWNPRHVUN2ZyaVlLXzRWZFJFMVRsUTlPaEFOb3VMUjJqV283QnlyT3doUFFYdmVQd0pMajJHRUpJcXE5REdobFI1Tlloc1UyLTZ3ZVByT0pFZnl1endUb2hRYlc2alZPdUZEdUZlQU10NWkzSUFJeWk5U3E0M1ZCdw?oc=5",
-      "sourceName": "Google News: Databricks 活用事例",
-      "category": "databricks",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-20T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:45Z",
-      "excerpt": "通信業界のCFOがAIを活用してよりスマートなネットワーク設備投資の意思決定を行う方法 Databricks",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Databricks",
-        "活用事例"
-      ]
-    },
-    {
       "id": "03afb9495a5e9f49",
       "title": "Databricks Genie for Marketing",
       "url": "https://www.youtube.com/watch?v=TTvZmdN1vDo",
@@ -5345,44 +6470,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "1521f7a954cbefc2",
-      "title": "GoogleがGemini APIに「マネージドエージェント」を追加、AIエージェントの実行環境を丸ごと提供へ - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1U09mOWZvcHBaZ296bWc1TnFqWFdwRnpsei1LREhySktOLW56VTc1T2doUGpzVmw2T0xwaGdLWS1pUlFIUjFzaFpZeUlIMi1yYUQ0RDFYV0R6azZJc29ENDA4cWMtRXM2MVJnX3piUl9Tck83Tm9r?oc=5",
-      "sourceName": "GIGAZINE",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-20T03:48:00Z",
-      "fetchedAt": "2026-05-30T06:20:32Z",
-      "excerpt": "GoogleがGemini APIに「マネージドエージェント」を追加、AIエージェントの実行環境を丸ごと提供へ GIGAZINE",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "Studio",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "0880204c3cd1ed38",
-      "title": "OpenAIとDellが歴史的提携！ クラウドに送れない社外秘情報を守ったまま使える最先端AIエージェント『Codex』とは？ - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qQUJLWmxsc0NfRjhmd1AxNVVpd2tGTU5Fa1IxemJVSHp6NnBfMVMtUnoxNjB2cEdmTWd5UG01aFQ4U2VrQ0ZZNDFSN01WZw?oc=5",
-      "sourceName": "DXマガジン",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-20T03:05:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAIとDellが歴史的提携！ クラウドに送れない社外秘情報を守ったまま使える最先端AIエージェント『Codex』とは？ DXマガジン",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
       ]
     },
     {
@@ -5546,24 +6633,6 @@
       ]
     },
     {
-      "id": "0603c1bc40e2df60",
-      "title": "Opus 4.7やGPT 5.5に匹敵!? Cursorが新モデル「Composer 2.5」公開、長時間タスクと指示追従が大幅改善 - すまほん!! - すまほん!!",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0N1RXluQm50UDVVNGZpUWFQRF95dGRnTk1BanFVdkk3OTdXaERSSnhuVFhLZHBEUlBMLWVXOTFSMlhRSWdMb1FXdzZQRVpVTG04ZWFXcGRmcXNtaG5IS2F6Wm1OR1k0WmI1c1RsckdMNHV5dU1vbmVEeUdlSko5NlVn0gGHAUFVX3lxTFBxSTZ5VDl6MEdWM0Rxb2dJRlI0MVlRbEE5Z3N2MHZUbUpiYldGc2d3UUhxbXZHRVFySndnckNHcFhXSm5QWnRlRGRyQjg3RERoWWNpV0xlc3Q5UUxJT2ptVnVBaUFTN2tDTmg5M3hVVzBUZUc4SG1BUFpiZkFsZVdwTWp4a3RQSQ?oc=5",
-      "sourceName": "すまほん!!",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-19T10:30:00Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "Opus 4.7やGPT 5.5に匹敵!? Cursorが新モデル「Composer 2.5」公開、長時間タスクと指示追従が大幅改善 - すまほん!! すまほん!!",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "tips"
-      ]
-    },
-    {
       "id": "eec156a76de5cf3d",
       "title": "AI Agents That Remember: Building Stateful Systems with Lakebase",
       "url": "https://www.youtube.com/watch?v=UrIybbk-aY4",
@@ -5594,24 +6663,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "4bbb87b1fcfa1541",
-      "title": "OpenAI・CEO、大学生世代のChatGPT活用方法に驚愕。Z世代より「さらに一歩先を行っているかもしれない」 - スマートニュース",
-      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQcm1pajJ0XzhwMnhwSlhHNVlreXpmcWZ6R0V4c2FldThIVVM3QmtuSTlNZkRKb25wM3pla1hYUVE3Q09Yc2I2VktRNjlSd1RublNpRExOLWV4VVNtcFhfcHByd2NVbmt3T0RfcVVjWi15bEFxNkFEcERvazY4UXZnN3p1UWkzek1SdEY0aVVCRWwxcnIxTUVPRS1UeXhKLWRuY0doeVlodDh1cWhWdk8yVUVxYjBxUGlPNS0yWk96VmVSdXFyTlpRX2NXSFNBWVdZUWhZWlZYeGNtV1ZvYjluZ3dWMTRvRmZTRExsRFo4OUoxd096QlU0Y2NLZGVYTWYzV1M3eFZ0b0YzSEF1bU9lTHFacDJhZGdBSVdqN0hzZ09TLXVqVWlwU3htZG03Q2hTZVFVa2c0dTQ3bTZRQ201QmJFVmNDNjIwOG1JVnpXY2xjYlozc0dXUS1qNUxwRnhMR1IyQnoxLUFWTno0LUVVRGRnNGkxVlg2SkFhUDRzcTB5N1NLeWxQdWtMTzlLem9UelJNRzQwNDFrQUVOeDh1TFgzNnZNRlhtZjdTV0NUZ2Z0TVA1OUx2dWZBYlowR0JGSW4xSWVnNUFsV1VDZzQyWmdtMXZlRzlVOV9HUUlTdEY4ZXZWS0Y4UF9ubWVmLTlTZ1FTSE5FcmF2bjY4MGN1TWdvYnJOWDJpN0c5Si1KM0hZaUl5TFhnUHlqWWE5MkNfOUNZOGF2MGRhNkRLVFBfNzUwUmNGYTBZNklNWnRackpPSjhldV9OWE5NMmg5elN2a2NlZ1R5T2w5Q1NGVFJYSVFn?oc=5",
-      "sourceName": "Google News: ChatGPT 活用事例",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-18T16:21:00Z",
-      "fetchedAt": "2026-05-30T06:08:35Z",
-      "excerpt": "OpenAI・CEO、大学生世代のChatGPT活用方法に驚愕。Z世代より「さらに一歩先を行っているかもしれない」 スマートニュース",
-      "score": 76,
-      "tags": [
-        "tips",
-        "ChatGPT",
-        "活用事例"
       ]
     },
     {
@@ -5681,24 +6732,6 @@
       ]
     },
     {
-      "id": "2a3cc5a5c674e7ad",
-      "title": "習慣化のカギは「面倒くさい」の使い方。人生の可能性を広げるタイムコーディネート実践法 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3UFBBN1R2XzVoY2p2Y0JPY3RObkpWUHAtejNpSldVSmZjUVZFZVQ4QUJ5VGhXLWVxaldGNmZSYjdSOWlIdUxWX2xQZzBRbUkzb1prTUdzQnZqVHgxeTFiTDJDUHhVSHp6THNvV1RiQmk?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-18T09:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "習慣化のカギは「面倒くさい」の使い方。人生の可能性を広げるタイムコーディネート実践法 ASCII.jp",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
       "id": "f62092f63a3442fd",
       "title": "日報を書いたことがなかった私が、Claude Coworkで自分の仕事を可視化できるようになった話",
       "url": "https://zenn.dev/nord_design/articles/b618f93e04fcf8",
@@ -5712,42 +6745,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "495337fb6b0b2e79",
-      "title": "Google AI Studioでアプリを作成し、公開までやってみよう - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41dnUzVlkzRzNEdDdtVi1BR1FjVy1qTGd3cDh0YXU2Wlp5cmUyQjB3M3JKbnhBNk9xLWZYTHlBVWlIRlVPWC1wbXJ5NHIzM2RXT3FmMk9wNXhRaUt2c0d6a0tLOTdwUEpUbEdIRGdnN1BTRmZF?oc=5",
-      "sourceName": "gihyo.jp",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-18T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:32Z",
-      "excerpt": "Google AI Studioでアプリを作成し、公開までやってみよう gihyo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "Studio",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "97765ec77dfa0f38",
-      "title": "【2026年最新版】生成AIおすすめ16選を目的別に徹底比較！ - 起業の「わからない」を「できる」に - sogyotecho.jp",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iaHMyQWxGNnZ6TmZSa1dxQXlzZVFPQ3FaVGdMR2VOcnJZN0VuRWZvN1dfc3Z5UUE2Sk1wcnRoWEZwM09IWndXYU00OHNJTFR1TWxYalNGSQ?oc=5",
-      "sourceName": "sogyotecho.jp",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-18T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "【2026年最新版】生成AIおすすめ16選を目的別に徹底比較！ - 起業の「わからない」を「できる」に sogyotecho.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
       ]
     },
     {
@@ -5765,25 +6762,6 @@
       "tags": [
         "article",
         "release"
-      ]
-    },
-    {
-      "id": "cfb3d0df6669f7d5",
-      "title": "OpenAI が Codex を ChatGPT モバイルアプリに統合、開発者がスマートフォンからコーディングタスクを管理可能に - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2NMOTVmOGc1dDM1Wjc0MHJPODlnUkx6cFBJTjBPWHVxNUdELVhMeERVQm5yb1Iwc3kyVk9IVnFCV3dyV2Z5c3V5QTJzYXVUMFlCWnBicC1Ja3ZXWUVneXAxcmdtTXh1QzNHd1RPTm1KQ0kzakpEdTNSalhHeTFublFWT0p4V2hYTUg3WkFn?oc=5",
-      "sourceName": "finance.biggo.jp",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-17T10:50:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI が Codex を ChatGPT モバイルアプリに統合、開発者がスマートフォンからコーディングタスクを管理可能に finance.biggo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
       ]
     },
     {
@@ -5816,42 +6794,6 @@
       "score": 64,
       "tags": [
         "tips"
-      ]
-    },
-    {
-      "id": "3745c62f392d4ec6",
-      "title": "King ＆ Prince、仲里依紗＆HIKAKINと「Gemini」使いこなす 高橋海人はクリエイティブ力高めることに意欲 - 山形新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzSU5ZRnAzaUdIcVRsWDZIdzVmaEJsa0NWaGYtR0RmR0gyVDF3OGNjVGc3MEczU0NTMzFXT3RnMTdTSnNQUkdyZV9WSmNUaEt0U2puS1gzVE5idHNsWmJ0ZnVyd1hqUQ?oc=5",
-      "sourceName": "山形新聞",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-17T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:33Z",
-      "excerpt": "King ＆ Prince、仲里依紗＆HIKAKINと「Gemini」使いこなす 高橋海人はクリエイティブ力高めることに意欲 山形新聞",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
-      "id": "a4df367b791f31be",
-      "title": "King ＆ Prince、Gemini使いこなす - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FSmdZelFsMXgySzB4ajlId1JzQTdDWnRUeWREcFJGbWNIdGUxNFhJdzl0MHQ0dXpyMUQxY1hTRm9RSlFaeW5xd1FKUWljejlzLW50N1c5MElwb1lv?oc=5",
-      "sourceName": "朝日新聞",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-17T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:28:28Z",
-      "excerpt": "King ＆ Prince、Gemini使いこなす 朝日新聞",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "使い方"
       ]
     },
     {
@@ -6015,81 +6957,6 @@
       ]
     },
     {
-      "id": "c078012c97ef7ed7",
-      "title": "OpenAI Japan瀬良氏と語る、AIエージェント「Codex」がもたらす“働き方の再定義” ビジネスパーソンが「作業者」から「監督者」になる日 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ZFNCOFBFVlhmc3FUZHQxWlZ2VmRqX0NSM19LYW15ZUltc0Y0eGJvX0xWYmh3b0VwLUJzS3AyYTNwd19EYW1PY3FnZVh3V2xwUUxINHZhSUNZd2hoUXFjYUQyOHEtNFpfY2xtVg?oc=5",
-      "sourceName": "ITmedia",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI Japan瀬良氏と語る、AIエージェント「Codex」がもたらす“働き方の再定義” ビジネスパーソンが「作業者」から「監督者」になる日 ITmedia",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "f009d8f4b0565a0d",
-      "title": "Codexアプリの教科書を購入…【豪華2大特典🎊】ChatGPTのAIエージェント完全攻略とは？ - 選挙ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTnF2cDNDek91NzNucTdNLUR4aE9sbjZlMXRwSWV0UFUtNHpPMk1XYThXMlhMX1ZuV3R2OWQ0b1BGWTE0NDgtQWVoN1BCd3MwOVZRbVJaNDRIelBESVZZ?oc=5",
-      "sourceName": "選挙ドットコム",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "Codexアプリの教科書を購入…【豪華2大特典🎊】ChatGPTのAIエージェント完全攻略とは？ 選挙ドットコム",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "016812782dd3b631",
-      "title": "OpenAI GPT-5.5 + Codex、Databricksで利用可能、完全に管理可能に - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZThNUlJXeGJCZ0RnanViR201OU52eW5CY3BkRV9EYUxPX0lINFFST3JjTEt5VVpqeGdlSkdKcFB4ZTZEMVB6cWlXRlZ0U01UV2huY3pnNEdJMlhId0dnYWM4eUFTWWxHSHUtNFBrVVJQNTJsVHZpTW9XaHNFTEMwOUhDMDRKTlIxalJwZjA1dVJHV182RzNOUG9TTk00ZFQ5SXZIWUQ2bDRnUlBHTXdUdVpBZw?oc=5",
-      "sourceName": "Databricks",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-14T23:46:02Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "OpenAI GPT-5.5 + Codex、Databricksで利用可能、完全に管理可能に Databricks",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
-      ]
-    },
-    {
-      "id": "890c445b6799ec13",
-      "title": "OpenAI、CodexをChatGPTアプリに統合 iOS・Androidでモバイル管理対応 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjByZzhYZE80TWhHOUN2Z1VsYlEtYl9ZMHUwQW9NV1VYaG1rVUR3MDk3TXhDVXBDcmNEeGgxRGp4Y2RibWpxNGh1WUFvX1BYeU1pcmd5dUNJN0ZFZG4wVFVUcGcxV0JuU3lFSFY5TGxtOHRuSFFGZFZoc1pmOUhuZm1NOFFLLWt0N0FMb1NJckxtLVZRQUI5anVyeDh2Ujlod2l0YWtjMzY1eWlRb0N6MFpGY0s3SXpKeDBCVFhRdWx4cTM3dDlrc0RkZFFpeU9uc1dQRWNMbk8xZTdxU2VpVTV4YmVyVzA?oc=5",
-      "sourceName": "디지털투데이",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-14T21:24:25Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI、CodexをChatGPTアプリに統合 iOS・Androidでモバイル管理対応 디지털투데이",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
-      ]
-    },
-    {
       "id": "53ced7bed1e731db",
       "title": "AI for Data Intelligence Demo: Real-time fraud Detection with Databricks",
       "url": "https://www.youtube.com/watch?v=E27NE8boQUA",
@@ -6156,59 +7023,6 @@
       ]
     },
     {
-      "id": "9f13ead348812774",
-      "title": "MetaのWebXR開発ツール「IWSDK」がAIエージェント対応、Claude Code、Codex等と連携し開発を自動化 (MoguraVR) - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sMHhxRWxraS1Ec1d3UHk1TDdSYkxQcWRoVmsxS2FIQ0FCRmQ3SEVHNmJ2SjZvdTBNTzdfLWlWSkcxR05oUVp4bHUwSWo1dVFFY1hzZ2MwQVU?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-05-13T08:24:51Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "MetaのWebXR開発ツール「IWSDK」がAIエージェント対応、Claude Code、Codex等と連携し開発を自動化 (MoguraVR) newspicks.com",
-      "score": 76,
-      "tags": [
-        "workflow",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "0daa1f29f530f9e8",
-      "title": "GPT Codex初心者講習会開催 - ガーカガワ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WcU03N1BDTEFQZlBZSXpkbDQyRVBLQzFDMUVKRkd1a2pNREgtSEZfOE1ZeTFBdnFuX0xnRllzNVhXRUswUEJIRkZR?oc=5",
-      "sourceName": "ガーカガワ",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-13T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "GPT Codex初心者講習会開催 ガーカガワ",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "d6d89881d8cb3280",
-      "title": "法人向け生成AI SaaS「HEROZ ASK」、Notion・Box・Slackなど人気ビジネスツールとの連携を可能にする「MCP」対応を開始 - HEROZ株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOXhQTVRUSkVXQkRkOUtxOHRqMXV4SVF0ckQ5S1dDY2RzaVRuemsya2VzaUhtSG5vVk9oZmJrS0dBVUl4dWRNSUFRMzhlSlY4aHFYb0t4cjNsRGhxdGc?oc=5",
-      "sourceName": "HEROZ株式会社",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-13T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "法人向け生成AI SaaS「HEROZ ASK」、Notion・Box・Slackなど人気ビジネスツールとの連携を可能にする「MCP」対応を開始 HEROZ株式会社",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
       "id": "37b92599ac48e5f9",
       "title": "Building a Polymarket AI Trading Bot From Scratch",
       "url": "https://www.youtube.com/watch?v=0ZJXpMZobjY",
@@ -6222,44 +7036,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "23fb1412e2c289cc",
-      "title": "AIも「とほほのWWW入門」にお任せ! 「Claude」「Claude Code」の解説が追加／昨今人気の「Claude」を始めたい人にピッタリ - 窓の杜",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTHE5YUltcl9TaUdESXYta0E1RGwydlEzR2lHSEs1dU1sNjJpZUtyQWhtMHNtZWN2anNtNVpjeG55XzB4X1BxNTU4Q29KLW9nSkp0dVhFeFM3SzZsaU05X3NlTE9rUXdK?oc=5",
-      "sourceName": "Google News: Claude Code tips",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-05-12T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "AIも「とほほのWWW入門」にお任せ! 「Claude」「Claude Code」の解説が追加／昨今人気の「Claude」を始めたい人にピッタリ 窓の杜",
-      "score": 68,
-      "tags": [
-        "tutorial",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
-      "id": "b35a267beafef9df",
-      "title": "Google AI Studioにログインして簡単なアプリを秒速で作ってみよう - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YRlViZUktUGpMcDA1elgyT1ZTSHZ2b1ByVVhidWVQTlJiYno5TGhRNE85X0Q0OC1PVXFYX3RzME1LQno5d3JHTmRIRzNUanM0eFJqM29lWFN2dHlqZ0Y3WTJOcm1nM2ZaN1ZlUkVsMWs?oc=5",
-      "sourceName": "gihyo.jp",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-12T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:32Z",
-      "excerpt": "Google AI Studioにログインして簡単なアプリを秒速で作ってみよう gihyo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "Studio",
-        "tutorial"
       ]
     },
     {
@@ -6293,26 +7069,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "4fe3ca31a2eab4ba",
-      "title": "AI活用で営業・マーケティングはここまで変わる、Anthropic公式ユースケースから学ぶClaude活用法 - iotnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA5T2J0UFFGTTY2SVVrblRXR05NNUtWNEs2dkZES3pJX0djRkoyZUxWZ0hDMGpZYnNKVEtzYU9yNFlVdjTSAUhBVV95cUxNNmw1S2dZVjYyN09pSEdaX3dqNXlOOHVXb2hVU01yMERpNlByYkkwY1FKZnF1cFg0QnE0UkVmbGJTdXQyOFVKalI?oc=5",
-      "sourceName": "Google News: Claude artifacts use cases",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-11T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "AI活用で営業・マーケティングはここまで変わる、Anthropic公式ユースケースから学ぶClaude活用法 iotnews.jp",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "artifacts",
-        "use",
-        "cases"
       ]
     },
     {
@@ -6364,24 +7120,6 @@
       ]
     },
     {
-      "id": "deca16b068868757",
-      "title": "Codex Chromeプラグインの使い方｜普段使いのChromeをCodexで使える - tech-noisy.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hZzBROXJGRlBOcFVvT0MtOHZVYTJTbnd4QkNPQ29MdzEyN1BsMVJwOEVNUV9qR3Z0czFaTzdDTDc5NGxtaHBGdE5pNmVtUXRDLWNRcTU3djRXaFl1aUUwTkxCWC1XQnBBR2NTUw?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-09T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "Codex Chromeプラグインの使い方｜普段使いのChromeをCodexで使える tech-noisy.com",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
       "id": "9d091522e5c08418",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
@@ -6398,26 +7136,6 @@
       ]
     },
     {
-      "id": "4ccc9c69130d72ba",
-      "title": "Google Gemini CLIにCVSS 10.0の最高深刻度の脆弱性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWG84bGxsNFotVmdTSS1Ia3pKRDYtTnBKeXdlLVFiWHF6LThVbzlCVUdqdmdfNmY2TG5KOWdsSmdDZFBvZWxYR203S21fVmc2aXVrZG9vODVJcFlnWnhoRGRjYklDSXJ3WUhfVnN5b2RyeWR6U1RmYTRCalFVS0ZaemVoQkswUnZYVjZxeWVlUmY3OVdqY2c?oc=5",
-      "sourceName": "合同会社ロケットボーイズ",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-08T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:34Z",
-      "excerpt": "Google Gemini CLIにCVSS 10.0の最高深刻度の脆弱性|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
-      "score": 48,
-      "tags": [
-        "article",
-        "Google",
-        "Gemini",
-        "workflow",
-        "examples"
-      ]
-    },
-    {
       "id": "80135756a33ee179",
       "title": "A Cursor AI agent wiped PocketOS's production database in under 10 seconds",
       "url": "https://thenewstack.io/ai-agents-credential-crisis/",
@@ -6431,44 +7149,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "9b65b6a7d5b909a5",
-      "title": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で (CNET Japan) - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmEyay12dFlnclpYODJTMlo2dWRmdDRmNzhJNUVFUDd3YmJ2OVoxWjVTZjV5aHJVQU44MU9nX3RoNk02ZlFXeWtfamJDOFF4ZTVMY0lOOXVmX3BjdzhxWVZJSlpYUW5RZDl4RXRpT1dXSGZONDlzQnd5Y0pYdXB2ZkZLbVJtSlluUVdHTlV1TQ?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-07T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で (CNET Japan) newspicks.com",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "93eae6e6905f1de9",
-      "title": "OpenAI、Codexの作業進捗管理をするAIペット「Codex Pets」公開 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUGtHaDZsTjE3c19PVnRBcHZhUTVSM3BpQ0NDcUdSNXFsZGpIckR5N0wtak14WU1VclE5R2JMa1ByeDE3dWlSWm83Zm56MXh5akd3?oc=5",
-      "sourceName": "ビジネス+IT",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-07T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI、Codexの作業進捗管理をするAIペット「Codex Pets」公開 ビジネス+IT",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
       ]
     },
     {
@@ -6502,61 +7182,6 @@
       "tags": [
         "video",
         "workflow"
-      ]
-    },
-    {
-      "id": "78884b9bb757434a",
-      "title": "【神機能】Claude Codeで業務が激変…たった“4ステップ”で実現する自動化術 (ビジネス＋IT) - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKdDV5WnZYb1ZURzRZLWtyeU1zRGxYLU4tbEl5ejRQYThISWdpV3g3eG9TeE1HNDF0Tkh6U29tT3U3bnRGYzUwTEd4dHE?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-05-06T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "【神機能】Claude Codeで業務が激変…たった“4ステップ”で実現する自動化術 (ビジネス＋IT) newspicks.com",
-      "score": 76,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "391bc80c1dcfb404",
-      "title": "600億ドルでCursor AI買収へ スペースXの真の狙いとは - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdU1LeFR5QnhCcGNTVGlqTHlLM1czNUdrb0c4Y01QZGs0MkhMLTVZSy1sV3M3a1VqR3VkVi1sU0V6R3Y0VHk1akFkOVNOU0JfZGFVODFURGQ?oc=5",
-      "sourceName": "Forbes JAPAN",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-06T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "600億ドルでCursor AI買収へ スペースXの真の狙いとは Forbes JAPAN",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "workflow"
-      ]
-    },
-    {
-      "id": "34db97ec3bac3218",
-      "title": "OpenAI、Codexエージェントを大量管理する「Symphony」公開 人間の監督負荷を減らしプルリク数500％増 - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxWG1WTDh3ZjY4MWxGazhNOXo0WlR4QVZfdkxOX1hSUkRYYmJ6OVpZSzdXTTZfUThteUsyR3BaTUctT1dLNEI0SElDb3RvQ2JOQ1BsWm9NMTFIMXZWUW5uMThFblp4RnNrUFhreUlB?oc=5",
-      "sourceName": "Ledge.ai",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-06T05:06:49Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "OpenAI、Codexエージェントを大量管理する「Symphony」公開 人間の監督負荷を減らしプルリク数500％増 Ledge.ai",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "使い方"
       ]
     },
     {
@@ -6608,25 +7233,6 @@
       ]
     },
     {
-      "id": "cb137adf6f877abd",
-      "title": "Peril Predicts: Precision Payouts for a Volatile World - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWIwZW9HYzZvMEZyZUl5eUs0a1MxenpYNjZ0NFFUZDNuYm5ldlh5d0stb2hIU0R0ZWVEQTBRdXh4elkxbktNRlZCUjY0bl92Y0ZnZGhRZXJXd05qN0l2VGRUSkxtQVNSeFdoT2Q4ZVhTYzM4bXI3aTVvU3BueUNUZkdpeExScllJWlE?oc=5",
-      "sourceName": "Databricks",
-      "category": "databricks",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-05-05T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:41Z",
-      "excerpt": "Peril Predicts: Precision Payouts for a Volatile World Databricks",
-      "score": 48,
-      "tags": [
-        "article",
-        "Databricks",
-        "use",
-        "cases"
-      ]
-    },
-    {
       "id": "728a4d52e0da61a6",
       "title": "The latest AI news we announced in April 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
@@ -6659,25 +7265,6 @@
       ]
     },
     {
-      "id": "98b30a8fe815562e",
-      "title": "非エンジニアが数百万円級のツールを開発 画像＆動画生成AIツールがゼロから作れた話（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVWNVLWdXa2J4TzFCSkcyTU16V29MR01Sc01JeTA2cVJNblBicFhTaFZ2dHp4Z21OWFlFUnZGYmZ4SWhrTFJ4NTBnQ2NzWGUzS19GYzBFM1FFRXNLaTcxX2dTWklBV295Z2xzZnhMQ1BHbVFOQWR5c1dkQ01HMGc?oc=5",
-      "sourceName": "Yahoo!ニュース",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-04T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "非エンジニアが数百万円級のツールを開発 画像＆動画生成AIツールがゼロから作れた話（アスキー） Yahoo!ニュース",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
       "id": "eca89b0eeafe8cac",
       "title": "New AI coding paradiagm - OpenAI Symphony",
       "url": "https://www.youtube.com/watch?v=M_AmPWmkpwA",
@@ -6694,23 +7281,6 @@
       ]
     },
     {
-      "id": "90d2f46fe2b04374",
-      "title": "【議事録は残すだけじゃ意味がない】会議を劇的に進化させるNotion AI活用術3選 - Smart Watch Life",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05a0g0Sk5iWWNlc0JSMVZxdXBhYmkzV3UxdWIxem1yM3IwNDM2d251VDBFRlU1b0xmVmVwc3d4dV9sNWlDZWRXVS1ZbDM?oc=5",
-      "sourceName": "Google News: Notion AI 活用",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-05-02T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:43Z",
-      "excerpt": "【議事録は残すだけじゃ意味がない】会議を劇的に進化させるNotion AI活用術3選 Smart Watch Life",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Notion"
-      ]
-    },
-    {
       "id": "69eba9bb52dfca46",
       "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
       "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
@@ -6724,132 +7294,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "271578d8477e7109",
-      "title": "動的ワークフローの紹介：テナントに従う耐久性の高い実行 - The Cloudflare Blog",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wdFhkSWtCVEYxdGp3MnhoQ29QV0M3M1pVNTc2MEJYaUI0TGNfYlZzekdNSUp0dUFhbG5jNGluM3RnUjNZTVZqOURYZzE3WkQ3cWk3dXFlTDdNeUZKdGhLOWl3?oc=5",
-      "sourceName": "The Cloudflare Blog",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-05-01T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:18:19Z",
-      "excerpt": "動的ワークフローの紹介：テナントに従う耐久性の高い実行 The Cloudflare Blog",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code"
-      ]
-    },
-    {
-      "id": "bf9d596291f67328",
-      "title": "OpenAI×AWS提携の本当の意味ーーAIエージェント時代の「働く場所」戦争 - community.exawizards.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45UjJNZWRpMGJORU9wUTRYVlFkUFFWbG41X3AtZ1kxYS1HX0taRHZHRnNjWFJSeU1HT2J5SGlWUDVBWWpwdERKT3A3SW55Vk50aGFVTXVXUzRuQUM4NkxYeGFrdzlzWGNYUDFj?oc=5",
-      "sourceName": "community.exawizards.com",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-01T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI×AWS提携の本当の意味ーーAIエージェント時代の「働く場所」戦争 community.exawizards.com",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "d505040098e1b284",
-      "title": "Notion爆伸び、GoogleがMicrosoftに肉薄 日本の業務アプリ利用動向って独特すぎない？ - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93UmNjM1NMak56N2lCbS1aVEgwaU5sS2IxUU9ibndzckFzOFBSa2dObkxqYTNZTUk0bE1rNnA4QzdaVWMwTko3VllSRUhPYzlFWHo5LQ?oc=5",
-      "sourceName": "ASCII.jp",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-05-01T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "Notion爆伸び、GoogleがMicrosoftに肉薄 日本の業務アプリ利用動向って独特すぎない？ ASCII.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "df8508a3756095f1",
-      "title": "Notion、NexonとAI活用で戦略提携 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVRRVWt0U01Mb01HOWlmSVVBVFdzVmFDNTd1cmFHbmY4QU4tY3c0VkpqWVctSjFVRFpHY2R2Zy1Fem44eHVNcnlWSDJRdXhGd3hqblhfNHdidHMxaEdPT21ZN1NXVXFPZGQ1YWZwdG9zcXY5T2FZLUVOdDZ0VmF5X3ozZ2dGbHBNcjF2ZlVPcUk?oc=5",
-      "sourceName": "Google News: Notion AI workflow",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-30T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:42Z",
-      "excerpt": "Notion、NexonとAI活用で戦略提携 디지털투데이",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Notion",
-        "workflow"
-      ]
-    },
-    {
-      "id": "18e08c11a17c0e09",
-      "title": "OpenAI、ソウルでCodex導入事例共有イベント Musinsa CTOが登壇 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGY5UWVPeTVPTnI3eFRCY2FqcS1UQTNyVVdPX2d0R3NfUlk4ZU04ODBuMUp3ZlB5Z0ZmWGpwZWMwTzBVQWl5SGdyTW5PQ09SZUhIRmdxX2w3dlphb09EWGFaSUVNNGdwWnp4T0sya0o2TjBwT2FoMlBPSWJwaUJWUzJJMHZ0WGljeFJXa3RPclY4cjJJTmV3MG5GNmhDTTBMdmNkb2J2YktJM1k?oc=5",
-      "sourceName": "Google News: Codex coding workflow",
-      "category": "openai",
-      "type": "usecase",
-      "language": "ja",
-      "publishedAt": "2026-04-30T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:36Z",
-      "excerpt": "OpenAI、ソウルでCodex導入事例共有イベント Musinsa CTOが登壇 디지털투데이",
-      "score": 74,
-      "tags": [
-        "usecase",
-        "Codex",
-        "coding",
-        "workflow"
-      ]
-    },
-    {
-      "id": "5c779988ec2fe6ed",
-      "title": "Keeper、AI開発ワークフローを安全にする「Agent Kit」を提供（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Yc2dJN0pGY21nLTh4RzlLLW9GczZsUGNUR1ByLTI2a2hPX1VvUHlKdHVIeldCSjZzRlVTX0I5OUpxSUlmUERzUlVwUDRlZ2NCd3VYRmdJU0xKWU53Z3M0RnRSeXBnZW52UGI0S2c0Y21QUlFUMU9vNzcxSzlnRE0?oc=5",
-      "sourceName": "Google News: Cursor AI workflow",
-      "category": "cursor",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-30T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:41Z",
-      "excerpt": "Keeper、AI開発ワークフローを安全にする「Agent Kit」を提供（BCN） Yahoo!ニュース",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Cursor"
-      ]
-    },
-    {
-      "id": "f56c99a4b41d843d",
-      "title": "グーグル、GeminiでWordやExcelファイルを直接生成可能に - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yZEJURGg1ZDVYb2k4S3VlZ1d6Q0xzV01VOXVCWEhoSzBBc0dad0ItNkw4djN6ZXVicl9WbjZuSk92cDVGQ0JyM2VkTm5fdUNkZEp1UQ?oc=5",
-      "sourceName": "ASCII.jp",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-30T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:33Z",
-      "excerpt": "グーグル、GeminiでWordやExcelファイルを直接生成可能に ASCII.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "使い方"
       ]
     },
     {
@@ -6885,41 +7329,6 @@
       ]
     },
     {
-      "id": "b2e9952be7e00ba9",
-      "title": "【完全版】CodexとClaude Codeの使い方を覚えずに使う辞典を作った話 - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DQWtPRTNNdDg2NnpVVG5uMUI3UW5KbENPbjRITXVYQy1NU0psOGVTcFNWOTNNOXhCZHNJWll4dUdHZkJUemxFZnhLMFMwQUtZUkV3?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-27T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "【完全版】CodexとClaude Codeの使い方を覚えずに使う辞典を作った話 newspicks.com",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "4b59abe813f04dd3",
-      "title": "【知らなきゃ損するNotion AI実践テク】Vol.11｜Notion AIをパーソナライズして“専属アシスタント”にする - 株式会社マイナビ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbnB4ZzlqS3FoTWE2UWFJNE1HY1l5NUR0QjJISENRSjBidTEyY00zVVI4djQ2d3EwajVBT01sYlF1NGg2ckk1X0lyMlN4Qk5RMFBmb3ZqeGRyYWg0OTNF?oc=5",
-      "sourceName": "株式会社マイナビ",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-27T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "【知らなきゃ損するNotion AI実践テク】Vol.11｜Notion AIをパーソナライズして“専属アシスタント”にする 株式会社マイナビ",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
       "id": "fd88b2ccdada3e53",
       "title": "Databricks vs. Snowflake Weekly",
       "url": "https://claude.ai/public/artifacts/eb39f250-4869-4fb3-840d-d49620ee3b51",
@@ -6933,206 +7342,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "6ac5298b54e534c5",
-      "title": "2026年4月｜Claude Code教材どれ買うべき？目的別7つのBrain比較！AI副業の自動化 - 選挙ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NRzlHSTVta0dxbGl5Zkp5VEw1d0MzdkNxWmg4VVMzeHdNZENoS0JLUkZpYlNtWW5KX3owVzFiMndjSTR2UUJUY3lPRW5yVnlMZmExY2dFdV9VNWg3TzhZ?oc=5",
-      "sourceName": "Google News: Claude Code tips",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-26T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "2026年4月｜Claude Code教材どれ買うべき？目的別7つのBrain比較！AI副業の自動化 選挙ドットコム",
-      "score": 76,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
-      "id": "699201af1131b062",
-      "title": "AIコーディングの安全性を高めるオープンソースセキュリティのChainguard、Cursorと提携 - atpartners.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVll2N29xbVRPajJxOG1HenZwTHZuRlQ0bG9VU3VCMWl1d2llY01SVXpZVThBWEJxVHdDSjlsWF9hYkdkbHExVjc3ZmFFLTlTVWZuMXJMLUVhY2pLRm5weHZFTzViUGNRa0FTLXdrX0tjLTVsOVZuNTZUdGJiS2s3OXRObWNNR3dkZUNESnJ1bUM3NkFmbmx0RWNyc3BBdzVneEdUXzViazEtQjVzWkdERVhKV0RJSHVpT0JvTEFORG9ldw?oc=5",
-      "sourceName": "atpartners.co.jp",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-24T07:23:40Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "AIコーディングの安全性を高めるオープンソースセキュリティのChainguard、Cursorと提携 atpartners.co.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "workflow"
-      ]
-    },
-    {
-      "id": "dd0879cd2f459eec",
-      "title": "【5月12日(火)19：30～開催】AI活用は“使い方”で差がつく——Claude Code／OpenClawの実践ノウハウを公開、経営者限定の少人数会を渋谷で開催！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdC1oZmo4QkJSNnJoeXZBdkxDOXRfWHBYRmdwOWhJUHhwOW9UNWNQODBVeGxWSUNENGQxbzM3LUJaNmhzZ3U5c295QXk3cU11T0pEMEJxaWtBWV9FRnJ3di0xUEhOaVd6MUE?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-24T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "【5月12日(火)19：30～開催】AI活用は“使い方”で差がつく——Claude Code／OpenClawの実践ノウハウを公開、経営者限定の少人数会を渋谷で開催！ PR TIMES",
-      "score": 80,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "0dd456448871286c",
-      "title": "生成AIが社内で定着しない理由とは？ 最大の壁は「スキル・トレーニング不足」【Notion調べ】 - Web担当者Forum",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RanZCOWtPSFl2RkdYRlYxcWx4dUlOV0x2Um9xSWUzX0h6MnBnbGJneFpQTzJ2T1NndWZCcVlXbDJQNVhLSVFlNzZPTjJfb3JaeU5xaFJaelBuVG8?oc=5",
-      "sourceName": "Web担当者Forum",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-24T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "生成AIが社内で定着しない理由とは？ 最大の壁は「スキル・トレーニング不足」【Notion調べ】 Web担当者Forum",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "c7086887524ac616",
-      "title": "ChromeにAI搭載「Gemini in Chrome」何ができる？使い方と制限まとめ - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qT2dsZFFSTDRfSFU2RlRoRUxmMndpZlA5bV9LTTFYT2RyMHVIcFhQcGJoS3JJMGdpb2IxUU04UGtjZ0hTNW5Xa05MRVY0MVhhR2tpLW91aFFTLW1qSDVxT2FnSUFqM1Jx?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-23T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "ChromeにAI搭載「Gemini in Chrome」何ができる？使い方と制限まとめ マイナビニュース",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
-      "id": "982974583e3d93b2",
-      "title": "Cursor SpaceX - xAI Colossus 活用とコーディングモデル強化提携 - tech-noisy.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHNtX0JmYXc2ekEtVVpvWnVDZEVGa0VVek5ZbTAxazV3ZzBFSWRhMEJJN3FkWGV1ZHJWZ1doeU9ZZ0VOSVd6NjJoT0JDSVluVG5UN0ZaX2RVNHF3TlQ3QnBHc0czX0xvTTQ5NmE5WTZlUFRrV05FX25YZVU4ck9aZWdfSFA?oc=5",
-      "sourceName": "Google News: Cursor composer tutorial",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-23T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:42Z",
-      "excerpt": "Cursor SpaceX - xAI Colossus 活用とコーディングモデル強化提携 tech-noisy.com",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Cursor",
-        "composer",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "2f8ae4a319e29894",
-      "title": "社員7割が常時利用！Hakuhodo DY ONE流・AI活用 「一部しか使わない」壁をどう超えたか (1/3) - MarkeZine",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiYlZnc1Jnc1M0NkFjanNVMmhrajN4Tk1ubVdCSHVkbjVhaGFTNWJwTGlrZnRaZzdqMDhvcmJGRWl1Q1pnR0hSVk9Yb3VBaUdkUDQw?oc=5",
-      "sourceName": "Google News: Notion AI 活用",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-23T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:43Z",
-      "excerpt": "社員7割が常時利用！Hakuhodo DY ONE流・AI活用 「一部しか使わない」壁をどう超えたか (1/3) MarkeZine",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Notion"
-      ]
-    },
-    {
-      "id": "829308285b16adb6",
-      "title": "Codex を使い始める方法 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5XzJCVjV4VmY0QVdlYmticHhqc3F5clhMc0laN2JGOHQ2anBtLTdMNWJBeGIzQ3I1a01GU3ZSeGVfUGpGbWVkLVFiQjVYZjY5S3pXSGNJOFFlTEcwQTRxdU5B?oc=5",
-      "sourceName": "OpenAI",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-23T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "Codex を使い始める方法 OpenAI",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "799d5f0f04801085",
-      "title": "「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDTll3ZWxXc2VnVlVMUnRlQVN1a2oxSlpXUTltNGR3YVJxR3BnbGI2UnVEYUJFRVhVNlhtUHhxRnZwbTlGdlBtcHpxQW9KelBMdGxaWXNYUERIemNVa05oRDFMZ3Y5NmpOSHdtSVVkUQ?oc=5",
-      "sourceName": "Google News: Claude Code tips",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-22T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる PC Watch",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code"
-      ]
-    },
-    {
-      "id": "594a9c5a2f3a60d2",
-      "title": "GoogleフォトからGeminiに写真を探してもらおう - Ask Photosの使い方 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wNElESnVtOVZ0R3hnclQwOGxwcmtXemphcWk2bEFCdDNkSjVwLWZHZmR3bU9HV3M4c3FCTXRVYVZGMXh4dE5PSnJzcFU0ZXlKbDhtN1pGTmNTbmU0?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-22T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "GoogleフォトからGeminiに写真を探してもらおう - Ask Photosの使い方 マイナビニュース",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
-      "id": "aa51b522420f25d6",
-      "title": "【衝撃】スペースX、9.6兆円でAIエディター「Cursor」買収へ！？ - すまほん!! - すまほん!!",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjlJZTlHcXdIQmVBWkh0NTBQQ3poSGltT2Nkc3FENDQwRzFaSkpSRTdhb0xIaGg3dnV4VGF5OEFEaTZjQms5dWpNU3hRaW9fY2tYVWFfaEVSVnBWMWtQNkFQTW1ScTdUX3A3R3BEc0dqSWtUalRtRnJKS3BLMklrWC15S1g4OGJXcXhzQnotVdIBlAFBVV95cUxObWlEeFRHd19KODBrbHg1TnJhUG9QUUJzSHoxRHV0UDdYZkhCZWlpNTM1Nmo2aVNEbFY2cXhmRjhWdjVhSFVNT21vcDgxV0RYekxvWmdDMWY0UTg2amxZV0hwTWRzYTdSTWFnQTRwWHY3VjAxcHZ2TW1DOW9vZGJWMjdhV0VabDRwYklCT0hYaUtDZFQy?oc=5",
-      "sourceName": "すまほん!!",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-22T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "【衝撃】スペースX、9.6兆円でAIエディター「Cursor」買収へ！？ - すまほん!! すまほん!!",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "tips"
       ]
     },
     {
@@ -7152,98 +7361,6 @@
       ]
     },
     {
-      "id": "76d329daffabccb0",
-      "title": "女優の杏さん直伝、Google Geminiの使い方5選 なぜ、6時間のパリ観光でも安心できた？ - ITmedia Mobile - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfZWZwQW5va19UZG9scHdoc0luckNBQWF0c1hyN3dsNEFOQ3M3Rk45LUctczNVUFl2dWRKNUJwRzVKZWNUT0hjRFpQeWRSRVpDa3dEU2NxWTJoS2NLN3N0MnRUd25jTGxZa25xbzVHQdIBaEFVX3lxTE05SVp0OHZSSG9oRWJ5VkRmV04yVXZCUE9zR0l6aW9kakRnOUhhZXRzcWNQZno5bHBXSVBQZEFqaGpJaXdlOENEUDl0cXhFU0RiRjA5LWdzNEJ4eEdER2Zsazg0Q3Y5LUJh?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "女優の杏さん直伝、Google Geminiの使い方5選 なぜ、6時間のパリ観光でも安心できた？ - ITmedia Mobile ITmedia",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
-      "id": "b90dd88d534edfdd",
-      "title": "Davinci ResolveのスクリプトをCodexで作るのが便利 - ディレイマニア",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MTRDTTV2bmJNbHd1cnREYndTQzhkczJLMW1USEdxRE1SVF9zRWtRSGRic1FiczBVYXVhWUhKSDFxMmR0TEpvZ04yVFJ4d0lWblVHd2hOYVlXSW1xV0FNek1fVHMwREthSnRj?oc=5",
-      "sourceName": "Google News: Codex 使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "Davinci ResolveのスクリプトをCodexで作るのが便利 ディレイマニア",
-      "score": 68,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "b360db08e849e3c4",
-      "title": "コードが書けない経営者、「業務時間を半分」にしながら「10人分の仕事」を回す ーClaude Code超入門 - STUDY HACKER",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcm5Va2JuM1g1MWhQSDF5eTJrMUpfbzFiNHJ3bEd1VE95bUlUT3JIYjluX0VQQ1E4MTFtV2lHbDhXNnZUS2xyQkZCVmh4MXc5dkpSSlpjeXpNVklvN2ZqNGE4em4?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-04-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "コードが書けない経営者、「業務時間を半分」にしながら「10人分の仕事」を回す ーClaude Code超入門 STUDY HACKER",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "e357dfc9e4e2e8db",
-      "title": "Claude Codeは「勉強するもの」ではない！と実務家が解説 - アゴラ 言論プラットフォーム",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90eXQzdlpDdFZYbzFRZ056Uk1JUlg4Vm5VUWVTTGJlQS04WWRmejRQNXlIV01CaFNnWUxtbVhDc25GUWdnYTFwSDZjZ2FGY0l1R1RORUp1ZXlkVU0?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-04-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "Claude Codeは「勉強するもの」ではない！と実務家が解説 アゴラ 言論プラットフォーム",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "082c0cdb488e241b",
-      "title": "ブラウザのChromeにGeminiが統合、グーグルが「Gemini in Chrome」日本で提供開始 - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTXNOUkJGWFllSFBJQ0lSYU1yYnBINTNreWlYa19QXzhaUGlPUVlZeDI2aXFmb0dGQU9FcnBad0loT0hzUzduaFZhM3FQS1NQYTRScGxFeHVPTllRdm5wTy1ERnNhdXM?oc=5",
-      "sourceName": "ケータイ Watch",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:33Z",
-      "excerpt": "ブラウザのChromeにGeminiが統合、グーグルが「Gemini in Chrome」日本で提供開始 ケータイ Watch",
-      "score": 48,
-      "tags": [
-        "article",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
       "id": "3f3bca1413a5b01f",
       "title": "My M5 Max, Gemma 4, MLX LOCAL Stack. (This KILLS MODEL PROVIDERS)",
       "url": "https://www.youtube.com/watch?v=00Y-p62sk0s",
@@ -7257,112 +7374,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "4fc4a3d8baa80373",
-      "title": "毎日AIを使う層が2割に。次に求められるのは、議事録や情報検索を“自社ルール”でこなすAIエージェント - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MThEMXVMakdFSXU5dlJhaUVuWGlua2RUb1A5bUJtUDR4MnY4TnpMNEhuTHFmamVsT1JXalZfVG1FcDRqRnBUYXlURXA?oc=5",
-      "sourceName": "DXマガジン",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-20T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "毎日AIを使う層が2割に。次に求められるのは、議事録や情報検索を“自社ルール”でこなすAIエージェント DXマガジン",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "57a89e2208786701",
-      "title": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVGJoYjBqeG9pLWtnZHJHWnRmUWhlSjZfZVRubXQtcnkwQzMxM0lSaWRHX1hiMTRUc0RKa3lQcm1yeThYWjZBN3F0eGFyUG04WjRoYw?oc=5",
-      "sourceName": "ASCII.jp",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 (1/2) ASCII.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "2187301fbc1fc2f8",
-      "title": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 - 週刊アスキー",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVFRCckRVTHNINjBtdjB3ZmlYeEZZWTlZazl3VF9LQmVfRmRZZmU0ODhPeGxla0lHYTVKeXFzQ0kzT1hSd3VyajRjTGR1WkprM3VSQnZuVkdHNDUxbmRfcA?oc=5",
-      "sourceName": "週刊アスキー",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 週刊アスキー",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "5bec2a415648c568",
-      "title": "Z世代の東大生が実践するAI活用法！ChatGPTとGemini両刀で\"レポート作成\"以外の使い方 - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vd1RWWjBZb2dCWjhQaDYzQXhJdnp4VmJ5Vm5KdTBTTUt5RnA3TE9mTk9JdnZWN0dSRkJhZ2FCQnc1akNmWGFwVWhtejdSM2RkVlE?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-18T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "Z世代の東大生が実践するAI活用法！ChatGPTとGemini両刀で\"レポート作成\"以外の使い方 東洋経済オンライン",
-      "score": 80,
-      "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
-      ]
-    },
-    {
-      "id": "79afb29e3a2cbbdf",
-      "title": "Anthropic、Claude Designを公開：Opus 4.7のデザイン生成を組織向け制作ワークフローへ展開 - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMN2xVSTJDWG4tZUllN2tkSkZXZGFpU2tVbjJRNXFhUUZVd0lFV3ZtaHd1RVpwdFd2dkxyOTlpcUgxSzhTbHFyTEVUSW8zMW5LY1poWnpxSEJubzN4VzZlV0VPbHJxb1VvNFZqbk8wdEo1MlNGT3c?oc=5",
-      "sourceName": "Google News: Claude Code workflow",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-18T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "Anthropic、Claude Designを公開：Opus 4.7のデザイン生成を組織向け制作ワークフローへ展開 XenoSpectrum",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code"
-      ]
-    },
-    {
-      "id": "481d013939ea548b",
-      "title": "OpenAI、コーディングエージェント「Codex」を刷新 “ほぼすべての開発作業”を担う統合AIパートナーへ - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1TkZMZjlwZXRwVGdFVnV6SWJZYjRKN3NyRmQ2eFgzcHdxQTQwQkx3RURYM3JwMmR4SHJnb1lkUk5xeU15SXdsRW9RYWJpa2J2OXBlbGJYRy1qQlNPNVAtbHoydWVFbGxSOHl3aktBY3A?oc=5",
-      "sourceName": "Ledge.ai",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-18T04:57:29Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI、コーディングエージェント「Codex」を刷新 “ほぼすべての開発作業”を担う統合AIパートナーへ Ledge.ai",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
       ]
     },
     {
@@ -7382,190 +7393,6 @@
       ]
     },
     {
-      "id": "8a0cf860e239dbab",
-      "title": "Notion、「日本企業における生成AI活用実態調査」を公開 | Notion Labs Japan合同会社のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZN3o0TDBLSlRRaWxqZTFhWUpZUnBGdUZjQXhRMVVnTmg1QlNaNDJGekJLa1lZSklldlBPYWJ6MjVIVlNzWWFmcEdCM0pUeno3UGFNSTVnT3NvdFBjR2NGdE9tSkRQblFVVGc?oc=5",
-      "sourceName": "Google News: Notion AI 活用",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-17T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:43Z",
-      "excerpt": "Notion、「日本企業における生成AI活用実態調査」を公開 | Notion Labs Japan合同会社のプレスリリース PR TIMES",
-      "score": 80,
-      "tags": [
-        "tips",
-        "Notion",
-        "release"
-      ]
-    },
-    {
-      "id": "6a1198c9a82d0054",
-      "title": "【無料ローカルAI】音声付き動画を生成できる「LTX-2.3」ComfyUIでの使い方をわかりやすく解説！ (1/4) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CRnVDNEl2bGZtTjM4cThzR0U3Y0ZZRElaRzdvUVZKMVpyLXNMTEFkcG1qbjUtc3BnR3FHazBXQ01Jcm5va29RRGllek9RQTJhR2FOSw?oc=5",
-      "sourceName": "Google News: Gemini AI Studio tutorial",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-17T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:11:16Z",
-      "excerpt": "【無料ローカルAI】音声付き動画を生成できる「LTX-2.3」ComfyUIでの使い方をわかりやすく解説！ (1/4) ASCII.jp",
-      "score": 80,
-      "tags": [
-        "tips",
-        "Gemini",
-        "Studio",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "af9fcad0cb135af6",
-      "title": "21％がAIを仕事で「毎日利用」 ナレッジワーカー対象、Notion調査 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LekRqTmpDNGo0UTJ1S2RLZUpGMTl4eUpQRkJVZ1IzVXJUeDZ4U25najJyN3Q2MzBYSFJmNWNqVUZCa0hfY3V4TEZSblZnQXJaSjVoQTl2YzdGemtIbHdmdW1KeUZFN3BiVl92cw?oc=5",
-      "sourceName": "ITmedia",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-17T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:40Z",
-      "excerpt": "21％がAIを仕事で「毎日利用」 ナレッジワーカー対象、Notion調査 ITmedia",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion"
-      ]
-    },
-    {
-      "id": "e7ebb472cb0f4943",
-      "title": "OpenAI「Codex」週間300万ユーザー突破——「ハーネスエンジニアリング」が示すAIコーディング最前線 - CodeZine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JLXhUd0lQd3Y5VTZCWFQ5ZkVBUG5ITlhmZVFBa3NjSWxiXzlMMmM0VTFOdmdma0d6UXhucS1OVVNHQ0MtdmRpamxpdU1mZnVIMUE?oc=5",
-      "sourceName": "CodeZine",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-16T11:42:57Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "OpenAI「Codex」週間300万ユーザー突破——「ハーネスエンジニアリング」が示すAIコーディング最前線 CodeZine",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "1b8b5ce638cce5aa",
-      "title": "Claude CodeをESP32開発で使い倒す構造化ワークフロー「esp32-claude-workbench」がGitHubで公開 - FabScene",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3FTLXpod0lYY25XVW8zSzVnTWg0SlBJOXo0VGlYZHJuZVVtaXloTmJXemxZb3ItQVFJZ1h5NmpJY3lFNm5fd2QyZHNzSGpNaER3WnpCUm51V0tOVV9Ga201X3JablRGMGhPQm15em4xcHd1VkFEZzFRWkJQZTYwclBSZXFaMXNSaW16UzBHONIBlAFBVV95cUxOb1k1c29CQ1c0cmxQekYya1lYemJwOWhkYmJ4b1R5RWl0X29RLUhUUlh4cE1DaktfYWNOdTBvVTlncDE4YWZXQ3BmZ2JaX3FNM0lKTXVJS3F4U3F2S0pBWVlZa0tTSkRlY3NOYjlFaml0TUk4U081SzZWLXEwQmpKUDAzQlFiVXg5SzJFeWZlMFF1Y3JT?oc=5",
-      "sourceName": "Google News: Claude Code workflow",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-16T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "Claude CodeをESP32開発で使い倒す構造化ワークフロー「esp32-claude-workbench」がGitHubで公開 FabScene",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code"
-      ]
-    },
-    {
-      "id": "94c43758b1a8ce47",
-      "title": "Claude Codeに条件に応じてタスクを自動で実行するルーチン機能が追加される、「プルリクエストを自動でチェック」などが可能 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6aVNqcVJEdW9zczJseU1FbTYzaHVQRkl0Z0szOS1IcFFleTNkLVZGNzhyNWo5V090MjVnTld2Qm53X1FWVGpxV0J4bUpZYmFFOF9ROW9TSDJJZlhLbEFhbXJwZ2RSQQ?oc=5",
-      "sourceName": "GIGAZINE",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-16T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:31Z",
-      "excerpt": "Claude Codeに条件に応じてタスクを自動で実行するルーチン機能が追加される、「プルリクエストを自動でチェック」などが可能 GIGAZINE",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "30eeafa0ee251c59",
-      "title": "Figma Weave始動。AIネイティブデザインに向けた20以上の新ワークフローを導入 - 株式会社マイナビ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NeVdwUlZyT3p6SFJFRWtsajlBNjVoYU9TVURmYXdFRk1IbkhhMEdhY3dSb0lfR25XQmFUdk4wUUNWcFdDNzdwUHhjODByd3VaQkVDRTRPTzBJS3dFY2Q4?oc=5",
-      "sourceName": "Google News: Notion AI workflow",
-      "category": "notion",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:42Z",
-      "excerpt": "Figma Weave始動。AIネイティブデザインに向けた20以上の新ワークフローを導入 株式会社マイナビ",
-      "score": 68,
-      "tags": [
-        "workflow",
-        "Notion"
-      ]
-    },
-    {
-      "id": "b8034edd77dfbb15",
-      "title": "Claude CodeのUltraplan - プランニングをクラウドに移す新機能 - tech-noisy.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrU3RmQnhZVGJNdzMta00wNHE4ajhVdjJEanFXa1NZLUZSdTNJaWFpdUhTYkJVVzJHYzR4aHphNGhRY29kNmVfMXNzeWJaNm9pQnlDVTQzZDRyQzVubjRoYWlucmlmRjdjNzJNcFdkYXJOSnpqalJCS0FYOA?oc=5",
-      "sourceName": "tech-noisy.com",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "Claude CodeのUltraplan - プランニングをクラウドに移す新機能 tech-noisy.com",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "ca1183621def3309",
-      "title": "ChromeのGemini、プロンプトを保存して呼び出せる「スキル」 - Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0za1V0NzRSdTVnUnVTTFFTRFFGV2FBOEZHSnBIeWctblpSZ2RDaFpsNl9OUXJiMVZOME91cEZyLTNEd3IwWVFtT18zRGFNNHhITEk4WHJHSGN2NHFiR003d0w0aTc?oc=5",
-      "sourceName": "Impress Watch",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:34Z",
-      "excerpt": "ChromeのGemini、プロンプトを保存して呼び出せる「スキル」 Impress Watch",
-      "score": 48,
-      "tags": [
-        "article",
-        "Google",
-        "Gemini",
-        "workflow",
-        "examples"
-      ]
-    },
-    {
-      "id": "925180ce9afdc924",
-      "title": "より優れたAIモデルが、より意欲的な仕事を可能にする - Cursor",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GbERFc0d1N2d6QU4yTk83Mlh2OVlGSU5Md0d0QVBndVhRVHZURk1mTWF6cVdoSXNpVjNCY19CZGtoaVlNM1F5QUNYVGU1ZlZzRElfMzNTRl9pd1htd1phRFRCbXJrdw?oc=5",
-      "sourceName": "Cursor",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:36Z",
-      "excerpt": "より優れたAIモデルが、より意欲的な仕事を可能にする Cursor",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "workflow"
-      ]
-    },
-    {
       "id": "a718a7fad7426acd",
       "title": "Forensic analysis of 37GB data loss caused by Cursor AI Agent",
       "url": "https://github.com/kotarimorm/-Report-AI-coding-agent-programmatically-bypassing-OS-security-policies-Trace-ID-f4b806d4...-/blob/main/README.md",
@@ -7582,63 +7409,6 @@
       ]
     },
     {
-      "id": "283e1e73a338cf2f",
-      "title": "AnthropicのClaudeが一般的な使い方であっという間に使用量制限に到達して使い物にならないという報告 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oUVFZVlhyWW5xT2tSRlZLeDQtWThBazl6WEJUWW0zdjlDZjFaQXE4TzRITnItYlo0ZTZoZmJ6Q3hpaTBtdFM3Q21zb3kycERVeDZlZmdjVC1wdkVtZjBMQmRQUy1nMmI4c01YOGFGVFJiQQ?oc=5",
-      "sourceName": "Google News: Claude Code 使い方",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-14T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:38Z",
-      "excerpt": "AnthropicのClaudeが一般的な使い方であっという間に使用量制限に到達して使い物にならないという報告 GIGAZINE",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Claude",
-        "Code",
-        "使い方"
-      ]
-    },
-    {
-      "id": "8bdbf1bc7b666b04",
-      "title": "週間アクティブユーザー300万人にのぼるCodex、OpenAI Japanの瀬良氏に聞く「開発スタイル」の変化 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkFLTmp1aFRXakI2YmRERVpXeEt5b0phWUJ3ck5kOWlxX3NhS0dLQVF6YWYwTkNFZ00xUERCZUNTSTNXeEtxOXN2WG51TUZwaTd4SGE1aXNGN2p1dmkzeUpBTXlmc3RXaVk4eHRKcEc5WmZ6RWphZDVuMHA5cTlLMk9UVQ?oc=5",
-      "sourceName": "gihyo.jp",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-14T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "週間アクティブユーザー300万人にのぼるCodex、OpenAI Japanの瀬良氏に聞く「開発スタイル」の変化 gihyo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "cdbcec538262c654",
-      "title": "Anthropic、AIエージェント機能「Claude Cowork」を全有料プランで一般提供 企業向けに権限制御や利用分析など管理機能を追加 - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUG9ncEZSVGhteDQ1cTdnUzNNSE5wMmRyRzVVSFNCcVBfZzJWRWVBU09uQjJPUjhKSThtU2dIaTF6X0Z0Nm11dHNPWTRxZ2VlOGljODdQQ2dYYlctSzg3V3BINUdJLTZVeWVtNEwyTktMZmYxc3JpNUFLN25TVmUtYkJHcFZvRDg?oc=5",
-      "sourceName": "Ledge.ai",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-13T23:00:34Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "Anthropic、AIエージェント機能「Claude Cowork」を全有料プランで一般提供 企業向けに権限制御や利用分析など管理機能を追加 Ledge.ai",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
       "id": "5bd3ee4accc1be72",
       "title": "The First UNSHIPPED Model: Claude MYTHOS (Senior Engineer Breakdown)",
       "url": "https://www.youtube.com/watch?v=RvowJ_hmLps",
@@ -7652,156 +7422,6 @@
       "score": 55,
       "tags": [
         "video"
-      ]
-    },
-    {
-      "id": "f166b170b12b3e38",
-      "title": "Anthropic、クラウド型エージェント基盤「Claude Managed Agents」公開 インフラ管理を自動化しAIエージェントを“10倍速”で本番投入へ - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUeVBsUGxWVTNvQlVsdkRkd3pLNk9aQ09kN0FLOUpEUEwyU1pkQy04dDRBZkpxby0zblFHZ0xWUDFvQ291NGFBWEFlMmxVOXF5YzdtcTY4ZFFsMXREbkVJajAzUlYtRUM2d0NLWDRzZFNqc2M?oc=5",
-      "sourceName": "Google News: Claude Code workflow",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-04-13T06:00:04Z",
-      "fetchedAt": "2026-05-30T06:08:37Z",
-      "excerpt": "Anthropic、クラウド型エージェント基盤「Claude Managed Agents」公開 インフラ管理を自動化しAIエージェントを“10倍速”で本番投入へ Ledge.ai",
-      "score": 76,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code"
-      ]
-    },
-    {
-      "id": "faf0efde9faf2671",
-      "title": "生産性の壁を超える！AWS「AI駆動開発ライフサイクル（AI-DLC）」がもたらす開発のパラダイムリープ - CodeZine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM0hQaVFsWHYzOEx1M3RHR2ctaHRWamhJenJUXzlyS1hod1V3dm9qSUYwSGE1X0RWa3I1WlpvVVI2eTZ0Rlk1MjVjNjZsNTJkdkE?oc=5",
-      "sourceName": "CodeZine",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-13T03:36:31Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "生産性の壁を超える！AWS「AI駆動開発ライフサイクル（AI-DLC）」がもたらす開発のパラダイムリープ CodeZine",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "597708afede5c674",
-      "title": "便利なChatGPT。だけど時計機能はキッチンタイマー以下かも - ギズモード・ジャパン",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1ZHUmo5aGpYcXJHMTdGc0szSng0NzcycWlSeG4xS1hQSEZTcXpVcjcwWExVYVU3eWNZcTZUVEluZWk1Rnoxc0hzbVNvN1ppeXVOSk11M082UWNsVDJ4ZlZCLUhMbUZKMEdUcW9IejhKbFloXzV5TUpzUW9VbTA0ZGtYTTBBYkZINUxhMU5RSl95UnA2c2xKZVhSUlhUaFpydzVRUkt3?oc=5",
-      "sourceName": "Google News: ChatGPT 便利な使い方",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-04-10T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:36Z",
-      "excerpt": "便利なChatGPT。だけど時計機能はキッチンタイマー以下かも ギズモード・ジャパン",
-      "score": 68,
-      "tags": [
-        "tips",
-        "ChatGPT",
-        "便利な使い方"
-      ]
-    },
-    {
-      "id": "dabef0fb22de4bf5",
-      "title": "MetaがウェブVR開発オープンソースフレームワークにAIエージェントを統合、コードなしでVR体験を構築 - Mogura VR",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taEdyVXNLVGtQakpZZ0Roc1RYcG1nVm5VclRlVW1uU1dEWGQ5WmlpWHgxU2kzM0pUYkZaV0NHb0ZvX1R4Y0Q3MmtleFRHRGtsTGRvSmRLeUtmaVlMcC1rOTk2b2dTTWRtOG1PWUdn?oc=5",
-      "sourceName": "Mogura VR",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-10T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:28Z",
-      "excerpt": "MetaがウェブVR開発オープンソースフレームワークにAIエージェントを統合、コードなしでVR体験を構築 Mogura VR",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "coding",
-        "workflow"
-      ]
-    },
-    {
-      "id": "0055a65150ef2beb",
-      "title": "「60社をソロ担当」脅威の税理士が339万リーチ長文Xに書いた『Claude駆使の日々』 - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsYUVYYWx1c0F0SkVUQUl2Ti1YN3RFTVBDeHdBRG11M3dtaTVSMGxMdXpfT1hVcDNnYXZ0Yko0QUlCY09ua2dRZHBfSEJrZzNFMEduQW1XQ3Axamxh?oc=5",
-      "sourceName": "Forbes JAPAN",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-10T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:29Z",
-      "excerpt": "「60社をソロ担当」脅威の税理士が339万リーチ長文Xに書いた『Claude駆使の日々』 Forbes JAPAN",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
-      "id": "702e994ddd36a98b",
-      "title": "ServiceNow、全パッケージをAI対応に Claude等での構築アプリをServiceNowに直接展開可能 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVlJUTEVIYldsMGtuT1Y1ajYyZUI1d0tkT3RMSUg3bU4zWmw5NHVOMl8weEJoSm0xMzJmQXgtczVhcHhTYUdqQ1hLdFdCcWk3Z3NlM2VB?oc=5",
-      "sourceName": "EnterpriseZine",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-10T06:46:04Z",
-      "fetchedAt": "2026-05-30T06:20:30Z",
-      "excerpt": "ServiceNow、全パッケージをAI対応に Claude等での構築アプリをServiceNowに直接展開可能 EnterpriseZine",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "774d22c28e4dc1ab",
-      "title": "サイバーエージェントで ChatGPT と Codex が選ばれている理由 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodnF3V3VYd3pwS1lfZlNRTnljdWtPMVRPTFRkQzVHcVdKblluWFltU3lYVmVicndsQXVVZ1ZSN3NJRE1QUG1RWWJIU2NqaTN4enNZdw?oc=5",
-      "sourceName": "OpenAI",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-09T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:20:26Z",
-      "excerpt": "サイバーエージェントで ChatGPT と Codex が選ばれている理由 OpenAI",
-      "score": 48,
-      "tags": [
-        "article",
-        "ChatGPT",
-        "活用事例"
-      ]
-    },
-    {
-      "id": "10a33a0add3be382",
-      "title": "【神アプデ】Geminiに、NotebookLMが統合「Notebooks」が利用可能に - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nVjliUXdQT1JHenprNzJRLVdMSEd6dzY0WE5qVjVDb0p3Q2lBU2E0bE5FVmxzVW1UVWFOUllCZ2tWSzdiZFByejk2RlJZYUQtbFY0?oc=5",
-      "sourceName": "ビジネス+IT",
-      "category": "google",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-09T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:46Z",
-      "excerpt": "【神アプデ】Geminiに、NotebookLMが統合「Notebooks」が利用可能に ビジネス+IT",
-      "score": 48,
-      "tags": [
-        "article",
-        "Google",
-        "Gemini",
-        "workflow",
-        "examples"
       ]
     },
     {
@@ -7853,81 +7473,6 @@
       ]
     },
     {
-      "id": "254429366151bcce",
-      "title": "画像・動画生成AIの常識が変わる、Claude Codeに全部やらせる方法論 (2/4) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55d2VybWFaVE9nSzZMM0VEN3d0NF9lcm5sV25Ja1lCd2dMN0xhcTg0WkV4WVBBVmlPZjZqRUlZdVBBQ1dZXzJacmNwTG1tMmhDZjhqR3dKMA?oc=5",
-      "sourceName": "ASCII.jp",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-06T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:42Z",
-      "excerpt": "画像・動画生成AIの常識が変わる、Claude Codeに全部やらせる方法論 (2/4) ASCII.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "51ff7790919d1855",
-      "title": "Claude Codeによる仕様駆動開発の実践へ！ 入門から本格的な開発手法まで解説 - CodeZine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmNERMVDVSSW8wYWZnUU52Sk1kbTg5OHhzREppa2ZmTjlCTjdCV3pHU1A3N2J1U0hXeTJwdVM3QzNJZkFRY09zd25ObXNDdTBrdHc?oc=5",
-      "sourceName": "CodeZine",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-04-06T03:36:52Z",
-      "fetchedAt": "2026-05-30T06:29:42Z",
-      "excerpt": "Claude Codeによる仕様駆動開発の実践へ！ 入門から本格的な開発手法まで解説 CodeZine",
-      "score": 68,
-      "tags": [
-        "tutorial",
-        "Claude",
-        "Code",
-        "workflow"
-      ]
-    },
-    {
-      "id": "6bf525037c990341",
-      "title": "とんでもなく仕事ができる人が「ChatGPTでやっていること」・ベスト1 - ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10NXNDNXNCeHN1ekFYVzhRbm11WGYxa2g0dERGbmN3N0RvT1NuVTREQ0ZrSVJaRjk4dHZ0MEZWUnRuSlV1RWVPd1RtZXTSAU9BVV95cUxNS0VyTlZNX3BRYW1aLWN4YVVpc0dGM1lXX2RYRlhkUEdnNGVQQkRUcXJWVlItZl9KM0NxanlWbDFia1N0bEFXNDhNZUVjSmJF?oc=5",
-      "sourceName": "ダイヤモンド・オンライン",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-04T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:37Z",
-      "excerpt": "とんでもなく仕事ができる人が「ChatGPTでやっていること」・ベスト1 ダイヤモンド・オンライン",
-      "score": 48,
-      "tags": [
-        "article",
-        "ChatGPT",
-        "便利な使い方"
-      ]
-    },
-    {
-      "id": "e624aca1e4633dde",
-      "title": "Claude Code で「動くプロダクト」を半日で構築！ スタートアップ向け実践イベント【Prototype Challenge with Claude 開催レポート】 | Amazon Web Services - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yaDlkTDhEMUJTMmpmR0R3M3RyZk8tdFVta0xNbU5tbHFKbXBPQzA0b05LWlpqYURJRUdUS1pmSVlxamU2SlJ2TVVUWjJoNHNlbHBfaHRGLVpBTWlkc1d4MjdmSUtjdzVPbk96MTdLOVhLczdJ?oc=5",
-      "sourceName": "Amazon Web Services (AWS)",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-04-01T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:42Z",
-      "excerpt": "Claude Code で「動くプロダクト」を半日で構築！ スタートアップ向け実践イベント【Prototype Challenge with Claude 開催レポート】 | Amazon Web Services Amazon Web Services (AWS)",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
       "id": "a59ab9be94cc9c1b",
       "title": "Databricks Compromised by TeamPCP",
       "url": "https://www.cryptika.com/teampcp-supply-chain-attack-allegedly-compromised-databricks-platform/",
@@ -7941,45 +7486,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "55c154e7e4169be7",
-      "title": "Gemini（ジェミニ）とは？最新の生成AIの性能・特徴！使い方や活用事例も - sogyotecho.jp",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBEQkFUOC1BX3Q2NFVCbkd2a2lKSmVKSDltWXBhbGtuMGpKV1JVWkFzYVVBOXNkRU5VUjc5N3ZsNTEwVjA?oc=5",
-      "sourceName": "sogyotecho.jp",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-31T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:45Z",
-      "excerpt": "Gemini（ジェミニ）とは？最新の生成AIの性能・特徴！使い方や活用事例も sogyotecho.jp",
-      "score": 84,
-      "tags": [
-        "tips",
-        "Gemini",
-        "Studio",
-        "tutorial",
-        "usecase"
-      ]
-    },
-    {
-      "id": "24e671cb43a5ba64",
-      "title": "OpenAI、開発ツール「Codex」にプラグインを導入--ワークフローを自動化 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZzc3QS1ybEdpMk1yazZpVFNTT1d1Q0pLTUd6bGtBZWtXazVvbFlOWUJhOS1JUlM4UzRJUmxia3JVanJXV0dHb1JxVktvUHNtWkZ3?oc=5",
-      "sourceName": "ZDNET Japan",
-      "category": "openai",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-03-31T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "OpenAI、開発ツール「Codex」にプラグインを導入--ワークフローを自動化 ZDNET Japan",
-      "score": 80,
-      "tags": [
-        "workflow",
-        "OpenAI",
-        "Codex",
-        "examples"
       ]
     },
     {
@@ -8031,44 +7537,6 @@
       ]
     },
     {
-      "id": "dd6d8c73b54f0131",
-      "title": "Notion、「Japan DX Week -社内業務DX EXPO-」出展のお知らせ - tv-tokyo.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DekFjdDNVQ2lrT3VQcTlMLXRlUVVaUmRJcTFvZEtVcUpsLTRlek9DUlFHLTRXN09qbWJKVGNSRXdxU3ljZ3hEQ3ZkeEFoTjdNR1ZmLTYxZnR1dVVVNkNqNGt6S0VUMkFrZEFJeA?oc=5",
-      "sourceName": "tv-tokyo.co.jp",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-30T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:53Z",
-      "excerpt": "Notion、「Japan DX Week -社内業務DX EXPO-」出展のお知らせ tv-tokyo.co.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Notion",
-        "プロジェクト管理",
-        "使い方"
-      ]
-    },
-    {
-      "id": "89a1ae8e185e2213",
-      "title": "画像のリサイズからファイル整理まで「判断を伴う定型業務」も自動化。AIエージェント「Claude Cowork」の実力 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53a3FiZ25VdEFWXzVRQUczVmE0TDVtb3VucmFvSWkxVXhvd09zUGdmNE1yTURUcW1QcXFlZUY4VnR5d2Y0QjNhYjkzWDZXOEpmbmtkNkt2dFpwTEJqVmJqTzRmdHZySEZxdlVmMUd2RzNfZw?oc=5",
-      "sourceName": "ITmedia",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-03-27T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:42Z",
-      "excerpt": "画像のリサイズからファイル整理まで「判断を伴う定型業務」も自動化。AIエージェント「Claude Cowork」の実力 ITmedia",
-      "score": 76,
-      "tags": [
-        "workflow",
-        "Claude",
-        "Code",
-        "tips"
-      ]
-    },
-    {
       "id": "f845c75a66017b2c",
       "title": "Databricks Announces Lakewatch: New Open, Agentic SIEM",
       "url": "https://www.databricks.com/blog/databricks-announces-lakewatch-new-open-agentic-siem",
@@ -8082,26 +7550,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "4529cd2eff4e86a1",
-      "title": "Lakeflow によるデータ エンジニアリング - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJRX25fSGdjWG1Ebl9JNDdyTktzRDFVOEdLSU1iMXFraTUwOGlpYkUwT3psNndzS05NNzZWRVE0UWFkY1lkRnFobDVJMWl6T3Btd3lHVW5PQW9WWGVSSHVXSTBwcVAwTU14NElBVHNvbVlDOWVVZGFSeHFYMWRPZ3AzSEI0T2RoNVpB?oc=5",
-      "sourceName": "Databricks",
-      "category": "databricks",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-24T13:30:15Z",
-      "fetchedAt": "2026-05-30T06:29:55Z",
-      "excerpt": "Lakeflow によるデータ エンジニアリング Databricks",
-      "score": 48,
-      "tags": [
-        "article",
-        "Databricks",
-        "data",
-        "engineering",
-        "workflow"
       ]
     },
     {
@@ -8121,43 +7569,6 @@
       ]
     },
     {
-      "id": "050ee63e3361cbad",
-      "title": "デフォルトではオフだが「ChatGPT」で活用すべき便利な7つの設定 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1QWpWbXpweDc3dnVLYmc1N1NPc0hXRHhvUDc4bk80ZTRqY2JLQ0diWXEzMXRlM0ZBMUJ3VzV3TnlmZDJWeVNMX0Q1MUhuWDZRcy1F?oc=5",
-      "sourceName": "ZDNET Japan",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-23T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:37Z",
-      "excerpt": "デフォルトではオフだが「ChatGPT」で活用すべき便利な7つの設定 ZDNET Japan",
-      "score": 80,
-      "tags": [
-        "tips",
-        "ChatGPT",
-        "便利な使い方"
-      ]
-    },
-    {
-      "id": "f1833594873c2d16",
-      "title": "Cursor、コーディング特化型の次世代AIモデル「Composer 2」を提供開始 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PQllFVS1IUDd6SmxHd2Y0MG44cnRVV0kxenI0TWE0ZklNTEdtRHZZckM2eV96eTFiVUhkR0lZYjJHVURJN0NFSWhNbGRCblNuVU9j?oc=5",
-      "sourceName": "ビジネス+IT",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-21T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:49Z",
-      "excerpt": "Cursor、コーディング特化型の次世代AIモデル「Composer 2」を提供開始 ビジネス+IT",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "composer",
-        "tutorial"
-      ]
-    },
-    {
       "id": "4156c3025e8c34a9",
       "title": "Show HN: Tiny pixel characters for Cursor AI agents",
       "url": "https://github.com/wunderlabs-dev/cursouls",
@@ -8171,61 +7582,6 @@
       "score": 48,
       "tags": [
         "article"
-      ]
-    },
-    {
-      "id": "44deec8b2eac4040",
-      "title": "5カ月でコード100万行を生成してソフトウェア構築 AIコーディングを生かすための工夫とは？ OpenAI解説 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSzhPTWxQRno0ejJ3azc2VFVzYXctX0xkWHNqSXVRTkQya2hvV0UyNUVIN1V1WndaNkFlRVZ0Z3V4ekFCR1lUM21LLTR3XzB5Sm1DMjM1Z1BYcFFiRURSc2g0dHR0YkZTckhCN2NCS2hoZw?oc=5",
-      "sourceName": "ITmedia",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-03-19T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "5カ月でコード100万行を生成してソフトウェア構築 AIコーディングを生かすための工夫とは？ OpenAI解説 ITmedia",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "9bc40b9d23d080a4",
-      "title": "【AIエージェント時代】SaaSは消えるのか? SaaS終焉論とソフトウェアの未来 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DbEFVa2FOV3J4ZVNzV3c0Mk1zU0lxTjQ1TzlGNDBuZC02NW9RcGxITFdEbUQxUEFlclRtMmVUMHpiN2RnSmh6WTRnaw?oc=5",
-      "sourceName": "thinkit.co.jp",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-19T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:48Z",
-      "excerpt": "【AIエージェント時代】SaaSは消えるのか? SaaS終焉論とソフトウェアの未来 thinkit.co.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Cursor",
-        "tips"
-      ]
-    },
-    {
-      "id": "eccff9fa799e2a09",
-      "title": "非エンジニアでも簡単！ ChatGPT「Canvas」で便利なアプリを作成する方法【今すぐ使えるプロンプト紹介】 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQkNtYW5KVENMNmV4WUJsdFJmampjcElaRXBkRVNGbVhXaXlWWVNRSkxNRGpYTTBRSGFPVDhLMmNWdEVVSWJTZVFHVDB0LVhCNnBqU04ydTVaaFFqYm5KTzhVN0lxLTJpWmwtOTc1ZVRFUQ?oc=5",
-      "sourceName": "ITmedia",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-18T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:37Z",
-      "excerpt": "非エンジニアでも簡単！ ChatGPT「Canvas」で便利なアプリを作成する方法【今すぐ使えるプロンプト紹介】 ITmedia",
-      "score": 68,
-      "tags": [
-        "tips",
-        "ChatGPT",
-        "便利な使い方"
       ]
     },
     {
@@ -8261,118 +7617,6 @@
       ]
     },
     {
-      "id": "d67a32e22712ea1a",
-      "title": "OpenAI（オープンAI）とは何？ 提供するAIサービスや、日本との関係性を徹底解説 - skygroup.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qUlh0Q1lzakxuVlhGRThQUU5wakg2OGdwbGkzUFE0eHVnOE1vaWJSYWFIclZjNUhkSTlRTVAwa25QVzRVbjR0QXdZMDRGWEVURjNzV0dR?oc=5",
-      "sourceName": "skygroup.jp",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-03-16T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "OpenAI（オープンAI）とは何？ 提供するAIサービスや、日本との関係性を徹底解説 skygroup.jp",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "994e381d01618ff0",
-      "title": "【最新の生成AIサービス②】OpenAI「Codex」でAIの使い方が変わる！ AI知識のアプデ【2026年3月のアップデート】 - PRESIDENT Online（プレジデントオンライン）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qS0wtXy15TnRkUVF0UEpuQzZ3Yk8tSkFsc3RKN01rcFVNeEM5NXc3WDFMaThVVGhQVkdaUU5hSnF4X3FGeFp1WnVvN0xoejFackdFN3BrSkg?oc=5",
-      "sourceName": "PRESIDENT Online（プレジデントオンライン）",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-15T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "【最新の生成AIサービス②】OpenAI「Codex」でAIの使い方が変わる！ AI知識のアプデ【2026年3月のアップデート】 PRESIDENT Online（プレジデントオンライン）",
-      "score": 80,
-      "tags": [
-        "tips",
-        "Codex",
-        "使い方",
-        "release"
-      ]
-    },
-    {
-      "id": "f40fce8c13521dcc",
-      "title": "「ナノバナナ」とは？Googleの画像生成AI「Gemini 2.5 Flash Image」の上手な使い方 - @DIME アットダイム",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE81SnJSa0l4aFFDOEt5bVlrYi1DQ0dSZzRaQ2l1MU9pb3JPS19zZzEyeXd3elB3eGpqMDNNVnR5Z0hhRW1H?oc=5",
-      "sourceName": "@DIME アットダイム",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-14T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:45Z",
-      "excerpt": "「ナノバナナ」とは？Googleの画像生成AI「Gemini 2.5 Flash Image」の上手な使い方 @DIME アットダイム",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Gemini",
-        "Studio",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "d92056569238aea7",
-      "title": "Databricksが示す「成果を出すAI活用」、ユースケースから紐解くAI時代に求められるデータ基盤とは？ - scsk.jp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52enp0NWJaRW1nWDU0QmlObFZzc1FnWkNOYkptRkVscHBWVE9CN25sRlNQLXo5YjM1S0F2cXZfZmZVNTJPRjdOZXNzN0hzcHRXbWNyMjBuRVNudXI4STJraE9pMGF1cHB6MDlKXzVTTQ?oc=5",
-      "sourceName": "scsk.jp",
-      "category": "databricks",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-12T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:55Z",
-      "excerpt": "Databricksが示す「成果を出すAI活用」、ユースケースから紐解くAI時代に求められるデータ基盤とは？ scsk.jp",
-      "score": 76,
-      "tags": [
-        "tips",
-        "Databricks",
-        "活用事例"
-      ]
-    },
-    {
-      "id": "31817f6fb319ab2f",
-      "title": "OpenAI、Windows向け「Codex」アプリを一般提供開始 ——Windows上のCodexサンドボックスでエージェントを実行可能に - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Y0hNVFFJSUs0SFVTdzIxa0dXUEM2NUIxdWF0eFlzMzVCM01TUVpDeVhuY0lvempqLUJuVlhfMml1SGFPc3NRSVF5UVV0YWpwdUJrVDEyTXJQdnptbGo4MkFWSmM?oc=5",
-      "sourceName": "gihyo.jp",
-      "category": "openai",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-12T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:38Z",
-      "excerpt": "OpenAI、Windows向け「Codex」アプリを一般提供開始 ——Windows上のCodexサンドボックスでエージェントを実行可能に gihyo.jp",
-      "score": 48,
-      "tags": [
-        "article",
-        "Codex",
-        "使い方"
-      ]
-    },
-    {
-      "id": "31392ea02993fb04",
-      "title": "Anthropic、Coworkに“業務特化Claude”を構築できるプラグイン追加：AIエージェントのチーム向けカスタマイズを可能に - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOcjhENElVR2JfZm9BTmNvYURnVGhKYUdBZEl3QlhpS3ZZNUhjcTdGOVpYZkkyZEdScmJNUEJvZm9BemZiaUxJeDFHWmd0Q3N5cjZVcXpDcU51WXROM1hkNTFzcDNzYzBjSXh0eTBaajNuUQ?oc=5",
-      "sourceName": "ITmedia",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-03-10T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:42Z",
-      "excerpt": "Anthropic、Coworkに“業務特化Claude”を構築できるプラグイン追加：AIエージェントのチーム向けカスタマイズを可能に ITmedia",
-      "score": 48,
-      "tags": [
-        "article",
-        "Claude",
-        "productivity",
-        "examples"
-      ]
-    },
-    {
       "id": "2e0f32174aa81caa",
       "title": "Mac Mini Agents: OpenClaw is a NIGHTMARE... Use these SKILLS instead",
       "url": "https://www.youtube.com/watch?v=LOazLNQnB80",
@@ -8389,21 +7633,214 @@
       ]
     },
     {
-      "id": "bccdb081e51e9759",
-      "title": "関数嫌いを克服する、 Googleスプレッドシート×Geminiの使い方 - NTTドコモビジネス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ObjhJUS1tLXoySXRLOGtDTkhwSU5lZEpsOXlqa21Kb05ZSHdMUEhOc1dBd0hoVDFWeGczY1lGM3hEVFlzTkhMenlzQ0ZrS2s?oc=5",
-      "sourceName": "NTTドコモビジネス",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-03-09T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:29:46Z",
-      "excerpt": "関数嫌いを克服する、 Googleスプレッドシート×Geminiの使い方 NTTドコモビジネス",
-      "score": 76,
+      "id": "f856e767e7e81e40",
+      "title": "wtf is Harness Engineer & why is it important",
+      "url": "https://www.youtube.com/watch?v=kJPvfoLtFFY",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-03-05T10:17:00Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 63,
       "tags": [
-        "tips",
-        "Gemini",
-        "使い方"
+        "video"
+      ]
+    },
+    {
+      "id": "c2dc95042510be42",
+      "title": "How to prompt Gemini 3.1 for Epic animations",
+      "url": "https://www.youtube.com/watch?v=kcOowmrVI7k",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-02-25T11:40:51Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 67,
+      "tags": [
+        "video",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "5c40e4f1c1078d02",
+      "title": "Anthropic killed Tool calling",
+      "url": "https://www.youtube.com/watch?v=3wglqgskzjQ",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-02-22T10:42:01Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 55,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "984540e4dacd03e0",
+      "title": "Show HN: Monitor your team's Cursor AI spend before the invoice hits",
+      "url": "https://news.ycombinator.com/item?id=47109888",
+      "sourceName": "HN Cursor",
+      "category": "cursor",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-02-22T10:24:51Z",
+      "fetchedAt": "2026-05-30T06:33:03Z",
+      "excerpt": "My company has 100+ developers on Cursor. One of our devs switched to opus-max thinking \"fast\" meant cheaper. It costs 35x more per request. He burned $1,200 in a single day before anyone noticed. That's when I built this. It connects to Cursor's Enterprise APIs and gives you per-developer spend breakdown by model, three-layer anomaly detection (thresholds, z-score, trend analysis), Slack/email alerts on spend spikes",
+      "score": 48,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "7410a257c9923d42",
+      "title": "Agent memory resolved?",
+      "url": "https://www.youtube.com/watch?v=pAIF7vZm5k0",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-02-18T10:59:14Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 55,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "1ec6111127501c7f",
+      "title": "WebMCP - Why is awesome & How to use it",
+      "url": "https://www.youtube.com/watch?v=xQAYZBDV5jg",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-02-15T10:36:34Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 67,
+      "tags": [
+        "video",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "c9ded1a5f6fc2bee",
+      "title": "How to install and use Claude Code Agent Teams (Reverse-engineered)",
+      "url": "https://www.youtube.com/watch?v=S2WTTMXYcYY",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-02-07T11:00:17Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 67,
+      "tags": [
+        "video",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "50349cba981ee192",
+      "title": "Question of Cursor AI Movement",
+      "url": "https://news.ycombinator.com/item?id=46901744",
+      "sourceName": "HN Cursor",
+      "category": "cursor",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-02-05T16:57:44Z",
+      "fetchedAt": "2026-05-30T06:33:03Z",
+      "excerpt": "Why not have a quick action menu next to the cursor mouse used by ai companies to server ads and entertainment? Follow up question is if that is the direction we are heading to ( like have ai closer to direction of hand movement; some people say ai will replace smart phones)? Comments URL: https://news.ycombinator.com/item?id=46901744 Points: 1 # Comments: 0",
+      "score": 56,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "94c652313bdee5ba",
+      "title": "Cursor AI Hackathon Idea: AI/FOSS ERP, Tax and Legal Infrastructure",
+      "url": "https://blog.hermesloom.org/p/hackathon-idea-global-ai-and-foss",
+      "sourceName": "HN Cursor",
+      "category": "cursor",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-01-25T18:48:39Z",
+      "fetchedAt": "2026-05-30T06:33:03Z",
+      "excerpt": "Article URL: https://blog.hermesloom.org/p/hackathon-idea-global-ai-and-foss Comments URL: https://news.ycombinator.com/item?id=46756889 Points: 1 # Comments: 0",
+      "score": 48,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "07e3c1b28830725d",
+      "title": "Why MCP is dead & How I vibe now",
+      "url": "https://www.youtube.com/watch?v=fG95XsBO5U4",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-01-24T10:10:59Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 63,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "1ba20b5602562c28",
+      "title": "Cursor AI refusing $20 refund after 3 days of broken service",
+      "url": "https://news.ycombinator.com/item?id=46664901",
+      "sourceName": "HN Cursor",
+      "category": "cursor",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-01-18T04:59:30Z",
+      "fetchedAt": "2026-05-30T06:33:03Z",
+      "excerpt": "I paid $20 for Cursor Pro on Jan 14. After 3 days, tokens were exhausted and performance became unusable. I requested a refund on Jan 17 (within 7 days). Their AI bot \"Sam\" denied multiple times, then human \"Charlene\" denied saying \"reflects usage\" for 3/30 days. Now they've kicked me back to the AI bot. Is this normal SaaS practice now? 3 days = no refund for full month? Transaction: #395540957397 Comments URL: http",
+      "score": 48,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "ad928e38409119d3",
+      "title": "Secrets to unlock Gemini 3's hidden power...",
+      "url": "https://www.youtube.com/watch?v=oL6bLQOXwAY",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2025-12-24T11:44:47Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 55,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "e1f1125832a98d90",
+      "title": "Nano Banana + Gemini 3 = S-TIER UI DESIGNER",
+      "url": "https://www.youtube.com/watch?v=RYnxU_MTVvU",
+      "sourceName": "AI Jason",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2025-12-12T12:20:39Z",
+      "fetchedAt": "2026-05-30T06:33:11Z",
+      "excerpt": "",
+      "score": 55,
+      "tags": [
+        "video"
       ]
     }
   ]
