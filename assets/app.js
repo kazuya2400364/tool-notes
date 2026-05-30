@@ -283,7 +283,6 @@ function matchesQuery(item) {
 function renderCard(item) {
   const isSaved = state.saved.has(item.id);
   const isRead = state.read.has(item.id);
-  const tags = (item.tags || []).slice(0, 4);
   return `
     <article class="note-card${isRead ? " read" : ""}" data-id="${escapeAttr(item.id)}">
       <div class="note-meta">
@@ -295,9 +294,6 @@ function renderCard(item) {
       </div>
       <h2><a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer" data-action="open">${escapeHtml(item.title)}</a></h2>
       <p class="excerpt">${escapeHtml(item.excerpt || "No summary available.")}</p>
-      <div class="note-tags">
-        ${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}
-      </div>
       <div class="note-actions">
         <button class="action-button${isSaved ? " active" : ""}" type="button" data-action="save">${isSaved ? "Saved" : "Save"}</button>
         <button class="action-button${isRead ? " active" : ""}" type="button" data-action="read">${isRead ? "Read" : "Unread"}</button>
