@@ -368,6 +368,28 @@ h2 {
   gap: 10px;
 }
 
+.last-visit-divider {
+  display: grid;
+  gap: 2px;
+  margin: 2px 0;
+  padding: 9px 11px;
+  border: 1px dashed rgba(23, 23, 23, 0.26);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--ink);
+}
+
+.last-visit-divider span {
+  font-size: 0.78rem;
+  font-weight: 900;
+}
+
+.last-visit-divider small {
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 760;
+}
+
 .note-card {
   display: grid;
   gap: 10px;

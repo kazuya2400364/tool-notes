@@ -60,6 +60,7 @@ const STORE_KEYS = {
   read: "tool-notes:read",
   hidden: "tool-notes:hidden",
   lastSeen: "tool-notes:last-seen",
+  lastVisit: "tool-notes:last-visit",
 };
 
 const state = {
@@ -71,6 +72,8 @@ const state = {
   sources: new Set(),
   categories: new Set(),
   lastSeenAt: localStorage.getItem(STORE_KEYS.lastSeen) || null,
+  previousVisitAt: localStorage.getItem(STORE_KEYS.lastVisit) || null,
+  sessionStartedAt: new Date().toISOString(),
   newPicks: [],
   saved: loadSet(STORE_KEYS.saved),
   read: loadSet(STORE_KEYS.read),
@@ -135,6 +138,10 @@ function bindEvents() {
   els.filterBackdrop.addEventListener("click", closeFilterSheet);
   els.clearFilters.addEventListener("click", clearFilters);
   els.markSeen.addEventListener("click", markNewPicksSeen);
+  window.addEventListener("pagehide", saveVisitMarker);
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") saveVisitMarker();
+  });
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeFilterSheet();
   });
@@ -308,10 +315,51 @@ function render() {
   const items = getVisibleItems();
   els.itemCount.textContent = String(items.length);
   renderNewPicks();
-  els.feed.innerHTML = items.map(renderCard).join("");
+  els.feed.innerHTML = renderFeedItems(items);
   els.empty.classList.toggle("hidden", items.length > 0);
   renderActiveFilters();
   bindCardActions();
+}
+
+function renderFeedItems(items) {
+  if (!items.length) return "";
+  const markerIndex = getLastVisitMarkerIndex(items);
+  const parts = [];
+  items.forEach((item, index) => {
+    if (index === markerIndex) parts.push(renderLastVisitDivider(markerIndex));
+    parts.push(renderCard(item));
+  });
+  if (markerIndex === items.length) parts.push(renderLastVisitDivider(markerIndex));
+  return parts.join("");
+}
+
+function getLastVisitMarkerIndex(items) {
+  if (!state.previousVisitAt || state.sort !== "newest") return -1;
+  const previousVisit = Date.parse(state.previousVisitAt);
+  if (Number.isNaN(previousVisit)) return -1;
+  const markerIndex = items.findIndex((item) => getItemTimelineTime(item) <= previousVisit);
+  return markerIndex === -1 ? items.length : markerIndex;
+}
+
+function renderLastVisitDivider(newerCount) {
+  const countLabel = newerCount > 0 ? `前回以降の新着: ${newerCount}件` : "上に新着はありません";
+  return `
+    <div class="last-visit-divider" role="separator" aria-label="Last visit position">
+      <span>前回はここまで</span>
+      <small>${escapeHtml(countLabel)} · ${escapeHtml(formatDateTime(state.previousVisitAt))}</small>
+    </div>
+  `;
+}
+
+function getItemTimelineTime(item) {
+  const published = Date.parse(item.publishedAt || 0);
+  if (!Number.isNaN(published)) return published;
+  const fetched = Date.parse(item.fetchedAt || 0);
+  return Number.isNaN(fetched) ? 0 : fetched;
+}
+
+function saveVisitMarker() {
+  localStorage.setItem(STORE_KEYS.lastVisit, state.sessionStartedAt);
 }
 
 function updateNewPicks() {
@@ -544,6 +592,18 @@ function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "unknown";
   return new Intl.DateTimeFormat("ja-JP", { month: "short", day: "numeric" }).format(date);
+}
+
+function formatDateTime(value) {
+  if (!value) return "unknown";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "unknown";
+  return new Intl.DateTimeFormat("ja-JP", {
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(date);
 }
 
 function showToast(message) {

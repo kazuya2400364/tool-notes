@@ -1,4 +1,4 @@
-const CACHE_NAME = "tool-notes-v16";
+const CACHE_NAME = "tool-notes-v17";
 const APP_SHELL = [
   "./",
   "index.html",
