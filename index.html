@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="theme-color" content="#f7f5ef">
+    <meta name="theme-color" content="#f8fafc">
     <title>Tool Notes</title>
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="apple-touch-icon" href="assets/icon-192.png">
@@ -23,24 +23,29 @@
 
     <main>
       <section class="controls" aria-label="Feed controls">
-        <label class="search-box">
-          <span class="visually-hidden">Search</span>
-          <input id="searchInput" type="search" placeholder="Search tips, workflows, tools...">
-        </label>
+        <div class="control-panel">
+          <div class="sort-tabs" aria-label="Sort order">
+            <button class="text-button active" id="newestSortButton" type="button">Newest</button>
+            <button class="text-button" id="popularSortButton" type="button">Popular</button>
+          </div>
 
+          <label class="search-box">
+            <span class="visually-hidden">Search</span>
+            <input id="searchInput" type="search" placeholder="Search tips, workflows, tools...">
+          </label>
+        </div>
+
+        <p class="filter-label">Sources</p>
+        <div class="chip-row source-row" id="sourceFilters" aria-label="Sources"></div>
+        <p class="filter-label">Tools</p>
         <div class="chip-row" id="categoryFilters" aria-label="Categories"></div>
+        <p class="filter-label">Types</p>
         <div class="chip-row" id="typeFilters" aria-label="Types"></div>
-        <div class="chip-row" id="sourceFilters" aria-label="Sources"></div>
 
         <div class="status-row">
           <button class="text-button active" id="allItemsButton" type="button">All</button>
           <button class="text-button" id="savedItemsButton" type="button">Saved</button>
           <button class="text-button" id="unreadItemsButton" type="button">Unread</button>
-        </div>
-
-        <div class="status-row two">
-          <button class="text-button active" id="newestSortButton" type="button">Newest</button>
-          <button class="text-button" id="popularSortButton" type="button">Popular</button>
         </div>
       </section>
 
