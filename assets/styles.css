@@ -228,7 +228,7 @@ h2 {
 
 .status-row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 7px;
 }
 
@@ -316,15 +316,6 @@ h2 {
   line-height: 1.45;
 }
 
-.type-pill {
-  padding: 3px 7px;
-  border-radius: 6px;
-  background: var(--accent-soft);
-  color: var(--accent-ink);
-  font-size: 0.7rem;
-  font-weight: 850;
-}
-
 .note-card h2 {
   margin: 0;
   color: #f8fafc;
@@ -359,26 +350,36 @@ h2 {
 }
 
 .note-actions {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 6px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 7px;
 }
 
 .action-button {
-  min-height: 36px;
+  min-height: 32px;
   background: rgba(2, 6, 23, 0.34);
   color: #cbd5e1;
   font-size: 0.78rem;
+}
+
+.icon-action {
+  display: grid;
+  width: 40px;
+  height: 36px;
+  min-height: 36px;
+  place-items: center;
+  padding: 0;
+}
+
+.icon-action svg {
+  width: 16px;
+  height: 16px;
 }
 
 .action-button.active {
   border-color: transparent;
   background: var(--success-soft);
   color: var(--success);
-}
-
-.action-button.danger {
-  color: var(--danger);
 }
 
 .sheet-backdrop {
@@ -532,7 +533,4 @@ h2 {
     border-radius: 8px;
   }
 
-  .note-actions {
-    grid-template-columns: repeat(4, minmax(96px, 1fr));
-  }
 }

@@ -72,7 +72,6 @@ const els = {
   clearFilters: document.querySelector("#clearFiltersButton"),
   all: document.querySelector("#allItemsButton"),
   saved: document.querySelector("#savedItemsButton"),
-  unread: document.querySelector("#unreadItemsButton"),
   newest: document.querySelector("#newestSortButton"),
   popular: document.querySelector("#popularSortButton"),
 };
@@ -99,7 +98,6 @@ function bindEvents() {
 
   els.all.addEventListener("click", () => setMode("all"));
   els.saved.addEventListener("click", () => setMode("saved"));
-  els.unread.addEventListener("click", () => setMode("unread"));
   els.newest.addEventListener("click", () => setSort("newest"));
   els.popular.addEventListener("click", () => setSort("popular"));
   els.filterToggle.addEventListener("click", openFilterSheet);
@@ -189,7 +187,7 @@ function renderSourceFilters() {
 
 function setMode(mode) {
   state.mode = mode;
-  [els.all, els.saved, els.unread].forEach((button) => button.classList.remove("active"));
+  [els.all, els.saved].forEach((button) => button.classList.remove("active"));
   els[mode].classList.add("active");
   render();
 }
@@ -286,7 +284,6 @@ function renderCard(item) {
   return `
     <article class="note-card${isRead ? " read" : ""}" data-id="${escapeAttr(item.id)}">
       <div class="note-meta">
-        <span class="type-pill">${escapeHtml(TYPE_LABELS[item.type] || item.type || "Article")}</span>
         <span>${escapeHtml(SOURCE_LABELS[item.sourceGroup || inferSourceGroup(item)] || "Source")}</span>
         <span>${escapeHtml(CATEGORY_LABELS[item.category] || item.category || "Tool")}</span>
         <span>${escapeHtml(item.sourceName || "Unknown")}</span>
@@ -295,10 +292,19 @@ function renderCard(item) {
       <h2><a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer" data-action="open">${escapeHtml(item.title)}</a></h2>
       <p class="excerpt">${escapeHtml(item.excerpt || "No summary available.")}</p>
       <div class="note-actions">
-        <button class="action-button${isSaved ? " active" : ""}" type="button" data-action="save">${isSaved ? "Saved" : "Save"}</button>
-        <button class="action-button${isRead ? " active" : ""}" type="button" data-action="read">${isRead ? "Read" : "Unread"}</button>
-        <button class="action-button" type="button" data-action="copy">Prompt</button>
-        <button class="action-button danger" type="button" data-action="hide">Hide</button>
+        <button class="action-button icon-action${isSaved ? " active" : ""}" type="button" data-action="save" aria-label="${isSaved ? "Remove saved" : "Save"}" title="${isSaved ? "Saved" : "Save"}">
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+          </svg>
+        </button>
+        <button class="action-button icon-action" type="button" data-action="copy" aria-label="Copy prompt" title="Copy prompt">
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M8 7h8"></path>
+            <path d="M8 12h8"></path>
+            <path d="M8 17h5"></path>
+            <path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"></path>
+          </svg>
+        </button>
       </div>
     </article>
   `;
@@ -331,11 +337,6 @@ function bindCardActions() {
         return;
       }
       if (action === "save") toggleSet(state.saved, STORE_KEYS.saved, item.id);
-      if (action === "read") toggleSet(state.read, STORE_KEYS.read, item.id);
-      if (action === "hide") {
-        state.hidden.add(item.id);
-        saveSet(STORE_KEYS.hidden, state.hidden);
-      }
       if (action === "copy") {
         await copyPrompt(item);
         showToast("Prompt copied");
