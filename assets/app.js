@@ -32,6 +32,19 @@ const SOURCE_LABELS = {
   other: "Other",
 };
 
+const SOURCE_ICONS = {
+  all: { label: "All sources", glyph: "all" },
+  zenn: { label: "Zenn", icon: "https://cdn.simpleicons.org/zenn/3EA8FF" },
+  qiita: { label: "Qiita", icon: "https://cdn.simpleicons.org/qiita/55C500" },
+  note: { label: "note", icon: "https://cdn.simpleicons.org/note/41C9B4" },
+  reddit: { label: "Reddit", icon: "https://cdn.simpleicons.org/reddit/FF4500" },
+  hn: { label: "Hacker News", icon: "https://cdn.simpleicons.org/ycombinator/F0652F" },
+  devto: { label: "dev.to", icon: "https://cdn.simpleicons.org/devdotto/FFFFFF" },
+  youtube: { label: "YouTube", icon: "https://cdn.simpleicons.org/youtube/FF0000" },
+  blog: { label: "Blog", glyph: "rss" },
+  other: { label: "Other", glyph: "dot" },
+};
+
 const STORE_KEYS = {
   saved: "tool-notes:saved",
   read: "tool-notes:read",
@@ -166,7 +179,7 @@ function renderSourceFilters() {
   els.sourceFilters.innerHTML = chips
     .map((chip) => {
       const active = chip.value === "all" ? state.sources.size === 0 : state.sources.has(chip.value);
-      return `<button class="chip${active ? " active" : ""}" type="button" data-source="${escapeAttr(chip.value)}">${escapeHtml(chip.label)}</button>`;
+      return `<button class="chip source-chip${active ? " active" : ""}" type="button" data-source="${escapeAttr(chip.value)}" aria-label="${escapeAttr(chip.label)}" title="${escapeAttr(chip.label)}">${renderSourceIcon(chip.value)}</button>`;
     })
     .join("");
   els.sourceFilters.querySelectorAll("button").forEach((button) => {
@@ -183,6 +196,21 @@ function renderSourceFilters() {
       render();
     });
   });
+}
+
+function renderSourceIcon(source) {
+  const icon = SOURCE_ICONS[source] || SOURCE_ICONS.other;
+  const label = SOURCE_LABELS[source] || icon.label || source;
+  if (icon.icon) {
+    return `<img src="${escapeAttr(icon.icon)}" alt="" loading="lazy"><span class="source-name">${escapeHtml(label)}</span>`;
+  }
+  if (icon.glyph === "all") {
+    return `<span class="source-glyph all-glyph" aria-hidden="true"><span></span><span></span><span></span><span></span></span><span class="source-name">${escapeHtml(label)}</span>`;
+  }
+  if (icon.glyph === "rss") {
+    return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 19h.01"></path><path d="M5 5a14 14 0 0 1 14 14"></path><path d="M5 12a7 7 0 0 1 7 7"></path></svg><span class="source-name">${escapeHtml(label)}</span>`;
+  }
+  return `<span class="source-glyph dot-glyph" aria-hidden="true"></span><span class="source-name">${escapeHtml(label)}</span>`;
 }
 
 function setMode(mode) {

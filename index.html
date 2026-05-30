@@ -31,10 +31,27 @@
         <div class="control-panel">
           <div class="control-row">
             <div class="sort-tabs" aria-label="Sort order">
-              <button class="text-button active" id="newestSortButton" type="button">Newest</button>
-              <button class="text-button" id="popularSortButton" type="button">Popular</button>
+              <button class="text-button active" id="newestSortButton" type="button">
+                <svg aria-hidden="true" viewBox="0 0 24 24">
+                  <path d="M12 6v6l4 2"></path>
+                  <circle cx="12" cy="12" r="9"></circle>
+                </svg>
+                <span>Newest</span>
+              </button>
+              <button class="text-button" id="popularSortButton" type="button">
+                <svg aria-hidden="true" viewBox="0 0 24 24">
+                  <path d="M4 14l5-5 4 4 7-7"></path>
+                  <path d="M15 6h5v5"></path>
+                </svg>
+                <span>Popular</span>
+              </button>
             </div>
             <button class="filter-button" id="filterToggleButton" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M4 7h16"></path>
+                <path d="M7 12h10"></path>
+                <path d="M10 17h4"></path>
+              </svg>
               <span>Filters</span>
               <span class="filter-badge hidden" id="filterBadge">0</span>
             </button>
@@ -42,12 +59,31 @@
 
           <label class="search-box">
             <span class="visually-hidden">Search</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <circle cx="11" cy="11" r="7"></circle>
+              <path d="M20 20l-3.5-3.5"></path>
+            </svg>
             <input id="searchInput" type="search" placeholder="Search tips, workflows, tools...">
           </label>
 
           <div class="status-row">
-            <button class="text-button active" id="allItemsButton" type="button">All</button>
-            <button class="text-button" id="savedItemsButton" type="button">Saved</button>
+            <button class="text-button active" id="allItemsButton" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M8 6h13"></path>
+                <path d="M8 12h13"></path>
+                <path d="M8 18h13"></path>
+                <path d="M3 6h.01"></path>
+                <path d="M3 12h.01"></path>
+                <path d="M3 18h.01"></path>
+              </svg>
+              <span>All</span>
+            </button>
+            <button class="text-button" id="savedItemsButton" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <span>Saved</span>
+            </button>
           </div>
           <div class="active-filters hidden" id="activeFilters"></div>
         </div>

@@ -157,13 +157,29 @@ h2 {
 .search-box input {
   width: 100%;
   min-height: 43px;
-  padding: 0 13px;
+  padding: 0 13px 0 40px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: rgba(2, 6, 23, 0.5);
   color: var(--ink);
   outline: none;
   font-size: 0.96rem;
+}
+
+.search-box {
+  position: relative;
+  display: block;
+}
+
+.search-box svg {
+  position: absolute;
+  top: 50%;
+  left: 13px;
+  width: 17px;
+  height: 17px;
+  color: var(--subtle);
+  transform: translateY(-50%);
+  pointer-events: none;
 }
 
 .search-box input::placeholder {
@@ -197,6 +213,12 @@ h2 {
   padding: 0 11px;
 }
 
+.filter-button svg,
+.text-button svg {
+  width: 15px;
+  height: 15px;
+}
+
 .filter-badge {
   display: grid;
   min-width: 18px;
@@ -209,6 +231,10 @@ h2 {
 }
 
 .text-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
   padding: 0 10px;
 }
 
@@ -455,6 +481,11 @@ h2 {
   overflow: visible;
 }
 
+.filter-sheet .chip-row {
+  flex-wrap: wrap;
+  overflow: visible;
+}
+
 .chip-row::-webkit-scrollbar {
   display: none;
 }
@@ -463,6 +494,55 @@ h2 {
   flex: 0 0 auto;
   padding: 0 11px;
   white-space: nowrap;
+}
+
+.source-chip {
+  display: inline-grid;
+  width: 42px;
+  min-width: 42px;
+  height: 38px;
+  place-items: center;
+  padding: 0;
+}
+
+.source-chip img,
+.source-chip svg {
+  width: 19px;
+  height: 19px;
+}
+
+.source-chip .source-name {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+.source-glyph {
+  display: grid;
+  width: 19px;
+  height: 19px;
+  color: currentColor;
+}
+
+.all-glyph {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3px;
+}
+
+.all-glyph span {
+  border-radius: 3px;
+  background: currentColor;
+}
+
+.dot-glyph {
+  place-self: center;
+  width: 7px;
+  height: 7px;
+  border-radius: 999px;
+  background: currentColor;
 }
 
 .primary-button {
