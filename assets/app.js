@@ -414,13 +414,16 @@ function matchesQuery(item) {
 function renderCard(item) {
   const isSaved = state.saved.has(item.id);
   const isRead = state.read.has(item.id);
+  const sourceGroup = item.sourceGroup || inferSourceGroup(item);
+  const sourceLabel = SOURCE_LABELS[sourceGroup] || item.sourceName || "Source";
+  const categoryLabel = CATEGORY_LABELS[item.category] || item.category || "Tool";
   return `
     <article class="note-card${isRead ? " read" : ""}" data-id="${escapeAttr(item.id)}">
       <div class="note-meta">
-        <span>${escapeHtml(SOURCE_LABELS[item.sourceGroup || inferSourceGroup(item)] || "Source")}</span>
-        <span>${escapeHtml(CATEGORY_LABELS[item.category] || item.category || "Tool")}</span>
-        <span>${escapeHtml(item.sourceName || "Unknown")}</span>
-        <span>${escapeHtml(formatDate(item.publishedAt))}</span>
+        <span class="meta-icon" aria-label="${escapeAttr(sourceLabel)}" title="${escapeAttr(sourceLabel)}">${renderSourceIcon(sourceGroup)}</span>
+        <span class="meta-icon" aria-label="${escapeAttr(categoryLabel)}" title="${escapeAttr(categoryLabel)}">${renderCategoryIcon(item.category)}</span>
+        <span class="meta-text">${escapeHtml(item.sourceName || sourceLabel)}</span>
+        <span class="meta-date">${escapeHtml(formatDate(item.publishedAt))}</span>
       </div>
       <h2><a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer" data-action="open">${escapeHtml(item.title)}</a></h2>
       <p class="excerpt">${escapeHtml(item.excerpt || "No summary available.")}</p>
@@ -459,10 +462,11 @@ function inferSourceGroup(item) {
 function bindCardActions() {
   els.feed.querySelectorAll("[data-action]").forEach((control) => {
     control.addEventListener("click", async (event) => {
+      const actionControl = event.target.closest("[data-action]");
       const card = event.target.closest(".note-card");
       const item = state.items.find((entry) => entry.id === card?.dataset.id);
       if (!item) return;
-      const action = event.target.dataset.action;
+      const action = actionControl?.dataset.action;
 
       if (action === "open") {
         state.read.add(item.id);

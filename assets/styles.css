@@ -405,6 +405,59 @@ h2 {
   line-height: 1.45;
 }
 
+.meta-icon {
+  display: inline-grid;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  background: #fbfbf9;
+  color: var(--ink);
+}
+
+.meta-icon img,
+.meta-icon svg,
+.meta-icon .source-glyph {
+  width: 14px;
+  height: 14px;
+}
+
+.meta-icon .ai-glyph {
+  width: 17px;
+  height: 17px;
+  border-radius: 5px;
+  font-size: 0.48rem;
+}
+
+.meta-icon .all-glyph {
+  gap: 2px;
+}
+
+.meta-icon .all-glyph span {
+  border-radius: 2px;
+}
+
+.meta-icon .source-name {
+  display: none;
+}
+
+.meta-text,
+.meta-date {
+  min-width: 0;
+}
+
+.meta-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.meta-date {
+  flex: 0 0 auto;
+  color: var(--subtle);
+}
+
 .note-card h2 {
   margin: 0;
   color: var(--ink);
