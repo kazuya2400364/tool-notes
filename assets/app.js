@@ -81,7 +81,7 @@ async function loadFeed(force = false) {
   els.lastUpdated.textContent = "Loading feed...";
   try {
     const url = force ? `${DATA_URL}?t=${Date.now()}` : DATA_URL;
-    const response = await fetch(url, { cache: force ? "reload" : "default" });
+    const response = await fetch(url, { cache: "no-store" });
     if (!response.ok) throw new Error(`Feed request failed: ${response.status}`);
     const payload = await response.json();
     state.items = Array.isArray(payload.items) ? payload.items : [];
