@@ -148,9 +148,11 @@ function getVisibleItems() {
     .filter((item) => state.mode !== "unread" || !state.read.has(item.id))
     .filter((item) => matchesQuery(item))
     .sort((a, b) => {
+      const dateDelta = Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0);
+      if (dateDelta !== 0) return dateDelta;
       const scoreDelta = Number(b.score || 0) - Number(a.score || 0);
       if (scoreDelta !== 0) return scoreDelta;
-      return Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0);
+      return String(a.title || "").localeCompare(String(b.title || ""));
     });
 }
 

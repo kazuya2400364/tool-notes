@@ -47,19 +47,30 @@ TRACKING_PARAMS = {
 
 def main() -> int:
     sources = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
-    existing = load_existing_items()
+    quality_filters = sources.get("qualityFilters", {})
+    existing = [
+        item
+        for item in load_existing_items()
+        if not is_blocked_source(
+            item.get("title", ""),
+            item.get("url", ""),
+            item.get("sourceName", ""),
+            "",
+            quality_filters,
+        )
+    ]
     collected = []
     errors = []
 
     for category in sources.get("categories", []):
         for query in category.get("queries", []):
-            collected.extend(fetch_google_news(query, category["id"], errors))
+            collected.extend(fetch_google_news(query, category["id"], errors, quality_filters))
         for rss_source in category.get("rss", []):
-            collected.extend(fetch_feed(rss_source["url"], category["id"], rss_source["name"], rss_source.get("type", "article"), errors))
+            collected.extend(fetch_feed(rss_source["url"], category["id"], rss_source["name"], rss_source.get("type", "article"), errors, quality_filters=quality_filters))
 
     for channel in sources.get("youtube", []):
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(channel['channelId'])}"
-        collected.extend(fetch_feed(url, channel["category"], channel["name"], "video", errors))
+        collected.extend(fetch_feed(url, channel["category"], channel["name"], "video", errors, quality_filters=quality_filters))
 
     merged = merge_items(collected, existing)
     if stable_items(existing) == stable_items(merged[:MAX_ITEMS]):
@@ -90,13 +101,13 @@ def load_existing_items() -> list[dict]:
     return payload.get("items", []) if isinstance(payload, dict) else []
 
 
-def fetch_google_news(query: str, category: str, errors: list[str]) -> list[dict]:
+def fetch_google_news(query: str, category: str, errors: list[str], quality_filters: dict) -> list[dict]:
     params = urllib.parse.urlencode({"q": query, "hl": "ja", "gl": "JP", "ceid": "JP:ja"})
     url = f"https://news.google.com/rss/search?{params}"
-    return fetch_feed(url, category, f"Google News: {query}", "article", errors, query=query)
+    return fetch_feed(url, category, f"Google News: {query}", "article", errors, query=query, quality_filters=quality_filters)
 
 
-def fetch_feed(url: str, category: str, source_name: str, default_type: str, errors: list[str], query: str | None = None) -> list[dict]:
+def fetch_feed(url: str, category: str, source_name: str, default_type: str, errors: list[str], query: str | None = None, quality_filters: dict | None = None) -> list[dict]:
     try:
         body = request_url(url)
         root = ET.fromstring(body)
@@ -112,13 +123,17 @@ def fetch_feed(url: str, category: str, source_name: str, default_type: str, err
         if not title or not link:
             continue
         excerpt = clean_text(entry.get("summary", ""))
+        item_source_name = clean_text(entry.get("source_name", "")) or source_name
+        item_source_url = entry.get("source_url", "")
+        if is_blocked_source(title, link, item_source_name, item_source_url, quality_filters or {}):
+            continue
         published_at = parse_date(entry.get("published", ""))
         item_type = classify_type(title, excerpt, default_type)
         item = {
             "id": stable_id(link, title),
             "title": title,
             "url": normalize_url(link),
-            "sourceName": source_name,
+            "sourceName": item_source_name,
             "category": category,
             "type": item_type,
             "language": detect_language(title, excerpt, query),
@@ -154,6 +169,8 @@ def parse_entries(root: ET.Element) -> list[dict[str, str]]:
                     "link": text_at(item, "link"),
                     "summary": text_at(item, "description"),
                     "published": text_at(item, "pubDate"),
+                    "source_name": text_at(item, "source"),
+                    "source_url": source_url_at(item),
                 }
             )
         return entries
@@ -167,6 +184,8 @@ def parse_entries(root: ET.Element) -> list[dict[str, str]]:
                 "link": link_el.attrib.get("href", "") if link_el is not None else "",
                 "summary": text_at(entry, "atom:summary", ns) or text_at(entry, "atom:content", ns),
                 "published": text_at(entry, "atom:published", ns) or text_at(entry, "atom:updated", ns),
+                "source_name": "",
+                "source_url": "",
             }
         )
     return entries
@@ -175,6 +194,31 @@ def parse_entries(root: ET.Element) -> list[dict[str, str]]:
 def text_at(element: ET.Element, path: str, ns: dict[str, str] | None = None) -> str:
     found = element.find(path, ns or {})
     return "".join(found.itertext()).strip() if found is not None else ""
+
+
+def source_url_at(element: ET.Element) -> str:
+    found = element.find("source")
+    return found.attrib.get("url", "") if found is not None else ""
+
+
+def is_blocked_source(title: str, url: str, source_name: str, source_url: str, quality_filters: dict) -> bool:
+    name = source_name.lower()
+    hostname = hostname_of(source_url or url)
+    blocked_names = [value.lower() for value in quality_filters.get("blockedSourceNames", [])]
+    blocked_domains = [value.lower() for value in quality_filters.get("blockedDomains", [])]
+    if any(blocked in name for blocked in blocked_names):
+        return True
+    if any(hostname == domain or hostname.endswith(f".{domain}") for domain in blocked_domains):
+        return True
+    for pattern in quality_filters.get("blockedTitlePatterns", []):
+        if re.search(pattern, title, re.IGNORECASE):
+            return True
+    return False
+
+
+def hostname_of(url: str) -> str:
+    hostname = urllib.parse.urlparse(url).hostname or ""
+    return hostname.lower().removeprefix("www.")
 
 
 def clean_text(value: str) -> str:
@@ -296,7 +340,7 @@ def merge_items(new_items: list[dict], existing_items: list[dict]) -> list[dict]
 
     return sorted(
         by_url.values(),
-        key=lambda item: (int(item.get("score", 0)), timestamp(item.get("publishedAt"))),
+        key=lambda item: (timestamp(item.get("publishedAt")), int(item.get("score", 0))),
         reverse=True,
     )
 
