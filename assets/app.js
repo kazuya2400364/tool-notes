@@ -62,6 +62,14 @@ const els = {
   lastUpdated: document.querySelector("#lastUpdated"),
   toast: document.querySelector("#toast"),
   refresh: document.querySelector("#refreshButton"),
+  filterToggle: document.querySelector("#filterToggleButton"),
+  filterClose: document.querySelector("#filterCloseButton"),
+  filterDone: document.querySelector("#filterDoneButton"),
+  filterBackdrop: document.querySelector("#filterBackdrop"),
+  filterSheet: document.querySelector("#filterSheet"),
+  filterBadge: document.querySelector("#filterBadge"),
+  activeFilters: document.querySelector("#activeFilters"),
+  clearFilters: document.querySelector("#clearFiltersButton"),
   all: document.querySelector("#allItemsButton"),
   saved: document.querySelector("#savedItemsButton"),
   unread: document.querySelector("#unreadItemsButton"),
@@ -94,6 +102,14 @@ function bindEvents() {
   els.unread.addEventListener("click", () => setMode("unread"));
   els.newest.addEventListener("click", () => setSort("newest"));
   els.popular.addEventListener("click", () => setSort("popular"));
+  els.filterToggle.addEventListener("click", openFilterSheet);
+  els.filterClose.addEventListener("click", closeFilterSheet);
+  els.filterDone.addEventListener("click", closeFilterSheet);
+  els.filterBackdrop.addEventListener("click", closeFilterSheet);
+  els.clearFilters.addEventListener("click", clearFilters);
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeFilterSheet();
+  });
 }
 
 async function loadFeed(force = false) {
@@ -123,6 +139,7 @@ function renderFilters() {
   renderChipRow(els.categoryFilters, "category", CATEGORY_LABELS);
   renderChipRow(els.typeFilters, "type", TYPE_LABELS);
   renderSourceFilters();
+  renderActiveFilters();
 }
 
 function renderChipRow(container, key, labels) {
@@ -184,12 +201,45 @@ function setSort(sort) {
   render();
 }
 
+function openFilterSheet() {
+  els.filterBackdrop.classList.remove("hidden");
+  els.filterSheet.classList.remove("hidden");
+  document.body.classList.add("sheet-open");
+}
+
+function closeFilterSheet() {
+  els.filterBackdrop.classList.add("hidden");
+  els.filterSheet.classList.add("hidden");
+  document.body.classList.remove("sheet-open");
+}
+
+function clearFilters() {
+  state.sources.clear();
+  state.category = "all";
+  state.type = "all";
+  renderFilters();
+  render();
+}
+
 function render() {
   const items = getVisibleItems();
   els.itemCount.textContent = String(items.length);
   els.feed.innerHTML = items.map(renderCard).join("");
   els.empty.classList.toggle("hidden", items.length > 0);
+  renderActiveFilters();
   bindCardActions();
+}
+
+function renderActiveFilters() {
+  const filters = [];
+  state.sources.forEach((source) => filters.push(SOURCE_LABELS[source] || source));
+  if (state.category !== "all") filters.push(CATEGORY_LABELS[state.category] || state.category);
+  if (state.type !== "all") filters.push(TYPE_LABELS[state.type] || state.type);
+
+  els.filterBadge.textContent = String(filters.length);
+  els.filterBadge.classList.toggle("hidden", filters.length === 0);
+  els.activeFilters.classList.toggle("hidden", filters.length === 0);
+  els.activeFilters.innerHTML = filters.map((filter) => `<span>${escapeHtml(filter)}</span>`).join("");
 }
 
 function getVisibleItems() {

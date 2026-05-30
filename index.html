@@ -17,35 +17,40 @@
         <h1>Tool Notes</h1>
       </div>
       <button class="icon-button" id="refreshButton" type="button" aria-label="Reload feed" title="Reload feed">
-        <span aria-hidden="true">↻</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24">
+          <path d="M20 6v5h-5"></path>
+          <path d="M4 18v-5h5"></path>
+          <path d="M18.5 9A7 7 0 0 0 6 6.5L4 8.5"></path>
+          <path d="M5.5 15A7 7 0 0 0 18 17.5l2-2"></path>
+        </svg>
       </button>
     </header>
 
     <main>
       <section class="controls" aria-label="Feed controls">
         <div class="control-panel">
-          <div class="sort-tabs" aria-label="Sort order">
-            <button class="text-button active" id="newestSortButton" type="button">Newest</button>
-            <button class="text-button" id="popularSortButton" type="button">Popular</button>
+          <div class="control-row">
+            <div class="sort-tabs" aria-label="Sort order">
+              <button class="text-button active" id="newestSortButton" type="button">Newest</button>
+              <button class="text-button" id="popularSortButton" type="button">Popular</button>
+            </div>
+            <button class="filter-button" id="filterToggleButton" type="button">
+              <span>Filters</span>
+              <span class="filter-badge hidden" id="filterBadge">0</span>
+            </button>
           </div>
 
           <label class="search-box">
             <span class="visually-hidden">Search</span>
             <input id="searchInput" type="search" placeholder="Search tips, workflows, tools...">
           </label>
-        </div>
 
-        <p class="filter-label">Sources</p>
-        <div class="chip-row source-row" id="sourceFilters" aria-label="Sources"></div>
-        <p class="filter-label">Tools</p>
-        <div class="chip-row" id="categoryFilters" aria-label="Categories"></div>
-        <p class="filter-label">Types</p>
-        <div class="chip-row" id="typeFilters" aria-label="Types"></div>
-
-        <div class="status-row">
-          <button class="text-button active" id="allItemsButton" type="button">All</button>
-          <button class="text-button" id="savedItemsButton" type="button">Saved</button>
-          <button class="text-button" id="unreadItemsButton" type="button">Unread</button>
+          <div class="status-row">
+            <button class="text-button active" id="allItemsButton" type="button">All</button>
+            <button class="text-button" id="savedItemsButton" type="button">Saved</button>
+            <button class="text-button" id="unreadItemsButton" type="button">Unread</button>
+          </div>
+          <div class="active-filters hidden" id="activeFilters"></div>
         </div>
       </section>
 
@@ -63,6 +68,41 @@
         <p>Try another category, type, or search term.</p>
       </section>
     </main>
+
+    <div class="sheet-backdrop hidden" id="filterBackdrop"></div>
+    <section class="filter-sheet hidden" id="filterSheet" aria-label="Filters">
+      <div class="sheet-handle" aria-hidden="true"></div>
+      <div class="sheet-header">
+        <div>
+          <p class="eyebrow">Refine feed</p>
+          <h2>Filters</h2>
+        </div>
+        <button class="icon-button sheet-close" id="filterCloseButton" type="button" aria-label="Close filters">
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M6 6l12 12"></path>
+            <path d="M18 6L6 18"></path>
+          </svg>
+        </button>
+      </div>
+
+      <div class="filter-section">
+        <p class="filter-label">Sources</p>
+        <div class="chip-row source-row" id="sourceFilters" aria-label="Sources"></div>
+      </div>
+      <div class="filter-section">
+        <p class="filter-label">Tools</p>
+        <div class="chip-row wrap" id="categoryFilters" aria-label="Categories"></div>
+      </div>
+      <div class="filter-section">
+        <p class="filter-label">Types</p>
+        <div class="chip-row wrap" id="typeFilters" aria-label="Types"></div>
+      </div>
+
+      <div class="sheet-actions">
+        <button class="ghost-button" id="clearFiltersButton" type="button">Reset</button>
+        <button class="primary-button" id="filterDoneButton" type="button">Done</button>
+      </div>
+    </section>
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
