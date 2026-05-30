@@ -144,6 +144,10 @@ h1 {
   gap: 8px;
 }
 
+.status-row.two {
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .text-button {
   padding: 0 10px;
 }

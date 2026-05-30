@@ -124,7 +124,20 @@ def load_existing_items() -> list[dict]:
         payload = json.loads(ITEMS_PATH.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         return []
-    return payload.get("items", []) if isinstance(payload, dict) else []
+    items = payload.get("items", []) if isinstance(payload, dict) else []
+    return [enrich_item(item) for item in items]
+
+
+def enrich_item(item: dict) -> dict:
+    if "sourceGroup" not in item:
+        item["sourceGroup"] = classify_source_group(item.get("sourceName", ""), item.get("url", ""))
+    item["popularity"] = popularity_score(
+        int(item.get("score", 0)),
+        item.get("sourceGroup", "other"),
+        item.get("type", "article"),
+        {"title": item.get("title", ""), "summary": item.get("excerpt", "")},
+    )
+    return item
 
 
 def fetch_google_news(query: str, category: str, errors: list[str], quality_filters: dict) -> list[dict]:
@@ -155,18 +168,22 @@ def fetch_feed(url: str, category: str, source_name: str, default_type: str, err
             continue
         published_at = parse_date(entry.get("published", ""))
         item_type = classify_type(title, excerpt, default_type)
+        source_group = classify_source_group(item_source_name, link)
+        score = score_item(title, excerpt, item_type, default_type)
         item = {
             "id": stable_id(link, title),
             "title": title,
             "url": normalize_url(link),
             "sourceName": item_source_name,
+            "sourceGroup": source_group,
             "category": category,
             "type": item_type,
             "language": detect_language(title, excerpt, query),
             "publishedAt": published_at,
             "fetchedAt": now_iso(),
             "excerpt": excerpt[:420],
-            "score": score_item(title, excerpt, item_type, default_type),
+            "score": score,
+            "popularity": popularity_score(score, source_group, item_type, entry),
             "tags": build_tags(title, excerpt, item_type, query),
         }
         items.append(item)
@@ -335,6 +352,53 @@ def score_item(title: str, excerpt: str, item_type: str, default_type: str) -> i
     return max(score, 0)
 
 
+def classify_source_group(source_name: str, url: str) -> str:
+    text = f"{source_name} {url}".lower()
+    if "zenn" in text:
+        return "zenn"
+    if "qiita" in text:
+        return "qiita"
+    if "note" in text:
+        return "note"
+    if "reddit" in text:
+        return "reddit"
+    if source_name.lower().startswith("hn ") or "hnrss.org" in text or "hacker news" in text:
+        return "hn"
+    if "dev.to" in text:
+        return "devto"
+    if "youtube" in text or "youtu.be" in text:
+        return "youtube"
+    if "blog" in text or source_name in {"Google AI Blog", "Databricks Blog"}:
+        return "blog"
+    return "other"
+
+
+def popularity_score(score: int, source_group: str, item_type: str, entry: dict[str, str]) -> int:
+    # API-free approximation: practical quality + source signal + lightweight social hints from feed text.
+    group_bonus = {
+        "zenn": 34,
+        "qiita": 32,
+        "youtube": 30,
+        "devto": 22,
+        "reddit": 10,
+        "hn": 8,
+        "note": 8,
+        "blog": 12,
+        "other": 6,
+    }.get(source_group, 0)
+    type_bonus = {"tips": 16, "workflow": 15, "tutorial": 14, "usecase": 12, "video": 12, "article": 4}.get(item_type, 0)
+    text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
+    social_bonus = 0
+    for match in re.findall(r"(\d+)\s+(?:points?|comments?|upvotes?)", text):
+        social_bonus += min(int(match), 25)
+    penalty = 0
+    if re.search(r"^(//|can anyone|how do i|seriously|collection of)", text):
+        penalty += 35
+    if source_group in {"hn", "reddit"} and not re.search(r"(workflow|tips?|guide|build|case|example|template|automation|使い方|活用|事例|手順|自動化)", text):
+        penalty += 18
+    return max(score + group_bonus + type_bonus + social_bonus - penalty, 0)
+
+
 def build_tags(title: str, excerpt: str, item_type: str, query: str | None) -> list[str]:
     text = f"{title} {excerpt}".lower()
     tags = [item_type]
@@ -399,6 +463,10 @@ def merge_items(new_items: list[dict], existing_items: list[dict]) -> list[dict]
 
 
 def should_replace_item(current: dict, candidate: dict) -> bool:
+    if "sourceGroup" not in current or "popularity" not in current:
+        return True
+    if candidate.get("popularity") != current.get("popularity"):
+        return True
     if candidate.get("score", 0) > current.get("score", 0):
         return True
     if not current.get("excerpt") and candidate.get("excerpt"):
@@ -417,12 +485,14 @@ def stable_items(items: list[dict]) -> list[dict]:
                     "title",
                     "url",
                     "sourceName",
+                    "sourceGroup",
                     "category",
                     "type",
                     "language",
                     "publishedAt",
                     "excerpt",
                     "score",
+                    "popularity",
                     "tags",
                 )
             }

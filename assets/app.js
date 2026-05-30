@@ -20,6 +20,18 @@ const TYPE_LABELS = {
   release: "Release",
 };
 
+const SOURCE_LABELS = {
+  zenn: "Zenn",
+  qiita: "Qiita",
+  note: "note",
+  reddit: "Reddit",
+  hn: "HN",
+  devto: "dev.to",
+  youtube: "YouTube",
+  blog: "Blog",
+  other: "Other",
+};
+
 const STORE_KEYS = {
   saved: "tool-notes:saved",
   read: "tool-notes:read",
@@ -31,7 +43,9 @@ const state = {
   category: "all",
   type: "all",
   mode: "all",
+  sort: "newest",
   query: "",
+  sources: new Set(),
   saved: loadSet(STORE_KEYS.saved),
   read: loadSet(STORE_KEYS.read),
   hidden: loadSet(STORE_KEYS.hidden),
@@ -43,6 +57,7 @@ const els = {
   search: document.querySelector("#searchInput"),
   categoryFilters: document.querySelector("#categoryFilters"),
   typeFilters: document.querySelector("#typeFilters"),
+  sourceFilters: document.querySelector("#sourceFilters"),
   itemCount: document.querySelector("#itemCount"),
   lastUpdated: document.querySelector("#lastUpdated"),
   toast: document.querySelector("#toast"),
@@ -50,6 +65,8 @@ const els = {
   all: document.querySelector("#allItemsButton"),
   saved: document.querySelector("#savedItemsButton"),
   unread: document.querySelector("#unreadItemsButton"),
+  newest: document.querySelector("#newestSortButton"),
+  popular: document.querySelector("#popularSortButton"),
 };
 
 init();
@@ -75,6 +92,8 @@ function bindEvents() {
   els.all.addEventListener("click", () => setMode("all"));
   els.saved.addEventListener("click", () => setMode("saved"));
   els.unread.addEventListener("click", () => setMode("unread"));
+  els.newest.addEventListener("click", () => setSort("newest"));
+  els.popular.addEventListener("click", () => setSort("popular"));
 }
 
 async function loadFeed(force = false) {
@@ -103,6 +122,7 @@ async function loadFeed(force = false) {
 function renderFilters() {
   renderChipRow(els.categoryFilters, "category", CATEGORY_LABELS);
   renderChipRow(els.typeFilters, "type", TYPE_LABELS);
+  renderSourceFilters();
 }
 
 function renderChipRow(container, key, labels) {
@@ -124,10 +144,43 @@ function renderChipRow(container, key, labels) {
   });
 }
 
+function renderSourceFilters() {
+  const values = [...new Set(state.items.map((item) => item.sourceGroup || inferSourceGroup(item)).filter(Boolean))];
+  const available = Object.keys(SOURCE_LABELS).filter((value) => values.includes(value));
+  const chips = [{ value: "all", label: "All sources" }, ...available.map((value) => ({ value, label: SOURCE_LABELS[value] }))];
+  els.sourceFilters.innerHTML = chips
+    .map((chip) => {
+      const active = chip.value === "all" ? state.sources.size === 0 : state.sources.has(chip.value);
+      return `<button class="chip${active ? " active" : ""}" type="button" data-source="${escapeAttr(chip.value)}">${escapeHtml(chip.label)}</button>`;
+    })
+    .join("");
+  els.sourceFilters.querySelectorAll("button").forEach((button) => {
+    button.addEventListener("click", () => {
+      const value = button.dataset.source;
+      if (value === "all") {
+        state.sources.clear();
+      } else if (state.sources.has(value)) {
+        state.sources.delete(value);
+      } else {
+        state.sources.add(value);
+      }
+      renderFilters();
+      render();
+    });
+  });
+}
+
 function setMode(mode) {
   state.mode = mode;
   [els.all, els.saved, els.unread].forEach((button) => button.classList.remove("active"));
   els[mode].classList.add("active");
+  render();
+}
+
+function setSort(sort) {
+  state.sort = sort;
+  els.newest.classList.toggle("active", sort === "newest");
+  els.popular.classList.toggle("active", sort === "popular");
   render();
 }
 
@@ -144,10 +197,15 @@ function getVisibleItems() {
     .filter((item) => !state.hidden.has(item.id))
     .filter((item) => state.category === "all" || item.category === state.category)
     .filter((item) => state.type === "all" || item.type === state.type)
+    .filter((item) => state.sources.size === 0 || state.sources.has(item.sourceGroup || inferSourceGroup(item)))
     .filter((item) => state.mode !== "saved" || state.saved.has(item.id))
     .filter((item) => state.mode !== "unread" || !state.read.has(item.id))
     .filter((item) => matchesQuery(item))
     .sort((a, b) => {
+      if (state.sort === "popular") {
+        const popularityDelta = Number(b.popularity || b.score || 0) - Number(a.popularity || a.score || 0);
+        if (popularityDelta !== 0) return popularityDelta;
+      }
       const dateDelta = Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0);
       if (dateDelta !== 0) return dateDelta;
       const scoreDelta = Number(b.score || 0) - Number(a.score || 0);
@@ -164,6 +222,7 @@ function matchesQuery(item) {
     item.sourceName,
     CATEGORY_LABELS[item.category],
     TYPE_LABELS[item.type],
+    SOURCE_LABELS[item.sourceGroup || inferSourceGroup(item)],
     ...(item.tags || []),
   ]
     .join(" ")
@@ -179,6 +238,7 @@ function renderCard(item) {
     <article class="note-card${isRead ? " read" : ""}" data-id="${escapeAttr(item.id)}">
       <div class="note-meta">
         <span class="type-pill">${escapeHtml(TYPE_LABELS[item.type] || item.type || "Article")}</span>
+        <span>${escapeHtml(SOURCE_LABELS[item.sourceGroup || inferSourceGroup(item)] || "Source")}</span>
         <span>${escapeHtml(CATEGORY_LABELS[item.category] || item.category || "Tool")}</span>
         <span>${escapeHtml(item.sourceName || "Unknown")}</span>
         <span>${escapeHtml(formatDate(item.publishedAt))}</span>
@@ -196,6 +256,19 @@ function renderCard(item) {
       </div>
     </article>
   `;
+}
+
+function inferSourceGroup(item) {
+  const text = `${item.sourceName || ""} ${item.url || ""}`.toLowerCase();
+  if (text.includes("zenn")) return "zenn";
+  if (text.includes("qiita")) return "qiita";
+  if (text.includes("note")) return "note";
+  if (text.includes("reddit")) return "reddit";
+  if (text.includes("hn ") || text.includes("hacker news") || text.includes("hnrss")) return "hn";
+  if (text.includes("dev.to")) return "devto";
+  if (text.includes("youtube") || text.includes("youtu.be")) return "youtube";
+  if (text.includes("blog")) return "blog";
+  return "other";
 }
 
 function bindCardActions() {
