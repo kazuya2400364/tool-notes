@@ -1,0 +1,111 @@
+{
+  "categories": [
+    {
+      "id": "openai",
+      "label": "OpenAI",
+      "queries": [
+        "ChatGPT productivity tips",
+        "ChatGPT workflow automation",
+        "ChatGPT 活用事例",
+        "ChatGPT 便利な使い方",
+        "OpenAI Codex examples",
+        "Codex coding workflow",
+        "Codex 使い方"
+      ],
+      "rss": []
+    },
+    {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "queries": [
+        "Claude Code tips",
+        "Claude Code workflow",
+        "Claude Code 使い方",
+        "Claude productivity examples",
+        "Claude artifacts use cases"
+      ],
+      "rss": []
+    },
+    {
+      "id": "google",
+      "label": "Google Gemini",
+      "queries": [
+        "Gemini AI Studio tutorial",
+        "Gemini productivity tips",
+        "Gemini 使い方",
+        "Google Gemini workflow examples"
+      ],
+      "rss": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/technology/ai/rss/",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "id": "cursor",
+      "label": "Cursor",
+      "queries": [
+        "Cursor AI tips",
+        "Cursor AI workflow",
+        "Cursor rules examples",
+        "Cursor composer tutorial",
+        "Cursor AI 使い方"
+      ],
+      "rss": []
+    },
+    {
+      "id": "notion",
+      "label": "Notion",
+      "queries": [
+        "Notion AI workflow",
+        "Notion productivity system",
+        "Notion template automation",
+        "Notion AI 活用",
+        "Notion プロジェクト管理 使い方"
+      ],
+      "rss": []
+    },
+    {
+      "id": "databricks",
+      "label": "Databricks",
+      "queries": [
+        "Databricks use cases",
+        "Databricks notebook tips",
+        "Databricks data engineering workflow",
+        "Databricks 活用事例",
+        "Databricks AI BI examples"
+      ],
+      "rss": [
+        {
+          "name": "Databricks Blog",
+          "url": "https://www.databricks.com/feed",
+          "type": "article"
+        },
+        {
+          "name": "Databricks Docs",
+          "url": "https://docs.databricks.com/aws/en/feed.xml",
+          "type": "release"
+        }
+      ]
+    }
+  ],
+  "youtube": [
+    {
+      "name": "OpenAI YouTube",
+      "category": "openai",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+    },
+    {
+      "name": "Google for Developers",
+      "category": "google",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    },
+    {
+      "name": "Databricks YouTube",
+      "category": "databricks",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA"
+    }
+  ]
+}

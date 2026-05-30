@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#f7f5ef">
+    <title>Tool Notes</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23212a31'/%3E%3Cpath d='M17 18h30v6H17zm0 11h30v6H17zm0 11h18v6H17z' fill='%23f4d35e'/%3E%3C/svg%3E">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">AI tool playbook</p>
+        <h1>Tool Notes</h1>
+      </div>
+      <button class="icon-button" id="refreshButton" type="button" aria-label="Reload feed" title="Reload feed">
+        <span aria-hidden="true">↻</span>
+      </button>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Feed controls">
+        <label class="search-box">
+          <span class="visually-hidden">Search</span>
+          <input id="searchInput" type="search" placeholder="Search tips, workflows, tools...">
+        </label>
+
+        <div class="chip-row" id="categoryFilters" aria-label="Categories"></div>
+        <div class="chip-row" id="typeFilters" aria-label="Types"></div>
+
+        <div class="status-row">
+          <button class="text-button active" id="allItemsButton" type="button">All</button>
+          <button class="text-button" id="savedItemsButton" type="button">Saved</button>
+          <button class="text-button" id="unreadItemsButton" type="button">Unread</button>
+        </div>
+      </section>
+
+      <section class="summary">
+        <div>
+          <span id="itemCount">0</span>
+          <span>notes</span>
+        </div>
+        <p id="lastUpdated">Loading feed...</p>
+      </section>
+
+      <section class="feed" id="feed" aria-live="polite"></section>
+      <section class="empty-state hidden" id="emptyState">
+        <h2>No notes found</h2>
+        <p>Try another category, type, or search term.</p>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

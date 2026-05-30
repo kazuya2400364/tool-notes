@@ -1,0 +1,35 @@
+const CACHE_NAME = "tool-notes-v2";
+const APP_SHELL = [
+  "./",
+  "index.html",
+  "assets/styles.css",
+  "assets/app.js",
+  "assets/icon-192.png",
+  "assets/icon-512.png",
+  "manifest.webmanifest",
+  "icon.svg",
+];
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key)))
+    )
+  );
+});
+
+self.addEventListener("fetch", (event) => {
+  const request = event.request;
+  if (request.method !== "GET") return;
+
+  if (new URL(request.url).pathname.endsWith("/data/items.json")) {
+    event.respondWith(fetch(request).catch(() => caches.match(request)));
+    return;
+  }
+
+  event.respondWith(caches.match(request).then((cached) => cached || fetch(request)));
+});
