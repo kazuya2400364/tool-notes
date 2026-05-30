@@ -62,6 +62,12 @@ def main() -> int:
         collected.extend(fetch_feed(url, channel["category"], channel["name"], "video", errors))
 
     merged = merge_items(collected, existing)
+    if stable_items(existing) == stable_items(merged[:MAX_ITEMS]):
+        print(f"Collected {len(collected)} items, no item changes.")
+        if errors:
+            print(f"Completed with {len(errors)} source errors.", file=sys.stderr)
+        return 0
+
     payload = {
         "generatedAt": now_iso(),
         "errors": errors[-20:],
@@ -273,14 +279,15 @@ def parse_date(value: str) -> str:
 def merge_items(new_items: list[dict], existing_items: list[dict]) -> list[dict]:
     by_url = {}
     title_fingerprints = set()
-    for item in new_items + existing_items:
+    for item in existing_items + new_items:
         url = normalize_url(item.get("url", ""))
         title_key = normalize_title(item.get("title", ""))
         if not url or not title_key:
             continue
         if url in by_url or title_key in title_fingerprints:
             current = by_url.get(url)
-            if current and item.get("score", 0) > current.get("score", 0):
+            if current and should_replace_item(current, item):
+                item["fetchedAt"] = current.get("fetchedAt", item.get("fetchedAt"))
                 by_url[url] = item
             continue
         item["url"] = url
@@ -292,6 +299,38 @@ def merge_items(new_items: list[dict], existing_items: list[dict]) -> list[dict]
         key=lambda item: (int(item.get("score", 0)), timestamp(item.get("publishedAt"))),
         reverse=True,
     )
+
+
+def should_replace_item(current: dict, candidate: dict) -> bool:
+    if candidate.get("score", 0) > current.get("score", 0):
+        return True
+    if not current.get("excerpt") and candidate.get("excerpt"):
+        return True
+    return False
+
+
+def stable_items(items: list[dict]) -> list[dict]:
+    stable = []
+    for item in items[:MAX_ITEMS]:
+        stable.append(
+            {
+                key: item.get(key)
+                for key in (
+                    "id",
+                    "title",
+                    "url",
+                    "sourceName",
+                    "category",
+                    "type",
+                    "language",
+                    "publishedAt",
+                    "excerpt",
+                    "score",
+                    "tags",
+                )
+            }
+        )
+    return stable
 
 
 def normalize_title(title: str) -> str:

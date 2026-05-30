@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T06:08:45Z",
+  "generatedAt": "2026-05-30T06:10:17Z",
   "errors": [],
   "items": [
     {
@@ -447,6 +447,26 @@
         "Studio",
         "tutorial",
         "usecase"
+      ]
+    },
+    {
+      "id": "16d019964074b02d",
+      "title": "約8割の企業が陥る「成果の出ないAI」の罠とは？面倒な手動操作をなくしROIを最大化する、「AIワークフロー自動化ツール入門」ホワイトペーパーを無料公開 | 株式会社Haruのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4weGtoMWlQVmdra3h6eXpUTzA5azBGLThrbHpXR1NHQXVyRkhxc0FZb0FqcVFzQmo5cWY4S3R5Wmp3U1NpaWkwWFQ1WnBYUHItbEJGaUJMOG54b2ROUVVZa0hOOVdLWXdkM2c?oc=5",
+      "sourceName": "Google News: ChatGPT workflow automation",
+      "category": "openai",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2025-11-05T08:00:00Z",
+      "fetchedAt": "2026-05-30T06:09:54Z",
+      "excerpt": "約8割の企業が陥る「成果の出ないAI」の罠とは？面倒な手動操作をなくしROIを最大化する、「AIワークフロー自動化ツール入門」ホワイトペーパーを無料公開 | 株式会社Haruのプレスリリース PR TIMES",
+      "score": 88,
+      "tags": [
+        "workflow",
+        "ChatGPT",
+        "automation",
+        "tutorial",
+        "release"
       ]
     },
     {
@@ -4442,6 +4462,24 @@
         "プロジェクト管理",
         "使い方",
         "tutorial"
+      ]
+    },
+    {
+      "id": "31dd8bad5cdc191b",
+      "title": "意外と知らないMicrosoft Edgeの便利な使い方(28) AI検索 - ChatGPTとの違い - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53bVBMTll2LXVXLWY3RDFNMW1adElJSWFIRExKaWlDaGZtVmozY2RlOGkwYXYxSHhTeTJLMlZrWGwwd3M4RnY1ZVBQNFdsN2JoTF9BVG50VklkZGY2UGx1ZThWMTRLam9FTXc?oc=5",
+      "sourceName": "Google News: ChatGPT 便利な使い方",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2023-04-18T07:00:00Z",
+      "fetchedAt": "2026-05-30T06:09:56Z",
+      "excerpt": "意外と知らないMicrosoft Edgeの便利な使い方(28) AI検索 - ChatGPTとの違い マイナビニュース",
+      "score": 80,
+      "tags": [
+        "tips",
+        "ChatGPT",
+        "便利な使い方"
       ]
     },
     {
@@ -9274,40 +9312,6 @@
         "tutorial",
         "Gemini",
         "使い方"
-      ]
-    },
-    {
-      "id": "20823e34e0d1a684",
-      "title": "Supervisor Agent is now Generally Available",
-      "url": "https://docs.databricks.com/aws/en/release-notes/product/2026/february",
-      "sourceName": "Databricks Docs",
-      "category": "databricks",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-02-10T00:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:45Z",
-      "excerpt": "Use Supervisor Agent to create a multi-agent supervisor system that orchestrates AI agents and tools to work together on complex tasks. Supervisor Agent is now Generally Available in select US regions for workspaces without Enhanced Security and Compliance features.",
-      "score": 64,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "d8721572d3d65613",
-      "title": "『Cursor完全入門』などプログラミング関連書が50％OFF！Amazonの「Kindle本 高価格タイトルセール」 - 窓の杜",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDkxc0J2cF9ycktXRmFvMTBmaE9iZ3RyaUJQcGhxTzg0Ujc0QUhQbnBHNGllMkxSbEF2N09ueUNuMmhZejU3OHFoRG56cnJuSk41VFpmZXlGMEZEbmtsd0ViTWVxN2FwRmJqcFJ0dVZKamxOTkE?oc=5",
-      "sourceName": "Google News: Cursor AI tips",
-      "category": "cursor",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-02-09T08:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:41Z",
-      "excerpt": "『Cursor完全入門』などプログラミング関連書が50％OFF！Amazonの「Kindle本 高価格タイトルセール」 窓の杜",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "Cursor",
-        "tips"
       ]
     }
   ]
