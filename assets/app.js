@@ -64,12 +64,12 @@ const STORE_KEYS = {
 
 const state = {
   items: [],
-  category: "all",
   type: "all",
   mode: "all",
   sort: "newest",
   query: "",
   sources: new Set(),
+  categories: new Set(),
   lastSeenAt: localStorage.getItem(STORE_KEYS.lastSeen) || null,
   newPicks: [],
   saved: loadSet(STORE_KEYS.saved),
@@ -177,13 +177,21 @@ function renderCategoryFilters() {
   const chips = [{ value: "all", label: "All" }, ...available.map((value) => ({ value, label: CATEGORY_LABELS[value] }))];
   els.categoryFilters.innerHTML = chips
     .map((chip) => {
-      const active = state.category === chip.value ? " active" : "";
-      return `<button class="chip tool-chip${active}" type="button" data-category="${escapeAttr(chip.value)}" aria-label="${escapeAttr(chip.label)}" title="${escapeAttr(chip.label)}">${renderCategoryIcon(chip.value)}</button>`;
+      const active = chip.value === "all" ? state.categories.size === 0 : state.categories.has(chip.value);
+      const activeClass = active ? " active" : "";
+      return `<button class="chip tool-chip${activeClass}" type="button" data-category="${escapeAttr(chip.value)}" aria-label="${escapeAttr(chip.label)}" title="${escapeAttr(chip.label)}">${renderCategoryIcon(chip.value)}</button>`;
     })
     .join("");
   els.categoryFilters.querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => {
-      state.category = button.dataset.category;
+      const value = button.dataset.category;
+      if (value === "all") {
+        state.categories.clear();
+      } else if (state.categories.has(value)) {
+        state.categories.delete(value);
+      } else {
+        state.categories.add(value);
+      }
       renderFilters();
       render();
     });
@@ -290,7 +298,7 @@ function closeFilterSheet() {
 
 function clearFilters() {
   state.sources.clear();
-  state.category = "all";
+  state.categories.clear();
   state.type = "all";
   renderFilters();
   render();
@@ -364,7 +372,7 @@ function updateAppBadge(count) {
 function renderActiveFilters() {
   const filters = [];
   state.sources.forEach((source) => filters.push(SOURCE_LABELS[source] || source));
-  if (state.category !== "all") filters.push(CATEGORY_LABELS[state.category] || state.category);
+  state.categories.forEach((category) => filters.push(CATEGORY_LABELS[category] || category));
   if (state.type !== "all") filters.push(TYPE_LABELS[state.type] || state.type);
 
   els.filterBadge.textContent = String(filters.length);
@@ -376,7 +384,7 @@ function renderActiveFilters() {
 function getVisibleItems() {
   return state.items
     .filter((item) => !state.hidden.has(item.id))
-    .filter((item) => state.category === "all" || item.category === state.category)
+    .filter((item) => state.categories.size === 0 || state.categories.has(item.category))
     .filter((item) => state.type === "all" || item.type === state.type)
     .filter((item) => state.sources.size === 0 || state.sources.has(item.sourceGroup || inferSourceGroup(item)))
     .filter((item) => state.mode !== "saved" || state.saved.has(item.id))
