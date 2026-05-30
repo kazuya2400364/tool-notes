@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T06:10:17Z",
+  "generatedAt": "2026-05-30T06:11:24Z",
   "errors": [],
   "items": [
     {
@@ -370,6 +370,26 @@
       ]
     },
     {
+      "id": "42c582d18d144f6d",
+      "title": "ChatGPT ショッピングリサーチとは？仕組み・使い方・活用事例まで徹底解説 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qc1YyalRjN1pJUVRHajlhWWtfcTFOcHktZGhKTEtkdXhqZkt3b3k0YjNFdmt0MlFERFhOM25SODFUQ24zUFItYmNqUk9NZUs4M21QU2tIOUphVWNMY0c5UHhNZjNWSjVn?oc=5",
+      "sourceName": "Google News: ChatGPT 活用事例",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2025-12-03T08:00:00Z",
+      "fetchedAt": "2026-05-30T06:11:12Z",
+      "excerpt": "ChatGPT ショッピングリサーチとは？仕組み・使い方・活用事例まで徹底解説 AIsmiley",
+      "score": 88,
+      "tags": [
+        "tips",
+        "ChatGPT",
+        "活用事例",
+        "tutorial",
+        "usecase"
+      ]
+    },
+    {
       "id": "f9fd4a0be761ab16",
       "title": "ChatGPTとは何？ わかりやすく簡単に仕組みから使い方、活用事例まで徹底解説 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BeFl5MUFxM3pQaUxWS05hcUVqcS1LOXp0ZlR2aWhIUEJGbEZ4ZnIwXzBYMFJoT09pTkhScEhDdW5fRjJXMjBOSVVKOGdnRmwtcTlaMWtZUlY1V1A0Q3c?oc=5",
@@ -559,6 +579,26 @@
       "publishedAt": "2025-09-25T07:00:00Z",
       "fetchedAt": "2026-05-30T06:08:35Z",
       "excerpt": "ChatGPTの新機能「Pulse」とは？使い方や活用事例を徹底解説！ SHIFT AI",
+      "score": 88,
+      "tags": [
+        "tips",
+        "ChatGPT",
+        "活用事例",
+        "tutorial",
+        "usecase"
+      ]
+    },
+    {
+      "id": "1c17992268cb1e60",
+      "title": "【2025年最新】GPT-5 Proとは？性能や使い方、活用事例を徹底解説 - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xUnNvVDh1cE42c0ZtRk15cDRjaXp0b1ZVYnlEWTRicnNfV3Q0TUxuWVdkYnZBb25QUy04WGRjdFNMMXpiWS03bmdB?oc=5",
+      "sourceName": "Google News: ChatGPT 活用事例",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2025-08-08T07:00:00Z",
+      "fetchedAt": "2026-05-30T06:11:12Z",
+      "excerpt": "【2025年最新】GPT-5 Proとは？性能や使い方、活用事例を徹底解説 SHIFT AI",
       "score": 88,
       "tags": [
         "tips",
@@ -2162,6 +2202,25 @@
       ]
     },
     {
+      "id": "6a1198c9a82d0054",
+      "title": "【無料ローカルAI】音声付き動画を生成できる「LTX-2.3」ComfyUIでの使い方をわかりやすく解説！ (1/4) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CRnVDNEl2bGZtTjM4cThzR0U3Y0ZZRElaRzdvUVZKMVpyLXNMTEFkcG1qbjUtc3BnR3FHazBXQ01Jcm5va29RRGllek9RQTJhR2FOSw?oc=5",
+      "sourceName": "Google News: Gemini AI Studio tutorial",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-04-17T07:00:00Z",
+      "fetchedAt": "2026-05-30T06:11:16Z",
+      "excerpt": "【無料ローカルAI】音声付き動画を生成できる「LTX-2.3」ComfyUIでの使い方をわかりやすく解説！ (1/4) ASCII.jp",
+      "score": 80,
+      "tags": [
+        "tips",
+        "Gemini",
+        "Studio",
+        "tutorial"
+      ]
+    },
+    {
       "id": "dbe0c875928c20a0",
       "title": "Gemini APIの料金は？無料で使える範囲や使い方、3つの事例を紹介 - SHIFT AI",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wbU1xa2VJbHhMUW9Ib0VQVEN4X3pYUzlRby1WZ3dqNjc2V2N6bVZpS09UdE5zbktUcHNQMjF6bWpCM0pCaTV2VGF3?oc=5",
@@ -3499,6 +3558,25 @@
         "tips",
         "ChatGPT",
         "活用事例"
+      ]
+    },
+    {
+      "id": "d8d3e0677e5ca970",
+      "title": "ChatGPTのデータ分析「Advanced Data Analysis」とは？Plusユーザーしか使えない？注意点、設定方法、活用例徹底解説！ - ai-market.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCdlRmdzNKeVZ0eHp5RWVQVUlMVUtDWGtkajdNcDVGWkp0NGZqZURMN0tRUWlncEZTRmI3Umc3dXBBLUZlY3FseEtreGFfRHlSYlYtdFVVWXRuSktLNGIwLVJ5b1lDUQ?oc=5",
+      "sourceName": "Google News: ChatGPT 活用事例",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2025-08-20T07:00:00Z",
+      "fetchedAt": "2026-05-30T06:11:12Z",
+      "excerpt": "ChatGPTのデータ分析「Advanced Data Analysis」とは？Plusユーザーしか使えない？注意点、設定方法、活用例徹底解説！ ai-market.jp",
+      "score": 80,
+      "tags": [
+        "tips",
+        "ChatGPT",
+        "活用事例",
+        "tutorial"
       ]
     },
     {
@@ -9241,77 +9319,6 @@
         "OpenAI",
         "Codex",
         "examples"
-      ]
-    },
-    {
-      "id": "bd81738c66c36510",
-      "title": "Dashboard enhancements and improvements",
-      "url": "https://docs.databricks.com/aws/en/ai-bi/release-notes/2026",
-      "sourceName": "Databricks Docs",
-      "category": "databricks",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-03-12T00:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:45Z",
-      "excerpt": "Dashboard embedding for external users is generally available : Embed AI/BI dashboards in external applications without requiring viewers to have Databricks accounts. See What is embedding for external users? . Hide Databricks logo in embedded dashboards : Externally embedded dashboards now support hiding the Databricks logo using the hideDatabricksLogo option. See Hide the Databricks logo . Metric view lineage highl",
-      "score": 64,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "333473fd57672b38",
-      "title": "【特集】 無料で使える「LM Studio」でローカルLLM入門。導入から性能比較まで - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rak02U1VqUWVJYkpGaE82SlcwYTNUVkJmX3lUZnA4cmZEd2t6V185NnZidjc1ZUNwWGxYaWl4SWF0X3RhcFBKcWd5MHVTLVlnX1dadlp0dF9QRGVZRDI0anB3YXRLeFUxVjU3SGpFVQ?oc=5",
-      "sourceName": "Google News: Gemini AI Studio tutorial",
-      "category": "google",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-03-09T07:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:39Z",
-      "excerpt": "【特集】 無料で使える「LM Studio」でローカルLLM入門。導入から性能比較まで PC Watch",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "Gemini",
-        "Studio"
-      ]
-    },
-    {
-      "id": "13ff98340102bb2f",
-      "title": "【OpenAI】Codexとは？ソフトウェア開発を支援するAIエージェントの機能や特長、料金プランを徹底解説！ - ai-market.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zemdVaDZGYkw2OFJxV3JQOUxodFRaN1V1Ny1SeGJlci1wRlBlVXl5em1hZTRPZDZJbnQzX0VxbUZFSUx0VnJOT1VwdHhtTjJ3NVdWR213?oc=5",
-      "sourceName": "Google News: OpenAI Codex examples",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-03-06T08:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:36Z",
-      "excerpt": "【OpenAI】Codexとは？ソフトウェア開発を支援するAIエージェントの機能や特長、料金プランを徹底解説！ ai-market.jp",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "OpenAI",
-        "Codex",
-        "examples"
-      ]
-    },
-    {
-      "id": "215103d143d2f47d",
-      "title": "【野田クリスタル×Gemini】ペットカードジェネレーターのやり方やアプリの作り方を解説 - SHIFT AI",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80MXNTc1hGME41cHcwT3h3ZndFMmNERjVSWjN2ZTdnWTdUa1hQUmd3RTJvcnhmRmFfdk9ybmk3OUJSYWpoZ3hwYWx3?oc=5",
-      "sourceName": "Google News: Gemini 使い方",
-      "category": "google",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-03-02T08:00:00Z",
-      "fetchedAt": "2026-05-30T06:08:40Z",
-      "excerpt": "【野田クリスタル×Gemini】ペットカードジェネレーターのやり方やアプリの作り方を解説 SHIFT AI",
-      "score": 64,
-      "tags": [
-        "tutorial",
-        "Gemini",
-        "使い方"
       ]
     }
   ]
