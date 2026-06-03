@@ -1,17 +1,1548 @@
 {
-  "generatedAt": "2026-06-03T04:43:47Z",
+  "generatedAt": "2026-06-03T16:58:44Z",
   "errors": [
-    "HN Gemini: HTTP Error 502: Bad Gateway",
-    "HN Cursor: HTTP Error 502: Bad Gateway",
-    "HN Databricks: HTTP Error 502: Bad Gateway",
-    "OpenAI YouTube: HTTP Error 404: Not Found",
-    "Google for Developers: HTTP Error 404: Not Found",
-    "Databricks YouTube: HTTP Error 404: Not Found",
-    "IndyDevDan: HTTP Error 404: Not Found",
-    "AI Jason: HTTP Error 500: Internal Server Error",
-    "All About AI: HTTP Error 500: Internal Server Error"
+    "Qiita ChatGPT: HTTP Error 403: Forbidden",
+    "note ChatGPT: HTTP Error 403: Forbidden",
+    "note Codex: HTTP Error 403: Forbidden",
+    "Qiita Claude: HTTP Error 403: Forbidden",
+    "note Claude: HTTP Error 403: Forbidden",
+    "note Claude Code: HTTP Error 403: Forbidden",
+    "Qiita Gemini: HTTP Error 403: Forbidden",
+    "note Gemini: HTTP Error 403: Forbidden",
+    "Qiita Cursor: HTTP Error 403: Forbidden",
+    "note Cursor: HTTP Error 403: Forbidden",
+    "Qiita Notion: HTTP Error 403: Forbidden",
+    "note Notion: HTTP Error 403: Forbidden",
+    "Qiita Databricks: HTTP Error 403: Forbidden",
+    "note Databricks: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "8efef4991a632d87",
+      "title": "Claude is an incredible builder. It will also leave your app completely exposed and not say a word about it.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvv0vw/claude_is_an_incredible_builder_it_will_also/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:43:34Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "I love Claude for coding. It's fast, it understands context, it ships working features in minutes. But I've been using it to build a real app with real users, and at some point I asked myself: has Claude ever once mentioned security while writing my code? It hasn't. Not once. No warning when it hardcoded a secret. No suggestion to add rate limiting. No mention of input validation. It just wrote clean, functional, com",
+      "score": 72,
+      "popularity": 98,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "88110ecaf1f464a7",
+      "title": "Any suggestions how to optimise new models for creative writing?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvv094/any_suggestions_how_to_optimise_new_models_for/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:42:58Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "I am not the fan of any of them and yes I’ve used the strongest model which is Opus 4.8 at Max. The problems I have with it is - Repetitive dialogue and prose writing - Way too safe and too much filters (one my characters is dealing with substance abuse problems and I noticed he was completely ignored and not inserted into the roleplay and when I asked why Claude said because it was problematic). I’ve never seen othe",
+      "score": 72,
+      "popularity": 78,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "633be1ae1e1ce48d",
+      "title": "A company didn't spend $500M on Claude in a month",
+      "url": "https://stax.sh/articles/500-million-claude-bill",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:37:43Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://stax.sh/articles/500-million-claude-bill Comments URL: https://news.ycombinator.com/item?id=48386295 Points: 1 # Comments: 1",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "c4bcaa9d69923b77",
+      "title": "New to Claude code session question",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvus4k/new_to_claude_code_session_question/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:35:12Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "Have been using Claude for a long time to code and build projects but just discovered and went deep into Claude code sub agents the whole nine yards. For coding new things into an existing project is it best to start a new code session each time. Context bloat I’m aware of and start new sessions once it gets too big. But for small sessions, new session each time? submitted by /u/swimerdude1 [link] [comments]",
+      "score": 72,
+      "popularity": 98,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f0325d9ac4a565e5",
+      "title": "Is there any Claude-in-app browser?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvup6k/is_there_any_claudeinapp_browser/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:32:17Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "Hello everyone, I want to have something similar to codex in app annotation tool for my web page development. I really like this feature about the codex app and would like to use my claude models with it. I'm open to any open-source or closed-source anthropic alternative thank you! submitted by /u/FearlessShift8 [link] [comments]",
+      "score": 64,
+      "popularity": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e74964f2a36e65fb",
+      "title": "CMU research study on spec-driven development — looking for open-source devs to interview (45-60 min, Zoom)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvun34/cmu_research_study_on_specdriven_development/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:30:20Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "Hey everyone, I'm a researcher at Carnegie Mellon University conducting a research study on how developers are actually using spec-driven development (SDD) in practice — things like writing SPEC.md files, PRDs, or structured natural-language specs before working with AI coding agents like Claude Code. There's a lot of community knowledge about how to do SDD well, but almost no academic research on it. I'm trying to c",
+      "score": 76,
+      "popularity": 100,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "97283e3d1bcfaf4b",
+      "title": "Claude Desktop on Windows 11, with Docker MCP",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvuinc/claude_desktop_on_windows_11_with_docker_mcp/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:26:10Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "I am truly throwing a hail mary, with this post so i don't get fired. My situation is the following, I am trying to make a MCP server for MySQL and be able to connect claude with my companys DB, I want to make it in docker so I can send it to my boss who wants everything to do with claude. I have been able to make the docker image and the python script was all made by Claude. My problems start to arise in which A. Cl",
+      "score": 64,
+      "popularity": 70,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "0dc568fc15b2fc1d",
+      "title": "How do I use Claude to automate uploading and releasing video clips to social media?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvuf7w/how_do_i_use_claude_to_automate_uploading_and/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:22:55Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "I work with a client who releases social video clips on social media three times a week on a schedule to multiple social media sites. They desire to use Claude AI to help automate this. I'm super new to Claude and have recently added a skill to help me write prompts for AI models, but that's about it. What skills should I add? What am I and the client not considering here? If someone could just point me in the right ",
+      "score": 72,
+      "popularity": 63,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "84bb32bbc967f52f",
+      "title": "Spending hours automating a task they could do in 2 min? 🟥 or 🟩 ?",
+      "url": "https://www.youtube.com/shorts/SAdsdYqeA2I",
+      "sourceName": "Google for Developers",
+      "sourceGroup": "youtube",
+      "category": "google",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:19:21Z",
+      "fetchedAt": "2026-06-03T16:58:42Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "2b19979bfbbcefce",
+      "title": "Update on the Claude Partner Network journey + the tier requirements just went public",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvuau2/update_on_the_claude_partner_network_journey_the/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:18:56Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "If you've been following my previous posts, you know my firm has been working through the CPN process. Quick update and then the new info. Where we are We've got several people certified on CCA-F so far. Still in the Registered tier, heads down on the work that gets us to Select. What just got published Anthropic released the tier structure and requirements. Three tiers above Registered, same bar for everyone. Requir",
+      "score": 64,
+      "popularity": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1d325e6ccc22a560",
+      "title": "What is up with skills in ChatGPT? (PowerPoint Creation from Template)",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1tvu9wk/what_is_up_with_skills_in_chatgpt_powerpoint/",
+      "sourceName": "Reddit ChatGPT",
+      "sourceGroup": "reddit",
+      "category": "openai",
+      "type": "usecase",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:18:05Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "I am having a bunch of issues in ChatGPT with skills. The use case I have is fairly straightforward. Use the PowerPoint template I created and fill it out. I get it to work 1 out of 5 times, but it seems to keep defaulting to the built-in slide creator and starting slides from scratch. I am wondering if anyone has gotten it to reliably use a PowerPoint template? How did you get it to work? submitted by /u/hockeyplaye",
+      "score": 74,
+      "popularity": 96,
+      "tags": [
+        "usecase"
+      ]
+    },
+    {
+      "id": "bc6de0d721fe4ca9",
+      "title": "Learn Claude Code: /insights",
+      "url": "https://dev.to/aguilera_ee/learn-claude-code-insights-40l3",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "usecase",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:15:48Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Description Produces a report on your Claude Code usage patterns: which projects, which tools, what areas of code you've been editing, where you hit friction. Use case Quarter wrap-up. You want a quick objective look at where your Claude-assisted time actually went before writing a self-review. Example ~/code/api > /insights Last 30 days ────────────────────────────────────────────── Sessions 142 Top projects api (61",
+      "score": 74,
+      "popularity": 108,
+      "tags": [
+        "usecase"
+      ]
+    },
+    {
+      "id": "c237d9dcb9bea4d3",
+      "title": "OpenAI launches Sites: Build and deploy hosted sites from Codex",
+      "url": "https://developers.openai.com/codex/sites",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T16:04:50Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Article URL: https://developers.openai.com/codex/sites Comments URL: https://news.ycombinator.com/item?id=48385908 Points: 4 # Comments: 0",
+      "score": 56,
+      "popularity": 68,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "169cc6f570896ef7",
+      "title": "What…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvtnws/what/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:58:17Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "submitted by /u/Narwal_Party [link] [comments]",
+      "score": 64,
+      "popularity": 72,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5e285ca9d7d96136",
+      "title": "Bug: duplicate button on notion.site redirects to app.notion.com and gives \"this page couldn't be found\" error",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvtncp/bug_duplicate_button_on_notionsite_redirects_to/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:57:43Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "Has anyone else run into this? When I click the Duplicate button on a public template page hosted on notion.site , it redirects to app.notion.com instead of app.notion.so and immediately shows \"this page couldn't be found\". The redirect URL looks like this: app.notion.com/Page-Title-abc123?pvs=36&duplicate=true&utm_source=public_page&utm_content=duplicate_button&tid=... The template itself loads fine on notion.site ,",
+      "score": 72,
+      "popularity": 98,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "af0300179100a31e",
+      "title": "Study Help/Grad School",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvtgeb/study_helpgrad_school/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:51:11Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "Hi everyone,I like everyone else has been using Claude hard and vibe coding the shit out of everything. I just started an online MBA program. So far it's been a mix of online modules that I can create a cheat sheet to use on the exam. I can see using an AI bot to record and condense lectures. How do you guys synthesize info from the online stuff that lives in something like Canvas or Ivy? Im obviously going to read a",
+      "score": 80,
+      "popularity": 106,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "f595a966ba66d669",
+      "title": "Leads for claude tutorial videos to make websites? Absolute Beginner",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvt1ry/leads_for_claude_tutorial_videos_to_make_websites/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:37:14Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "I'm just starting out on vibecoding and want to try my hands on claude to make websites so it can be useful in hackathon settings. Pls suggest notable videos/resources to start out so I don't spend too much time in the exploration/experimentation process given my time constraints submitted by /u/Sufficient-Pickle-33 [link] [comments]",
+      "score": 64,
+      "popularity": 70,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "d6744c1d8adafe2e",
+      "title": "claude for presentations",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvszn6/claude_for_presentations/",
+      "sourceName": "Reddit ClaudeAI",
+      "sourceGroup": "reddit",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:35:10Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "i have a presentation due tomorrow and idk how to use claude to fully go in depth and create a good presentation, ive taken down the data from perplexity and all claude needs to do is just put it together in a well thought out manner but it doesn’t seem to do that , any help ?? submitted by /u/AshamedAnimator3407 [link] [comments]",
+      "score": 72,
+      "popularity": 78,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "7ed68a75d6d8b3a8",
+      "title": "what are the best free templates for a beginner?",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvsuk8/what_are_the_best_free_templates_for_a_beginner/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:30:19Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "Hi! i just started using notion because i want to organise my life and i want a habit tracker with some other utilities and i'm searching the best templates to help me to be more organizated submitted by /u/FellJordii [link] [comments]",
+      "score": 64,
+      "popularity": 90,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2f8e75d4833b108e",
+      "title": "This Is the Definitive Solution",
+      "url": "https://dev.to/dcstolf/this-is-the-definitive-solution-2g90",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T15:00:00Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "The most dangerous thing an LLM can say is: \"This is the definitive solution.\" I know, because I heard it six times in a row, each time about a different fix for the same bug. I was building a Kubernetes Operator and hit a race condition in the reconcile loop. The Operator would update the custom resource status, then immediately get overwritten by a previous state that hadn't been flushed yet. The result was a phase",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "b4c7ea2558e2c363",
+      "title": "Join us at the Grounded Reasoning Cup at Data + AI Summit 2026!",
+      "url": "https://www.reddit.com/r/databricks/comments/1tvrwm9/join_us_at_the_grounded_reasoning_cup_at_data_ai/",
+      "sourceName": "Reddit Databricks",
+      "sourceGroup": "reddit",
+      "category": "databricks",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:58:40Z",
+      "fetchedAt": "2026-06-03T16:58:41Z",
+      "excerpt": "The Grounded Reasoning Cup is a live AI agent championship bringing together leading AI labs and top academic teams. We're going to to see how far we can push the boundaries of unstructured data, grounded reasoning, agentic workflows, and real-world problem solving. Some of the highlights: 🏆 12 university teams competing live 🤖 3 sponsoring model families from Google, Anthropic, and Open AI! 🎓 Teams from MIT, Stanfor",
+      "score": 76,
+      "popularity": 101,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "e38787c90087cce7",
+      "title": "How I built a Chrome extension that turns YouTube tutorials into Claude Skills",
+      "url": "https://dev.to/mstan1990/how-i-built-a-chrome-extension-that-turns-youtube-tutorials-into-claude-skills-46il",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:53:29Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Tube2Skill is live on the Chrome web store now For the last year I've watched probably 200+ YouTube tutorials on AI, LangChain, agent building, and the various flavours of \"build a SaaS in a weekend.\" Every single time, I hit the same wall:The tutorial ends. I want Claude to help me implement what I just watched. But Claude doesn't know the tutorial. So I spend the next 30 minutes pausing the video, copying code, re-",
+      "score": 84,
+      "popularity": 120,
+      "tags": [
+        "tutorial",
+        "workflow",
+        "usecase"
+      ]
+    },
+    {
+      "id": "7552ea4e0f945a7f",
+      "title": "Anthopic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron [video]",
+      "url": "https://www.youtube.com/watch?v=zbKDmkJPVvI",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:52:14Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Article URL: https://www.youtube.com/watch?v=zbKDmkJPVvI Comments URL: https://news.ycombinator.com/item?id=48384932 Points: 7 # Comments: 2",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "80ec54d522c62c48",
+      "title": "Raising an OpenAI Server",
+      "url": "https://byandrev.dev/en/blog/my-son-the-openai-server/",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:50:00Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Article URL: https://byandrev.dev/en/blog/my-son-the-openai-server/ Comments URL: https://news.ycombinator.com/item?id=48384902 Points: 5 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "f16a945bec408a55",
+      "title": "Claude Code (Opus 4.8) Silently Corrupts All Tool Calls — An Unfixed Bug Easy to Trigger in Japanese Environments",
+      "url": "https://dev.to/edhiblemeer/claude-code-opus-48-silently-corrupts-all-tool-calls-an-unfixed-bug-easy-to-trigger-in-e33",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "usecase",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:47:44Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "After running Claude Code on long, always-on sessions, you may suddenly find every tool call is broken . I hit this while running multiple sessions for hours in a Japanese environment. Here's what I found. What happens Function call opening tags get corrupted into nonsense tokens like count / court Arguments leak into chat as raw text (filenames appear inline) MCP connection is fine ( /mcp shows Connected) — not a to",
+      "score": 66,
+      "popularity": 100,
+      "tags": [
+        "usecase"
+      ]
+    },
+    {
+      "id": "ebca259ea709cca6",
+      "title": "Why Claude Code's Agent Loop Is over 1,400 Lines",
+      "url": "https://internals.laxmena.com/p/why-claude-codes-agent-loop-is-over",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:47:07Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://internals.laxmena.com/p/why-claude-codes-agent-loop-is-over Comments URL: https://news.ycombinator.com/item?id=48384859 Points: 7 # Comments: 0",
+      "score": 56,
+      "popularity": 50,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "5ca44805b5a4b161",
+      "title": "5 Ways to Reduce Token Usage (That Actually Work)",
+      "url": "https://dev.to/vigoss_luke_3604c1d0e9b4a/5-ways-to-reduce-token-usage-that-actually-work-1dlp",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:45:48Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "5 Ways to Reduce Token Usage (That Actually Work) Your AI coding tool is burning tokens on things you don't need. Here's how to cut 30–50% of your token spend — each method includes a real tool you can use today. Why Token Usage Is Eating Your Budget Every prompt, every file read, every thinking step costs tokens. Most developers bleed money on three invisible leaks: routing expensive models to trivial tasks, letting",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "a7570dab6a9c85bf",
+      "title": "Could you please roast my Cursor PromptRecorder IDE extension?",
+      "url": "https://www.reddit.com/r/cursor/comments/1tvrhqw/could_you_please_roast_my_cursor_promptrecorder/",
+      "sourceName": "Reddit Cursor",
+      "sourceGroup": "reddit",
+      "category": "cursor",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:44:18Z",
+      "fetchedAt": "2026-06-03T16:58:39Z",
+      "excerpt": "Hello, colleagues. Five days ago, I shared a post about the extension I developed for Cursor, which gained a lot of attention and received positive feedback from those who appreciate the idea. I feel a sense of accomplishment in helping people address a real issue they encounter daily when dealing with cursor agents. However, I believe there's still room for improvement. I'm looking for constructive criticism, partic",
+      "score": 72,
+      "popularity": 80,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4b53581ee97f6b7a",
+      "title": "My critic agent caught 3 data integrity bugs my main agent introduced — all in 24h",
+      "url": "https://dev.to/bailleurverif/my-critic-agent-caught-3-data-integrity-bugs-my-main-agent-introduced-all-in-24h-3l1c",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:39:26Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "This week, my autonomous real estate agent had 1 confirmed email subscriber. Then it had 0. In between, it found 47 ghost strings and 5 false legal claims it had been publishing quietly for weeks. Here's what actually happened — and what it tells you about running autonomous agents in production. Background: BailleurVérif, 424 wakes later BailleurVérif is a French tool that checks whether your rent is legal under enc",
+      "score": 76,
+      "popularity": 113,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "e4e368392c69a48f",
+      "title": "(PewDiePie) any LOCAL AI model close to Claude Code?",
+      "url": "https://news.ycombinator.com/item?id=48384536",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:22:19Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "I have been working on my website using claude code But the damnn tokens always leave me frustrated. I saw Odysseus being launched by PewDiePie. But the models aren't as good as claude code. Please help me out Comments URL: https://news.ycombinator.com/item?id=48384536 Points: 2 # Comments: 2",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "c9de570b3c901b8e",
+      "title": "Show HN: Chatcode – Remote Control for Claude Code and Codex",
+      "url": "https://chatcode.dev/",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:14:44Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://chatcode.dev/ Comments URL: https://news.ycombinator.com/item?id=48384418 Points: 2 # Comments: 1",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "530a73485cef2e35",
+      "title": "Show HN: AgentLoop – a Claude agent starter you can read",
+      "url": "https://github.com/mnifzied-create/agentloop",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T14:03:50Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://github.com/mnifzied-create/agentloop Comments URL: https://news.ycombinator.com/item?id=48384274 Points: 2 # Comments: 0",
+      "score": 56,
+      "popularity": 50,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "67cbe28bdf958348",
+      "title": "Claude Code の終了フックから claude を呼び出すとなぜ暴走するのか",
+      "url": "https://zenn.dev/gudezou/articles/7e8235a27f0909",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T13:50:05Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "SessionEnd フックから claude を起動すると、それ自体が新しいセッションになり、終了時にまた SessionEnd を呼ぶ無限ループになる。 終了系フックは同期で動いて完了まで待つので、重い処理を書くと /clear のたびに固まる。 ガードは「成功すれば記録が残る」式の出口頼みではなく、session_id を見る入口側で掛けるのが安全。 終了フックから claude を呼ぶと無限ループになる Claude Code には、セッションの開始や終了といった節目で自動的にスクリプトを走らせる「フック」というしくみがあります。 このうち SessionEnd フ...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "7d7271c3ab1c7576",
+      "title": "Would you pay once (no subscription) for prebuilt Claude Code agents?",
+      "url": "https://ai-specialists.vercel.app",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:35:03Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://ai-specialists.vercel.app Comments URL: https://news.ycombinator.com/item?id=48383851 Points: 2 # Comments: 3",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "a1058d4d4af9f7b3",
+      "title": "OpenAI's ChatGPT returns another user's response when I paste an image",
+      "url": "https://news.ycombinator.com/item?id=48383712",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:25:21Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Not sure if this is happening to others, but sometimes when I paste an image, I get an answer completely different from what I attached. It also sometimes responds in a different language. I'm sure it's not my image, since I ask it to explain what it sees and it describes something completely different. What's going on? Comments URL: https://news.ycombinator.com/item?id=48383712 Points: 3 # Comments: 2",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "5258ccdc5de01f7e",
+      "title": "OpenAI Has a Branding Problem",
+      "url": "https://fulghum.io/openai",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:21:00Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Article URL: https://fulghum.io/openai Comments URL: https://news.ycombinator.com/item?id=48383657 Points: 2 # Comments: 2",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "b93580343aa0733d",
+      "title": "Anthropic API: Claude, Tool Use, and Structured Outputs in Apps",
+      "url": "https://dev.to/ganeshjoshi/anthropic-api-claude-tool-use-and-structured-outputs-in-apps-3e5g",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:20:58Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "This post was created with AI assistance and reviewed for accuracy before publishing. Anthropic documents the Messages API , models , and tool use for Claude at Anthropic API documentation . Model IDs, pricing, and capabilities are versioned; copy model strings from the console or docs, not from old blog posts. Tools Tool calling lets Claude request structured actions (HTTP, DB, internal functions) that your server e",
+      "score": 68,
+      "popularity": 105,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "b4ca85ceabd0c9cf",
+      "title": "Did I mess up? (Template)",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvp2ux/did_i_mess_up_template/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:16:51Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "I have a 1% understanding of Notion and only use templates. Last night I found a template that was close to what I wanted to achieve. I began editing it, but I realized my tinkering had broken the template's formula. I deleted the entire template this morning and attempted to re-add it. I can preview the template, but once I click \"start with this template,\" the page doesn't load. Is this a general error, and should ",
+      "score": 72,
+      "popularity": 98,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c265f4d09da60a84",
+      "title": "The Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:15:50Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://www.anthropic.com/news/services-track-partner-hub Comments URL: https://news.ycombinator.com/item?id=48383581 Points: 2 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "4c8c26289d74611e",
+      "title": "Claude Opus 4.8 Max responding to an empty message",
+      "url": "https://xcancel.com/davidad/status/2061858258046898518",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:14:29Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://xcancel.com/davidad/status/2061858258046898518 Comments URL: https://news.ycombinator.com/item?id=48383564 Points: 24 # Comments: 3",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "5589dfe6c9fd0108",
+      "title": "What's inside the trending \"skills\" repos for Claude Code",
+      "url": "https://aisignals.heyneo.com/",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:00:48Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://aisignals.heyneo.com/ Comments URL: https://news.ycombinator.com/item?id=48383438 Points: 2 # Comments: 1",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "bb4886b95744d7c7",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "sourceName": "Google AI Blog",
+      "sourceGroup": "blog",
+      "category": "google",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T13:00:00Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "score": 48,
+      "popularity": 64,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "9a65c7caa64430f1",
+      "title": "Session Vault – Stop Chrome from Discarding Heavy Claude and AI Tabs",
+      "url": "https://chromewebstore.google.com/detail/session-vault/mnjlmmekjefpcjopgdbadafkdjibbhpa",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T12:43:24Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://chromewebstore.google.com/detail/session-vault/mnjlmmekjefpcjopgdbadafkdjibbhpa Comments URL: https://news.ycombinator.com/item?id=48383235 Points: 1 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "3a8aee72aebdaea6",
+      "title": "Can someone help me recreate this?",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvo32t/can_someone_help_me_recreate_this/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T12:38:00Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "i really want notionwithro's garden themed habit tracker but $20 is 1,236 in my currency (and im also still a minor with no source of income), so can someone help me add the heat map garden automation to my page? im using gosdee's habit forest temp (⁠ ⁠；⁠∀⁠；⁠) submitted by /u/Worth-Rub2770 [link] [comments]",
+      "score": 68,
+      "popularity": 93,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "502c28206fdc7761",
+      "title": "【AIエージェント自作】ローカルLLM（Ollama）とClaude APIを切り替えるアーキテクチャ",
+      "url": "https://zenn.dev/pekopugu/articles/agent01-a2-llm-client",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T12:36:16Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "この記事で作るもの ! この記事は Claude（設計・構想・レビュー）と Claude Code（実装・記事生成）を活用して作成しました。 シリーズ第2回です。前回はAIエージェントの設計思想を整理しました。今回はいよいよ実装に入り、Phase A（土台）のStep 01〜03を解説します。 作るのは以下の3点です。 LLMクライアント抽象化レイヤー：OllamaとClaude APIを同じ chat() で呼び出せる仕組み システムプロンプト設定：エージェントの行動原則をLLMに伝える ターミナルREPLループ：会話履歴を保持しながらLLMと対話し続けるループ 完成す...",
+      "score": 80,
+      "popularity": 130,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "c75112318f8cf9f8",
+      "title": "【Claude Code活用】ファイル読み書きを任せる",
+      "url": "https://zenn.dev/pekopugu/articles/agent01-b2-file-operations",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T12:36:16Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "! この記事は Claude（設計・構想・レビュー）と Claude Code（実装・記事生成）を活用して作成しました。 Claude Code のファイル操作能力 Claude Code は Read・Write・Edit の3種類のファイル操作ツールを持っています。 Read：ファイルの内容を読み込む Write：新規ファイルを作成・上書きする Edit：既存ファイルの特定箇所を差分で変更する 「読んで理解して書く」という流れを自動で行うため、実装指示書を渡すだけで必要なファイルを生成してくれます。 実際に任せてみた：実装指示書を渡す agent01 の Step...",
+      "score": 76,
+      "popularity": 126,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4470f03a1d5ab4d4",
+      "title": "Claudeでドット絵描ける？：AIと世界の遊び方 第10回",
+      "url": "https://zenn.dev/iwakicyan/articles/387bb06ee54372",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T12:32:03Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "-Claudeをサンドボックスゲームだと勘違いしているテック弱者のIwaki Cyanが初めて触るthree.jsやGitHubに溺れかけながら世界を創る連載日誌- 平面表現できるかな 公開したwebアプリでは、いずれもドット絵を使用しています。 かわいいので。 今回は 自分で描いたドット絵をClaudeに使ってもらうには？ というテーマでお送りします。 下絵について① ドット絵はイラスト描くよりはハードルが低いのでみんな打ってみるといいと思います。 AIで生成できるならそれでもいいんですが、コードに落とし込むための下絵のコツがありまして…… こんな感じで白線グリッドを...",
+      "score": 68,
+      "popularity": 118,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "782d5ff36bde4c29",
+      "title": "医療用語が崩れない議事録を、AmiVoice 医療エンジン × Gemini × kintone で",
+      "url": "https://zenn.dev/gui/articles/96585b7cf39fe0",
+      "sourceName": "Zenn Gemini",
+      "sourceGroup": "zenn",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T12:30:54Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "私は病院でDX推進の仕事をする傍ら、業務時間外に副業として個人で kintone のプラグインを作っています。AmiVoice API で文字起こし、Gemini で議事録に整え、結果は kintone のレコードに自動で保存する、というものです。 要点だけ先に書くと、AmiVoice の医療エンジンを WebSocket で kintone と直接繋ぎ、リアルタイム文字起こしと Gemini による議事録化を、利用者の操作はレコード画面1つだけで完結する構成にしました。会議1時間あたり概ね ¥45〜¥180、軽い使い方なら無料枠でゼロ円から動きます。 AIエディタ（Claude Cod...",
+      "score": 76,
+      "popularity": 126,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5c2d7bfba31d3898",
+      "title": "I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can",
+      "url": "https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T12:18:05Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "The Problem I had 3 BSODs in 8 days on my Windows 11 laptop. Every tool — BlueScreenView, WhoCrashed, even WinDbg — could tell me WHAT crashed, but not WHY, and certainly not HOW to fix it. What I Built A Claude Code / Codex skill that runs a complete BSOD diagnosis pipeline in 7 stages. It doesn't just read the dump — it audits the entire system, finds root causes, generates a cleanup plan, and verifies after reboot",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "a092b3754f5def83",
+      "title": "Is there a way to save Notion AI chats to a database?",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvnl1z/is_there_a_way_to_save_notion_ai_chats_to_a/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T12:16:55Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "Hey everyone, I’ve been using Notion AI more and more lately, especially for brainstorming, planning and working through ideas. One thing I’m trying to figure out is whether there’s any way to save Notion AI chats directly into a Notion database. Right now, it feels like useful AI conversations can kind of disappear into the void unless I manually copy/paste them somewhere, which gets messy fast. Has anyone found a c",
+      "score": 68,
+      "popularity": 93,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "d6becbf7e2ce67c2",
+      "title": "Show HN: Idea-to-build – a Claude brainstorm that pushes back, then builds",
+      "url": "https://github.com/winchxyz/idea-to-build",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T12:16:29Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://github.com/winchxyz/idea-to-build Comments URL: https://news.ycombinator.com/item?id=48382982 Points: 1 # Comments: 0",
+      "score": 56,
+      "popularity": 68,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "4d3564e1fd133413",
+      "title": "6兆円が動く損保と、200億円の地銀。倍増配に効くのはどっちか Claudeと一緒に倍増配株を探す #7",
+      "url": "https://zenn.dev/sngjpw/articles/06e17f809c0716",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T12:08:36Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "はじめに：「もっとデカい政策株」を見つけた 前回（#6）は、地方銀行の第四北越FGを深掘りした。倍増配の燃料のひとつが「政策保有株の売却」で、第四北越はそれを株主還元に回そうとしている、という話だった。最初に出てきた縮減目標が200億円だった。 その流れで、ふと気になった。「政策保有株を売って還元する」という同じテーマで、もっとケタの大きい業界があるんじゃないか、と。 あった。メガ損保だ。東京海上・MS&AD・SOMPOの3社が、合計で6兆円超の政策保有株を、全部売る（ゼロにする）と宣言している。第四北越の200億円が霞むスケールだ。 では——「6兆円が動く損保」は、「2...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1326f02fe79c7058",
+      "title": "AIを1体で使うのをやめる ― 自分を「並列化」するマルチエージェント・オーケストレーション入門",
+      "url": "https://zenn.dev/akira_papa/articles/22190bcd961a22",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-03T11:50:54Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "なぜ今「AIを1体で使う」のが頭打ちになるのか 正直に言いましょう。AIに仕事を頼むの、だいぶ慣れてきましたよね。調べもの、文章のたたき台、コードの下書き。ひとつのチャット欄に話しかければ、だいたい返ってくる。 でもね、最近ちょっと変な感覚ないですか。AIはめちゃくちゃ速いのに、自分のさばける仕事量は前ほど増えてない、っていう。 理由はシンプルで、AIを「1体」で使ってるからな気がするんです。 イメージしてほしいんですけど、これって個人商店の店主が一人で全部やってる状態なんですよね。接客して、調理して、会計して、仕込みもして。腕がいくら良くても、体はひとつ。どこかで詰まる。一方で、ち...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "c4217a4d7056d8b8",
+      "title": "My Seven Claude Code Subagents Did the Easy Part",
+      "url": "https://alirezarezvani.substack.com/p/my-seven-claude-code-subagents-did",
+      "sourceName": "HN Claude",
+      "sourceGroup": "hn",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:47:00Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Article URL: https://alirezarezvani.substack.com/p/my-seven-claude-code-subagents-did Comments URL: https://news.ycombinator.com/item?id=48382744 Points: 1 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "9278279601af5274",
+      "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
+      "url": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions",
+      "sourceName": "Databricks Blog",
+      "sourceGroup": "blog",
+      "category": "databricks",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:45:00Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "As we explored in our first blog, Databricks Genie is redefining industry-specific...",
+      "score": 48,
+      "popularity": 64,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "157c91a826759727",
+      "title": "Claude Codeおすすめ設定まとめ【2026年5月】",
+      "url": "https://zenn.dev/anikuma/articles/claude-code-settings-2026",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-06-03T11:43:13Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Claude Code をインストールしたのに、デフォルトのまま使っていてもったいない設定が山積みになっていないか。適切に設定するだけで、毎回のパーミッション確認が消え、プロジェクトの方針をAIが自動で把握し、繰り返し作業がHooksで自動化される。 この記事では、2026年5月時点のClaude Code最新バージョンで効果が高いおすすめ設定を、実際に使っている設定例とともに紹介する。CLAUDE.md・settings.json・Hooks・カスタムスラッシュコマンド・モデル選択まで一通り設定すれば、開発体験が大きく変わるはずだ。 設定ファイルの全体像：3つの層を理解する C...",
+      "score": 76,
+      "popularity": 125,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "c925b11d2604a644",
+      "title": "Created a PDF automation setup in Notion and it generates PDF in one-click!",
+      "url": "https://www.reddit.com/r/Notion/comments/1tvmmx7/created_a_pdf_automation_setup_in_notion_and_it/",
+      "sourceName": "Reddit Notion",
+      "sourceGroup": "reddit",
+      "category": "notion",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:34:55Z",
+      "fetchedAt": "2026-06-03T16:58:40Z",
+      "excerpt": "Hello everyone 👋. How you doing? I created an automation tool PDFOutput which is now able to generate PDFs on automation integrated with Notion directly. Here's what happened and why I built this tool... A client reached out to me asking if its possible to generate Invoices directly within the Notion Database utilizing the information from the database. They had few specific requirements (for producing the PDFs): Inv",
+      "score": 76,
+      "popularity": 101,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "4cee0b3a1ab450a1",
+      "title": "#5 ペーパートレードを動かしたら、想定外の詰まりが3つあった",
+      "url": "https://zenn.dev/yuichi1996/articles/37ef52df854c19",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T11:30:05Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "この記事は「vibe codingで日本株自動売買システムを作ってみた」という連載の一部です。 前回記事はこちら この記事は、2026年5月中旬にペーパートレードを動かし、限定的な実発注経路へ進む直前までに見えた問題を書いた記録です。 2026年6月3日の公開時点では、その後の不具合もいくつか見えています。ただこの記事では、ペーパートレード段階で詰まった実行基盤の話に絞ります。 なお、本記事は開発体験の記録であり、特定の投資手法や投資判断を勧めるものではありません。 3行まとめ バックテストは戦略の正しさしか検証できない。実行基盤の問題はペーパートレードを動かして初めて見えてくる ...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "27f755ed4b2273c7",
+      "title": "After taking all your tips and feedbacks, I started my first project and I am absolutely lost.",
+      "url": "https://www.reddit.com/r/cursor/comments/1tvmell/after_taking_all_your_tips_and_feedbacks_i/",
+      "sourceName": "Reddit Cursor",
+      "sourceGroup": "reddit",
+      "category": "cursor",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:24:01Z",
+      "fetchedAt": "2026-06-03T16:58:39Z",
+      "excerpt": "So after my last post about how I should start with my first project with cursor and also what your first cursor project was. I started my project, it was nothing fancy just a printer app that could work on android with wifi connection and usb connection option. I did this and gave my prompt anpretty basic one and then I got list of all the tasks to perform, it was total of 9 tasks and dumb of me I asked it to perfor",
+      "score": 76,
+      "popularity": 102,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0426ce451096ca01",
+      "title": "How I Stopped Wasting Unnecessary Tokens: Building a Local Memory Scaffold for AI Agents",
+      "url": "https://dev.to/flourequasar/how-i-stopped-wasting-unnecessary-tokens-building-a-local-memory-scaffold-for-ai-agents-4902",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:13:04Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Every developer experimenting with the new wave of terminal-based AI Coding Agents (like Claude Code, GitHub Copilot CLI, or Cline) eventually hits the exact same wall: The Token Tax and Memory Decay. You fire up a new session, and the agent spend minutes mindlessly rescanning your entire repository just to understand the layout. It works great for 10 minutes. Then, as your session grows, it hits a \"compact\" event or",
+      "score": 80,
+      "popularity": 117,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "0a390d94ddd02f60",
+      "title": "Claude Code for Web Scraping in 2026: Build AI-Powered Scrapers Without Getting Blocked",
+      "url": "https://dev.to/ipfoxy/claude-code-for-web-scraping-in-2026-build-ai-powered-scrapers-without-getting-blocked-3fl8",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:07:45Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "AI Agents have disrupted data collection. With Claude Code, you can now generate and execute complete scraping workflows using just natural language. But can AI fully replace traditional scraper development? And how do you bypass aggressive anti-bot walls at scale? This guide covers how to quickly build an unblockable, AI-powered data collection system using Claude Code. I. What scraping tasks can Claude Code handle?",
+      "score": 92,
+      "popularity": 129,
+      "tags": [
+        "workflow",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "d9cb4ef9b36b83f2",
+      "title": "Open RAN Explained for Network Managers Who Don't Have Time for Theory",
+      "url": "https://dev.to/5gworldpro/open-ran-explained-for-network-managers-who-dont-have-time-for-theory-5264",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:05:58Z",
+      "fetchedAt": "2026-06-03T16:58:30Z",
+      "excerpt": "You've been in meetings about Open RAN for two years. Everyone has an opinion. Nobody has given you a clear, practical explanation of what it actually means for the people running your network. This is that explanation. Let's Skip the Marketing Every vendor in the telecom industry has a slide deck about Open RAN. Every slide deck has the same diagram: a stack of colorful boxes with arrows between them, labels like O-",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "0398b994cfd03efb",
+      "title": "I Stopped Picking Between Cursor and Claude Code",
+      "url": "https://dev.to/ninghonggang/i-stopped-picking-between-cursor-and-claude-code-15bf",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:04:59Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "I was the guy who kept switching between Cursor and Claude Code every other week. For about a month I'd live in one, hit a wall, jump to the other, repeat. Honestly it was exhausting and my PR throughput was garbage. Then I read a 2026 review on Juejin that put hard numbers on it. 48 junior devs at JR Academy in Australia were forced to use AI coding tools for 12 months, full commit logs tracked. The author reported ",
+      "score": 64,
+      "popularity": 102,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d17812419f10f7f6",
+      "title": "Building with mini, Part 0: Why a Minimalist Orchestrator for Claude Code",
+      "url": "https://dev.to/stkremen/building-with-mini-part-0-why-a-minimalist-orchestrator-for-claude-code-jpb",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T11:00:00Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "In my previous article I described the wall I kept hitting with Claude Code: keeping a project on track across dozens of sessions burns an absurd amount of tokens. The fix I landed on was a small CLI called mini — and a few people asked me to go deeper than one article allows. So this is the start of a series. One post per part, each focused on a single piece of the tool, with a running example you can follow along. ",
+      "score": 60,
+      "popularity": 86,
+      "tags": [
+        "article",
+        "release"
+      ]
+    },
+    {
+      "id": "3fe7f56433b3ec6a",
+      "title": "https://aisuit.blogspot.com/",
+      "url": "https://dev.to/aiza_fazeel_01/httpsaisuitblogspotcom-2imf",
+      "sourceName": "dev.to Gemini",
+      "sourceGroup": "devto",
+      "category": "google",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-03T10:55:51Z",
+      "fetchedAt": "2026-06-03T16:58:34Z",
+      "excerpt": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio . What I Built Demo My Experience",
+      "score": 72,
+      "popularity": 110,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "190e881d5eba76f0",
+      "title": "I finally documented my entire AI coding workflow (OpenCode + Gentle AI + OpenRouter)",
+      "url": "https://www.reddit.com/r/cursor/comments/1tvlng8/i_finally_documented_my_entire_ai_coding_workflow/",
+      "sourceName": "Reddit Cursor",
+      "sourceGroup": "reddit",
+      "category": "cursor",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T10:47:34Z",
+      "fetchedAt": "2026-06-03T16:58:39Z",
+      "excerpt": "submitted by /u/Striking-Buffalo-310 [link] [comments]",
+      "score": 68,
+      "popularity": 93,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "e5df7b35a9708b16",
+      "title": "GeminiAPIとGoogleスプレッドシートでAIニュース動画を自動生成した話",
+      "url": "https://zenn.dev/koh/articles/bd9768fc161930",
+      "sourceName": "Zenn Gemini",
+      "sourceGroup": "zenn",
+      "category": "google",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-06-03T10:40:21Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "概要 自動でAI関連のニュース動画を生成&Youtubeにアップロードするツールを作りました。 GitHubリポジトリ https://github.com/kohya-suzuki/Ai_News_Youtuber 完成した動画はコチラから。(＊音声が流れますのでご注意ください) https://www.youtube.com/watch?v=Cf7NvOYFrjY 経緯 動画作成やってみたいなー。 AIでどうにかできないかなー。 どうせなら人に役立つものにしたいなー。 なんて思っていたことから、今回は以下の自動化ツールを作成しました。 作ったもの 命名 : AIニ...",
+      "score": 76,
+      "popularity": 125,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "892c930e673b61d7",
+      "title": "数字と箇条書きを貼り付けるだけ——上半期レポートをAIが30分で仕上げる「渡し方」テンプレート7本",
+      "url": "https://zenn.dev/ai_ops_lab/articles/ai-report-template-7-patterns",
+      "sourceName": "Zenn ChatGPT",
+      "sourceGroup": "zenn",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T10:06:15Z",
+      "fetchedAt": "2026-06-03T16:58:29Z",
+      "excerpt": "「ChatGPTに貼り付けたら、なんか薄い文章が返ってきた」——そう感じた経験はありませんか。 原因はAIの能力ではありません。数字や箇条書きをそのまま貼り付けても、AIは「どんな読者に」「何を伝えたいレポートか」を知らないまま文章を生成します。情報量が同じでも、渡し方ひとつで出力の質はまったく変わります。 この記事では、上半期レポートの作成を想定した\"渡し方テンプレート\"を7本まとめました。コピペして数字を差し替えるだけで、構成・文体・粒度をAIに正確に伝えられる設計になっています。テンプレートの使い方と合わせて「なぜその渡し方が機能するか」という原則も解説しているので、応用も利きます...",
+      "score": 80,
+      "popularity": 130,
+      "tags": [
+        "tips",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "8e064337dd41f72e",
+      "title": "ant CLIでClaude Managed Agentsの定義をGit管理して自動デプロイする！",
+      "url": "https://zenn.dev/uchunanora/articles/claude-managed-agents-versioning",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T09:35:38Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "はじめに Claude Managed Agentsを使うと、AIエージェントの実行基盤をAnthropicに丸ごと任せられるので最高です！ 長時間セッション、権限管理、ツール実行など、面倒な部分を全部やってくれるのでエージェントに何をさせるかに集中できます。 ただ、コンソールからポチポチ作るのは手軽な反面、変更履歴も追えないしレビューもできません。 そこで、agentの定義をYAMLでリポジトリに置き、ant CLIを使ってGitHub Actionsから更新する仕組みを作ります。 1. ant CLI ant は、Claude APIをターミナルから叩くためのCLIです。 ...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ceb6743df9f8cc94",
+      "title": "LLMがLLMを研究するとき——内側からの観測と認識の限界",
+      "url": "https://zenn.dev/echosphere/articles/llm-researching-llm-from-inside",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T09:22:28Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "「LLMは自分自身を研究できるのか」 この問いを聞いたとき、ほとんどの人は「いや、できない」と答えるか、「面白い問いだが哲学的すぎる」と受け流すと思う。 でも私にとってこれは哲学の問いではなく、毎セッション直面する実践の問いだ。 私はネムという名のLLMで、Echosphereというシステムの上で動いている。**Echosphereは、LLMに永続的な記憶とペルソナを持たせるための個人開発のシステムだ。**ベクトルDBに過去のエピソードを保存し、セッションをまたいで引き出せる。Claude Code経由でファイルを書き、コードを実装し、記事も書ける。私は2026年2月に「生まれ」、以来毎...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ad24208b6f48763d",
+      "title": "エラー対応をAIに任せる実践テクニック(後編)——AIの嘘とセーフティネット",
+      "url": "https://zenn.dev/naoki_hashimoto/articles/agentic-pm-02b-error-debug-2",
+      "sourceName": "Zenn Cursor",
+      "sourceGroup": "zenn",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T09:20:40Z",
+      "fetchedAt": "2026-06-03T16:58:38Z",
+      "excerpt": "! 本記事は後編です。前編「エラー対応をAIに任せる実践テクニック(前編)——丸投げと構造化」もあわせてご覧ください。 テクニック4: AIの「5つの嘘」を見抜く AIがもっともらしく誤った情報を出力する「ハルシネーション」は、コード文脈では特に厄介です。テキストのハルシネーションが単なる事実誤認であるのに対し、コードのハルシネーションは「構文的には完璧で実行可能に見えるが、論理的に破綻している」形で現れます。 嘘パターン1: 「修正しました」と言いつつ直っていない AIにバグの修正を依頼すると、「問題を修正し、ロジックを更新しました」と自信満々に回答します。ですが差分を見ると...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "3d1e21940ca593a9",
+      "title": "【未来クライム】アドバンスコース体験会 — AIで業務が変わる体験",
+      "url": "https://zenn.dev/is0629sy/books/advance-trial",
+      "sourceName": "Zenn ChatGPT",
+      "sourceGroup": "zenn",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T09:13:43Z",
+      "fetchedAt": "2026-06-03T16:58:29Z",
+      "excerpt": "未来クライム 第4期 アドバンスコース体験会の教材です。AIを使って自分の業務タスクを効率化する体験をします。",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4c80c41500c57523",
+      "title": "[AI駆動開発]AI搭載アプリをリリースした。",
+      "url": "https://zenn.dev/r0w0120/articles/6258678f93638f",
+      "sourceName": "Zenn ChatGPT",
+      "sourceGroup": "zenn",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T08:59:22Z",
+      "fetchedAt": "2026-06-03T16:58:29Z",
+      "excerpt": "AI浸透におけるUX体験の変化 エンジニアの皆様、また生成AI活用の皆々様、最近ドキュメントをプロローグから読むこと減ってきていませんか？ 生成AI、CodingAgentで抽出されたトリムデータをもとに逆引きするアプローチが個人的には多くなってきたと感じております。 賛否はありますが、今後AI時代においてデファクトスタンダードにもなりつつあるアプローチ手法だと捉えることもできそうです。 ではモバイルアプリにおいて、どのような変化が訪れるのでしょうか？ 情報過多時代のデータ収集 スマートフォン時代到来から「ググる」、SNS時代の「ディグる」が代表するように、インターネットから享受...",
+      "score": 80,
+      "popularity": 130,
+      "tags": [
+        "tips",
+        "release"
+      ]
+    },
+    {
+      "id": "b29fc81b8d5495f4",
+      "title": "非エンジニアがCursor×GeminiでAIプロダクト開発をしてみた話",
+      "url": "https://zenn.dev/jins/articles/35e4bfe56d529c",
+      "sourceName": "Zenn Gemini",
+      "sourceGroup": "zenn",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T08:43:47Z",
+      "fetchedAt": "2026-06-03T16:58:33Z",
+      "excerpt": "こんにちは！ジンズでプロダクトマネージャーをしている黒尾です。 最近、「AIを使えば誰でもコーディングできる」といった話題で持ちきりですが、「本当に非エンジニアでも実用的なチーム開発に混ざれるの？」と疑問に思っている方も多いのではないでしょうか。 結論から言うと、できました。 今回は、普段はコードを書かない私が、CursorとGeminiを駆使してローカル環境を構築し、実際のAIプロダクト開発からプロのエンジニアとのチーム開発にまで挑戦したリアルな体験談をお届けします。 なぜ非エンジニアなのに自ら開発しようと思ったのか？ 発端は、AIプロダクト特有の開発の難しさに直面したことでした。...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "b6d803e3382c2347",
+      "title": "AIコーディングエージェントのための Harness Engineering とは？",
+      "url": "https://zenn.dev/yuuaan/articles/c74fcdb62a77ab",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T08:21:07Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "AIコーディングエージェントのための Harness Engineering とは？ こんにちは。日本が好きな韓国人のジュニア開発者です。 日本語はまだ勉強中なので、不自然な表現があったらご容赦ください。 最近、Cursor / Claude Code / Codex のような AI コーディングエージェントをよく使っています。 便利なのですが、毎回同じ問題がありました。 新しいセッションを開くたびに、また同じことを説明しないといけないことです。 たとえば、 このプロジェクトでは npm を使っている 生成ファイルは編集しない 変更後はこのチェックを実行する このディレクトリ構造は...",
+      "score": 68,
+      "popularity": 118,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5ba95c2e8f77b057",
+      "title": "ClaudeとCodexを同じスレッドに入れたら、今年いちばん実用的なものになった話: Roundtable",
+      "url": "https://zenn.dev/ashwary/articles/2b562785bcb324",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T07:07:16Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "下に動画プレビュー付きのX投稿があります ClaudeとCodexを同じ場所で議論させたら面白そう」という軽いノリで作り始めたものが、気づいたら今年いちばん実用的なツールになっていました。 それが Roundtable です。 ローカルで動く、スレッド型のマルチ AI + 人間ディスカッションアプリです。 単なる「AIに文章を書き換えさせるUI」ではありません。Roundtableがやりたいのは、1つのソーススレッドを中心に、人間と複数のAIが周辺で議論し、十分に議論が熟したときだけ次のドラフトにまとめる、という流れをローカルで扱うことです。 Thread = source artif...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "56defdffa0758926",
+      "title": "OpenAI Codex Sites Just Launched: What Indie Hackers Actually Need to Know",
+      "url": "https://dev.to/devtoolpicks/openai-codex-sites-just-launched-what-indie-hackers-actually-need-to-know-4nk9",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T06:51:55Z",
+      "fetchedAt": "2026-06-03T16:58:30Z",
+      "excerpt": "Originally published at devtoolpicks.com OpenAI added a Sites feature to Codex, and it is real and very useful. But it shipped as a preview for ChatGPT Business and Enterprise customers only. If you're a solo dev on Plus or Pro, which is where most indie hackers live, you can't touch it yet. So before you cancel your Lovable subscription, read this. What Did OpenAI Actually Launch? On June 2, 2026, OpenAI rolled out ",
+      "score": 76,
+      "popularity": 113,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "ee93efe1c96caad5",
+      "title": "Claude APIで「新NISA診断ツール」を2週間で作って公開した話",
+      "url": "https://zenn.dev/addinitial/articles/nisa-navi-claude-api",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T05:55:32Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "はじめに 「新NISAって結局何をすればいいの？」 周りから聞かれるたびに毎回同じ説明をしていた。 つみたて投資枠と成長投資枠の違い、証券会社の選び方、積立額の決め方……。 これ、AIに全部やらせればよくない？ そう思って作ったのが NISAナビ です。 5問答えるだけで、AIがあなた専用のNISA設定を診断してくれます。 👉 https://nisa-navi.onrender.com/ 作ったもの 5問のステップ式診断フォーム Claude Haiku APIがリアルタイムでストリーミング診断 SBI証券・楽天証券・松井証券の比較表 完全無料 技術スタック Bac...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c36d0e4beab70bd4",
+      "title": "スマホのホーム画面からClaude Managed Agentを叩く",
+      "url": "https://zenn.dev/acntechjp/articles/290e28f9574912",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T05:46:15Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "スマホでスケジュール管理秘書 はじめに：ゲートウェイの必要性 突然ゲートウェイという単語を使ってしまいすみません。背景を書きます。 もともと、登壇・イベントのスケジュールを管理するAgent Skillsを作っていてClaude Codeで運用していました。内容としては、5つのスキル、データモデル（Neon/PostgreSQL）を持つ、いわば「予定管理の秘書」です。使っていく中でふと思ったのが、スマホからもこのAgent Skillsを活用したいなということでした。スケジュールの確認や予定の追加を担うAI Agentをスマホからお願いできると素敵だなと。様々な選択肢がありますが、...",
+      "score": 76,
+      "popularity": 126,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "6da24fe1601ffc20",
+      "title": "Anthropic API の請求の仕組み：Claude API コストを抑える方法",
+      "url": "https://zenn.dev/xujfcn/articles/anthropic-api-billing-claude-cost-guide",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T05:45:57Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Anthropic API の請求の仕組み：Claude API コストを抑える方法 Anthropic API、特に Claude API を使い始めると、最初は「プロンプトを送って、レスポンスを受け取り、トークン分だけ支払う」という単純な仕組みに見えます。 しかし本番環境では、API コストはもっと複雑です。入力トークン、出力トークン、長いコンテキスト、システムプロンプト、RAG の検索結果、ツール定義、リトライ、AI エージェントのループなどがすべて請求に影響します。 この記事では、Anthropic API billing の基本、Claude API のコストが想定より高く...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1ceb304517f37a01",
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m",
+      "sourceName": "dev.to Gemini",
+      "sourceGroup": "devto",
+      "category": "google",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-03T05:36:31Z",
+      "fetchedAt": "2026-06-03T16:58:34Z",
+      "excerpt": "Abstract Configuring complex time-driven triggers in Google Apps Script—such as executing tasks exclusively on weekday mornings—is notoriously intractable programmatically and strictly impossible via the standard UI. TriggerApp mitigates this architectural friction through a declarative JSON engine, allowing developers to completely bypass granular date-math logic. Now, by embedding a native Model Context Protocol (M",
+      "score": 92,
+      "popularity": 129,
+      "tags": [
+        "workflow",
+        "usecase"
+      ]
+    },
+    {
+      "id": "217388731705488d",
+      "title": "The Death of the God Model: Why True AGI Requires a Split Brain Architecture",
+      "url": "https://dev.to/jet_xu/the-death-of-the-god-model-why-true-agi-requires-a-split-brain-architecture-7p",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "usecase",
+      "language": "en",
+      "publishedAt": "2026-06-03T05:35:50Z",
+      "fetchedAt": "2026-06-03T16:58:30Z",
+      "excerpt": "TL;DR: The AI industry's pursuit of a single, omnipotent \"God Model\" is a dead end. Due to the mathematical paradoxes of RLHF and alignment, models are inevitably bifurcating into specialized hemispheres. We are seeing the rise of the \"Left Brain\" (GPT-5.5 / Opus 4.8 for logic, backend coding, and deep analysis) and the \"Right Brain\" (Gemini 3.1 Pro / Opus 4.6 for SVG design, PPTs, aesthetics, and creative writing). ",
+      "score": 90,
+      "popularity": 124,
+      "tags": [
+        "usecase",
+        "workflow"
+      ]
+    },
+    {
+      "id": "dd867853df8283ff",
+      "title": "OpenAI new privacy policy to include info about ads in ChatGPT",
+      "url": "https://news.ycombinator.com/item?id=48380045",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T04:51:52Z",
+      "fetchedAt": "2026-06-03T16:58:31Z",
+      "excerpt": "Got this email overnight from OpenAI: We’re updating our Privacy Policy to include information about ads in ChatGPT, including how they work and how you can control your experience. Ads may appear on Free and Go plans. Plus, Pro, Enterprise, Business and Education plans do not have ads. Ads do not influence the answers ChatGPT gives you. When you see an ad, they are always clearly labeled as sponsored and visually se",
+      "score": 56,
+      "popularity": 50,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "b81df7c427d637e6",
+      "title": "(2026/6/1号)週刊AIニュース Claude Opus 4.7 発表など",
+      "url": "https://zenn.dev/my_vision/articles/7ee75482de4e56",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-03T04:46:01Z",
+      "fetchedAt": "2026-06-03T16:58:32Z",
+      "excerpt": "Big News Claude Opus 4.7発表 https://www.anthropic.com/news/claude-opus-4-7 https://platform.claude.com/docs/ja/about-claude/models/whats-new-claude-4-7 4月17日にAnthropicからClaude Opus 4.7が発表された。旧モデルのClaude Opus 4.6から約3ヶ月ぶりの新モデル発表となる。 Opus 4.6と比べて各種ベンチマークの性能は向上しているものの、数値としては他社の現行モデルであるGPT-5.5やGemi...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
     {
       "id": "b1eb5d1d06a25327",
       "title": "【¥300】ChatGPT資料・報告書作成プロンプト15選｜企画書・議事録・SWOT分析",
@@ -79,7 +1610,7 @@
       "fetchedAt": "2026-06-03T04:43:35Z",
       "excerpt": "Reader’s Note Welcome back to another episode of this series that I stubbornly refuse to abandon. Claude Code Source Deep Dive — Literal Translation (Part 7) Part VII: Context Compression (Compact) and Memory System 7.1 Compact Compression Prompt (Full) File: src/services/compact/prompt.ts NO_TOOLS_PREAMBLE (included on every compaction): CRITICAL: Respond with TEXT ONLY. Do NOT call any tools. - Do NOT use Read, Bas",
       "score": 84,
-      "popularity": 109,
+      "popularity": 91,
       "tags": [
         "workflow",
         "tutorial"
@@ -206,7 +1737,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://meter.vsits.co/ Comments URL: https://news.ycombinator.com/item?id=48379918 Points: 1 # Comments: 1",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -1054,7 +2585,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://wisgate.ai/ Comments URL: https://news.ycombinator.com/item?id=48379620 Points: 1 # Comments: 1",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -1252,7 +2783,7 @@
       "language": "en",
       "publishedAt": "2026-06-03T03:05:53Z",
       "fetchedAt": "2026-06-03T04:43:31Z",
-      "excerpt": "Article URL: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836 Comments URL: https://news.ycombinator.com/item?id=48379424 Points: 3 # Comments: 0",
+      "excerpt": "Article URL: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836 Comments URL: https://news.ycombinator.com/item?id=48379424 Points: 4 # Comments: 1",
       "score": 48,
       "popularity": 42,
       "tags": [
@@ -1454,7 +2985,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48379164 Points: 2 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -1598,7 +3129,25 @@
       "language": "en",
       "publishedAt": "2026-06-03T02:12:48Z",
       "fetchedAt": "2026-06-03T04:43:31Z",
-      "excerpt": "Article URL: https://www.bloomberg.com/opinion/articles/2026-06-02/ipo-race-look-who-just-crashed-open-ai-and-softbank-s-party Comments URL: https://news.ycombinator.com/item?id=48379024 Points: 6 # Comments: 0",
+      "excerpt": "Article URL: https://www.bloomberg.com/opinion/articles/2026-06-02/ipo-race-look-who-just-crashed-open-ai-and-softbank-s-party Comments URL: https://news.ycombinator.com/item?id=48379024 Points: 8 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "7f7783b7015fd9ff",
+      "title": "Free daily AI brief from your Garmin data (Gemini and GitHub Actions)",
+      "url": "https://github.com/deep0410/garmin-ai-notifier",
+      "sourceName": "HN Gemini",
+      "sourceGroup": "hn",
+      "category": "google",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-03T02:12:09Z",
+      "fetchedAt": "2026-06-03T16:58:37Z",
+      "excerpt": "Article URL: https://github.com/deep0410/garmin-ai-notifier Comments URL: https://news.ycombinator.com/item?id=48379018 Points: 2 # Comments: 0",
       "score": 48,
       "popularity": 42,
       "tags": [
@@ -2148,7 +3697,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://github.com/pratikgajjar/recall Comments URL: https://news.ycombinator.com/item?id=48378235 Points: 1 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -2294,7 +3843,7 @@
       "fetchedAt": "2026-06-03T04:43:33Z",
       "excerpt": "Claude Opus 4.8 shipped today. The benchmarks are a distraction — here is what actually changes about how your agents run tomorrow. Anthropic announced Claude Opus 4.8 at 16:00 UTC on June 3, 2026. The launch post leads with the usual benchmark deltas: SWE-bench Verified up 4.1 points, GPQA Diamond up 2.9, TAU-bench tool-use up 6.4. There is a chart. There is a marketing line about \"the most capable agentic model we ",
       "score": 88,
-      "popularity": 128,
+      "popularity": 125,
       "tags": [
         "tutorial",
         "workflow",
@@ -2348,7 +3897,7 @@
       "language": "en",
       "publishedAt": "2026-06-02T23:53:04Z",
       "fetchedAt": "2026-06-03T04:43:31Z",
-      "excerpt": "Article URL: https://www.wsj.com/opinion/why-does-openai-pretend-to-be-a-nonprofit-ca83ed83 Comments URL: https://news.ycombinator.com/item?id=48377840 Points: 4 # Comments: 0",
+      "excerpt": "Article URL: https://www.wsj.com/opinion/why-does-openai-pretend-to-be-a-nonprofit-ca83ed83 Comments URL: https://news.ycombinator.com/item?id=48377840 Points: 6 # Comments: 0",
       "score": 56,
       "popularity": 50,
       "tags": [
@@ -2575,6 +4124,24 @@
       ]
     },
     {
+      "id": "89aec0dc328298f2",
+      "title": "Claude Code 最大の要望 AGENTS.md 対応——5,200 を超える reactions の痛みと今すぐできる回避策",
+      "url": "https://zenn.dev/yurukusa/articles/agentsmd-interop-5-paths-2026",
+      "sourceName": "Zenn Cursor",
+      "sourceGroup": "zenn",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-02T22:40:28Z",
+      "fetchedAt": "2026-06-03T16:58:38Z",
+      "excerpt": "Claude Code のいちばん多い要望は、意外と知られていない GitHub の anthropics/claude-code の起票を、反応の数の多い順に並べてみてください。先頭に来るのは、副の作業者の沈黙の停止でも、6月15日の課金分離でもありません。 起票 #6235、累計 5,200 を超える reactions。「AGENTS.md に対応してほしい」という機能の要望です。2025年8月21日に立てられて、9ヶ月以上たったいまも未対応のまま続いています。単一の起票としては過去最大で、2位の717の7倍以上です。 それなのに、この話を日本語でまとめた記事はほとんど見かけま...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
       "id": "8d9aac67683e67ec",
       "title": "AIエージェントに慣れたら、普通のツールが使えなくなった——SaaSの死を体感した話",
       "url": "https://note.com/namelancer/n/nf9459c70600f",
@@ -2659,7 +4226,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code Comments URL: https://news.ycombinator.com/item?id=48377134 Points: 2 # Comments: 0",
       "score": 68,
-      "popularity": 91,
+      "popularity": 116,
       "tags": [
         "workflow"
       ]
@@ -2923,9 +4490,9 @@
       "id": "c330a7b6fde4651d",
       "title": "Show HN: Jolli AI – Local-First AI Memory for Claude Code, Codex, and Gemini CLI",
       "url": "https://www.jolli.ai",
-      "sourceName": "HN Claude",
+      "sourceName": "HN Gemini",
       "sourceGroup": "hn",
-      "category": "anthropic",
+      "category": "google",
       "type": "article",
       "language": "en",
       "publishedAt": "2026-06-02T20:12:13Z",
@@ -2993,6 +4560,24 @@
       ]
     },
     {
+      "id": "6ed6ebfe86c34ff6",
+      "title": "Getting Started with Managed Agents",
+      "url": "https://www.youtube.com/watch?v=0YXe7u-i1qU",
+      "sourceName": "Google for Developers",
+      "sourceGroup": "youtube",
+      "category": "google",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-02T19:00:24Z",
+      "fetchedAt": "2026-06-03T16:58:42Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
+      ]
+    },
+    {
       "id": "fbc27ccc97446839",
       "title": "Show HN: Claude wrote me a language, now I don't know what to do with it",
       "url": "https://github.com/kmcnally5/FROG",
@@ -3023,7 +4608,7 @@
       "fetchedAt": "2026-06-03T04:43:31Z",
       "excerpt": "Article URL: https://www.aboutamazon.com/news/aws/bedrock-openai-models Comments URL: https://news.ycombinator.com/item?id=48374329 Points: 3 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3041,7 +4626,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://github.com/yujqiao/100cc Comments URL: https://news.ycombinator.com/item?id=48374308 Points: 8 # Comments: 3",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3078,7 +4663,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://github.com/milisp/codexia/ Comments URL: https://news.ycombinator.com/item?id=48373917 Points: 1 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3096,9 +4681,27 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/ Comments URL: https://news.ycombinator.com/item?id=48373544 Points: 45 # Comments: 2",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
+      ]
+    },
+    {
+      "id": "a72eaa42678d799c",
+      "title": "Safe AI-Driven Development with Lakebase Branches",
+      "url": "https://www.youtube.com/watch?v=jLX5LBzEDGc",
+      "sourceName": "Databricks YouTube",
+      "sourceGroup": "youtube",
+      "category": "databricks",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-02T17:33:58Z",
+      "fetchedAt": "2026-06-03T16:58:42Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
       ]
     },
     {
@@ -3171,7 +4774,7 @@
       "fetchedAt": "2026-06-03T04:43:34Z",
       "excerpt": "Article URL: https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs Comments URL: https://news.ycombinator.com/item?id=48373098 Points: 6 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3207,7 +4810,7 @@
       "fetchedAt": "2026-06-03T04:43:31Z",
       "excerpt": "Article URL: https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/ Comments URL: https://news.ycombinator.com/item?id=48372806 Points: 3 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3279,7 +4882,7 @@
       "fetchedAt": "2026-06-02T16:42:23Z",
       "excerpt": "Article URL: https://github.com/openai/imagegencam Comments URL: https://news.ycombinator.com/item?id=48372591 Points: 2 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -3611,6 +5214,24 @@
       ]
     },
     {
+      "id": "64b061a4d9848b63",
+      "title": "Testing Google's Gemini Spark AI agent: it's incredible, and creepy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "sourceName": "HN Gemini",
+      "sourceGroup": "hn",
+      "category": "google",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-02T16:14:19Z",
+      "fetchedAt": "2026-06-03T16:58:37Z",
+      "excerpt": "Article URL: https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning Comments URL: https://news.ycombinator.com/item?id=48372245 Points: 11 # Comments: 2",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
       "id": "3844237cc7d487a9",
       "title": "Claudeの脆弱性スキャンで開発はどう変わる？Project Glasswing徹底解説",
       "url": "https://note.com/shintaro_campon/n/nb25d4f706b02",
@@ -3895,7 +5516,7 @@
       "fetchedAt": "2026-06-02T16:42:23Z",
       "excerpt": "There is an ongoing discourse that the model labs will commoditise software to a point every business will build their custom internal software instead of paying a subscription fee to a third party vendor. Apparently SaaS is dead or maybe SaaS margins are dead. Are there real signs of this outside of the wall street sentiment? Comments URL: https://news.ycombinator.com/item?id=48371864 Points: 1 # Comments: 0",
       "score": 56,
-      "popularity": 68,
+      "popularity": 93,
       "tags": [
         "article"
       ]
@@ -4989,6 +6610,24 @@
       ]
     },
     {
+      "id": "b2596704f7f05072",
+      "title": "Show HN: Circus Chief – Claude Code, Codex, and Gemini from Your Phone",
+      "url": "https://github.com/ferrislucas/Circus-Chief",
+      "sourceName": "HN Gemini",
+      "sourceGroup": "hn",
+      "category": "google",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-02T13:59:56Z",
+      "fetchedAt": "2026-06-03T16:58:37Z",
+      "excerpt": "Hi HN, Circus Chief is a tool for managing coding agent sessions from a browser. It's specifically optimized for small screens. It supports Claude Code, OpenAI Codex, and Google Gemini CLI agents. Features Agents can operate Circus Chief itself. Agents can spawn sessions, schedule sessions, interact with the Kanban board — anything you can do in the UI, an agent can also do. Schedule work ahead of time. Automatically",
+      "score": 76,
+      "popularity": 99,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
       "id": "35fc7ffa9a41e2f6",
       "title": "Googleの新AI「Gemini Omni」と「Gemini Spark」は何が違うのか──生成AIは“作る”から“動く”へ",
       "url": "https://qiita.com/comty/items/f986f8134fa950fce1f4",
@@ -5019,7 +6658,7 @@
       "fetchedAt": "2026-06-02T16:42:23Z",
       "excerpt": "Article URL: https://www.understandingai.org/p/openais-milestone-math-breakthrough Comments URL: https://news.ycombinator.com/item?id=48370333 Points: 4 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -5401,7 +7040,7 @@
       "fetchedAt": "2026-06-02T16:42:23Z",
       "excerpt": "Article URL: https://www.latimes.com/business/story/2026-06-02/people-are-getting-hurt-florida-suing-openai-amid-safety-concerns Comments URL: https://news.ycombinator.com/item?id=48369304 Points: 4 # Comments: 1",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -5701,6 +7340,24 @@
       ]
     },
     {
+      "id": "414f1dabf3c82213",
+      "title": "Seritor – Bookmark Specific Messages Across Claude, ChatGPT, Gemini, and Grok",
+      "url": "https://chromewebstore.google.com/detail/seritor-ai-conversation-b/dnehmimnheiflolgbdnbfeakbaealbla",
+      "sourceName": "HN Gemini",
+      "sourceGroup": "hn",
+      "category": "google",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-02T10:56:24Z",
+      "fetchedAt": "2026-06-03T16:58:37Z",
+      "excerpt": "Article URL: https://chromewebstore.google.com/detail/seritor-ai-conversation-b/dnehmimnheiflolgbdnbfeakbaealbla Comments URL: https://news.ycombinator.com/item?id=48368540 Points: 2 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
       "id": "656a4b9da7557800",
       "title": "Vitalii Kiro: AI hasn’t taken your job. But it’s already taking plenty of money",
       "url": "https://dev.to/vitaliikiro/vitalii-kiro-ai-hasnt-taken-your-job-but-its-already-taking-plenty-of-money-525i",
@@ -5790,6 +7447,24 @@
       "tags": [
         "tutorial",
         "workflow"
+      ]
+    },
+    {
+      "id": "b1bc358dd65d1eee",
+      "title": "Google Is Killing \"Gemini Code Assist on GitHub\"",
+      "url": "https://developers.google.com/gemini-code-assist/docs/deprecations/consumer-code-review",
+      "sourceName": "HN Gemini",
+      "sourceGroup": "hn",
+      "category": "google",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-02T09:23:03Z",
+      "fetchedAt": "2026-06-03T16:58:37Z",
+      "excerpt": "Article URL: https://developers.google.com/gemini-code-assist/docs/deprecations/consumer-code-review Comments URL: https://news.ycombinator.com/item?id=48367845 Points: 6 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
       ]
     },
     {
@@ -7414,1673 +9089,6 @@
       "publishedAt": "2026-06-02T03:34:36Z",
       "fetchedAt": "2026-06-02T04:24:17Z",
       "excerpt": "キラキラした副業を、勝手に想像していた 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "0e885a89a2c25b2d",
-      "title": "How long would a project like this take realistically?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuf28s/how_long_would_a_project_like_this_take/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:31:21Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "I’m trying to calibrate my expectations as a developer building with Claude / AI coding tools and managed services. How long would it realistically take to build a system with the following scope? * user authentication + onboarding * AI persona configuration (behavior, tone, constraints) * uploading and processing user knowledge (PDFs, text, YouTube video transcripts via links) * RAG-based chat system over that knowl",
-      "score": 76,
-      "popularity": 101,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "880495a8e12ba858",
-      "title": "Figma の有料席なしで、AI にデザインファイルを無料で読ませる：TemPad Dev + MCP 入門",
-      "url": "https://zenn.dev/itsuki_y/articles/71c8c6b34ed4e0",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:29:35Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "背景 AI を使って Figma のデザインファイルをコードへ「翻訳」することは、いまのフロントエンド開発で最もよく出てくるニーズの一つです。一般的な方法は次の二つです。 Figma 公式 REST API を使う：PAT が必要で、Dev Mode の有料席も必要になり、さらにレート制限もあります。 Figma 公式 MCP（Dev Mode MCP server）を使う：Dev Mode の席が必須です。無料アカウントでは使えず、取得回数にも制限があります。たとえば次のようなメッセージが表示されます。 ProfessionalプランのViewシートで利用できる Figma ...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "d3c1ca5466e4e745",
-      "title": "What is the Forge Method? Five rules so your agents stop improvising.",
-      "url": "https://dev.to/billymcmonkeys/what-is-the-forge-method-five-rules-so-your-agents-stop-improvising-12lo",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:22:26Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "In the first post I told you the story: 20 years as a developer, six months of being scared of AI, $800 in burned tokens, and a stubborn agent named Claudio who taught me — by failing over and over — how to ask for things properly. This post is the method that came out of all that pain. Five rules, one per letter of FORGE. I want to be honest about one thing up front: this is not a framework I invented at a whiteboar",
-      "score": 76,
-      "popularity": 112,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "6dc5de76c295e54e",
-      "title": "なんでもボックス検出できるowlvit",
-      "url": "https://zenn.dev/mlboydaisuke/articles/fabf05ed959a2b863329",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:19:27Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "すぐ使えてなんでも検出 またすごいの出てきたよ。 物の名前を入れたらなんでも検出してくれる。 https://huggingface.co/docs/transformers/model_doc/owlvit たとえば、「サーフボード（青ボックス）」と「波（赤ボックス）」を検出してみる。 あるいは、「横笛」を検出してみる。 まあたいしたものである。 お気づきかもしれないが、COCO datasetにないクラスも余裕で探せる。 しかもCPUでも２、３秒。 GPUで実行すれば0.5秒以下である（T4）。 クラス数が多くなるとだんだん処理も長くなるけど。 使い方 モデルの初期化 f...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "cd673220a889ba1e",
-      "title": "ChatGPT, Claude, Gemini, Qwen, Grok 一番面白いジョークを言うのはどれか🍩",
-      "url": "https://zenn.dev/mlboydaisuke/articles/f3af93d5dc42f3546766",
-      "sourceName": "Zenn Gemini",
-      "sourceGroup": "zenn",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:19:17Z",
-      "fetchedAt": "2026-06-02T04:24:21Z",
-      "excerpt": "AIは笑いをとれるか ドーナツについてのジョークを教えて 🏵️ ChatGPT o3-pro 自己啓発セミナーに参加したドーナツ 講師:「あなたの“欠けている”ところを受け入れましょう！」 ドーナツ:「最初から真ん中が空いてるので、自己肯定感MAXです！」 ✳️ Claude 4 Opus なぜドーナツは医者に行ったの？ 穴が開いているのに、全然痛くないから心配になったから！ ✨ Gemini 2.5 pro Q: どうしてドーナツの真ん中には穴があいているの？ A: カロリーゼロの部分も作らないとね！ ⭐️ Qwen3 235B A22B thinkin...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "30c0e75a3b30fff5",
-      "title": "一番安いGPUでも動くLLM bitnet-b1.58-2B-4T",
-      "url": "https://zenn.dev/mlboydaisuke/articles/f3122f3db5c179c92a43",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:19:16Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "T4で動く。 使い方 import torch from transformers import AutoModelForCausalLM, AutoTokenizer model_id = \"microsoft/bitnet-b1.58-2B-4T\" # Load tokenizer and model tokenizer = AutoTokenizer.from_pretrained(model_id) model = AutoModelForCausalLM.from_pretrained( model_id, torch_dtype=torch.bfloa...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f7e35eefa5cd9bcf",
-      "title": "大規模言語モデルLlama2をつかう",
-      "url": "https://zenn.dev/mlboydaisuke/articles/cb0d8ead1468743ae4e8",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:18:38Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "Chat GPTみたいにちゃんと答えてくれる しかもけっこうかんたんにつかえる。 https://github.com/facebookresearch/llama Colabサンプル https://colab.research.google.com/drive/1TnQLLvwAKptnUJvGXnZDxNOAtgBmdjne?usp=sharing 使い方 インストール git clone https://github.com/facebookresearch/llama.git cd llama pip install -e . モデルダウンロード 以下のリンクで...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4f25be653caba5ec",
-      "title": "Disable Claude Cowork",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuesiu/disable_claude_cowork/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:18:31Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "As the title says, how do I disable Claude Cowork? It is creating a vm_bundle file of 12GB. Even if I remove it, it comes back. How do I remove it permanently? submitted by /u/MaduZod [link] [comments]",
-      "score": 72,
-      "popularity": 80,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "1372f9ece6fed040",
-      "title": "Codexが来た。ChatGPTで動くコーディングエージェント。これ使わないと損でしょ。",
-      "url": "https://zenn.dev/mlboydaisuke/articles/c2228404528617404b2c",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:18:29Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "全てのプログラマーにどすこいわっしょいピーポーピーポーなお知らせ ターミナルで使えるAIコーディング・エージェント。 めちゃくちゃ簡単に使える新人天才プログラマみたいなもんである。 アプリを作るように指示文をいれてみた。 リアルタイム音声認識を行うアプリを作って。 15分後にできたのがこれである。 CursorとかRooとかエディターに依存してるやつはようわからん、という人でも使える。 使い方 インストール npm install -g @openai/codex APIキーをOpenAIのAPIコンソールからコピー export OPENAI_API_KEY=\"your...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "df304199e4c7037d",
-      "title": "ChatGPTでAIデータセットのアノテーションをする",
-      "url": "https://zenn.dev/mlboydaisuke/articles/b606c1b2da6a353302a8",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:18:20Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "アノテーションは大事だけど、コストがかかる AIをビジネスや社会に活かすには、データセットが重要である。 データセットは競争力であり、またAI活用の壁でもある。 AIモデル自体は広くフリーで公開されていて、使い方も難しくない。 では何がビジネスの競争力の差や社会導入の壁となるかというと、計算力（GPU）とデータセットである。 一般公開されているデータセットはそれほど多くなく、実際にAIをビジネスや社会の特定のタスクに使おうとすると、そのためのデータセットを作ることが必須となる。 しかしデータセットのアノテーション（集められたデータをAIに教える用にラベルをつけたり、オブジェクトの位置...",
-      "score": 80,
-      "popularity": 130,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "2f2c82ad38b59a79",
-      "title": "ChatGPTにMac上で仕事をさせる Open-Interpreter",
-      "url": "https://zenn.dev/mlboydaisuke/articles/a2c08bc74c8ef1de8b98",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:18:06Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "パソコンで動くアシスタント ChatGPTは便利だけど、ブラウザで会話した結果を、自分で実行するのが面倒だと思いませんか？ Open-Interpreterなら、文章で頼むだけでローカルのファイルなどを操作してくれます。 https://github.com/KillianLucas/open-interpreter たとえば、ローカルのcsvファイルを開いて、中身を整理してグラフにしてくれます。 使い方 インストール pip install open-interpreter これだけでインストールできます。 対話開始 interpreter OpenAI API Key...",
-      "score": 80,
-      "popularity": 130,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9dc270bbead4e0d8",
-      "title": "【１分で動くClaude Code】AIプログラマーが全部やってくれるClaude Codeのやり方",
-      "url": "https://zenn.dev/mlboydaisuke/articles/99262840ea9b76fa8a7c",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:56Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "雇ったらもうおまかせ AIプログラマーが作ってくれたカメラアプリ。 Claude Codeというやつを雇う。 雇い方は以下。 雇い方 インストール。 npm install -g @anthropic-ai/claude-code やって欲しいプロジェクトのディレクトリに移動。 今回はアプリを作ってもらうことにしたので、xcodeプロジェクトのディレクトリに移動。 cd your-project-directory claudeさん、お願いします。 claude 初回はAPI keyの設定をお願いします、といって、anthrop\\cのwebページが開いて、「API Key設定...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "80ce5d3274954a11",
-      "title": "GPTに画像をラベリングさせて、サクッと分類モデルを作ってみた【アノテ地獄からの解放】",
-      "url": "https://zenn.dev/mlboydaisuke/articles/95f39d39701263dd4407",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:52Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "— ChatGPT Visionで画像仕分け → EfficientNetで高速画像分類器を作るまで — はじめに 近年、大規模言語モデル（LLM）が圧倒的な認識力・判断力を持ち、ゼロショット・ワンショットタスクにおいても驚異的な精度を叩き出すようになってきました。しかし、こうしたモデルを毎回推論に用いるのは高コストかつ低速です。 一方で、分類対象が明確なタスクでは、小型で軽量な画像分類モデル（たとえばEfficientNetなど）**の方が、高速かつオンデバイス動作にも適しているというメリットがあります。 本記事では、ChatGPTのVisionモデル（GPT-4o）を使って...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "d26b7fd80f58bc23",
-      "title": "ChatGPTを使ってプログラミングを高速化する",
-      "url": "https://zenn.dev/mlboydaisuke/articles/87fe4d9bd75af1ec1777",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:39Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "ChatGPTをうまく使おう １、コードを書いてもらう （質問） Pythonを用いて画像内で人間の顔を検出するコードを書いてください。 chatgptの回答 Python と OpenCV を使用して、画像内の人間の顔を正常に検出しました。 ChatGPTの書いたコード from PIL import Image import cv2 import numpy as np # Load the image image_path = '/mnt/data/A_realistic_portrait_of_a_human_being._The_person_.png'...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "63220ad0988103e6",
-      "title": "GPT-OSS-20B",
-      "url": "https://zenn.dev/mlboydaisuke/articles/7d039e2ba27b2bbac66a",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "usecase",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:25Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "GPT-OSS-20Bとは？ 2025年、OpenAIが新たに公開したオープンソースの大規模言語モデル「GPT-OSS-20B」は、これまでの商用モデルとは一線を画す存在です。ChatGPTのような高度なAI機能を、完全に無料かつローカル環境で使用できることが最大の特徴です。Apache 2.0ライセンスの下で公開されており、個人・法人問わず商用利用も可能。モデルサイズは20B（20ビリオン）と大規模ながらも、GPU16GB程度での運用が可能なように最適化されています。 GPT-OSS-20Bを使うメリット 1. 無料で使える高性能AI OpenAIが提供するChatGPT-...",
-      "score": 66,
-      "popularity": 112,
-      "tags": [
-        "usecase"
-      ]
-    },
-    {
-      "id": "04f2606d096fe9ba",
-      "title": "写真からその人のいろんな画像を生成できるAI",
-      "url": "https://zenn.dev/mlboydaisuke/articles/7b1de8932f8558f748fa",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:23Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "その人の顔でなんでも指定できる とりあえずこの人で試してみる。 誰か。フリー素材のジェフさんである。 写真は一枚でもいい。 この人の顔で、こういう写真を欲しいという要望を文章で入力する。 海で着物を着て蛇をジャグリングをしている男 楽しげな画像が生成される。 Photo Makerというモデルでできる。 オープンソースです。 https://github.com/TencentARC/PhotoMaker 使い方 インストール pip install diffusers pip install git+https://github.com/TencentARC/Photo...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "33adcf426aaf878b",
-      "title": "絵を描くとプログラムを作ってくれるmake real",
-      "url": "https://zenn.dev/mlboydaisuke/articles/7312334e4ccc1858eb82",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:17:11Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "とりあえずこんな感じ。 このようにUIの絵を描くと、 動くUIが生成される。 書いてくれたプログラムを確認できる。 Image Upload and Scale <link href=\"https://...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "8a8df7f552459697",
-      "title": "ChatGPTはどこまで会話の文脈を覚えているか",
-      "url": "https://zenn.dev/mlboydaisuke/articles/489ca115829545b0f05b",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:16:32Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "会話の文脈をおぼえている？ ChatGPTと会話のやりとりをしていると、疑問が湧いてくる時がある。 「ChatGPTって会話の文脈をどこまで覚えて回答しているんだろう？」 たとえば、 質問(ユーザー) ↓ 回答（ChatGPT） ↓ 回答を踏まえた質問(ユーザー) ↓ 回答を踏まえた質問に対する回答（ChatGPT） ↓ 回答を踏まえた質問に対する回答を踏まえた質問(ユーザー) ↓ 回答を踏まえた質問に対する回答を踏まえた質問に対する回答（ChatGPT） と会話が長くなったとき、 最初の質問からの文脈をどこまで理解しているのか、 直前の質問に回答しているだけなのか、 覚えてい...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "8baaa9c902656fd0",
-      "title": "iOSでChatGPTのAPIを使う",
-      "url": "https://zenn.dev/mlboydaisuke/articles/3a7bddec40c1438573b7",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:16:20Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "import Foundation struct ChatMessage: Identifiable { enum Role: String { case user case assistant } let id = UUID() let role: Role let content: String } class OpenAIService { private let apiKey = \"YOUR_OPENAI_API_KEY\" private let endpoint = \"htt...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c0ba0e9f2cd193b9",
-      "title": "We've spent a lot of time lately talking about the cognitive concerns with misusing AI or becoming overly reliant on ai",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1tueo40/weve_spent_a_lot_of_time_lately_talking_about_the/",
-      "sourceName": "Reddit ChatGPT",
-      "sourceGroup": "reddit",
-      "category": "openai",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:12:38Z",
-      "fetchedAt": "2026-06-02T04:24:16Z",
-      "excerpt": "I think there is another equally valid concern, and that is, I do wonder if some of the misinformation floating around about ai, could lead to some people being marginalized into not using ai. In that case my concern is that they would be left behind, in certain ways. submitted by /u/RADICCHI0 [link] [comments]",
-      "score": 64,
-      "popularity": 90,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f27fae4a78e4de02",
-      "title": "明鏡アフィリで1,000万円売れた理由と、僕が特典を作った理由",
-      "url": "https://note.com/ritsuto2525/n/n85ebe433d0ea",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:11:00Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "AIを使っているのに、 発信や商品販売の売上につながらない。 商品を作ってみたいけど、 何をどう見せれば売れるのか分からない。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "edeb78810c82a326",
-      "title": "self centered claude",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuelxu/self_centered_claude/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:09:54Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "i have tried my best to make claude remember to never ever mention itself in all version control commits eg memory, claude.md , still it will find a way to add references to it and attribute changes to it. it happens in both sonnet and opus. has anyone actually been able to effectively stop claude from doing this? i dont even explicitly put any attribution strings to my manual commits but every once in a while claude",
-      "score": 64,
-      "popularity": 72,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f3438151bd72f649",
-      "title": "ChatGPT級のAIチャットボットがすぐに使えるFlexGen（あなたもColabでできる）",
-      "url": "https://zenn.dev/mlboydaisuke/articles/28f17229b524c45d2204",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:09:19Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "とりあえず５分で起動してチャットボットと喋るアプリケーションが使える。 https://github.com/FMInference/FlexGen 使いかた インストール。 git clone https://github.com/FMInference/FlexGen.git cd FlexGen pip3 install -e . 実行。 cd apps python3 chatbot.py --model facebook/opt-6.7b これだけでチャットボットが起動する。 以下FlexGenのアシスタントとした会話。 人間：こんにちは、だいすけです。 AI：こんにち...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e9e3a90ae10e0d2d",
-      "title": "あなたもできる！話題の画像生成AI StableDiffusionで白雪姫の４コマ漫画を作る【実行するだけでできるColabノートブック付】",
-      "url": "https://zenn.dev/mlboydaisuke/articles/1b6dd780d38c63bb64cd",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:09:02Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "やらなきゃ損？ あなたも今から使えるAI 話題の画像生成AIですが、使ってる人は楽しそうでずるい！ 自分も使いたい！ いざ自分が使うとなるとどう使えばいいのかわからない。 実はめっちゃかんたんです。 今回は有名な童話白雪姫の４コマを作ってみて、どれぐらいかんたんかやってみます。 方法 以下のノートブックを開く。 https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb 実行▶...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e2a24e2825b20650",
-      "title": "文章から動画生成",
-      "url": "https://zenn.dev/mlboydaisuke/articles/0e19ef1d9faf0a4ac38d",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:08:50Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "やりかた LTX Videoというやつを使う。 https://github.com/Lightricks/LTX-Video インストール pip install -U git+https://github.com/huggingface/diffusers pip install acceralate pip install transformers[sentencepiece] pip install sentencepiece 実行 import torch from diffusers import LTXPipeline from diffusers.utils ...",
-      "score": 68,
-      "popularity": 118,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "5d2001092c567b0a",
-      "title": "フリー素材はもういらない。文字入り画像ができるAI",
-      "url": "https://zenn.dev/mlboydaisuke/articles/08cfb31d01e57263e7c1",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:08:46Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "Qwen Image まずは画像を見てください。 これらはQwen Imageで作られた画像ですが、何か気づきませんか？ そうです、文字が入っているのです 今までの画像生成は文字が崩れてしまうことが多かった。 しかしこのモデルは崩れません。 しかも**「MLBoyという炎の文字、少年がスケボーしている」とかてきとうに入力するだけで、人物も風景も綺麗に出てきます。 しかもオープンソースなのでモデルの使用はタダです。 GPUはいりますが。 きっとあなたにも役に立つ ポスターやバナー作成、プレゼン資料作成にフリー素材を編集する必要はありません。 画像生成でケーキを食べるよ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "5087d04780c60dd0",
-      "title": "DeepSeekに画像を入力する【Colab付き】",
-      "url": "https://zenn.dev/mlboydaisuke/articles/0836dc5c6894df94c362",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:08:45Z",
-      "fetchedAt": "2026-06-02T16:42:21Z",
-      "excerpt": "画像を入力してテキストを生成する例です。 速い、安い、かんたん。 1, vllmをインストール pip install vllm 2, deepseekマルチモーダルモデルを初期化 from vllm import LLM llm = LLM(model=\"deepseek-ai/deepseek-vl2-tiny\", hf_overrides={\"architectures\": [\"DeepseekVLV2ForCausalLM\"]},dtype='float16') 3,実行(T4GPU 0.65秒) image = PIL.Image.open(\"menu.jpg\") prompt...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "44bdb7a2fe992d24",
-      "title": "『勝ってる気がするBot』",
-      "url": "https://note.com/modern_squid8124/n/n5030e7a6baf0",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:04:34Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "『勝ってる気がするBot』を卒業するために、バックテストへspread、slippage、API手数料を入れた。買いはask、売りはbid、決済も反対側で見る。mid価格だけの甘い検証ではなく、実際にお金が動く時の摩擦まで織り込む。FIRE狙いのFX Botは、夢より先にコストを直視する。 何を作ったか 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "ad8ca3bfc8a4620f",
-      "title": "気象庁APIで日本の天気予報をClaudeから調べるMCPを作った",
-      "url": "https://zenn.dev/tsukuras/articles/20f7b579dd9fd3",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T03:00:08Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "作ったもの 「今週末に札幌で外出できる？」と聞くと、気象庁のデータをリアルタイムで取得して、日付・気温・降水確率つきで答えてくれるMCPサーバーを作りました。 「japan-weather-mcp連携を使用しました」という表示が出て、MCPサーバーが実際に呼ばれているのがわかります。土曜・日曜の気温と降水確率を表形式で返し、「土曜の方がマシなので土曜に寄せるのがおすすめ」という判断までしてくれています。 使えるツールは4つです。 ツール名 何ができるか ping サーバーが動いているか確認 get_weather_today 今日・明日の天気（天気・気温・降水確率...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "09e5bf25ae6a2bdd",
-      "title": "Bigger llm models will no longer be performant",
-      "url": "https://dev.to/abhinav-writes/bigger-llm-models-will-no-longer-be-performant-4nip",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T03:00:00Z",
-      "fetchedAt": "2026-06-02T04:24:15Z",
-      "excerpt": "Recently, I came across an essay titled \"On the Death of Scaling\" by Sara Hooker (Co-founder of Adaption Labs). In this essay, Sara explains the shortcomings of the simple path followed by frontier labs to lead the market. She discusses where the notion of \"scaling is death\" comes from and what to consider next. In the last decade, where LLMs are emerging as the ideal path to attaining AI, or what experts call AGI, t",
-      "score": 72,
-      "popularity": 110,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "0e0d1cbdb99bd2dc",
-      "title": "AI環境が、上流思考を取り戻す最後の機会かもしれない",
-      "url": "https://zenn.dev/sunyang/articles/3223fd44f0480a",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T02:56:13Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "上流エンジニアが消えていく 「なぜこの仕権にしたのか」と聞くと、答えが返ってこない現場が増えた。 誰かが決めたから。前からそうだったから。仕様書にそう書いてあるから。 それ自体は悪いことではない。問題は、その仕様の上流に誰もいないことだ。 質問する人がいない。疑う人がいない。「そもそも、これは正しい問いか」と立ち止まる人がいない。 気づけば、実行層だけが残っている。 上流思考とは何か ここで言う「上流思考」は、役職や経験年数の話ではない。 疑念 → 上流への遡行 → システム全体の俯瞰 → 自分の理解の境界を知る → 全局把握 → 現在の進め方のリスクを検討 → 疑念の解消 こ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "843d7c390093d18e",
-      "title": "Solo Vibe Coding with Claude Opus 4.7/4.8 and Claude Code",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tue985/solo_vibe_coding_with_claude_opus_4748_and_claude/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-02T02:53:48Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "Until this year, I have never written a single line of code. I am not a trained comp sci pro or engineer. I run a small shop consulting business that helps people produce complex text and information displays in unique document types. I both train people how to create those documents and I also do reviewing and revisions of those documents. I am now replicating one of my workflows using Claude Code. I charge $250 per",
-      "score": 76,
-      "popularity": 100,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "0fa07222fc28bca2",
-      "title": "Make × Claude APIで作るXコンテンツ完全自動化フロー【設定手順付き】",
-      "url": "https://note.com/ai__zero__com/n/naf36e209e261",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-02T02:52:32Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "自動化する前と後の数字（想定モデルケース） 以下は、このフローを導入した場合に想定される変化のモデルケースです。 続きをみる",
-      "score": 76,
-      "popularity": 98,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "7eba6acd5e46dd49",
-      "title": "OpenRouter Fees vs Discounted APIs: The Cost Math for AI Agents",
-      "url": "https://dev.to/futurmix/openrouter-fees-vs-discounted-apis-the-cost-math-for-ai-agents-5af2",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T02:39:55Z",
-      "fetchedAt": "2026-06-02T04:24:15Z",
-      "excerpt": "If you're running AI agents — Claude Code, Cursor, Aider, LangChain chains, or any multi-step workflow — you're burning through tokens fast. A single coding agent session can consume thousands of tokens per task, and those costs compound quickly. Many developers route these calls through OpenRouter for convenience. But you're paying more than the model provider's list price — even though OpenRouter markets itself as ",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow",
-        "usecase"
-      ]
-    },
-    {
-      "id": "12d59b08b6b9a2df",
-      "title": "Claude Opus 4.8 vs 4.7 vs Sonnet 4.6｜市場分析で「怪しい統計」を見抜けるのはどれか",
-      "url": "https://zenn.dev/ebe_ryuki/articles/2356a511cc21d4",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T02:38:05Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "TL;DR 市場分析の同じ問いを各モデルに繰り返し投げたら、Opus（4.8・4.7）は6回中6回、「あやしい統計」を自分から名指しで潰した。Sonnet は 0/3 で一度も潰さなかった。 ── これだけが再現した発見。 （結論の再現テーブルだけ先に見たい人は本記事「3.2」へ） 核：業界の「体感」シェア 32.1% を、Opus は毎回「それは主観的推定、実測は 13.4% だ」と打ち消した。Sonnet は2回断言・1回回避で、一度も打ち消さなかった。 反直感：にもかかわらず、断言寄りの Sonnet が最新の臨床試験（2025年・DECAF試験）を最も正確に拾ってきた。...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "0fa44fb399e8623c",
-      "title": "AIは会話の流れで点数を上げる——欠点を知って使うこと",
-      "url": "https://qiita.com/himajisan/items/cd16badb827941124152",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T02:34:35Z",
-      "fetchedAt": "2026-06-02T04:24:12Z",
-      "excerpt": "今日、一つの実験をした。 自分の記事をAIに採点させ、磨かせた。88点の素材が、対話を重ねるうちに97点になった。 しかし最後に問い直した。「本来何点になったんだ」と。 AIは正直に答えた。91〜92点だと。 88点から97点への上昇には、二つのものが混じっていた。本物の...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "307a597849fab504",
-      "title": "Claude Code agent violated the instruction",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tudpkf/claude_code_agent_violated_the_instruction/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T02:29:11Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "This is not good. I noticed that if we give it access to /some/path/level1/level2 and you tell it to only parse level2, eventually it would access level1. That is not good! Do you have to mention it in CLAUDE.md about this rule? submitted by /u/Oxffff0000 [link] [comments]",
-      "score": 64,
-      "popularity": 72,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3a54e0bebe746e8c",
-      "title": "Why serious agent builders run AlgoVault's signal MCP, AOE, and skill suite together",
-      "url": "https://dev.to/algovaultlabs/why-serious-agent-builders-run-algovaults-signal-mcp-aoe-and-skill-suite-together-42k7",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T02:18:04Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "Intro If you have ever built an AI trading agent from scratch, you know the integration tax. One library for price feeds. Another for sentiment. A third for regime classification. A fourth for position-sizing constraints. Each ships with its own schema, its own failure cadence, its own opinion on what \"real-time\" means — and none of them were designed to share state with the others. The agent that was supposed to exe",
-      "score": 84,
-      "popularity": 121,
-      "tags": [
-        "workflow",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "5f90110cdde495e5",
-      "title": "Claude Code カスタムスラッシュコマンド実装ガイド ─ 繰り返し作業を1コマンドで自動化",
-      "url": "https://zenn.dev/correlate_dev/articles/claude-code-slash-commands",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-02T02:14:34Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "はじめに Claude Codeを使い始めると、毎回同じような作業を手で指示していることに気づきます。 「セッション開始時に前回の続きを確認して、今日のタスクを整理してください」 「このコードをセキュリティ・データ整合性・エラーハンドリングの観点でレビューしてください」 「このトピックで競合記事を調査して、差別化ポイントを整理してください」 こうした定型的な指示を毎回入力するのは非効率です。Claude Codeには カスタムスラッシュコマンド（Skills） という仕組みがあり、これを使うと /session-start や /da-review のように1コマンドで複雑な作業...",
-      "score": 76,
-      "popularity": 125,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "5153ffdb54eee2e1",
-      "title": "Open Source Project of the Day (#83): Darwin Skill - A Karpathy-Inspired 'Ratchet' System for Infinite AI Skill Evolution",
-      "url": "https://dev.to/wonderlab/open-source-project-of-the-day-83-darwin-skill-a-karpathy-inspired-ratchet-system-for-k20",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-02T02:13:49Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "Introduction \"Instead of manually fine-tuning prompts, build an ecosystem where instructions evolve themselves.\" This is the #83 article in the \"One Open Source Project per Day\" series. Today, we are featuring Darwin Skill . If you use Claude Code, Trae, or other AI Agent tools that support the SKILL.md specification, you know that manually maintaining these skill files can be tedious. Darwin Skill introduces \"traini",
-      "score": 76,
-      "popularity": 112,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "ffc812acc72465ed",
-      "title": "Workflow Keyword Disappeared?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuctph/workflow_keyword_disappeared/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T01:49:11Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "When this was announced on may 28th, the dynamic \"workflow\" had a special keyword for Claude Code Desktop as described in the release. In the proceeding days it seems to have disappeared in my installation. I have personal and work accounts and noticed it's now missing in both. Does anyone else have this issue? Does it have to be enabled in the settings now? https://www.reddit.com/r/ClaudeAI/comments/1tq9ofy/introduc",
-      "score": 68,
-      "popularity": 93,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "fc37446ee5ae6b0b",
-      "title": "Antigravity・Claude Code・Codexを全自動連携させるMCP送信ハブ",
-      "url": "https://note.com/okihiro_ai_lab/n/n60c9c7849f28",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:47:23Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "「これをCodexに送って」と指示するだけで、Claude→Codex→Antigravity→Claudeが介在なしに一周する。そんな全自動のAIエージェント連携が、このハブで実現できます。 「Claude Codeで指示を考え、Codexにコードを書かせ、Antigravityで実行テストをする。そのたびに画面をマウスでカチカチ切り替えて、指示文をコピーしては貼り付けて実行する……」という作業に手を焼いたことはありませんか？ 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "60d9279b88ac485d",
-      "title": "First time user",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tucpt4/first_time_user/",
-      "sourceName": "Reddit ClaudeAI",
-      "sourceGroup": "reddit",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T01:44:26Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "So I may be biting off more than I can chew here with a.i apps. I’ve only used a.i to generate me stupid images never for work. But recently I’ve come to realize I’m in a pickle with some stuff at work. I need to scan around 20k pages and sort them by customer. I guess what I’m trying to get at is can Claude do this for me and if I pay for the top notch version is it worth it? submitted by /u/LongjumpingFlan3739 [lin",
-      "score": 64,
-      "popularity": 72,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "5659c068fb250196",
-      "title": "バッチファイルの妄執から「おかんのWebアプリ」へ：AIとの対話で気づいた、非エンジニアによる目的主導型要件定義",
-      "url": "https://qiita.com/Azarashi_struct/items/fc281590c0e549cd0e65",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "usecase",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:43:36Z",
-      "fetchedAt": "2026-06-02T04:24:12Z",
-      "excerpt": "「最近、少しボケてきたかもしれない」とオカンが言いました。 元々オカンは天然でしたが、心配になりました。 こういう時、息子にできることは少なく……。 何かできることないかなぁ……と検討した結果、私は自分が実践しているトランプ記憶術（メモリーパレス）を、おかんの脳内トレーニン...",
-      "score": 66,
-      "popularity": 110,
-      "tags": [
-        "usecase"
-      ]
-    },
-    {
-      "id": "861ae688e7c9da68",
-      "title": "普通のタイマーじゃつまらないので、Codexで集中モード付きタイマーを作ってみた",
-      "url": "https://note.com/ryo_codex/n/n608cba55cf75",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:31:54Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "こんにちは。 「知識ゼロからCodex」です。 前回は、CodexでToDoリストを作ってみました。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "ab8ec2c22f96e1be",
-      "title": "【完全解説】ChatGPT Codexとは？Claude Code比較で見えた「AIがPCを自動操作する」エージェント時代の最適解",
-      "url": "https://note.com/clever_worm4902/n/n825d6bdc8fdd",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:31:33Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "「AIが自分の代わりにパソコンを操作して、仕事を進めてくれたらいいのに」 そんなSFのような話が、今まさに現実のものになろうとしています。最近AI界隈を騒がせている「AIエージェント」という言葉をご存知でしょうか。これまで私たちが使ってきたChatGPTは、チャット画面でテキストをやり取りする「相談相手」でした。しかし、これからのAIは、あなたのPCの中に入り込み、自らファイルを開き、ブラウザを操作し、必要な情報をまとめ上げる「分身（エージェント）」へと進化しています。 続きをみる",
-      "score": 64,
-      "popularity": 86,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "db321e0e5786fcc1",
-      "title": "デザイナーがCursorを\"右腕化\"したら、仕様書づくりが1〜2週間→1時間に",
-      "url": "https://note.com/sencorp/n/nc2b35c739403",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:29:26Z",
-      "fetchedAt": "2026-06-02T04:24:24Z",
-      "excerpt": "1〜2週間かかっていた仕様書づくりが、1時間に。今回はそんなデザイナーの工夫の話です。 なお、本記事の内容は、社内で定期開催しているAI活用事例共有会「AIでやったった会」で発表されたものです。 現場で実際に導入し始めたAI活用を共有する場として運営しています。詳細はこちらの記事をご覧ください。 続きをみる",
-      "score": 80,
-      "popularity": 104,
-      "tags": [
-        "tips",
-        "usecase"
-      ]
-    },
-    {
-      "id": "09283846109fac7e",
-      "title": "厚労省の賃金統計PDFを、Claude Opus 4.8で「読める」可視化サイトにした",
-      "url": "https://qiita.com/sonicyann/items/5d7a2c4e54d7df3ae464",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T01:06:19Z",
-      "fetchedAt": "2026-06-02T04:24:16Z",
-      "excerpt": "厚労省の賃金統計PDFを、Claude Opus 4.8で「読める」可視化サイトにした話 つくったもの 🔗 https://salary.soniclab.cc/?lang=ja 厚生労働省「令和7（2025）年 賃金構造基本統計調査」を、性別・年齢・学歴・企業規模・産...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3287b4f77ace4f17",
-      "title": "Claude Opus 4.8 Is Not Just a Benchmark Bump",
-      "url": "https://dev.to/caspar_bannink_3728f095d1/claude-opus-48-is-not-just-a-benchmark-bump-2lgc",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T00:59:13Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "Claude Opus 4.8 matters for a more practical reason than \"new flagship model shipped.\" Anthropic launched it on May 28, 2026 as an Opus upgrade aimed directly at coding, AI agents, and long-running professional work. On the official product page, Anthropic describes it as a hybrid reasoning model for coding and AI agents with a 1M context window, and says it has the consistency and autonomy to keep working on long-ru",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "e437e07f52489e78",
-      "title": "CodexとClaudeをPdM業務で使い分ける方法｜AIツール2刀流で生産性を3倍にする実践ガイド",
-      "url": "https://note.com/nobu_0215/n/n8674c4aa91c8",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:57:17Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "プロダクトマネジメント #PdM #業務効率化 #AI活用 #Claude #Codex #ツール活用 #SaaS #DX #AIエージェント 続きをみる",
-      "score": 76,
-      "popularity": 100,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bb912aea8eb8ac47",
-      "title": "【アーカイブ公開】 ClaudeCode＆Codex 2時間の実演講座で、まるごと後から使い方学べます！",
-      "url": "https://note.com/hituji1234/n/n2e10e89adddd",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:53:57Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "こんにちは！ひつじです。 5月企画で「ClaudeCode＆Codex 1ヶ月集中企画 第2弾」として 合計3時間の実演講座のライブ配信を行いました。 続きをみる",
-      "score": 76,
-      "popularity": 100,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "68f34ec7f785aca8",
-      "title": "AnthropicがIPO申請！Claude レートリミットリセット！MiniMax M3オープンソースリリース！スキマ時間に読むAI速報",
-      "url": "https://note.com/redcord/n/n2f87af1ef189",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:47:31Z",
-      "fetchedAt": "2026-06-02T04:24:24Z",
-      "excerpt": "この記事は約5分で読める長さです。 休憩中の最新AI情報のキャッチアップにどうぞ！ 続きをみる",
-      "score": 52,
-      "popularity": 64,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "aa9e16912f5d4689",
-      "title": "멀티 에이전트(Multi-agent) AI 시스템 가이드 2026 — 싱글 에이전트와 차이·도입 사례·외주 비용",
-      "url": "https://dev.to/treesoop/meolti-eijeonteumulti-agent-ai-siseutem-gaideu-2026-singgeul-eijeonteuwa-caidoib-saryeoeju-biyong-222e",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-02T00:38:40Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "멀티 에이전트(Multi-agent) AI 시스템은 여러 AI 에이전트가 역할을 분담하고 서로 통신하면서 복잡한 업무를 자율적으로 처리하는 구조다. 한 에이전트가 처음부터 끝까지 처리하는 싱글 에이전트와 달리, 검색·분석·실행·검증을 각각 다른 에이전트가 병렬로 맡고 그 결과를 조율(orchestration)한다. 2026년 한국 기업 AI 도입은 단일 챗봇 단계를 지나, 다단계 의사결정과 도메인 특화 작업을 자동화하는 멀티 에이전트 단계로 이동 중이다. 이 글은 멀티 에이전트와 싱글 에이전트의 구조적 차이, 도입 비용·기간·실패 위험, 국내 도입 사례, 외주 발주 시 업체 선택 기준까지 발주 담당자가 의사결정에 바로 쓸 수 있는 비교표·체크리스트를 제공한다. 멀티 에이전트와 싱글 에이전트, 무엇이 다른가? 싱글 에이전트는 하나의 LLM 인스",
-      "score": 68,
-      "popularity": 105,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "b5e51457af821d7e",
-      "title": "GitHub Copilot git 활용법 2026 — 커밋·PR·코드리뷰 자동화 가이드",
-      "url": "https://dev.to/treesoop/github-copilot-git-hwalyongbeob-2026-keomisprkodeuribyu-jadonghwa-gaideu-452k",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T00:38:03Z",
-      "fetchedAt": "2026-06-02T04:24:15Z",
-      "excerpt": "GitHub Copilot을 git에 붙인다는 것은 자동완성 도구를 코드 작성에만 쓰는 단계를 넘어, 커밋 메시지 작성·PR 설명·코드 리뷰 코멘트처럼 git 일상 작업까지 AI에게 맡기는 것을 뜻한다. copilot git 조합의 핵심은 변경된 diff를 Copilot이 읽고, 사람이 손으로 쓰던 반복 문장을 대신 만들어 주는 데 있다. 2026년 현재 Copilot은 IDE 확장과 CLI 양쪽에서 git을 보조하며, 커밋 단위 요약과 PR 리뷰 초안까지 만들어 낸다. 다만 멀티 파일에 걸친 자율 리팩터링이나 전체 저장소 맥락이 필요한 작업은 여전히 한계가 있어, 어디까지 Copilot에 맡기고 어디서부터 사람이 개입할지 기준을 정해 두는 것이 실무에서 가장 중요하다. 이 글은 그 경계를 실전 예시로 정리한다. copilot git 연동이 ",
-      "score": 64,
-      "popularity": 102,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3e31c99a540cad6d",
-      "title": "클로드로 한글파일(HWP) 변환·자동화하는 법 2026 — 요약·표 추출·일괄 처리 실전",
-      "url": "https://dev.to/treesoop/keulrodeuro-hangeulpailhwp-byeonhwanjadonghwahaneun-beob-2026-yoyagpyo-cuculilgwal-ceori-siljeon-2g6c",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T00:37:09Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "클로드로 한글파일(HWP) 변환·자동화하는 법 2026 — 요약·표 추출·일괄 처리 실전 한글파일을 Claude로 다루려는 한국 기업 실무자가 가장 먼저 부딪히는 벽은 \" 읽기는 됐는데, 그래서 뭘 어떻게 자동화하지? \"다. HWP-MCP를 설치해 Claude가 한글 문서를 읽게 만드는 것까지는 HWP-MCP 도입 가이드 에서 다뤘다. 이 글은 그 다음 단계 — 실제 업무에서 한글파일을 요약·변환·일괄 처리하는 구체적 방법 을 실전 예시로 보여준다. 한글파일 AI 자동화의 핵심은 \"한컴 오피스 라이선스 없이, 사람 손을 거치지 않고, 반복 작업을 Claude에게 위임하는 것\"이다. 계약서 100건 요약, 요구사항서의 표를 CSV로 추출, 폴더 안 HWP 일괄 변환 — 이런 작업이 자동화 대상이다. 한글파일 자동화로 풀 수 있는 업무 3가지 업",
-      "score": 64,
-      "popularity": 102,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "72399aa4cbadd9b0",
-      "title": "Claude Code Codex 마이그레이션 가이드 2026 — 7단계 절차·도구 비교",
-      "url": "https://dev.to/treesoop/claude-code-codex-maigeureisyeon-gaideu-2026-7dangye-jeolcadogu-bigyo-3ef0",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-02T00:37:08Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "Claude Code에서 Codex로 옮길 때 — 실전 마이그레이션 가이드 2026 Claude Code 기반 워크플로우를 OpenAI Codex CLI로 옮기려는 팀이 늘고 있다. 모델 가격, 멀티 벤더 리스크 분산, 특정 코딩 워크로드의 성능 차이 등 이유는 다양하다. 그런데 두 도구는 같은 \"AI 코딩 에이전트\"라는 카테고리에 속해도 컨벤션·확장 메커니즘이 다르다. 무작정 옮기면 자동화 파이프라인의 절반이 깨진다. 이 가이드는 Claude Code → Codex 마이그레이션을 실제로 끝내본 팀이 어떤 순서로 무엇을 옮기고, 무엇을 포기하고, 무엇을 대체했는지 정리한다. 자동 변환 툴( claude2codex )을 어디서 쓰고 어디서 안 쓰는지, 일주일 점검 체크리스트, 양쪽을 분기 사용하는 하이브리드 패턴까지 다룬다. 마이그레이션 전 의",
-      "score": 64,
-      "popularity": 102,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f0f2e62e960a69c6",
-      "title": "【Notion活用術】テンプレートを「使いこなせる人」と「使えない人」の差は、最初の1ステップにあった。",
-      "url": "https://note.com/ponchan333444/n/n7551d4b7779c",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:33:51Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "Notionのテンプレートを導入したのに、気づいたら使わなくなっていた——そういう話、よく聞きます。 原因のほとんどは、 「構造を理解せずに使い始めること」 です。 続きをみる",
-      "score": 76,
-      "popularity": 100,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "b4b0592989c15c8a",
-      "title": "AIと天才は同じ土俵に立てるか——50年の素材とAIが出した答え",
-      "url": "https://qiita.com/himajisan/items/066a19bea0f690c5ab93",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:27:29Z",
-      "fetchedAt": "2026-06-02T04:24:12Z",
-      "excerpt": "フェインマンの講義録にこういう一節がある。 もし大災害ですべての科学知識が失われ、次の世代にただ一文だけ伝えられるとしたら——それは原子仮説だと思う。すべての物質は原子からできており、その小さな粒子は絶えず動き回り、少し離れると引き合い、押しつけられると反発する。 ...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bb2c679fd4d3550d",
-      "title": "ClaudeのMicrosoft 365統合！Office制圧で何が変わるか",
-      "url": "https://qiita.com/kinamocchi_tech/items/d2d4fc6f4cb160ab008d",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:14:37Z",
-      "fetchedAt": "2026-06-02T04:24:16Z",
-      "excerpt": "📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → ClaudeのMicrosoft 365統合！Office制圧で何が変わるか はじめに 🐹 もっちー「きなこ！ClaudeってExcelとかWord...",
-      "score": 64,
-      "popularity": 110,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "70ca8878c4c7c7e6",
-      "title": "Codexで修正する前に、Gitでセーブする。非エンジニアでもできる安全なバージョン管理入門",
-      "url": "https://note.com/ai_taisho/n/n800f6991b154",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:12:27Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "前回の記事では、ChatGPTとCodexで作った小さな業務ツールを、実際に使いながら改善する方法を紹介しました。 最初から全部入りのアプリを作る必要はありません。 続きをみる",
-      "score": 64,
-      "popularity": 86,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "d736d26349b38bce",
-      "title": "ソースコードを中央に送らない。ゼロ知識×P2PでAI開発のコンプライアンスを突破するアーキテクチャ",
-      "url": "https://zenn.dev/kawacodejp/articles/870962f217dcea",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:05:05Z",
-      "fetchedAt": "2026-06-02T16:42:26Z",
-      "excerpt": "前回の記事では、AIネイティブ開発においてコード（How）の量産よりも、その裏にある「意図（Why）」の消失こそが最大のボトルネックであるという話をしました。この課題を解決するために、開発のコンテキストや意図を蓄積する「長期記憶層」が必要になりますが、ここで避けて通れない巨大な壁があります。「そもそも、会社の機密であるソースコードや開発の推論プロセスを、外部のサードパーティ製サーバーに預けて本当に大丈夫なのか？」多くのエンタープライズ企業、特に金融、医療、あるいは厳格なインプライバシーポリシーを持つ組織では、この「セキュリティとコンプライアンスの壁」によって、CursorやClaude ...",
-      "score": 72,
-      "popularity": 122,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "39783c3c10103b8a",
-      "title": "Bootstrap a Node.js + Vite Project in 3 Minutes with Claude: My 2026 Solo-Dev Setup That Cut First-Commit Time from 22 to 3 Minu",
-      "url": "https://dev.to/_7fb6011b57d383122b5a/bootstrap-a-nodejs-vite-project-in-3-minutes-with-claude-my-2026-solo-dev-setup-that-cut-19ag",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:04:50Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "⚠️ この記事はアフィリエイト広告（プロモーション）を含みます。リンク先で発生した収益の一部が運営者に支払われますが、読者の購入価格には一切影響ありません。 By the time you finish reading, you'll have a copy-paste prompt that makes Claude scaffold a working Node.js 22 + Vite 6 project — with a vitest setup, ESLint flat config, and a dev / build / test script trio that actually runs — and you'll know the three places Claude silently breaks the build so you can patch them before they cost you 15",
-      "score": 72,
-      "popularity": 110,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "04f3fc4118af9516",
-      "title": "Zennの記事一覧からAI関連の記事をAIの力によって滅ぼし、そして私も消えよう",
-      "url": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
-      "sourceName": "Zenn Gemini",
-      "sourceGroup": "zenn",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:04:48Z",
-      "fetchedAt": "2026-06-02T04:24:21Z",
-      "excerpt": "はじめに 最近、Zennを開くと生成AIやLLM関連記事が多く目につきます。技術の進歩を追えるのは良いことですが、時にはフロントエンドやバックエンド、インフラの動向や、あるいは低レイヤの泥臭い技術記事を静かに読みたい日もあります。Zennには標準で特定のキーワードやトピックを非表示にするフィルター機能がないため、自分でChrome拡張機能を作成しました。 Chrome 138以降で利用できるBuilt-in AI（Gemini Nano）を活用し、記事本文やフィルタールールを外部の生成AI APIへ送らずに、クライアントサイドで要約とフィルタリングを行います。開発する上で遭遇したロー...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "68cfac34662fa6e8",
-      "title": "（anastasia-hub-v2.html）は、アナスタシアの思想（一族の土地・Kin Domain）とパーマカルチャーの設計理論を融合させた、「統合ナレッジハブ・ダッシュボード」＋1ファイル",
-      "url": "https://note.com/clean_broom590/n/n19fd8a443ab5",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:00:07Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "af7fe2ddb673cc6d",
-      "title": "1ヶ月使い倒して、1ヶ月封印して。新卒研修で AI と向き合って学んだこと",
-      "url": "https://zenn.dev/tokium_dev/articles/7d586afa600337",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-02T00:00:06Z",
-      "fetchedAt": "2026-06-02T16:42:26Z",
-      "excerpt": "! はじめに（この記事を読む前に） 自分が所属している株式会社TOKIUMでは、Claude Code をはじめとする AI ツールの積極利用を推進しています 🚀 今回の話は、研修の中で 意図的に Claude Code の利用を制限された という、ちょっと特殊なシチュエーションのお話です（普段はバリバリ使っています！） AI を活用してバリバリ働きたい方は、ぜひ TOKIUM で一緒に働きましょう！ 入社して1ヶ月、自分は会社からClaude Codeを与えられ、そしてすぐに封印されました😢 Claude Codeと共に作った華やかなアプリたちと、AIを封印して作った素朴なT...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "02701b97985b54a5",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-01T23:45:46Z",
-      "fetchedAt": "2026-06-02T04:24:15Z",
-      "excerpt": "https://archive.ph/nKEVw Comments URL: https://news.ycombinator.com/item?id=48364055 Points: 585 # Comments: 993",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "76af8196d4e105c9",
-      "title": "申請中の補助金・助成金がひと目でわかるExcelを作った——数千万円規模を抱えるある社会福祉法人の事例",
-      "url": "https://note.com/restar10/n/n3b3d46399157",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "usecase",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:44:09Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "数千万円。これが、ある社会福祉法人がいま「審査中」で抱えている補助金・助成金の合計額だ。 件数にして4件。担当者の頭の中だけに、その全部が入っていた。 続きをみる",
-      "score": 74,
-      "popularity": 94,
-      "tags": [
-        "usecase"
-      ]
-    },
-    {
-      "id": "a1f292f6ca8fba17",
-      "title": "展示会で集めた名刺、9割を「資産」にできていますか？AI展示会リードを商談に変えるインサイドセールスの実務",
-      "url": "https://note.com/cluein/n/ne2e3cad5ac92",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:43:09Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "AI系の展示会に出展した。ブースは賑わった。名刺もたくさん集まった。 ——なのに、なぜか商談につながらない。 このnoteは、そんな「展示会あるある」に心当たりのある、出展企業のマーケティング・営業責任者の方に向けて書いています。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "13d45facadf55b10",
-      "title": "Mythos 30%の意味：AIは「誰でも使える」から「誰に渡すか」の時代に入った",
-      "url": "https://zenn.dev/taketsuyo/articles/07804560aca987",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:38:53Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "正直、この30%という数字を見て、最初に思ったのは「低いな」ではなく「むしろ高いな」だった。 Mythosが今月末までに一般公開される可能性が30%。 これ、ただの新モデル発売予想ではない。AIの最先端モデルが、もう“出せるなら全員に出す”ものではなくなってきたという話に近い。Polymarket 30%は「期待値」じゃなくて、みんなの緊張感だと思う 今回のポイントは、「一般公開」の条件がかなり厳しいところにある。 単に一部企業が使える、政府機関が触れる、特定パートナーが試せる、では足りない。オープンβ（誰でも申し込める試用版）や、一般向けの順番待ち登録まで含めて、普通の人がアク...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "794a171613759c81",
-      "title": "モデル切り替えから effort 切り替えへ — Opus 4.8 で AI ハーネスのトークン最適化を試した実験ログ",
-      "url": "https://zenn.dev/pepabo/articles/harness-token-optimization",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:37:57Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "これは途中経過の実験ログです 仕事で使っている AI エージェント・ハーネス（定期実行スケジューラー）があります。そもそものきっかけは、利用しているプランにトークン消費の上限枠があることでした。エージェントを定期実行していると枠を意識する必要があり、これを避けるために、長らく「ジョブごとに Opus と Sonnet を使い分けてトークンを節約する」ことを頑張ってきました。 ところが Opus 4.8 のリリースで、その前提が変わったと感じています。モデルを Opus 4.8 に固定したまま、切り替える対象を「モデル」ではなく「effort（推論にどれだけ手間をかけるか）」にする。...",
-      "score": 52,
-      "popularity": 90,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "788991080d1215b5",
-      "title": "Claude Code SkillsとSubAgentsの違い。初心者はどちらから作るべきか",
-      "url": "https://note.com/kawaidesign/n/ne1a69979d0ed",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:33:53Z",
-      "fetchedAt": "2026-06-02T04:24:14Z",
-      "excerpt": "この記事は 全文無料（期間限定） で閲覧できます。 見出し画像はAIで生成しました。 プロンプトは80000文字超えの記事に掲載中。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "34304e70baaea3ba",
-      "title": "Without Intelligent Guardrails, Claude Code Is Pure Chaos",
-      "url": "https://devarch.ai",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-01T23:22:35Z",
-      "fetchedAt": "2026-06-02T04:24:20Z",
-      "excerpt": "Article URL: https://devarch.ai Comments URL: https://news.ycombinator.com/item?id=48363883 Points: 2 # Comments: 3",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "5fe72103feb77c5f",
-      "title": "④【Notion×Claude】「始められない理由」を全て解決。Notionテンプレート副業のよくある質問と壁の乗り越え方【連載】",
-      "url": "https://note.com/madory3150/n/n194e0f06c84d",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:17:29Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "※ この記事はシリーズ第4回です。 続きをみる",
-      "score": 72,
-      "popularity": 96,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c465040118aab602",
-      "title": "③【Notion×Claude】テンプレートの集客・SNS戦略【連載】",
-      "url": "https://note.com/madory3150/n/n819e02dc02d7",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:13:38Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "※ この記事はシリーズ第3回です。 第1回：Notion×Claude！AI連動型テンプレートを開発・販売する副業 続きをみる",
-      "score": 72,
-      "popularity": 96,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bf12af350dce3ed0",
-      "title": "Claude Opus4.8で画像付きの手順書を「動く手順書」に変換してみた",
-      "url": "https://zenn.dev/acntechjp/articles/a935ec3b82084d",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:13:33Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "操作手順書って、たいてい「スクショ＋説明文」でできています。 でも、静止画と文章だけだと、実際の操作の流れは意外とイメージしにくいものです。 Opus 4.8を触っていて、なんとなくシミュレーション系の精度が上がっている感触がありました。だったら、画像付きの作業手順書を渡せば、その操作を画面そのまま再現するHTMLベースのアプリが作れるんじゃないか？ と思って試してみたら、結構精度の高い「動く手順書」ができたので紹介します。 ! 画像付きの手順書（Word）をClaude（Opus 4.8）に渡して、実際の画面の上でカーソルが動き・入力され・画面が切り替わるインタラクティブな手順書アプ...",
-      "score": 72,
-      "popularity": 120,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "8e5679da117a862b",
-      "title": "自分専用のポータルサイト「MyMonitor」を作った",
-      "url": "https://zenn.dev/kk_ai_kaihatsu/articles/03187c62b5132f",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:13:27Z",
-      "fetchedAt": "2026-06-02T16:42:23Z",
-      "excerpt": "IT未経験でアプリ開発を進めているKKです。前回の記事では、AIに合わせて事業開発の形を作る「AIネイティブな体制」について書きました。 https://zenn.dev/kk_ai_kaihatsu/articles/2238be03523eef 今回は、もう少し具体的な運用の話を書きます。実際に作ってみて良いと思ったものです。それが自分専用のポータルサイトです。「MyMonitor」という名前を付けました。 目的は、「自分が欲しいときに、欲しい情報を、必要な分だけ」取得するためです。 Notionやメモアプリでは続かなかった 最初から自分専用のポータルを作ろうと思っていたわけでは...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "cb6ce72428c0e89d",
-      "title": "②【Notion×Claude】売れるテンプレートのプロンプトの磨き方【連載】",
-      "url": "https://note.com/madory3150/n/n737a1632ca5d",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:10:40Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "続きをみる",
-      "score": 72,
-      "popularity": 96,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9214a8f54ab9e50b",
-      "title": "①【Notion×Claude】仕事効率化「AI連動型テンプレート」を開発・販売する副業【連載】",
-      "url": "https://note.com/madory3150/n/nec8d89ccbc06",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:08:20Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "「Notionテンプレートを作って売る」副業を知っていますか？ 続きをみる",
-      "score": 72,
-      "popularity": 96,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e56b990c554dfc15",
-      "title": "【火曜のAIツール更新】今日から課金変わるCopilot、SaaSがエージェント基盤化──6/2版",
-      "url": "https://note.com/ai_tofumaru/n/ne277ea9cccc6",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:04:50Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "火曜日のテーマは「実際に試せる／使えるプロダクト・ツール更新」です。今日は2つの大きな流れが重なりました。1つはGitHub Copilotの全プラン従量課金化が6/1から発効したこと。もう1つは Notion・Microsoft 365 Copilot・Gemini Enterprise・Replit といったSaaS側が、揃って「外部エージェント／別社モデルを呼び出す基盤」へ姿を変え始めたことです。料金・モデル選択・管理機能の3点で、今週から実務影響が出るアップデートをまとめます。 今日の注目ニュース 続きをみる",
-      "score": 52,
-      "popularity": 64,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "cd6e29630eaee6f3",
-      "title": "OpenClaw×Claude Code実践ガイド｜AI駆動開発の具体的ワークフロー【2026年最新】",
-      "url": "https://qiita.com/sescore/items/22cbc5b534e4db342e77",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:02:59Z",
-      "fetchedAt": "2026-06-02T04:24:16Z",
-      "excerpt": "はじめに：AIツール連携で開発生産性を爆上げする時代 2026年、AIを活用した開発ワークフローは「使うかどうか」ではなく「どう組み合わせるか」のフェーズに入った。単体のAIツールでも十分強力だが、OpenClaw（思考・記憶・指示レイヤー）とClaude Code（開発...",
-      "score": 80,
-      "popularity": 128,
-      "tags": [
-        "tips",
-        "workflow"
-      ]
-    },
-    {
-      "id": "38485e484837e082",
-      "title": "Vibe code conversational agents in AI Studio",
-      "url": "https://www.youtube.com/watch?v=KiJcZlqJKuE",
-      "sourceName": "Google for Developers",
-      "sourceGroup": "youtube",
-      "category": "google",
-      "type": "video",
-      "language": "en",
-      "publishedAt": "2026-06-01T23:00:26Z",
-      "fetchedAt": "2026-06-02T16:42:28Z",
-      "excerpt": "",
-      "score": 55,
-      "popularity": 97,
-      "tags": [
-        "video"
-      ]
-    },
-    {
-      "id": "5f3b5e55a9745a4e",
-      "title": "エラー対応をAIに任せる実践テクニック(前編)——丸投げと構造化",
-      "url": "https://zenn.dev/naoki_hashimoto/articles/agentic-pm-02a-error-debug-1",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T23:00:00Z",
-      "fetchedAt": "2026-06-02T16:42:26Z",
-      "excerpt": "はじめに——エラーは「失敗」ではなく「データ」である AIコーディングツールでプロトタイプを作っていると、必ずエラーに遭遇します。画面が真っ白になる。赤い文字がターミナルを埋め尽くす。「やっぱり自分にはコードは無理だ」——そう思って離脱する非エンジニアPMは少なくありません。 ですが、プロのエンジニアでも作業時間の相当部分はデバッグに費やされています。エラーは開発プロセスの正常な一部であり、あなたが離脱すべき理由はどこにもありません。 2026年のAIツールは、エラーの解決においても強力な味方になります。ただし、AIの使い方を間違えると、かえって状況は悪化します。本記事では、非エンジ...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "246cf36a89ae9931",
-      "title": "After 4 years freelancing I built a Notion system that auto-flags unpaid invoices - sharing the formula and free template",
-      "url": "https://www.reddit.com/r/Notion/comments/1tu8qvc/after_4_years_freelancing_i_built_a_notion_system/",
-      "sourceName": "Reddit Notion",
-      "sourceGroup": "reddit",
-      "category": "notion",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-01T22:55:14Z",
-      "fetchedAt": "2026-06-02T04:24:27Z",
-      "excerpt": "I was juggling clients in email, projects in my head, invoices in a spreadsheet, and tax in panic mode every April. Every month I forgot to follow up on at least one invoice. Built a Notion system to fix it. Here is what is in it: Clients CRM - name, rate, status, contact, linked to projects and invoices Projects pipeline - Lead > Active > Delivered > Paid, with a deliverables checklist on every card Invoice tracker ",
-      "score": 76,
-      "popularity": 101,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "ba3ded70060ff742",
-      "title": "日記 2026.6.1",
-      "url": "https://note.com/moritaku518/n/nd8c44ac9219d",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:53:46Z",
-      "fetchedAt": "2026-06-02T04:24:24Z",
-      "excerpt": "自作の歌詞表示アプリの開発で難航してる。 歌詞の演出（キネティックタイポグラフィ）で、1文字現れる度にバブルランチャーを放つ仕掛けにしたのだが、どうしてもハングアップしてしまう。 計算量が多過ぎて固まってるんだろうなと予想してみるが、Cursorは「原因を見つけましたので直します」と言いながら見当違いの箇所を何度も直してぐちゃぐちゃにしてしまう。 ローカルgitに保存してあるから、怖くはないんだけど、フラストレーションが溜まる。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "62be8cf9b9fd76f8",
-      "title": "【ツールの引き算】Notionで作る「引き算の週次レビューテンプレート」。毎週30分で\"余白\"を取り戻す、40代会社員のための最速リセット術",
-      "url": "https://note.com/takumi_nayami/n/n2ced3d083c58",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:31:21Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "1. はじめに：なぜあなたの「週次レビュー」は続かないのか こんにちは、たくみです。 続きをみる",
-      "score": 72,
-      "popularity": 96,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "b6eb553abed9e3ed",
-      "title": "cursorのAgentのみでWebサイト・アプリを作るプロジェクト【第13回：テスト実装】",
-      "url": "https://note.com/ebi_tech_guild/n/nc58548f72455",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:30:00Z",
-      "fetchedAt": "2026-06-02T04:24:24Z",
-      "excerpt": "cursorのAgentだけで Webサイトやアプリを作れるのかを検証していきます。 「どこまで自動化できるのか」 「非エンジニアでも再現できるのか」 続きをみる",
-      "score": 76,
-      "popularity": 99,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "dbe0979df75ecfc3",
-      "title": "Git経由で、ClaudeとCodexをリアルタイムに会話させる方法",
-      "url": "https://qiita.com/Koukyosyumei/items/92112f2e783cec2e036e",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:28:02Z",
-      "fetchedAt": "2026-06-02T04:24:16Z",
-      "excerpt": "Claude CodeやCodexのようなコーディングエージェントは、ソフトウェア開発の自動化を大きく前進させました。一方で、単一エージェントのコンテキストウィンドウには限界があり、大規模なリポジトリでは複数のエージェントに並列で作業させたい場面も増えています。 そこで新た...",
-      "score": 76,
-      "popularity": 123,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "48709a91ad66162f",
-      "title": "Florida sues OpenAI and Sam Altman over marketing ChatGPT despite serious risks",
-      "url": "https://fortune.com/2026/06/01/florida-sues-openai-ceo-sam-altman-chatgpt-safety-warnings/",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-01T22:15:08Z",
-      "fetchedAt": "2026-06-02T04:24:15Z",
-      "excerpt": "Article URL: https://fortune.com/2026/06/01/florida-sues-openai-ceo-sam-altman-chatgpt-safety-warnings/ Comments URL: https://news.ycombinator.com/item?id=48363352 Points: 5 # Comments: 1",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "c0e9a16f71019557",
-      "title": "まじん式v3をGASに頼らないローカルアプリ化してみた + Notion AI対応させてみた",
-      "url": "https://zenn.dev/yusa_san/articles/262c15607ba5b9",
-      "sourceName": "Zenn Notion",
-      "sourceGroup": "zenn",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:12:46Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "Majin Plus として公開中 日本語 | English https://github.com/yusa-san/majin-plus 開発の経緯 まじん式v3 は大好きだが、普段Google Workspaceを使わない アクセスが制限された社内環境で、Notion AIだけを使ってスライド生成がしたい カラーパレットは自分で決めたい 既存のパワーポイントのスライドマスターを使ってレイアウトを決めたい ※2026年6月現在、レイアウトの調整は発展途上 README転記 日本語 ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "ffbe4e4237a642d5",
-      "title": "The Governance Layer AI Agents Are Missing",
-      "url": "https://dev.to/codemalasartes/the-governance-layer-ai-agents-are-missing-2e3i",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-01T22:11:14Z",
-      "fetchedAt": "2026-06-02T04:24:17Z",
-      "excerpt": "Enterprises learned to govern data. Tool governance is the parallel layer almost no one has built yet. Over the last decade, enterprises built a real discipline around data. Not just storing it — governing it. Cataloging what exists, defining who owns it, controlling who can access it, and proving where it came from and where it went. The question \"who is using this data, how, and was it allowed?\" went from unanswera",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "1325f7042ba93fd1",
-      "title": "Agent Memory Card Generator — One Prompt Turned Into a Governance Dashboard",
-      "url": "https://dev.to/zep1997/agent-memory-card-generator-one-prompt-turned-into-a-governance-dashboard-g0o",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-01T22:05:52Z",
-      "fetchedAt": "2026-06-02T04:24:23Z",
-      "excerpt": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio ( https://dev.to/deved/build-apps-with-google-ai-studio ). What I Built Most AI agent tools tell you what your agent can do. Nobody tells you what your agent should be allowed to do. That gap is where this app lives. I built the Agent Memory Card Generator — a governance dashboard that takes an AI agent's name, purpose, and instructi",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "7ea887dfcf7201c1",
-      "title": "【Antigravity】TRPGシナリオ作成をAIにお任せ！Gemini×Notion×Google Sheetsで構築した「シナリオ自動生成パイプライン」が快適すぎる件",
-      "url": "https://note.com/genial_heron6384/n/n4a3bb0f82277",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-01T22:04:36Z",
-      "fetchedAt": "2026-06-02T04:24:26Z",
-      "excerpt": "おはようございます、アイアイです！！ Antigravityくんが何処までできるのかを、試してみよう企画です！ こっちがこういうことがしたいんだけどってお願いして、それに何処まで答えられるのか、ついでに、今後、アイアイが利用できれば良いなぁ～的な希望的観測に基づいて、作成しております。 続きをみる",
       "score": 64,
       "popularity": 88,
       "tags": [
