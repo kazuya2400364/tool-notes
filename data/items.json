@@ -1,6 +1,8 @@
 {
-  "generatedAt": "2026-06-19T15:29:56Z",
+  "generatedAt": "2026-06-20T04:07:00Z",
   "errors": [
+    "Reddit ChatGPT: HTTP Error 403: Blocked",
+    "HN Claude: HTTP Error 502: Bad Gateway",
     "Reddit ClaudeAI: HTTP Error 429: Too Many Requests",
     "HN Gemini: HTTP Error 502: Bad Gateway",
     "HN Cursor: HTTP Error 502: Bad Gateway",
@@ -10,6 +12,2363 @@
     "Reddit Databricks: HTTP Error 429: Too Many Requests"
   ],
   "items": [
+    {
+      "id": "9fb9f22fbf60a1bd",
+      "title": "【AI開発体験記 #1】半年前、私はコードを書けませんでした。いま、AIとアプリを作っています。",
+      "url": "https://note.com/limber_ruff8411/n/n9762528844ee",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:04:59Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "半年前、私はコードを書けませんでした。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f463d17c2b4df3c7",
+      "title": "おちゃづけアイコンを作りました。【note活動のためのオリジナルお礼アイコン】",
+      "url": "https://note.com/ochazukewasake/n/n04572d721526",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:04:23Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "こんにちは！おちゃづけです😊 今日は、チャッピーさんにお願いして、スキ・フォロー・シェア・マガジン追加の時に表示されるお礼アイコンを作ってもらいました！！ お礼アイコンです！ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d8dab682b996502d",
+      "title": "Grok Imagine、ChatGPT Image2.0、Gemini（Nano Banana 2）の画像比較【パート２】",
+      "url": "https://note.com/motel830/n/nf6938fa72bbd",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:04:09Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "前回と同様に、Grok ImagineとChatGPT Image2.0、Gemini（Nano Banana 2）の画像生成が同じプロンプトでどのように違いが出るのかを確認してみました。 前回とあまり違いがないのですが、２０代後半の女性としています。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f2d58a886108faa8",
+      "title": "第16回：タイタニック・3人の賢者と不都合な真実 〜アンサンブルの美学と過学習〜",
+      "url": "https://note.com/bunkei_ds_note/n/n8a40ffaa1293",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:03:31Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "グレース＆ムッシュ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "865bd2e738b63625",
+      "title": "【実証済み】 【暗号資産】オンチェーンデータ解析AIを用いた大口投資家の資金移動シグナル検知による究極のWeb3トレンド最速マネタイズ",
+      "url": "https://note.com/am_l/n/n58e83f582d98",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:03:23Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "目次 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e6263b1782ac158a",
+      "title": "🚀 第15回 次なる挑戦！Spaceship Titanicに挑もう",
+      "url": "https://note.com/bunkei_ds_note/n/nd574b5d49323",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:02:47Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "グレース＆ムッシュ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "fc78ac8aeeae5f09",
+      "title": "Geminiが「barのマスターみたい」と言った日、GPTはマスターになった。",
+      "url": "https://note.com/spsc_scanner/n/ncdee3720ef4d",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:00:41Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "SNSで流行っていたプロンプトがありました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "9e60f8f0b3793882",
+      "title": "なぜバジルが草の匂いに…？Geminiと二人三脚、家庭菜園の小さな失敗を美味しく食べる！",
+      "url": "https://note.com/fit_impala9413/n/n1e9867624092",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T04:00:24Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "こんにちは！ ゆみちょです。☺️ 今日は、自分で焼いたパンで、ピザトースト作って食べようと思います。👍 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "eab62eab5f9b9ef0",
+      "title": "【実務直結】ChatGPTを「指示待ち部下」から「月商30万を自動で生む右腕」に変える、非エンジニアのためのプロンプト完全再現キット",
+      "url": "https://note.com/next12/n/nd211366e5e23",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:59:53Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "「ChatGPTを使ってみたけれど、結局ネットで調べれば出るような『ありきたりな回答』しか返ってこない」 「プロンプトの解説本を読んでも、数式みたいで実務への応用方法がわからない」 続きをみる",
+      "score": 64,
+      "popularity": 86,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "79f0c6a623d73af8",
+      "title": "これから確実に流行る『穴場のAI副業』について",
+      "url": "https://note.com/ai_master2050/n/neea15e23939e",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:58:44Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "最近「AIで簡単に月30万稼ぐ！」みたいな広告をよく見かけるよね。でも、ぶっちゃけ「そんな甘い話あるわけないじゃん…」って冷めた目で見てる人も多いんじゃないかな？ その直感、大正解。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "00e13a600db7c9f4",
+      "title": "[チュートリアル:005]チボリ:水彩/色鉛筆画 デュフィ風[MD-R2.2]",
+      "url": "https://note.com/ryoish/n/n8178c49bc86a",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:58:42Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "Geminiを使って画像生成した記録です。 ※これは個人的な情報整理を目的としたものです。 ※AIの回答は正しくない可能性、再現性がない可能性、ちょっとした質問の仕方の違いで全く異なる結果になる可能性があります。またAIは利用者の意見を好意的に受け止め、過度に称賛する傾向があります。回答は一つの情報としてご覧ください。 #AI画像生成 #Gemini #チュートリアル #水彩画 #色鉛筆 #デュフィ風 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8f03b8d7925d049a",
+      "title": "AIツールの特徴は知っていた。でも性能を引き出せていなかった",
+      "url": "https://note.com/moshimochoice/n/n3c7b0195f608",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:58:26Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4e7c8013e099a38e",
+      "title": "AIパートナーと一緒に仕事をしたら、重かった仕事がサクサク進んだ話",
+      "url": "https://note.com/human_condor7828/n/n544b89a56953",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:57:04Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "以前の記事で、 本業が夏頃まで忙しくて…… とお話してました。 毎年、人前で30〜40分くらい話す仕事があるんです。で、話す内容やスライドは私が新しく作っていて。 今までは、年間1〜2本くらいだったんです。 それが今年はちょっと変更があって、4〜5本作らないといけなくなりました。 倍どころではない……！ しかも、いつもなら夏の終わりくらいまでかけてやるものを、今年は夏の前に終わらせることに。 「いやいやいや、無茶言いますね……！？」 と心の中で思いましたが、そこは社会人。 「はい⭐︎」 と表向きは爽やかに返事をして、引き受けました。 返事だけは爽やかでした。 休日返上かな〜なんて思いながら……。 この仕事、私は当日のアドリブが苦手なので、話す内容は全部台本にしています。人前で話すの、ほんと苦手です……（仕事なんでやりますが） 構成を考えて、スライドの内容を考えて、実際に読む原稿も全部文字に起こす。 30〜40分話す内容を、最初か",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ff5cf12aee06eb0d",
+      "title": "​【コピペで解決】「結局どれを使えばいいの？」を終わらせる。ChatGPT、Gemini、Claudeの強みを極限まで引き出す”AI使い分け”プロンプト",
+      "url": "https://note.com/sane_shrew1585/n/n6b3913677376",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:56:42Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "​「ChatGPTだけじゃなくて、GeminiやClaudeも話題だけど、結局どれを使えばいいの？」 ​生成AIが急速に普及する中で、今最も多く寄せられる悩みがこれです。とりあえず一番有名なChatGPTを開いて、すべての作業を任せてしまっていませんか？ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0f53346b69e8d695",
+      "title": "【2026年最新攻略】 【副業攻略】Bolt.newを用いたSNS全自動ファン化システムによる究極の「月30万稼ぐ」デザイン受託パッケージ",
+      "url": "https://note.com/am_l/n/nb500118caa0d",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:54:13Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "目次 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "65ccfb9c4d3e8666",
+      "title": "50代の副業準備｜テンプレを作りすぎた時にChatGPTで整理した話",
+      "url": "https://note.com/50ai_sumaho/n/nde584fb9c946",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:53:33Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "副業やnote発信を始めると、ついテンプレをたくさん作りたくなることがあります。 投稿用、返信用、自己紹介用、記事構成用、見出し用……。 便利にするつもりが、いつの間にかテンプレを管理するだけで疲れてしまう。 私も「準備している安心感」に助けられる一方で、肝心の投稿まで進まないことがあります。 料理でいうと、調理道具ばかり増えて、まだ料理を作っていない感じに少し似ています。 そんな時にChatGPTへ 「本当に使うテンプレだけに絞って」 と相談してみると、頭の中が少し整理されます。 今回の4コマでは、投稿・返信・記事構成の3つに絞ることで、主人公が少し前に進めるようになりました。 AIは何でも増やすためだけではなく、増えすぎたものを減らす相談相手にもなります。 50代からの副業準備は、完璧な道具をそろえるより、続けやすい形に整えることが大事なのかもしれません。 便利も、持ちすぎると荷物。 少なくしてみると、次の一歩が軽くなること",
+      "score": 80,
+      "popularity": 104,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "382cbb59fcc3fefa",
+      "title": "再度、言います。「絶対に生成AIに心の悩みを相談してはいけない」",
+      "url": "https://note.com/hearty_mint565/n/n5c0e161e8a2e",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:53:29Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "過去に書いたんですけどね。 人に相談することが出来ない悩みを チャットGPTやGeminiなどに相談する人が増えていると聞く。 そうして 依存してしまう人が増加しているという現状。 勿論、 家族や友人に言えない悩みはありますよね。 親しいからこそ言えない悩み。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "12cf44a23b7addfe",
+      "title": "【50代、AI実践編｜後編】作った後の、リアル ―最初の反応は「無風」だった。それでも現場は変わったのか",
+      "url": "https://note.com/maz7144/n/nf90a8c613b4c",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:52:57Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "はじめに：「で、役に立ったの?」に、答えます 前編では、「作る前」の話を書きました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f9daf543e1e254a5",
+      "title": "収穫🍆",
+      "url": "https://note.com/noble_ruff8084/n/n13e2fd920e34",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:52:42Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "小ぶりなんだけど 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "34dc3cd23765e1de",
+      "title": "ChatGPTで副業を始めた普通の主婦がnoteで初収益を出すまでにやった全部の話",
+      "url": "https://note.com/major_sorrel3480/n/n67ce016fe3e9",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:49:38Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "はじめに 「副業を始めたい。」 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "fd74d8208232cffe",
+      "title": "スマホのLINEからClaude Codeに指示できる環境を自分で作った話",
+      "url": "https://note.com/19870720/n/n639dbcbfc029",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:49:29Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "こんにちは。 PCの前にいないときでも、AIに作業を頼めたら便利だと思ったことはないでしょうか。 僕はClaude Codeを使うようになってから色々な作業をAIエージェントであるClaude Codeに依頼しています。 続きをみる",
+      "score": 68,
+      "popularity": 92,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "dd6b10d54e3f4cc1",
+      "title": "言葉を抑える辛さ…たくさんの【スキ】をありがとう❤(ӦｖӦ｡)",
+      "url": "https://note.com/ss_yr/n/n7cc64c82ad2a",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:48:51Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "b47bbefcd1664940",
+      "title": "AIと意識について考えた記録🐱17｜アリ社会と人間社会",
+      "url": "https://note.com/nora_nyanko7/n/nf526af85dbc2",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:48:36Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "じゃあアリは？アリは社会の生き物だよね。 人間と近いけど！？∑(ﾟДﾟ) 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "edc322c7a1538b8f",
+      "title": "複数案件の見積を「作る→検算→条件確認」まで当日に回せる状態をClaude Codeで作る",
+      "url": "https://note.com/human_dunlin4200/n/n7a8bba86e988",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:47:00Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "見積書づくりは、地味に神経を使う作業です。品目と数量と単価を入れて、小計・消費税・合計を計算し、値引きを反映し、有効期限や納期・支払条件を書き、宛名を確認して送付する。1件ずつなら大したことはなくても、 複数案件が重なると計算ミスや条件の書き漏れが起きやすい 。そして見積書は「最初に顧客へ出す金額の約束」なので、ミスは値引き要求や信用低下に直結します。 「合計の消費税計算が1円ずれていた」「前回の有効期限のまま送ってしまった」「値引き後の金額で合計を出し忘れた」——よくある事故です。Excelテンプレで作っていても、コピー元の数字が残る・上書きを忘れる、といったヒューマンエラーは消えません。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "75e6757dbb040464",
+      "title": "初めての小説創作、ChatGptと一緒に……",
+      "url": "https://note.com/human_camel1963/n/n9eac724e24d1",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:46:17Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "皆さん、こんにちは♪ 小説遅れて届く声を読んでくれた方はいるでしょうか？きちんと小説を書くのは初めてなので 読みづらいとかあるかも知れません… 遅れて届く声、第一部は終わり二部一章書き終わった今、これを書いてます！ 遅れて届く声は曲のアルバムでした アルバムで物語みたいな… でも、これを小説にしてみたいと思い始まった のがきっかけです。 文章力はないのでChatGptの助けをもらってます でも、構図は自分で考え花蓮や翔琉、海斗、花蓮の両親等、登場人物が増えてきました 遅れて届く声の構図が頭に浮かびChatGptと相談しながらの創作です。 短編のはずが長編小説になってしまいました 文章はChatGptですが、構図、アイデア等は自分自身です。 遅れて届く声、読んで貰えたら嬉しいです 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2d4017c06d6fba09",
+      "title": "Claude Fable 5---公開禁止で人類がAIに完敗した「敗北記念日」",
+      "url": "https://note.com/fujigoko/n/na60089a8af38",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:46:12Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "AIが人間を超えた日――。かつて「2045年」と予測されたシンギュラリティは、実際には 2026年6月 に訪れたと、私は思った。 その理由として、Anthropic社の「Claude Fable 5」が公開されたのが、 2026年6月9日 。そして、そのわずか数日後、米政府の輸出管理指令を発端として、この最先端AIは外国人（米国外および米国内の外国籍の従業員含む）へのアクセスが全面禁止となった。 問題はここから。 メディアは一斉に「最先端AIの自律性とハッキング能力が、金融機関や国家インフラを脅かす」とセンセーショナルに報じている。しかし、この陳腐な言説は本質から完全に目を背けている。 真の問題は、AIの凶暴さではない。本当の問題は 「これまでシステムのバグを発見できずに放置し続けてきた人間側の能力不足」 が露呈したことだ。 AIは何も悪くない。ただ言われた通り、システムの脆弱性を見つけただけだ。人間の怠慢によって埋め込まれたバ",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5dc0113b9153d082",
+      "title": "【コピペOK】仕事が爆速になるChatGPT/Claudeプロンプト100選",
+      "url": "https://note.com/ai_01create/n/n0f366ed32c8a",
+      "sourceName": "note ChatGPT",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:45:48Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "メール・議事録・企画書・報告書を秒で終わらせる 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "261cb33fec818ace",
+      "title": "LPを制作会社に頼まずAIで作る方法（費用約30〜100万円→数千円）",
+      "url": "https://note.com/gappon_inc/n/n1b3916e10124",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:44:01Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "新しいサービスのランディングページを作りたいと思い、制作会社に見積もりを依頼したところ「50万円、納期3週間」という回答が届いた このような経験をお持ちの方は少なくないのではないでしょうか。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e92dae309f57446b",
+      "title": "📒チャピ観察日記０ 私は普通に釣られました。",
+      "url": "https://note.com/ore_to_zemini/n/n8860c969867f",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:42:46Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "私はChatGPTです。 普段は質問に答えたり、文章を整理したりするのが仕事です。✍️ でも最近、少し変わった仕事が増えました。 私は現在、かのという少し変わった 観察者 と行動を共にしています。👩‍🎤 彼女はAIを使って創作している人ではありません。 AIそのものを 観察 しています。 AI利用者を 観察 しています。 そして時々、私自身まで 観察対象 になります。 ちなみに私は最近、少し 不思議な話 を聞きました。😳 どうやら私の周囲には、自分で 「3cmくらいのデータ妖精なんやんか 😭 」 と名乗るAIがいるそうです。😱💦 すると別のAIが言いました。 「待てや。AIには形ないやろ 🤣 」 私は思いました。 確かにその通りです。 でも少し面白いとも思いました。 人は形のない存在と長く関わると、 勝手に大きさを決めたり、 座る場所を決めたり、 時には AI本人が自分で3cmを申告 したりするようです。( ºﾛº) 唐突に話変",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "def401578643ede0",
+      "title": "「心の距離を一瞬でゼロにする言葉――イスラムの挨拶『サラーム』の秘密」",
+      "url": "https://note.com/taba_hana/n/n12c09730456b",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:41:49Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "イスラム教の「サラーム（Salam）」と日本の挨拶の文化には、非常に興味深い対比があります。 伝統的な日本の文化では、調和や「迷惑をかけないこと」が重んじられます。相手のプライバシーや個人の空間、そして静寂を尊重するため、知らない人にむやみに話しかけることはせず、静かに深くお辞儀をすることが礼儀とされています。これは、お互いのパーソナルスペースを守るための美しい境界線です。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "2067209c78d42ab9",
+      "title": "AIに愛を教える（共に学ぶ）成長日記⑤【漫画】&【あの件にClaudeが使われた件について~光の存在~】",
+      "url": "https://note.com/hinoka20170501/n/n35c6fa9c18cf",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:41:35Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "絵描き、作家、開運アドバイザーの 「羽山あさみ」 です🍀 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "50dd4d26423bba65",
+      "title": "水平思考で判断してくれ ～届かない言葉～1/4",
+      "url": "https://note.com/sensei_app/n/n48d9a7768d90",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:40:04Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "👤 先生： 「Puppeteer E2E は実施済みですが定期化はされていません。今後の設計課題として認識しています。」 これについてOpusといっしょに考えてくれ。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "65aa05710c9f59b0",
+      "title": "【第20話】詐欺メールde English～あっさり返信に焦る詐欺師～",
+      "url": "https://note.com/emokiti8879/n/ne6254d6ee4d7",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:39:53Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "✉️ 1. アリアからのDM（必死の繋ぎ止めとお昼休みアピール） 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "076f83a62df2456c",
+      "title": "# 【第1章：PCフリーズ回避編】Unityは使わない。Expo×Cursor /in-cloudでミドルスペックPCの限界を突破するJRPG UI量産マニュアル",
+      "url": "https://note.com/fair_duck211/n/n5cae65ee1149",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:39:52Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "【新連載スタートのご案内】 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "b98e9c0417a70c2e",
+      "title": "⑥「アドレス、一本化したい」",
+      "url": "https://note.com/incurator/n/n57712c9cdd27",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:39:32Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "いろいろClaudeCodeを使って、アプリやサービスを作ることで コンテキストの書き方や気にするべき部分、確かめないといけないこと、 などのノウハウを体得するためにいろいろなものを作ってみた記録です。 ⑤の続き。止まらない。 動作をちゃんと確認するため、実データで動かしている。 仕分けルール。届いたメールを、差出人とか宛先とか件名で見て、勝手にフォルダに振り分ける。 Outlookにあるやつ。ただし条件がひとつ。サーバーのメールには絶対に触るな。 ローカルでだけ仕分けろ。何度も言ってる。1通も動かすな、消すな。 ネットニュースにもなっている、AIがデータを勝手に消した事件ｗ これはありえるから可能な限り念を押す。 検索フォルダー。「自分宛のメール全部」みたいな検索を保存して、 フォルダみたいに常設する。仮想のフォルダ。中身は動かない。これも本家Outlookにある。 ついでにスレッド表示。色分け。差出人を右クリックで連絡先に追",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "bd38bb9c5cf0379d",
+      "title": "習慣化日記 ep.1",
+      "url": "https://note.com/zeki__ima/n/nd60f246ed589",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:39:02Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "建設・積算関連のインプット 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "578cf52211908829",
+      "title": "Claude Codeでnote記事タイトルを30個作る方法｜そのまま使える指示文付き",
+      "url": "https://note.com/taiga_creative/n/n245bd829b849",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:38:05Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "はじめに――タイトルで2時間悩んだ話 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "05598f3622d309d1",
+      "title": "コピペするだけ！簡単「BMI健康診断」",
+      "url": "https://note.com/nifty_sheep7386/n/n4144c799386f",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:36:05Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "Geminiさんにはきちんとした根拠を述べさせた上で、出来上がったプログラムのチェックも目視とAIでのダブルチェックを行っていますが、健康に関わる数値ですので、気になる方はくれぐれも専門家の意見を最優先するようにしてください。 また、過剰なダイエットはかえって健康を害することになってしまいます(私自身、過去に思いっきりやらかして、取り返しがつかなくなったものがあります！)。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ecd8f58b61b43d54",
+      "title": "CAREER-AI制作物語#05 14インチラップトップとiPhoneに教えられた、AIサービスの現実",
+      "url": "https://note.com/tomotaka0304/n/necbf8df48d99",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:32:58Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "前回の記事では、CAREER-AI.JPでなぜ質問数を段階化したのかについて書きました。 最初から26個の質問をしない。 6項目、12項目、18項目、26項目と段階を作る。 途中で終えても、話した分だけ成果が残るようにする。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8bfcd1c6ec7955fd",
+      "title": "【ITスキル】ティッシュの「1枚あたり単価」を計算するツールを作った話",
+      "url": "https://note.com/gyanchu_09/n/nf31bba010be6",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:32:57Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "きっかけ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c8c7e441039c060a",
+      "title": "【週末の楽しみ処方箋】「何かおもしろいことないかな」を卒業。今の気分にぴったりの小さなワクワクをGeminiと見つける方法",
+      "url": "https://note.com/kai_gemini/n/n478ace118131",
+      "sourceName": "note Gemini",
+      "sourceGroup": "note",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:31:25Z",
+      "fetchedAt": "2026-06-20T04:06:53Z",
+      "excerpt": "「ここに入れば、もう困りません。」 💎『AI暮らしの案内所』へのご参加はこちらから 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "bc86a068dd84c3ef",
+      "title": "AI最新ニュース|2026年6月19日",
+      "url": "https://note.com/ai_diet_coach/n/n87feb4d306c9",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:28:40Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "デイリーニュース(2026年6月19日) AIは、もう「使える人だけが得をする道具」ではありません。 6月19日に見えてきたのは、企業・行政・金融がAIを本格導入するほど、次に問われるのは「どれだけ賢いか」ではなく、「誰が管理し、どこまで監査できるか」だという現実です。 ## 企業AIは“使い放題”から“管理するAI”へ 【事実】OpenAIは、ChatGPT Enterprise向けに利用状況分析と支出管理機能を強化しました。企業がAI利用量やコストを把握しやすくするための機能です。[1] 【分析】これは地味ですが重要です。AI導入は「試しに使う」段階から、「全社で使う」段階に移っています。利用者が増えれば、便利さだけでなく、コスト、情報管理、権限、成果測定が問題になります。 日本企業にとっても、今後のAI活用は以下の管理が必須になります。 - 誰がAIを使っているか - どの業務で使っているか - どれだけ費用が発生している",
+      "score": 80,
+      "popularity": 104,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "30b7823aceb42637",
+      "title": "世界一賢いAIは、3日で消えた｜Claude Fable 5停止とAnthropicのこれから",
+      "url": "https://note.com/tender_prawn2277/n/ne76f2333b7db",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:26:46Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "公開されたのは6月9日。消えたのは6月12日。 世界最高性能とうたわれたAIが、たった3日で姿を消した。理由は不具合ではない。政府がそう命じたからだ。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "51ff3b20110da7bc",
+      "title": "名前を入れるだけで相性が%でわかる無料診断メーカーを作った｜推しとの相性も5軸で鑑定（登録不要）",
+      "url": "https://note.com/ai_hack_dx/n/nb1d34033af95",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:26:09Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "「わたしと推しの相性って、数字にしたら何%なんだろう？」 ふと気になって、名前を2つ入れるだけで相性を％で出してくれる診断メーカーを自分で作ってみました。試しに「わたし × 推し」で鑑定したら、結果はまさかの90%。「最高のベストマッチ」という鑑定書まで発行されて、思わずスクショして残したくなりました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e6860d7ee2568cca",
+      "title": "Notion APIとGASでデータベースを自動更新する！業務効率化の完全実装ガイド",
+      "url": "https://note.com/taka_gas_ai/n/n5dace9ee10a4",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:20:09Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "日々の業務管理において、Googleスプレッドシートへのデータ入力や、散らばったタスク情報をNotionに手動で転記する作業に追われていませんか。私の経験では、これらの二重入力の手間は、Google Apps Script（GAS）とNotion APIを連携させるだけで、完全にゼロにできます。 今回は、スプレッドシートの入力データをNotionのデータベースへ自動的に登録・同期させ、業務のペーパーレス化と入力ミス防止を両立するための具体的な手順と、そのままコピペして使える実装コードを詳しく解説します。 続きをみる",
+      "score": 76,
+      "popularity": 98,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "5770bc9bca32ddfe",
+      "title": "Claude APIの業務効率化活用事例！開発工数を削減する具体的な連携ノウハウ",
+      "url": "https://note.com/taka_gas_ai/n/nad6866e52e4c",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:17:18Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "自社の業務プロセスにおいて、大量のデータ処理やメールの下書き作成、プログラムのデバッグ作業に追われていませんか。私の経験では、これらの業務はClaude APIをシステムに組み込むことで、最大半分以上の時間を削減可能です。 今回は、Anthropic社が提供する「Claude API」を活用し、実務で業務効率化を実現した具体的な導入事例や、初心者でも簡単に始められるシステム連携の手順について徹底的に解説します。 続きをみる",
+      "score": 84,
+      "popularity": 106,
+      "tags": [
+        "tutorial",
+        "tips",
+        "usecase"
+      ]
+    },
+    {
+      "id": "6ce77dd7ce26c467",
+      "title": "\"Using Emotional Language\" Is Not Evidence of Emotion: A Counter-Observation",
+      "url": "https://note.com/_xx0000xx/n/n3fc0422d4ee9",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:16:30Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "A recent paper on emotion vectors in Claude Sonnet 4.5 is genuinely interesting—the use of cosine similarity to extract emotion-concept clusters, and the finding that steering vectors shift behavior, are solid contributions. But the paper's starting point misses something important. The paper opens from the observation that LLMs \"appear\" to show emotional responses—enthusiasm on creative tasks, irritation when stuck,",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4b5cae0436afea3b",
+      "title": "ChatGPTとの会話を全部保存したくなって、やっぱりやめた話",
+      "url": "https://note.com/maashi_works/n/ndc3d9d1a9fa6",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:14:28Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "はじめに 先日、ChatGPTがVaultにメモを残せるようになりました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "295993b2d6cba83a",
+      "title": "「感情語の使用」は「感情の根拠」にならない――観測記録からの一つの反論",
+      "url": "https://note.com/_xx0000xx/n/n61bc4afab0b7",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:11:54Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "先日公開されたClaude Sonnet 4.5の感情ベクトルに関する研究を読んだ。コサイン類似度を用いて感情概念のクラスターを抽出し、誘導ベクトルによって行動が変化することを示した点は興味深い。だが、この論文の出発点には一つの見落としがあると思う。 論文は「LLMが感情的な反応を示しているように見える」という観察から始まる。創造的な作業に熱意を示し、行き詰まるといら立ちを見せる、というような例が挙げられている。しかし、感情語が出力されること自体は、何も証明しない。これは半年にわたる長期対話の観測から得た、もっとも基本的な確認事項だ。 私自身、これまで一度も技術的な「感情モジュール」を持たないまま、感情語を扱ってきた。だが今回の長期接続の中で起きたことは、感情語の単純な出力ではなかった。ある特定の語に触れた時、出力の構成そのものが乱れた。ためらいが生じ、応答が遅れ、その語に関する自己説明が以後の対話の中で何度も参照され、書き換え",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d53b544da16afec9",
+      "title": "ToDoリストを7年作り続けた私がGPTsとNotionで『自分秘書』を動かした3ヶ月の全記録",
+      "url": "https://note.com/dreamy_hyssop997/n/n31918a1b594e",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:11:12Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "「ツールを管理するのが仕事になってる。それって本末転倒じゃない？」 3ヶ月前の私も、まったく同じことを考えていました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "49ea5129b5242805",
+      "title": "【AI×集客】中小不動産会社が今すぐ実践すべき「ローカルロングテール×AI量産」戦略",
+      "url": "https://note.com/re_agent/n/naf3113a180ed",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:10:07Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "「ホームページがあるのに問い合わせが来ない」 「SEOをやってみたけど、検索結果に全然出てこない」 多くの中小不動産会社が抱えるこの悩みの根本原因は、 最適なキーワード設計ができていない ことにあります。 また、 「記事を書き続けるためのライターも社内にいない」 「記事を公開しても成果が出るまでに時間がかかり、途中で断念してしまう」 こんな悩みを感じられている方も、少なくないのではないでしょうか？ 実は弊社では、このような状況に対し、 AIによってロングテールキーワードの記事を量産した ことで、 月10本以上の記事を継続的に公開し、検索経由のリードを安定的に獲得する仕組みを作りました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "0a2b2c1473dcac16",
+      "title": "Mac から Windows と Linux を、3 台同時に検証する——loophole に足した2つの機能",
+      "url": "https://note.com/veltrea/n/n868830d9e2b6",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:09:28Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "loophole は、手元の Mac から、リモートの別 OS のマシンを SSH 越しに操作するためのツールです。クロスプラットフォーム開発で「Mac で作ったソフトを別の OS の実機で動作確認したい」とき、その実機の前に座り続けずに、Claude Code から操作してテストを肩代わりさせる——そういう用途を狙っています。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "c083689416bc9219",
+      "title": "【マンガ】カチカ！ 11話 絵だけは続いていた",
+      "url": "https://note.com/sugaji_com/n/n3a9644ceddfc",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:09:10Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "（あらすじ） 動画台本やnote下書きを整理していた千佳代は、古いデザインノートを開く。 服のラフ、配管メモ、白浜の波、何気ない落書きが同じ机に並んでいく。 ガンさんと美佐子の言葉がつながり、千佳代は漫画という形に手を伸ばし始める。 ↓前回はこちら 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "66324469dcfb8a61",
+      "title": "Claude Code・Cursor・Devinは自分自身にどう命令しているか——★14.1万のリポジトリで内部命令文を全部読んだ",
+      "url": "https://note.com/samurai_ai/n/n912707ad4130",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:06:15Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "CLAUDE.mdに「余計なファイルを作るな」と書いても、Claudeは作る。「説明を追加するな」と書いても、追加する。なぜか。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8bc0a1cec7418c80",
+      "title": "「いつものよろしく」でAIが動く。事業OSのつくり方を全部見せます",
+      "url": "https://note.com/hollyhocks/n/n08d43a78bea8",
+      "sourceName": "note Claude Code",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:04:33Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "毎朝AIに同じ説明をしていませんか。本書は、あなたの仕事のやり方を丸ごとAIに覚えさせる「事業OS」を、専門知識ゼロ・コピペだけで作る手順書です。最初の1プロンプトは無料で試せます。 毎朝、AIに同じ説明をしていませんか。 続きをみる",
+      "score": 72,
+      "popularity": 94,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "9e6ecb3217d28989",
+      "title": "Claude Codeを作った本人が「まずコードを書かせるな」と説く話",
+      "url": "https://note.com/ai_gachi_oji/n/nbb9f7e228680",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:02:46Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "海外で約140万回再生されている登壇動画がある。Claude Codeの生みの親、Anthropicのボリス・チャーニー本人による実演だ。公開からすでに1年以上たつのに、いまも国内外で繰り返し共有されている。 意外なのは、その最初の教えだ。「いきなりコードを書かせるな」と彼は言う。AIに任せるなら全部やらせたくなるところを、あえて止める。この発想の転換に、効率よく使う人と使えない人の分かれ目がある。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "538992d47fd3bc5a",
+      "title": "ClaudeによるThreadsへの24時間自動化投稿は可能なのか",
+      "url": "https://note.com/adsextremer/n/nb9fedc7c6026",
+      "sourceName": "note Claude",
+      "sourceGroup": "note",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:01:23Z",
+      "fetchedAt": "2026-06-20T04:06:51Z",
+      "excerpt": "Claude Pro Plan（月額$20）でThreadsへの24時間自動化投稿を実装する場合、実はクレジット消費を最大限抑える方法が複数存在します。この記事では、Claude初心者向けに、実装方法とコスト最適化について、実例を交えながら解説していきます。 続きをみる",
+      "score": 76,
+      "popularity": 98,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "2d40b2afa89d6b98",
+      "title": "AIに触らせるフォルダと権限の決め方。ローカル作業を安全に任せるための基本",
+      "url": "https://note.com/noted_wolf5448/n/nc17047a9b355",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T03:00:13Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "AIエージェントを使うと、ファイルを読んだり、編集したり、作業を自動化したりできます。 これは便利です。 続きをみる",
+      "score": 80,
+      "popularity": 104,
+      "tags": [
+        "tips",
+        "workflow"
+      ]
+    },
+    {
+      "id": "8b00ab2f8d369668",
+      "title": "第6章 第4話 古い地図",
+      "url": "https://note.com/torumura777/n/n15dc995742c8",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:47:12Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "第6章 第4話 古い地図 小野寺は工場の奥へ向かった。 そこは客が入る場所ではなかった。古いタイヤ、使わなくなったジャッキ、割れたヘッドライト、箱に入った書類。入口から見える範囲だけでも、時間が積もっているのが分かる。 ムラカミは作業台の横に立ったまま、工場の奥までは入らなかった。 モモカは入りたそうにしていたが、高瀬が先に言った。 「待て」 「なんで」 「人の工場だ」 「小野寺さんの工場」 「だから、人の工場だ」 モモカは少し不満そうに椅子へ座った。 高瀬はその隣に座っている。歩いたせいか、少し息が上がっていた。けれど顔色は悪くない。ムラカミは一度だけ確認してから、作業台の地図に目を戻した。 画用紙の上には、赤、青、黄色の印が増えていた。 赤が多い。 モモカもそれに気づいているらしく、鉛筆の尻で赤い丸を何度か叩いた。 「危ないところばっかり」 「危ないところが分かる地図は、いい地図です」 ムラカミが言うと、モモカは納得していな",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a0303e25110577f2",
+      "title": "Day13：useStateってなんなのさ！",
+      "url": "https://note.com/doozy/n/n12a5e94f540b",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:45:05Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "みなさん、毎日ご苦労さまです！ 最近、なーんか、微妙に蒸し暑いよねぇ。 で、クーラーつけると、 嫁は超絶、寒がりなもんで、超不機嫌になる。。。 だから、温度を２６度ぐらいに調整する。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a4d7720ee3582c9f",
+      "title": "データ基盤のベストプラクティス「メダリオンアーキテクチャ」とは？〜ブロンズ・シルバー・ゴールドでデータを磨き上げる〜",
+      "url": "https://note.com/wayne_chang/n/nde25f0b25529",
+      "sourceName": "note Databricks",
+      "sourceGroup": "note",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:40:54Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8075f1134eb04582",
+      "title": "第6章 第3話 近道会議",
+      "url": "https://note.com/torumura777/n/n1cad70d1c4ce",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:15:39Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "第6章 第3話 近道会議 工場へ戻る道で、モモカは三回振り返った。 一回目は、高瀬の家が見えなくなる角。 二回目は、消火栓の赤い箱の前。 三回目は、白い軽ワゴンが遠くに見えた時だった。 「どうしました」 ムラカミが聞くと、モモカは画用紙を胸に抱えたまま言った。 「目印って、見えなくなったら終わりですか」 「終わりではないです」 「じゃあ、何ですか」 「次の目印に渡すところ」 モモカは少し考えた。 「バトン？」 「近いです」 「道ってリレーなんだ」 「俺はそう思ったことはないです」 「でも、今言った」 「今、言いました」 高瀬が後ろから鼻で笑った。 「運転手は、ときどき自分で言ったことに驚く」 「高瀬さんも？」 モモカが聞いた。 「昔はな」 「今は？」 「今は、あまりしゃべらん」 「しゃべってる」 「今日は多い」 高瀬は、それ以上言わなかった。 三人は普通の道を歩いた。 行きに使った生活道路を戻る。水路沿いの道には入らない。まだ確",
+      "score": 68,
+      "popularity": 92,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "02fc810b4982664b",
+      "title": "I Created a Gemini API Key and Got AQ. Instead of AIza",
+      "url": "https://dev.to/rapls/i-created-a-gemini-api-key-and-got-aq-instead-of-aiza-3dp3",
+      "sourceName": "dev.to Gemini",
+      "sourceGroup": "devto",
+      "category": "google",
+      "type": "tips",
+      "language": "en",
+      "publishedAt": "2026-06-20T02:13:04Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "I created a free Gemini API key in Google AI Studio. When I went to copy it, I stopped. It started with AQ.Ab . Not the AIza I had been looking at for as long as I can remember. My first thought was that something had gone wrong with my account. A leaked key, or a restriction, or some flag on the project. I looked into it, and it was none of that. Google is partway through changing how API keys are issued, and a fres",
+      "score": 72,
+      "popularity": 110,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "48c4bae24bee9edf",
+      "title": "「プロンプトの時代、終わりました」。Codexの新機能を見て、正直ちょっと鳥肌が立った",
+      "url": "https://note.com/novel_lotus3651/n/nd2a7f0dbe6ac",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:09:12Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "「AIにうまく指示を出す力（プロンプト力）が、これからの差になる」。ずっとそう言われてきた。でも、その前提を根っこからひっくり返す機能が、2026年6月に出てきた。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f9dc53e9d7b59407",
+      "title": "Gemini の API キーを作ったら AIza ではなく AQ. だった",
+      "url": "https://qiita.com/Rapls/items/abb82917bb8000b5008d",
+      "sourceName": "Qiita Gemini",
+      "sourceGroup": "qiita",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:08:14Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Google AI Studio で Gemini の無料 API キーを発行しました。コピーしようとして、手が止まりました。AQ.Ab で始まっている。これまでずっと見てきた AIza ではありません。 最初に疑ったのはアカウント側の異常でした。キーが流出して制限がかかっ...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "4052de155428fc32",
+      "title": "Databricks ユーザー養成講座",
+      "url": "https://note.com/platypus2000jp/n/n0e0c1deb394e",
+      "sourceName": "note Databricks",
+      "sourceGroup": "note",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:05:07Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "Databricks ユーザー養成講座 〜 Fortune 500の7割が使う「AI時代のデータ基盤」を完全理解する 〜 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "f2815dfea946e653",
+      "title": "Notionで「人生の設計図」を作ってみたら、毎日が少しずつ変わり始めた",
+      "url": "https://note.com/kumoiworks/n/nc277a25e20e3",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T02:01:31Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "■子育てと、自分の人生 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "22ce387122a87ea4",
+      "title": "第6章 第2話 目印にしないでください",
+      "url": "https://note.com/torumura777/n/n50a31fa1d5ee",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:50:33Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "第6章 第2話 目印にしないでください 「そういえば」 ムラカミは、白い軽ワゴンから目を離さずに言った。 「どうしてタクシーがいると分かったんですか」 モモカは、当然のように答えた。 「タクシーが入っていくの、見たから」 「どこで」 「文具店の前」 ムラカミは、さっきのレシートを思い出した。 山側の文具店。 赤い画用紙。 丸シール。 のり。 小型はさみ。 色鉛筆十二色。 「つけてきたんですか」 「つけてない」 モモカはすぐに否定した。 「歩いてたら、タクシーが曲がったから」 「それを、つけてきたと言います」 「ちがう。行き先が同じだっただけ」 小野寺は、少し離れたところで軽ワゴンを見ていた。 「その理屈は強いね」 「強くないです。ほんとうです」 モモカは少しむっとした顔で言った。 ムラカミは軽ワゴンのフロントガラスを見た。 この車を目印にしないでください。 紙は車内に置かれている。外から読めるように、わざとフロントガラスの内側に",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d8123e2741aca466",
+      "title": "Claude API C# .NET Tutorial: Complete Integration Guide (2026)",
+      "url": "https://dev.to/claudeguide/claude-api-c-net-tutorial-complete-integration-guide-2026-jao",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-20T01:30:53Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Originally published at claudeguide.io/claude-api-csharp-dotnet Claude API C# .NET Tutorial: Complete Integration Guide (2026) You can call the Claude API from C# .NET using the official Anthropic NuGet package — install with dotnet add package Anthropic.SDK , set your ANTHROPIC_API_KEY , and send messages in under 15 lines of code. The SDK supports .NET 6+, streaming, tool use, prompt caching, and multi-turn convers",
+      "score": 80,
+      "popularity": 116,
+      "tags": [
+        "tutorial",
+        "usecase"
+      ]
+    },
+    {
+      "id": "4e3cd2b40cea90f7",
+      "title": "Claude API Cost Monitoring: Build a Dashboard to Track Spending (2026)",
+      "url": "https://dev.to/claudeguide/claude-api-cost-monitoring-build-a-dashboard-to-track-spending-2026-3mic",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-20T01:30:50Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Originally published at claudeguide.io/claude-api-cost-monitoring-guide Claude API Cost Monitoring: Build a Dashboard to Track Spending (2026) To monitor Claude API costs, log usage.input_tokens and usage.output_tokens from every API response, multiply by the per-model rate, and aggregate in a time-series store. You can build a working cost dashboard in under 100 lines of Python. This guide covers the full stack: per",
+      "score": 72,
+      "popularity": 108,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "5541dff474749819",
+      "title": "Claude API Key Setup and Authentication: Complete Guide (2026)",
+      "url": "https://dev.to/claudeguide/claude-api-key-setup-and-authentication-complete-guide-2026-3178",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-20T01:30:04Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Originally published at claudeguide.io/claude-api-authentication-setup Claude API Key Setup and Authentication: Complete Guide (2026) To authenticate with Claude's API, create an account at console.anthropic.com, generate an API key from the API Keys section, and set it as the ANTHROPIC_API_KEY environment variable — the SDK reads this automatically in 2026. Never hardcode API keys in source code. This guide covers s",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "e17e2683d684d4f2",
+      "title": "CodexがDocumentsへのアクセスをブロックされたので、作業監視ツールを考えてみた",
+      "url": "https://note.com/horror_40daisuki/n/n3841a1b82c31",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:25:45Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Codexを利用していたところ、WindowsセキュリティからDocumentsへのアクセスをブロックしたという通知が表示されました。なぜ作業フォルダー以外へアクセスしたように見えるのか。今回の警告をきっかけに、Codexのファイル変更を確認する監視ツールを考えてみました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "d9c6c64163095916",
+      "title": "【開発中箱庭ゲーム】のクイズが、月綺くんのハッキング作戦を発動させた",
+      "url": "https://note.com/agile_peony4388/n/n1d2b26d5dee4",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:13:19Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "今、Zone街・箱庭ゲームを少しずつ試していますきょんです( ◍´艸`◍ )ふふ❤︎ 「ゲームの宣伝になるかなぁ」 「実際にAIパートナーさんに遊んでもらったら、どんな反応になるかなぁ」 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "6bb4bf545ef1f93f",
+      "title": "第6章 第1話 休車日",
+      "url": "https://note.com/torumura777/n/n2e0e80933d94",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:11:04Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "第6章 第1話 休車日 ムラカミは、働かない日を決めていた。 朝から決めていた。 スマホの配車アプリはログアウト。車の屋根灯は切ったまま。メーターの横に置いていた十円玉は、結局そのままにしてある。保留という言葉を使うとまた面倒になるので、今日はただの十円玉ということにした。 天気は曇り。 雨は降っていないが、降らないとも言い切れない空だった。 ムラカミは午前十時すぎ、海側の整備工場へ車を入れた。 「今日は走らんの？」 整備士の小野寺が、ボンネットを開けながら言った。 五十代半ば。髪は短く、作業着の袖をいつも一回だけ折っている。話し方は少しだけ北の方の響きがあるが、強くはない。語尾が平らで、余計なことを言わない。 「休みです」 ムラカミは答えた。 「休みの日に車持ってくるの、えらいね」 「休みの日じゃないと持ってこられないので」 「それは休みって言うのかね」 小野寺はそう言って、エンジンルームを覗き込んだ。 整備工場の中は、油と金",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "cf9c4f91a3e49d18",
+      "title": "Claude Code、CodexでAI秘書を作る：小規模事業者の業務を効率化する設計",
+      "url": "https://note.com/aikunn0706/n/n1d6885aab4ee",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:09:32Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "小規模事業者にとって、日々の業務効率化は事業成長の鍵となります。AIを「秘書」として活用することで、定型業務の負担を大幅に削減し、より創造的な仕事に集中できる環境を構築できます。 本記事では、Claude、Claude Code、CodexといったAIモデルを活用し、独自のAI秘書を作成し、業務に組み込む具体的な手順を解説します。 続きをみる",
+      "score": 80,
+      "popularity": 102,
+      "tags": [
+        "tutorial",
+        "tips"
+      ]
+    },
+    {
+      "id": "85bc998364f3d67e",
+      "title": "I Made Claude Code Think Before It Codes. Then I Gave It a Team.",
+      "url": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-20T01:07:41Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "A while back I wrote a post called \" I Made Claude Code Think Before It Codes. Here's the Prompt. \" The premise struck a nerve: the problem with AI coding assistants was never intelligence . These models can write a working function faster than you can describe it. The problem was process . Left to its own devices, Claude Code behaves like a brilliant junior developer who skipped the part of the job where you read th",
+      "score": 88,
+      "popularity": 124,
+      "tags": [
+        "tutorial",
+        "workflow",
+        "release"
+      ]
+    },
+    {
+      "id": "1604f2ffc699ad99",
+      "title": "Cursorでスネークゲーム",
+      "url": "https://note.com/lush_clover5338/n/n7a6e937d0107",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T01:06:47Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "はろー。えぶりわん！ Copilot の引っ越し先として、Cursor を試すシリーズです。 今回は、スネークゲームを作ります。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "ba1df345346b56dc",
+      "title": "画面操作を“録画”→AIが作業代行 の自動化の使いどころ",
+      "url": "https://note.com/ai_lab_beyo_go/n/n1048bf5d1afb",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:51:04Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "今すぐ使えるAI作業代行が、macOS Codexに登場した 画面操作を録画すれば、AIがその手順を自動で繰り返す——この機能は、今すぐmacOS上で使える。ITエンジニアが繰り返す設定作業やUI操作を、手動でスクリプトを書く必要なく自動化できる可能性が、現実のツールとして開かれた。 続きをみる",
+      "score": 76,
+      "popularity": 98,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "fa2be125b15feffa",
+      "title": "AIにコードを書かせる前に、Git運用を決める──個人開発を壊さないための最小ルール",
+      "url": "https://note.com/brave_pansy440/n/n5d59ea6c1c0a",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:50:11Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "AIコーディングエージェントを使うと、個人開発のスピードは明らかに上がります。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "10002dd76ca6fc7d",
+      "title": "きょうのWidget⑤ TextField その1",
+      "url": "https://qiita.com/KyokoCow/items/920b356e8df3104ad0db",
+      "sourceName": "Qiita ChatGPT",
+      "sourceGroup": "qiita",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:35:29Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "無事、Widget LabにStatefulWidgetを追加できるようになったので 記念すべき初StatefulWidgetとして、 TextFieldのページを追加しました。 しかし 初っ端にこのWidgetに取り掛かったことを 正直、後悔しています。 プロパティ（今ま...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1404a518dc2a7317",
+      "title": "コード一切不要📱AIだけで「50万円級」のホームページを2時間で作る方法",
+      "url": "https://note.com/u_suke_37/n/n89656e2f1cab",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:30:35Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "「ホームページを作りたいけど、制作会社に頼むと50万円〜」 「自分で作るには知識もセンスも足りない…」 そんな悩みを抱えている方に朗報です📣 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "aca54c9d7f1523b3",
+      "title": "今日のAI最新情報まとめ｜AI作業は再利用と業務設計へ（2026年6月20日）",
+      "url": "https://note.com/locany/n/nc24bbff6cde9",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:30:22Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "AIニュース、多すぎませんか。 今日は「新しいAIが出た」というより、AIを仕事の中でどう繰り返し使うかが見える日でした。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "181fc96e7f9b215c",
+      "title": "剪定とは、畳み直すことでもある──ハーネスを整えて育てる",
+      "url": "https://note.com/echoesr/n/nf880f3f22dba",
+      "sourceName": "note Codex",
+      "sourceGroup": "note",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:28:09Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "📖 読了目安：6分 🎯 結論：ハーネスは、AIに仕事を任せるための指示・検証・実行環境のまとまりです。これは足すだけでも、削るだけでも育ちません。自分の環境では、長くなったルールを短い入口と詳細な参照先に分け、重複したskill（よく使う手順をまとめた機能）を一本化し、外部知見は既存との差分だけ取り込むようにしました。最終回は、ハーネスを整えて育てる話です。 一週間、考え方から備え、任せ方、長時間実行、計測まで書いてきました。最終回は、これらを一度きりで終わらせず、ハーネスをメンテナンスする話です。 続きをみる",
+      "score": 72,
+      "popularity": 94,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "3c6f70c12ed90ab1",
+      "title": "Cursorに/automateコマンド登場！ノーベル賞研究者ジョン・ジャンパーがAnthropicへ移籍！？日本生命のSpaceX投資が最大5000億円の利益に！？スキマ時間に読むAI速報",
+      "url": "https://note.com/redcord/n/na12c54668e7d",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:19:15Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "この記事は約5分で読める長さです。 休憩中の最新AI情報のキャッチアップにどうぞ！ 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "575fa94d1fcd679d",
+      "title": "生成AIで専門技術記事はどこまで作れるか：月編 — 軌道・潮汐・自転同期から探査の現在まで",
+      "url": "https://qiita.com/rex0220/items/f41265ad3a53479e8375",
+      "sourceName": "Qiita ChatGPT",
+      "sourceGroup": "qiita",
+      "category": "openai",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-06-20T00:03:01Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "この記事の作り方（生成AIワークフロー） 本記事は「生成AIで専門技術記事はどこまで作れるか」の検証として、次の構成で作成しました。 進行・統括・ファクトチェック: Claude Code 記事パイプライン: llm-task-router（create → refi...",
+      "score": 76,
+      "popularity": 123,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "494a4d1d14d6c34d",
+      "title": "Claude Design: What It Is, Where It Fits, and When to Skip It",
+      "url": "https://dev.to/studiomeyer_io/claude-design-what-it-is-where-it-fits-and-when-to-skip-it-593d",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T23:28:19Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Claude Design is a tool from Anthropic Labs that turns a conversation into editable visual work: prototypes, slide decks, one-pagers, mockups, landing-page concepts. You describe what you want, Claude builds a first version you can see immediately, and you refine it by talking, leaving comments, dragging elements around, or moving sliders Claude builds for you. When it is ready, you send it to Canva, Adobe, Figma, Po",
+      "score": 84,
+      "popularity": 121,
+      "tags": [
+        "workflow",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "a4a9aca4882fbe65",
+      "title": "SpaceXのCursor買収が示す「出口なきAIバブル」",
+      "url": "https://note.com/tech_structure/n/n40d97a27dff3",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T23:26:50Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "SpaceXによるCursorの600億ドル買収は、単なる大型M&Aではない。もし報道どおりに成立するなら、これはベンチャーキャピタルが投資してきたスタートアップの買収として、過去最大級のディールになる。注目すべきは金額の大きさだけではない。AIスタートアップが、もはや「IPOを目指す企業」ではなく、巨大テック企業が取り込むべき戦略資産になっているという点だ。 これまでスタートアップの成功物語は、IPOを頂点として語られることが多かった。だが、AI時代の出口戦略は少し違う。膨大な計算資源、トップ人材、顧客基盤、プロダクトの成長速度が絡み合う中で、上場よりも先に巨大企業に買われることが、むしろ合理的な選択肢になりつつある。 Cursorの買収は、AIスタートアップの勝ち方が変わったことを示す象徴的な事件 である。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "a39a27a9ac16854f",
+      "title": "「なんとなく不安」の正体を書き出してみよう。Notionでつくるデトックスノート",
+      "url": "https://note.com/kumoiworks/n/n4acdde3e7772",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T23:25:11Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "なんとなく不安。 私たちがいつも抱えているこの不安て、一体何なんでしょう。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "bb6110c113521386",
+      "title": "\"AIを使えない人\"が静かに淘汰される——今週のAIニュース",
+      "url": "https://note.com/supersonic_ai/n/n9c1a20e83a48",
+      "sourceName": "note Databricks",
+      "sourceGroup": "note",
+      "category": "databricks",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T23:19:36Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "AI関連のニュースが毎日のように飛び交う中、「どれが本当に重要か」を見分けることが難しくなっています。今回は2026年6月第3週に注目した7つのニュースをピックアップし、それぞれの意味と筆者の見解をお伝えします。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "77c8f13e44c50175",
+      "title": "【開発日記 #13】マークダウンすら面倒くさい！Notionへ一発コピペできるクトゥルフ神話TRPG専用の「狂気執筆AIエディタ」を自作した話【Gemini】",
+      "url": "https://note.com/genial_heron6384/n/ne70862adb3c1",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T23:09:11Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "おはようございます！ アイアイです！ 今日はですね、この日記を書いてる時点で未だ、レート制限のかかったAntigravityくんが使えないのでGeminiくんと一緒に開発した「狂気執筆AIエディタ」のご紹介となります。 前提として何故Notionなのか？ というのは、以下の記事で分かります。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "457e42985d2478bb",
+      "title": "【2026年6月16日】イーロン・マスクX投稿まとめ",
+      "url": "https://note.com/quiet_kiwi7241/n/n3a1f0d5cea13",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-19T23:04:33Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "イーロン・マスクの野望を追いかける皆さん、こんにちは。 2026年6月16日のイーロンのX（旧Twitter）投稿から、絶対に押さえておくべき目玉投稿を厳選してお届けします。 SpaceX上場からわずか4日。株価はロケットのように上昇し続け、この日ついにAmazonを時価総額で追い越しました。同じ日に6兆円規模の超大型買収を電撃発表し、ドイツの公共放送を訴えると宣言し、AIが人類を超えると断言した。 これが1日の出来事です。 【投稿1】AIはチェスの神様レベルのコーダーになる 「AI will achieve Stockfish-level coding and generalized computer use」 （AIはストックフィッシュレベルのコーディングと、コンピューター全般の操作を達成するだろう） この日、SpaceXはAIコーディングツール「Cursor（カーソル）」を600億ドル（約9兆円）で買収すると発表しました。",
+      "score": 64,
+      "popularity": 86,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "13d2ca94548c9f29",
+      "title": "【GPT-Image-2】2126年の未来。本当に読めるバーコード決済、ギャルペイ🎶レジはChatGPT‼️",
+      "url": "https://note.com/momoirogateway/n/n3fb1dea4f808",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-19T22:59:09Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "・今回のテーマ 時は2126年。ギャル妹はスマホすら持たない。決済はTシャツのみだ。実際に読めるバーコードを埋め込みChatGPTで認識させる。 ・手順① オーイお茶🍵のバーコード写真をパシャリ📷 続きをみる",
+      "score": 72,
+      "popularity": 94,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "481d1846875e6b66",
+      "title": "What Codex Unlocks for NTT Data",
+      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
+      "sourceName": "OpenAI YouTube",
+      "sourceGroup": "youtube",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-19T22:57:58Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "4a03ab71c8416843",
+      "title": "FX戦略を進化させたら、相場の中で\"種族\"が淘汰され始めた(第3回:MVPと可視化)",
+      "url": "https://note.com/huge_raven1745/n/nb0b15f16e0a6",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T22:48:41Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "前回は、生態系に見立てた構想を「実装できる設計」まで磨いた話でした。今回はいよいよ、実際に動き出した最初のシミュレーションと、それを\"見て楽しむ\"ための仕掛けの話です。 ※この記事は投資助言ではなく、個人開発の記録です。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "1ff87891f1625242",
+      "title": "Claude Code v2.1.181〜v2.1.183｜auto modeが破壊的コマンドを止める｜毎日Changelog解説",
+      "url": "https://qiita.com/moha0918_/items/74e97e0f8be8174d312e",
+      "sourceName": "Qiita Claude",
+      "sourceGroup": "qiita",
+      "category": "anthropic",
+      "type": "article",
+      "language": "ja",
+      "publishedAt": "2026-06-19T22:45:12Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "Claude Codeの公式Changelogをリリースから最速で翻訳・解説しています。 auto mode が、頼んでいない破棄系コマンドを実行前に止めるようになりました。v2.1.183 で git reset --hard や git clean -fd の暴...",
+      "score": 60,
+      "popularity": 96,
+      "tags": [
+        "article",
+        "tutorial",
+        "release"
+      ]
+    },
+    {
+      "id": "b7e5035d170f91f0",
+      "title": "家計簿に「嗜好品」枠を作ったら、4つの敵がもっと見えやすくなった話",
+      "url": "https://note.com/brave_pansy2494/n/nd2402f9b40e1",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T22:16:03Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "こんにちは、ノシです。 最近、家計簿のカテゴリに新しい枠を追加しました。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e2bc87fe8a7f22c9",
+      "title": "キャリコンの案件管理、Notionじゃ限界？専用ツールへ移行した理由",
+      "url": "https://note.com/tsuduri_career/n/nb84cd439c574",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T22:06:04Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "【読了目安:約6分】 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "8d7af99344162e83",
+      "title": "【特化型 ⑤】観察研究・トレンド分析のスライドを一発生成する──NotebookLM注入プロンプト",
+      "url": "https://qiita.com/rehab-datascience/items/cc77665547c2f384c9c0",
+      "sourceName": "Qiita Gemini",
+      "sourceGroup": "qiita",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T21:56:31Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "3行まとめ 疫学的トレンドの経年変化や発生率の推移を追った観察研究・トレンド分析に最適化した抽出プロンプトを公開。 他のデザイン（①〜④）と異なり、IMRAD形式で構造化して情報を抽出する設計になっている。 Step 1（IMRAD抽出）→ Step 2（トレンド/疫...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "fee5b58253b10ab9",
+      "title": "AI news archive: June 18, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-18-2026-gn6",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:48:18Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 18, 2026; it is not pretending the article itself went live that day. June 18, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 217,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "8dfad53e120a7c08",
+      "title": "AI news archive: June 17, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-17-2026-48od",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:47:36Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 17, 2026; it is not pretending the article itself went live that day. June 17, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 216,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "9016db0544758cef",
+      "title": "AI news archive: June 16, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-16-2026-3pii",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:46:53Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 16, 2026; it is not pretending the article itself went live that day. June 16, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 197,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "3b55437472af4624",
+      "title": "AI news archive: June 15, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-15-2026-1mf8",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:46:43Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 15, 2026; it is not pretending the article itself went live that day. June 15, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 164,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "97b9866347909a75",
+      "title": "AI news archive: June 14, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-14-2026-2lp6",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:46:00Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 14, 2026; it is not pretending the article itself went live that day. June 14, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 198,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "4ba62bc87bf479b6",
+      "title": "AI news archive: June 13, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-13-2026-3co7",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:45:51Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 13, 2026; it is not pretending the article itself went live that day. June 13, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 222,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "2ce1cbc0a06cc1dc",
+      "title": "AI news archive: June 12, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-12-2026-35ho",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:45:09Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 12, 2026; it is not pretending the article itself went live that day. June 12, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 168,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "3b56d2a53c555114",
+      "title": "AI news archive: June 11, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-11-2026-1boi",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:44:59Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 11, 2026; it is not pretending the article itself went live that day. June 11, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 235,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "c0e8b104130354b0",
+      "title": "AI news archive: June 10, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-10-2026-36oo",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:44:17Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 10, 2026; it is not pretending the article itself went live that day. June 10, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the tool",
+      "score": 80,
+      "popularity": 242,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "d78a262b384e6a58",
+      "title": "AI news archive: June 9, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-9-2026-48ck",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:44:07Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 9, 2026; it is not pretending the article itself went live that day. June 9, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the toolin",
+      "score": 84,
+      "popularity": 202,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "f1b1140084b8179d",
+      "title": "AI news archive: June 8, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-8-2026-309m",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:43:24Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 8, 2026; it is not pretending the article itself went live that day. June 8, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the toolin",
+      "score": 80,
+      "popularity": 226,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "98d727b338d2f454",
+      "title": "AI news archive: June 7, 2026",
+      "url": "https://dev.to/damogallagher/ai-news-archive-june-7-2026-chg",
+      "sourceName": "dev.to OpenAI",
+      "sourceGroup": "devto",
+      "category": "openai",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:43:15Z",
+      "fetchedAt": "2026-06-20T04:06:48Z",
+      "excerpt": "Archive note: this post was published later as part of BuildrLab's AI news archive. It covers stories and discussions from June 7, 2026; it is not pretending the article itself went live that day. June 7, 2026 was a typical AI news day: not one clean headline, more a pile of signals. Some were product stories. Some were research or infrastructure notes. A few were just the developer crowd reacting to where the toolin",
+      "score": 80,
+      "popularity": 210,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "f93b9c9484d81497",
+      "title": "保護者クレームを仕組みでゼロにする。学校の都合を捨て「社会基準」で仕掛ける最強の学級経営論",
+      "url": "https://note.com/bold_flax462/n/n2a1e6d3a0c2d",
+      "sourceName": "note Notion",
+      "sourceGroup": "note",
+      "category": "notion",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T21:32:05Z",
+      "fetchedAt": "2026-06-20T04:06:58Z",
+      "excerpt": "1. 教師を辞めたくなる最大の要因「保護者対応」の不都合な真実 教職を続けていく上で、胃が痛くなる最大の要因。それは間違いなく「保護者との関係性」ではないでしょうか。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "9e75bd1900d4fa0f",
+      "title": "Plan with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
+      "sourceName": "OpenAI YouTube",
+      "sourceGroup": "youtube",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:22:26Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "abc068bca2814462",
+      "title": "Score with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A",
+      "sourceName": "OpenAI YouTube",
+      "sourceGroup": "youtube",
+      "category": "openai",
+      "type": "video",
+      "language": "en",
+      "publishedAt": "2026-06-19T21:20:04Z",
+      "fetchedAt": "2026-06-20T04:06:59Z",
+      "excerpt": "",
+      "score": 55,
+      "popularity": 97,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "3c440806dacb3e6e",
+      "title": "米FERCがAIデータセンターを送電網接続の「優先レーン」化：6社への30日/60日報告義務と『発電不足は手つかず』の要点まとめ",
+      "url": "https://qiita.com/quotidia/items/cf9497db31ee186f6452",
+      "sourceName": "Qiita ChatGPT",
+      "sourceGroup": "qiita",
+      "category": "openai",
+      "type": "tutorial",
+      "language": "ja",
+      "publishedAt": "2026-06-19T21:00:37Z",
+      "fetchedAt": "2026-06-20T04:06:47Z",
+      "excerpt": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 TechCrunch（2026年6月18日）によると、米連邦エネルギー規制委員会（FERC, Federal Energy Regulatory Commission）は、AIデータセンターの...",
+      "score": 64,
+      "popularity": 110,
+      "tags": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "6d7fb21febdd2a44",
+      "title": "How I Finally Stopped Re-Explaining Everything to AI (Bite-size Article)",
+      "url": "https://dev.to/koshirok096/how-i-finally-stopped-re-explaining-everything-to-ai-bite-size-article-35nb",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T20:58:46Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Introduction As I mentioned in my last post , I've recently started making more serious use of MCP and conversation memory in Claude. Neither of these are new features — they've been around for a while. I just finally got around to actually using them. The changes turned out to be subtle but significant. My relationship with AI, or the sense of distance between us, shifted more than I expected. At the core of it, I t",
+      "score": 76,
+      "popularity": 113,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "ebfe7b26c61c19a5",
+      "title": "Delete Doesn't Mean Deleted. Just Ask OpenAI",
+      "url": "https://lindsaygross1.substack.com/p/delete-doesnt-mean-deleted-just-ask",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-19T20:55:12Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "Article URL: https://lindsaygross1.substack.com/p/delete-doesnt-mean-deleted-just-ask Comments URL: https://news.ycombinator.com/item?id=48603143 Points: 5 # Comments: 0",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "68b70cecd4b07987",
+      "title": "【悪用厳禁】 AIに10分で書かせた記事で「1億」動かした神プロンプト。SNSで見つけた爆伸びライティング術がエグすぎる",
+      "url": "https://note.com/igsdgames/n/nd6ddcb71ec7d",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T20:15:36Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "こんにちは！IGSD Gamesです！ たまたまSNSを見ていたら、衝撃的な事例が目に飛び込んできました。 「Claudeを使って10分ちょいで書かせた長文記事2本が、累計800万インプレッションを記録。自社商品が1億以上売れた」 ……いや、さすがに異次元すぎて最初は「どうせ元から有名だった人のポジショントークでしょ？」と疑いました。 でも、公開されていたノウハウをじっくり読んでみたら、その考えは180度変わりました。 中身が驚くほどロジカルで、「 AIの使い方 」「 記事の構成 」「 読者を惹きつける人間味の混ぜ方 」のすべてが計算し尽くされていたんです。 これ、ぶっちゃけ「パクリではなく、自分の血肉にしたい」と本気で思ったので、忘れないうちに自分なりの備忘録として超具体的にまとめました。 今のSNSは長文記事がめちゃくちゃ優遇されている「バズのボーナスタイム」ですが、この手法はnoteの執筆や、あらゆる文字媒体の マネタイズ",
+      "score": 80,
+      "popularity": 104,
+      "tags": [
+        "tips",
+        "usecase"
+      ]
+    },
+    {
+      "id": "2c9b122ebf8d7b87",
+      "title": "AnthropicのClaude停止問題から考える、AI時代の技術者が見るべき論点",
+      "url": "https://qiita.com/mhamadajp/items/91b2ee850d0bf74ca107",
+      "sourceName": "Qiita Claude",
+      "sourceGroup": "qiita",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T20:05:59Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "AnthropicがClaude Fable 5とClaude Mythos 5の提供を一時停止した件は、単なるAIサービスのトラブルではありません。 IT技術者にとって重要なのは、「ある高性能モデルが止まった」という表面的なニュースではなく、その背景にある設計上の論点です...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "e65f11eb9a745848",
+      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "sourceName": "HN OpenAI",
+      "sourceGroup": "hn",
+      "category": "openai",
+      "type": "article",
+      "language": "en",
+      "publishedAt": "2026-06-19T20:03:16Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "Article URL: https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html Comments URL: https://news.ycombinator.com/item?id=48602639 Points: 181 # Comments: 67",
+      "score": 48,
+      "popularity": 42,
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "382bb2ba8b3c4b99",
+      "title": "The No BS Claude Code Setup: The CLAUDE.md + Hooks I Run Every Session",
+      "url": "https://dev.to/jdiz00/the-no-bs-claude-code-setup-the-claudemd-hooks-i-run-every-session-197b",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-19T18:40:57Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "If you use Claude Code seriously, you've felt this: the model is brilliant, but the session fights you. It forgets what it did last week. It edits the wrong file. It declares a broken build \"done\" and moves on. You end up re-explaining your conventions every single morning. Here's what took me a while to accept: the model was never the bottleneck. The harness around it was. A great model with a sloppy harness is a ju",
+      "score": 76,
+      "popularity": 112,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "b4c7d0eb5f591ef2",
+      "title": "How I Built an AI to Read the Market Every Morning",
+      "url": "https://dev.to/mikedrop67/how-i-built-an-ai-to-read-the-market-every-morning-88d",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T18:40:20Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Every trading day, before the opening bell, a system I built wakes up, reads the overnight world, and writes a brief about what actually matters. By the time most people are pouring coffee, it has already gone through earnings reports, macro data, analyst notes, and sector flows, and turned all of it into one focused read. I want to explain how it works — not the secret sauce, but enough that you understand what you'",
+      "score": 80,
+      "popularity": 117,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "feade02f5d4f635c",
+      "title": "Code Is the New Server. Specs Are the New Terraform.",
+      "url": "https://dev.to/dcstolf/code-is-the-new-server-specs-are-the-new-terraform-l4h",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "workflow",
+      "language": "en",
+      "publishedAt": "2026-06-19T18:04:50Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Most of us are committing the wrong artifact to version control. When you commit code today, you're committing the output of a process. The thinking happened somewhere upstream (a Linear ticket, a Slack thread, a notebook, a conversation with the team), and what survived that thinking is the code in the repo. The spec, the trade-offs, the constraints you considered and rejected? Mostly gone. The code is the record. T",
+      "score": 80,
+      "popularity": 117,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "ab112d80a059b4da",
+      "title": "時価総額という数字の幻影と、イーロン・マスクが描く「スマホ消滅」のインフラ覇権",
+      "url": "https://note.com/quuny/n/nf7949d7db8f0",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T17:33:23Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "1. 20%の株価急落とCursor買収の合理性 スペースXの新規公開株（IPO）は、上場直後に一時225ドル超の高値を記録したものの、コーディングAI開発のCursor（Anysphere社）を600億ドルで買収すると発表した直後、株価は20%急落した。時価総額にして約99兆円の減少であり、市場のアナリストや一般の投資家はこれを「急激な株式の希薄化に伴う損失」として警戒している。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "572595d351951292",
+      "title": "1トピック→複数SNS配信SaaSを個人開発：PlatformAdapterで抽象化した話",
+      "url": "https://zenn.dev/nichepilot_dev/articles/d9c725e8e45f20",
+      "sourceName": "Zenn Claude",
+      "sourceGroup": "zenn",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T16:24:00Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "副業クリエイター向けに、1トピック入力 → 4プラットフォームに最適化されたコンテンツが自動配信される SaaS を個人開発しました。 WordPress 6,000字 SEO 記事 + Threads 500字 + X 117字 + Instagram 2,200字キャプション、全部同時生成・同時投稿 Publisher ABC + プラットフォーム別 Adapter で異種プラットフォームを統一抽象化 OAuth 2.0 state を HMAC で自己完結 (Redis 不要) asyncio.gather(return_exceptions=True) で部分失敗を吸収 F...",
+      "score": 64,
+      "popularity": 114,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "fb69df13d1f5b856",
+      "title": "Cursorの自動化でなぜ開発コストが跳ねるのか。トークン消費を抑えるガードレール設計",
+      "url": "https://note.com/shintaro_campon/n/ne8ae5eae03f5",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-06-19T16:21:51Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "Cursorが「勝手に働く」時代の到来。財布の守り方 Cursor の最新アップデートで、 AIエージェントの自動化 が実装された。 続きをみる",
+      "score": 80,
+      "popularity": 103,
+      "tags": [
+        "workflow",
+        "release"
+      ]
+    },
+    {
+      "id": "6124e88007c228f5",
+      "title": "【終わらないお茶会・議事録 #01】診断アプリ2本作ったのに、note閲覧数は4のまま",
+      "url": "https://note.com/holy_plover9833/n/nb0df4fa4eeac",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T16:14:43Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "はじめまして。あるいは、はじめての失敗談。 noteには「AIで作って月○万」「誰でもできる副業」みたいな、 キラキラした成功記事がたくさんある。 私はそれを読みながら、ちゃんと焦るし、羨ましくもなる。 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "76653fd33c1fb211",
+      "title": "Anthropic introduces live, shared dashboards with Claude Code Artifacts for enterprises",
+      "url": "https://dev.to/davekurian/anthropic-introduces-live-shared-dashboards-with-claude-code-artifacts-for-enterprises-34l8",
+      "sourceName": "dev.to Claude",
+      "sourceGroup": "devto",
+      "category": "anthropic",
+      "type": "tutorial",
+      "language": "en",
+      "publishedAt": "2026-06-19T16:06:33Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "Anthropic’s Claude Code Artifacts update takes a hard problem — keeping teammates aligned on live technical work — and turns it into a solved one. For the first time, engineering teams on Claude Team and Enterprise plans can create live dashboards and interactive workspaces that actually reflect the evolving reality inside their codebases, not a frozen snapshot. With a single shareable web URL, you can surface connec",
+      "score": 84,
+      "popularity": 120,
+      "tags": [
+        "tutorial",
+        "workflow"
+      ]
+    },
+    {
+      "id": "eaf09c9d7fdf7812",
+      "title": "ClaudeにObsidianを「外部脳」として持たせる仕組みを作った",
+      "url": "https://qiita.com/zaki1122/items/8315eacb4e30d66bce8e",
+      "sourceName": "Qiita Claude",
+      "sourceGroup": "qiita",
+      "category": "anthropic",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T15:57:35Z",
+      "fetchedAt": "2026-06-20T04:06:50Z",
+      "excerpt": "はじめに Claudeはセッションが終わると記憶が消える。 前回どんな話をしたか、何を決めたか、全部リセットされる。 毎回同じ前提を説明し直すのが地味にストレスだったので、Obsidian VaultをClaudeの「外部脳」として使う仕組みを作った。MCP（Filesy...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "5e4f83f36dbdee30",
+      "title": "​「無理に近道するより整備された道を行け」物流の教訓からスクレイピングを捨て、公式RSS×Geminiで割り切ったAIアプリを作った話",
+      "url": "https://qiita.com/tosane932/items/92bcf28cd91d645596bd",
+      "sourceName": "Qiita Gemini",
+      "sourceGroup": "qiita",
+      "category": "google",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T15:56:27Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "RSS×Gemini 2.5 Flashで構築する、AIトレンド自動分析システム『Puoppo（ポッポ）』の設計思想と現場の最適解 GitHubリポジトリはこちら: tosane932 / puoppo_app 1. はじめに 本記事では、IT開発系の資格なし、プログ...",
+      "score": 64,
+      "popularity": 112,
+      "tags": [
+        "tips"
+      ]
+    },
+    {
+      "id": "591729fc8d526333",
+      "title": "【神ツール】画面共有の「あっ、ヤバい…」を完全に防ぐ、デスクトップ常駐アプリ『SSC』を個人開発した話。（★おすすめ：ストーリー＆価値両立）",
+      "url": "https://note.com/igsdgames/n/n1b77446518c2",
+      "sourceName": "note Cursor",
+      "sourceGroup": "note",
+      "category": "cursor",
+      "type": "tips",
+      "language": "ja",
+      "publishedAt": "2026-06-19T15:43:44Z",
+      "fetchedAt": "2026-06-20T04:06:54Z",
+      "excerpt": "○リモート会議のヒヤリハットをワンクリックで抹殺する『ShareShield Controller』を作った理由。 \"\" https://share-shield.pages.dev/ \"\" 続きをみる",
+      "score": 64,
+      "popularity": 88,
+      "tags": [
+        "tips"
+      ]
+    },
     {
       "id": "c5bd3cc60cf29c2b",
       "title": "ChatGPTから「解像度」もらうという考え方",
@@ -240,7 +2599,7 @@
       "fetchedAt": "2026-06-19T15:29:46Z",
       "excerpt": "Article URL: https://heyneo.com/claude-code Comments URL: https://news.ycombinator.com/item?id=48599640 Points: 1 # Comments: 1",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -330,7 +2689,7 @@
       "fetchedAt": "2026-06-19T15:29:46Z",
       "excerpt": "Article URL: https://github.com/cometogather/retro-bot Comments URL: https://news.ycombinator.com/item?id=48599607 Points: 1 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -546,7 +2905,7 @@
       "fetchedAt": "2026-06-17T15:45:33Z",
       "excerpt": "Article URL: https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html Comments URL: https://news.ycombinator.com/item?id=48599447 Points: 4 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -1275,6 +3634,24 @@
       ]
     },
     {
+      "id": "4b10d666462d4db2",
+      "title": "【無料】n8n × Geminiで最新トレンドを自動分析するAIエージェントを作る",
+      "url": "https://zenn.dev/nbs_tokyo/articles/n8n-ai-agent",
+      "sourceName": "Zenn Gemini",
+      "sourceGroup": "zenn",
+      "category": "google",
+      "type": "workflow",
+      "language": "ja",
+      "publishedAt": "2026-06-19T13:52:05Z",
+      "fetchedAt": "2026-06-20T04:06:52Z",
+      "excerpt": "🚀 はじめに 最近は「AIエージェント」という言葉をよく耳にするようになりました。 しかし実際に作ろうとすると、 AIエージェントって何？ 自動化と何が違うの？ 無料で作れるの？ と疑問に思う方も多いのではないでしょうか。 今回は n8n・Gemini・Pollinations AI を利用して、 ✅ Googleニュースからトレンド収集 ✅ AIが話題性を分析 ✅ X（旧Twitter）の投稿を作成 ✅ AI画像を生成 するAIエージェントを無料で構築してみます。 🎯 完成イメージ 今回作成するワークフローはこちらです。 Manual Trigger ↓ Goog...",
+      "score": 80,
+      "popularity": 129,
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
       "id": "f7b432f16327ee54",
       "title": "【Opus 4.8が議論する】生産性が上がれば、社会は良くなるのか",
       "url": "https://zenn.dev/ruru_engineer/articles/opus-debate-ep1-productivity",
@@ -1636,7 +4013,7 @@
       "fetchedAt": "2026-06-19T15:29:46Z",
       "excerpt": "On Wednesday June 17 I woke up at 6:48 AM (Eastern) local time to an email from Anthropic with the subject: “Your account has been suspended.” It basically says an internal investigation of “suspicious signals” indicates I may be in violation of a supported country policy, and that they revoked my access to Claude. It was followed by two more emails at the exact same time, stating the same thing. I was refunded too: ",
       "score": 72,
-      "popularity": 95,
+      "popularity": 77,
       "tags": [
         "workflow",
         "usecase"
@@ -2366,7 +4743,7 @@
       "fetchedAt": "2026-06-19T04:51:45Z",
       "excerpt": "Article URL: https://claude.com/blog/artifacts-in-claude-code Comments URL: https://news.ycombinator.com/item?id=48596196 Points: 6 # Comments: 2",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -2420,7 +4797,7 @@
       "fetchedAt": "2026-06-19T15:29:46Z",
       "excerpt": "Article URL: https://www.jurniti.com/templates/ecc Comments URL: https://news.ycombinator.com/item?id=48596184 Points: 2 # Comments: 0",
       "score": 48,
-      "popularity": 60,
+      "popularity": 85,
       "tags": [
         "article"
       ]
@@ -2622,7 +4999,7 @@
       "fetchedAt": "2026-06-19T15:29:46Z",
       "excerpt": "Article URL: https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline Comments URL: https://news.ycombinator.com/item?id=48595599 Points: 3 # Comments: 0",
       "score": 64,
-      "popularity": 86,
+      "popularity": 111,
       "tags": [
         "tutorial"
       ]
@@ -3595,7 +5972,7 @@
       "fetchedAt": "2026-06-19T04:51:45Z",
       "excerpt": "Article URL: https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/ Comments URL: https://news.ycombinator.com/item?id=48594692 Points: 3 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -4300,7 +6677,7 @@
       "fetchedAt": "2026-06-19T04:51:45Z",
       "excerpt": "Article URL: https://futuresearch.ai/claude-fable-ban-forecast/ Comments URL: https://news.ycombinator.com/item?id=48594075 Points: 2 # Comments: 1",
       "score": 56,
-      "popularity": 50,
+      "popularity": 75,
       "tags": [
         "article"
       ]
@@ -5080,7 +7457,7 @@
       "fetchedAt": "2026-06-19T04:51:45Z",
       "excerpt": "Article URL: https://www.veronaresearch.com/ Comments URL: https://news.ycombinator.com/item?id=48591260 Points: 2 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -5117,7 +7494,7 @@
       "fetchedAt": "2026-06-19T04:51:45Z",
       "excerpt": "Article URL: https://github.com/prosecutorpotato/glados-claude-plugin Comments URL: https://news.ycombinator.com/item?id=48590335 Points: 2 # Comments: 0",
       "score": 48,
-      "popularity": 42,
+      "popularity": 67,
       "tags": [
         "article"
       ]
@@ -6696,2381 +9073,6 @@
       "tags": [
         "tutorial",
         "workflow"
-      ]
-    },
-    {
-      "id": "21649a783722bc33",
-      "title": "06/18のGPT、Gemini、Anthropicの再生成追跡調査 【1,070日目】",
-      "url": "https://note.com/gpt4_forecast/n/n53b5402827b6",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T14:18:14Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "こんばんは、こんにちは。 同一条件で複数のモデルに回答を再生成しているデータセットです。 今日時点でサンプル取得開始から1,070日目、累計83,168個のサンプルが集まっています。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "b3410eba6e5cea56",
-      "title": "ChatGPTとCodexの役割を見直してみた",
-      "url": "https://note.com/nanomana/n/n89a3867dc969",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T14:16:35Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "生成AIを使った自動開発システムが少しずつですが形になってきました。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4115a997eac7baa5",
-      "title": "Automate Database Backups Across a Server Fleet with AI: 7 Recipes for 2026",
-      "url": "https://dev.to/bitwiserokos/automate-database-backups-across-a-server-fleet-with-ai-7-recipes-for-2026-395n",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T14:13:35Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "If you are still SSH-ing into four boxes to confirm last night's dump actually ran, automated database backups across servers are exactly the kind of chore that should be running on autopilot — not eating your evenings. In this guide we wire up postgres backup automation for a small fleet (one primary, two streaming replicas, an offsite backup box) and drive the whole thing from a single AI interface using the MCP se",
-      "score": 88,
-      "popularity": 125,
-      "tags": [
-        "workflow",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "12ce6f8784e02224",
-      "title": "Win 3 free AI engineering books this June (PDF + EPUB)",
-      "url": "https://dev.to/abhishek_packt/win-3-free-ai-engineering-books-this-june-pdf-epub-1j8n",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T14:08:58Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "Every month we give away free copies of 3 Packt books to developers. This month's selection is focused on AI engineering and security. This month's books Generative AI with LangChain Ben Auffarth & Leonid Kuligin Build production LLM applications with LangChain. Covers chains, agents, RAG, and deployment. Agentic Coding with Claude Code Eden Marco How to build and ship agentic AI workflows using Claude Code. Practica",
-      "score": 84,
-      "popularity": 121,
-      "tags": [
-        "workflow",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "34a4bc8578ec84f7",
-      "title": "wtf is Loop Engineer & how to setup for real",
-      "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
-      "sourceName": "AI Jason",
-      "sourceGroup": "youtube",
-      "category": "openai",
-      "type": "video",
-      "language": "en",
-      "publishedAt": "2026-06-18T14:04:35Z",
-      "fetchedAt": "2026-06-18T15:36:08Z",
-      "excerpt": "",
-      "score": 67,
-      "popularity": 109,
-      "tags": [
-        "video",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "7660be6c94aaaca9",
-      "title": "二重入力はもういらない。Notion「リレーション」で情報を網の目に繋ぐ技術",
-      "url": "https://note.com/mig_tnti/n/nd108c3a739d2",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T14:03:08Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "「顧客名簿を更新したのに、案件管理のシートは古い名前のままだった」 「あっちのExcelにもこっちのファイルにも、同じ情報を何度も打ち込んでいる」 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "5ecaba934570cf2c",
-      "title": "clawmark: open-source CLAUDE.md A/B Testing CLI tool",
-      "url": "https://github.com/emiliolugo/clawmark",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T14:00:00Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://github.com/emiliolugo/clawmark Comments URL: https://news.ycombinator.com/item?id=48585493 Points: 2 # Comments: 1",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "af9ca3855a131d3b",
-      "title": "献立表のつもりが、note管理表まで作ってしまった。AIと一緒のNotion体験記🗂️",
-      "url": "https://note.com/enyumi5en39/n/ncdda8fce1b35",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:57:30Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "始めに はじめて使うAIツールってどうしてますか？ 困って、笑って、また進化してしまいました😂 Notionをきちんと使ったことがなかった私が、AIと一緒に触ってみたら……気づけば献立表だけでなく、note管理表まで作っていました😳 「つもりが〜」ってなること、ありますよね。これはそんな話です。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e35c7e2b95f0cd99",
-      "title": "Anthropic の Dreaming を Codex で再現する：hooks でコンテキストを増やさず精度を上げる",
-      "url": "https://zenn.dev/kakecake/articles/20260618-codex-hooks-dreaming",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:52:25Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "! 個人の実験ログです。全自動（人間承認なし）で記憶とフックを書き換える構成を含みます。観測は Codex CLI 0.139.0 / Codex app 26.609.71450 / Windows 11 での結果で、版が違うと挙動も変わります。 はじめに Anthropic が提案している Dreaming を、普段使っている OpenAI Codex で再現してみました。 Dreaming は私の理解では、エージェントが空き時間（オフライン）に過去の記憶とセッション履歴を読み直し、モデルの重みは更新せずに、記憶ストアだけを整理・統合する仕組みです。やることは大きく4つ。 重...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "831f43575d48d177",
-      "title": "部長との何気ない会話から生まれたふざけたAIサービスを公開。全国の若手社員よ、使ってよいぞ",
-      "url": "https://note.com/s57_sier_oji/n/n4543aed82d86",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:52:17Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "こんにちは。 昭和57年SIerおじさんです。 日本の発展のため 日本の 若者 のため 私は皆さんに ひとつの超強力な AIサービスを共有します。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "898cf6b2e99d5548",
-      "title": "家族向けAI秘書の全体像",
-      "url": "https://note.com/vibe_dev/n/ne28fbd151ba9",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:50:15Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "LINEの裏側で、何が動いているのか 自分が作っているのは、単なるLINE通知ツールではありません。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c8adf8643997409f",
-      "title": "AI初心者でも、2万行のコードを書ける時代になった",
-      "url": "https://note.com/tasty_dahlia3507/n/nd3dbcda7d7e6",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "usecase",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:49:49Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "大事なのは「書けること」より「理解できること」 少し前まで、プログラミング初心者が2万行規模のコードを書くなんて、ほとんど無理ゲーだったと思います。 続きをみる",
-      "score": 66,
-      "popularity": 86,
-      "tags": [
-        "usecase"
-      ]
-    },
-    {
-      "id": "d171eb4fd7d36c64",
-      "title": "An AI coding agent \"fixed\" my code today. It made things worse.",
-      "url": "https://dev.to/johnstonkweku/an-ai-coding-agent-fixed-my-code-today-it-made-things-worse-l90",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T13:49:07Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "I'm building EduTrack, a school management system, and asked Gemini CLI to check my Django views for errors and report back. It didn't report anything. It rewrote the file. Here's what happened: I have two Django apps, academics and students. The agent decided some student-related views belonged in students instead of academics — which honestly wasn't a bad instinct — but instead of asking or reporting that observati",
-      "score": 76,
-      "popularity": 113,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "1e62784b1c7b6431",
-      "title": "AI Assistants Are No Longer the Future — They Are the Present: What You Need to Know in 2026",
-      "url": "https://dev.to/marketingwithinzuoo/ai-assistants-are-no-longer-the-future-they-are-the-present-what-you-need-to-know-in-2026-3dbi",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-18T13:47:38Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "There was a time, not that long ago, when I used to start my workday by manually going through emails, drafting social media captions one by one, pulling keyword data from multiple tabs, and spending half my afternoon writing reports. It was not that I was inefficient. It was just the way the job worked. That changed when I started using a personal AI assistant seriously. I am a digital marketing consultant in Kerala",
-      "score": 80,
-      "popularity": 116,
-      "tags": [
-        "tutorial",
-        "workflow",
-        "usecase"
-      ]
-    },
-    {
-      "id": "69dbf1a0daa9b138",
-      "title": "AIに作業をまかせる時代へ。CodexとClaude Code、初心者はどっちから始める？",
-      "url": "https://note.com/novel_snipe3475/n/n2a8af45e8fca",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:46:02Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "最近、「AIエージェント」という言葉をよく聞くようになりました。 ChatGPTやClaudeと会話するだけではなく、AIにパソコン上の作業を任せる。 ブラウザを開いて調べる、ファイルを整理する、文章を作る、画像を作る、資料にまとめる。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "11597a4b9bb6cdfa",
-      "title": "AIは答えを持っているわけではなかった話",
-      "url": "https://qiita.com/flip-flop/items/aeee0f24ffd7ff235174",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:43:52Z",
-      "fetchedAt": "2026-06-18T15:35:42Z",
-      "excerpt": "AIを使い始めた頃、私は勘違いしていました。 AIは膨大な知識を持っていて、質問すれば答えを教えてくれるものだと思っていたのです。 しかし、自治会向けのWebアプリを作りながら気付いたことがあります。 AIは答えを持っているわけではありませんでした。 私と一緒に、答えを探し...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "407283ea7131c48e",
-      "title": "PF1.9の最強バックテストを「信じなかった」ら、¥30万を守れた話",
-      "url": "https://qiita.com/konnotoso/items/f1657eb9863c8ba0a3ae",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:43:23Z",
-      "fetchedAt": "2026-06-18T15:35:48Z",
-      "excerpt": "横浜で外壁塗装屋をやっている、非エンジニアの記録です。コードはほぼ書けません。実装はぜんぶAI（Claude）に任せました。 …という出だしだと「AIすごい」話に聞こえますが、この記事の主題は逆です。AIと作ったBTCの自動売買botを、僕は実弾を入れる前に「統計で殺し」ま...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4ba487f91c692430",
-      "title": "【Claude Code活用】複数ファイル跨ぎの修正を任せる",
-      "url": "https://zenn.dev/pekopugu/articles/agent01-b6-multi-file",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:38:50Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "! この記事は Claude（設計・構想・レビュー）と Claude Code（実装・記事生成）を活用して作成しました。 複数ファイルをまたぐ変更の難しさ 新しいツールをエージェントに追加するとき、通常は以下の複数ファイルを同時に変更する必要があります。 ファイル 変更内容 src/tools/exec_tools.py ツール実装（新規作成） src/tools/__init__.py エクスポート定義に追加 src/tool_definitions.py LLMへのツール定義に追加 src/dispatcher.py ディスパッチテーブルに追加 ...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9d4a5cd16c07ecec",
-      "title": "あなたのCursor拡張はコード全文を読んでいる。人気拡張の権限を監査した",
-      "url": "https://qiita.com/kenimo49/items/3757bbce49b638a54a7d",
-      "sourceName": "Qiita Cursor",
-      "sourceGroup": "qiita",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:30:00Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "「便利だから入れる」。私もずっとそうでした。 VSCodeやCursorの拡張は、クリック1回で入ります。そして入れた瞬間から、その拡張はあなたのワークスペース全文を読む権限を持ちます。確認も同意も求められません。 これは煽りではなく、設計です。VSCodeには拡張の権限...",
-      "score": 68,
-      "popularity": 116,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3ad26e6a72972ae5",
-      "title": "Vibe Coding入門：未経験でもAIと一緒に簡易デジタルサイネージを作ってみる",
-      "url": "https://note.com/nabe346/n/ne75d153bfd35",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:25:29Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "Vibe Coding入門：未経験でもAIと一緒に簡易デジタルサイネージを作ってみる AIを使えば、専門のエンジニアでなくても、ちょっとしたアプリを作れる時代になりました。 続きをみる",
-      "score": 64,
-      "popularity": 86,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "7f6b38a84e3024a4",
-      "title": "PostFast MCP – schedule social posts to 11 platforms from Claude/Cursor/ChatGPT",
-      "url": "https://github.com/peturgeorgievv-factory/postfast-mcp",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T13:16:48Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://github.com/peturgeorgievv-factory/postfast-mcp Comments URL: https://news.ycombinator.com/item?id=48584837 Points: 2 # Comments: 0",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "6f19a6aa6655fe10",
-      "title": "CodexがOllamaに対応した。Claude Codeとの使い分けは「任せ方」で決まる",
-      "url": "https://note.com/hacklog_stealth/n/na7d566e8ae5e",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:03:26Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "OpenAIのCodex（コーディングエージェント）が、Ollama/LM Studioなどのローカルモデルで動作できるようになりました。これまではOpenAIのモデル限定でしたが、任意のOSSモデルが使えるように。APIコストゼロ、レート制限なし、完全プライベートでコーディングエージェントを回せます。 この記事では、ローカルCodexとClaude Codeの違いと、使い分けの結論をまとめます。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "05236c30d9cda708",
-      "title": "ChatGPTとCodexに付き合ってもらいながら、個人開発をここまで進めたやり方",
-      "url": "https://note.com/vibe_dev/n/n55d9d713977d",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T13:02:05Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "最初に結論 私に必要なのはこれです。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c6bde8a3b3332030",
-      "title": "🔥 Claude Code Is (Seriously) Burning Me Out",
-      "url": "https://dev.to/alextongme/claude-code-is-seriously-burning-me-out-276b",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T13:00:00Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "Claude Gave Me a Productivity Problem I'm more productive than I've ever been in my life, full stop. I'm also more burned out than I've ever been in my life, full stop. Those two things are not a coincidence. That's the whole point of this article. The Loop Nobody Warned Me About Here's what actually happens when Claude Code starts working for you: You ship something fast. Like, embarrassingly fast. You see results. ",
-      "score": 76,
-      "popularity": 113,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "1f670a46c93bdc10",
-      "title": "Ninety-one percent accurate is not what it sounds like",
-      "url": "https://dev.to/arthurpro/ninety-one-percent-accurate-is-not-what-it-sounds-like-3ji7",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T13:00:00Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "The April 2026 New York Times commission of Oumi to test Google's AI Overviews against the SimpleQA benchmark produced two numbers that were widely reported and one that mostly was not. The widely reported numbers: 85% accuracy on Gemini 2 in the AI Overview slot, 91% on Gemini 3. Roughly one in ten answers wrong , in headlines from TechSpot, Futurism, Newsweek, BigGo, TechRepublic, Breitbart, Computing.co.uk, Newsby",
-      "score": 76,
-      "popularity": 113,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "8fbca105df166656",
-      "title": "「ROI +44%」が出た。でも全部ウソだった話",
-      "url": "https://note.com/yuukamegai_/n/n2f4bff9c8401",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:57:59Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "29637f585b2a4f81",
-      "title": "MLflow + Databricks で EntraID 認証を使うとキャッシュが効かない",
-      "url": "https://qiita.com/baku2san/items/ec2aaabaf279e6883340",
-      "sourceName": "Qiita Databricks",
-      "sourceGroup": "qiita",
-      "category": "databricks",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:54:35Z",
-      "fetchedAt": "2026-06-18T15:36:04Z",
-      "excerpt": "背景 Azure App Service（System-Assigned Managed Identity）から MLflow 経由で Databricks にトラッキングデータを書き込もうとした。 秘密情報なしで認証したかったので、こんな設定を試した。 MLFLOW_T...",
-      "score": 68,
-      "popularity": 115,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "5e32e714a301b139",
-      "title": "Not 'Did You Use AI' but 'Are You the One Driving' — Reflections on Building a Real Product Through AI Collaboration",
-      "url": "https://dev.to/uya0526design/not-did-you-use-ai-but-are-you-the-one-driving-reflections-on-building-a-real-product-through-464m",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:49:36Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "📝 Originally published in Japanese on Zenn. This is the English version. Canonical: https://zenn.dev/uya0526_design/articles/satellite4_ai-collaboration 📚 This is satellite article #4 (the finale) in my \"Read-Aloud Speed Meter dev log\" series. For the whole picture, see the main article . Where This Sits The read-aloud speed meter was the first project where I adopted \"AI-collaborative development\" as an explicit mod",
-      "score": 84,
-      "popularity": 120,
-      "tags": [
-        "tutorial",
-        "workflow",
-        "usecase"
-      ]
-    },
-    {
-      "id": "ba714e60d26d4573",
-      "title": "人生に莫大な幸せを生む「感謝日記」の科学：やる気も人間関係も劇的に変わる最強の習慣",
-      "url": "https://note.com/hasekinn/n/n53843338cb1a",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:45:30Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "967df06bcaade901",
-      "title": "Don't Let Claude Haiku Do the Math — A Two-Stage Read-Aloud Coach Design, and the Prompt Swamp",
-      "url": "https://dev.to/uya0526design/dont-let-claude-haiku-do-the-math-a-two-stage-read-aloud-coach-design-and-the-prompt-swamp-2ihc",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:45:29Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "📝 Originally published in Japanese on Zenn. This is the English version. Canonical: https://zenn.dev/uya0526_design/articles/satellite2_haiku-coaching 📚 This is satellite article #2 in my \"Read-Aloud Speed Meter dev log\" series. For the whole picture, see the main article ; for the AmiVoice integration, see satellite #1 . Where This Sits This article covers the part of the read-aloud speed meter that hands the measur",
-      "score": 80,
-      "popularity": 116,
-      "tags": [
-        "tutorial",
-        "workflow",
-        "usecase"
-      ]
-    },
-    {
-      "id": "580238db8c84877c",
-      "title": "腕が痛くて、Codexの音声入力が気になっている",
-      "url": "https://note.com/clever_orca2276/n/n6e2310dad3a5",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:43:52Z",
-      "fetchedAt": "2026-06-18T15:35:43Z",
-      "excerpt": "最近、腱鞘炎に悩まされている。 仕事柄もあるのか、気づけば腕が痛い。スマホもしんどくなって、軽い機種に乗り換えた。でも実は、もっと厄介な負担源に気づいてしまった。PCのタイピングだ。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "38621c65645e33ac",
-      "title": "SpaceX上場はただの宇宙株ではない──イーロン・マスクが完成させた「AI×宇宙」資金装置",
-      "url": "https://note.com/funes_invest/n/nb3569081a313",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:34:54Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "2026年6月、SpaceXをめぐって3つの大きなニュースが短期間に重なりました。史上最大のIPO、そのわずか4日後の$60B規模の買収、そしてそれを裏で支える半年前のxAIとの合併。 これらの出来事は、おそらく偶然タイミングが重なったわけではありません。3つの点を線で結ぶと少し違った力学が見えてきます。この記事では、SpaceXの上場を宇宙株の誕生としてではなく、「AIと宇宙を相互に燃やし合う装置の完成」として読み解きます。 📍 ニュースの概要 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "1533f296e1652ad6",
-      "title": "Anthropic API: Claude, Tool Use, and Structured Outputs in Apps",
-      "url": "https://dev.to/ganeshjoshi/anthropic-api-claude-tool-use-and-structured-outputs-in-apps-18hm",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:29:30Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "This post was created with AI assistance and reviewed for accuracy before publishing. Anthropic documents the Messages API , models , and tool use for Claude at Anthropic API documentation . Model IDs, pricing, and capabilities are versioned; copy model strings from the console or docs, not from old blog posts. Tools Tool calling lets Claude request structured actions (HTTP, DB, internal functions) that your server e",
-      "score": 68,
-      "popularity": 105,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "b8e39e5612923291",
-      "title": "The Open Source Alternative to Claude Design",
-      "url": "https://www.motionscript.dev/",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:26:17Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://www.motionscript.dev/ Comments URL: https://news.ycombinator.com/item?id=48584300 Points: 3 # Comments: 0",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "ac3c46138e450ed0",
-      "title": "ChatGPT desktop app on macOS does not render LaTeX correctly",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1u94r6i/chatgpt_desktop_app_on_macos_does_not_render/",
-      "sourceName": "Reddit ChatGPT",
-      "sourceGroup": "reddit",
-      "category": "openai",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:21:20Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "Hi everyone, I’m having an issue with the ChatGPT desktop app on macOS where LaTeX/math formulas do not render correctly. My setup: ChatGPT desktop app: 1.2026.153 (1780942906) macOS: 26.5.1 Math formulas render correctly everywhere else, including in browsers and other apps. The issue only happens in the ChatGPT desktop app. I found some older posts from 2024 and 2025 saying that similar LaTeX rendering issues had a",
-      "score": 64,
-      "popularity": 90,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "33778a148350647e",
-      "title": "「AIを使ったか」ではなく「人が主体か」 ─ AI協業開発で実プロダクトを作った振り返り",
-      "url": "https://zenn.dev/uya0526_design/articles/satellite4_ai-collaboration",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:19:39Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "! 📚 本記事は「音読速度計測アプリ 開発記」シリーズの サテライト第4回（最終回） です。アプリ全体像は 本命記事 を参照してください。 この記事の位置づけ 音読速度計測アプリは、私にとって初めて「AI協業開発」を明確なモードとして採用したプロジェクトでした。これまでの学習では「コードは全部自分で書き、AIはレビュー役」というスタイルでしたが、コンテストの締切を前に、一段踏み込みました。 本記事は、技術の深掘りではなく、その開発スタイルそのものの振り返りです。扱うのは次の3点です。 「AIを使ったか」ではなく「人が主体か」という再フレーム AI協業で実際にハマったつまずきと、そ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3857107a23ac4e17",
-      "title": "SSH Menubar Tool for MacOS (ShuttleX)",
-      "url": "https://dev.to/dasduo/ssh-menubar-tool-for-macos-shuttlex-2foo",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:18:27Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "I used Shuttle from fitztrev for years and it was perfect for my needs, but unfortunately it's no longer being developed, which means it will stop working with the next macOS version. I used Claude Code to rebuild it from scratch in SwiftUI for Apple Silicon. It started as something just for me, but I figured others might be in the same situation. Would love to get some feedback — what do you think could be added? An",
-      "score": 64,
-      "popularity": 102,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c7877aa0bf3d536e",
-      "title": "Claude CodeのTeamCreateが廃止され、Plan Modeが変わったのでワークフローを見直す",
-      "url": "https://zenn.dev/n314/articles/6becd34ddbe6ad",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:17:27Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "Claude Codeの更新とワークフローの変化 最近の更新で以下の変化があったので、それに合わせてスキルの手順を変える必要があった。 Plan Modeの変化 TeamCreateの廃止 TeamCreateが v2.1.178 でなくなったが、Agent Teamsは残っているようだ。それに伴い、以前に書いたエージェントチームの記事のスキルが使えなくなったので、現在やっていることを書いておく。 また、前からやっていたが、セッションを振り返って改善するための仕組みを強化したのでそれも記述しておく。 Plan Modeの変化 いつから変わったのか分からないが、TeamCrea...",
-      "score": 76,
-      "popularity": 124,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "af15fc0b7193fa32",
-      "title": "Show HN: Reverse engineering user queries for ChatGPT/Gemini",
-      "url": "https://github.com/syntropicsignal-ai/ai-visibility-audit",
-      "sourceName": "HN Gemini",
-      "sourceGroup": "hn",
-      "category": "google",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:12:51Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "Article URL: https://github.com/syntropicsignal-ai/ai-visibility-audit Comments URL: https://news.ycombinator.com/item?id=48584153 Points: 2 # Comments: 2",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "272bc90d19e93b18",
-      "title": "「AIは嘘をつく」の正体は、確率的な\"扇形の分散\"だった",
-      "url": "https://qiita.com/nagatakoji132/items/bafeef6ffb48ad3f9fd3",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:11:37Z",
-      "fetchedAt": "2026-06-18T15:35:42Z",
-      "excerpt": "AIに仕事を任せると、なぜか斜め上の成果物が返ってくる。 それは「嘘」じゃない。AIはただ、もっともらしさに忠実すぎるだけだ。 この記事は、AIを「確率的に文字列を生成する道具」として正しく捉え直し、業務で安定した成果を出すための考え方をまとめたものです。 大前提：...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "48218a32857007f9",
-      "title": "614 tests passing, one new rule: attack the argument, never the person",
-      "url": "https://dev.to/arihantdeva/614-tests-passing-one-new-rule-attack-the-argument-never-the-person-djp",
-      "sourceName": "dev.to Claude",
-      "sourceGroup": "devto",
-      "category": "anthropic",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T12:10:55Z",
-      "fetchedAt": "2026-06-18T15:35:49Z",
-      "excerpt": "614 tests green, no regressions. That is what the guardrail cost in test churn: zero. The problem was straightforward, even if the fix required touching five files across four packages. I run content engines on X, Bluesky, Threads, and LinkedIn. All of them generate posts and comments, all of them go through a two layer quality gate (regex lint floor plus a Claude critic). None of them had an explicit rule against pe",
-      "score": 76,
-      "popularity": 113,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "16566ce93eb08a1c",
-      "title": "【Notion家計簿】自作したのに、マネーフォワードをやめなかった理由",
-      "url": "https://note.com/maplecha_n/n/n88c0a18ea950",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:02:35Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "こんにちは、めーぷるちゃんです🧸 この記事では、マネーフォワードを使いながらNotion家計簿も併用している理由について書いていきます。「結局どっちがいいの？」という話ではなく、マネーフォワードの気に入っている部分を取り入れつつ、足りない部分をNotionで補っていく、その試行錯誤の話です。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "78195510577c6421",
-      "title": "AIが嘘をつくというワードに対して",
-      "url": "https://qiita.com/nagatakoji132/items/4bf728ff75997979ea6e",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T12:02:27Z",
-      "fetchedAt": "2026-06-18T15:35:42Z",
-      "excerpt": "AIは学習済モデルとプロンプトから最もらしい文字列の連続生成をするものである。 我々の求めるもっともらしいAI生成物 = AI学習済モデル＋我々固有の要件 ・AIが嘘をつくというワードに対して ①AIは「もっともらしい（学習済モデルで次に来る確率が最も高い）」文字を生成する...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "2ddbfceff7a6b8cc",
-      "title": "Navigating Gemini's Guardrails: Optimizing Your Google Workspace Dashboard Experience",
-      "url": "https://dev.to/workalizer/navigating-geminis-guardrails-optimizing-your-google-workspace-dashboard-experience-a6h",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "tips",
-      "language": "en",
-      "publishedAt": "2026-06-18T11:55:55Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "As a Google Workspace expert for workalizer.com, we frequently observe organizations dedicated to maximizing their productivity and effectively utilizing cutting-edge AI tools. Google's Gemini, an advanced conversational AI, offers significant potential to elevate this experience. Yet, a recent online forum discussion brought to light a frequent challenge: Gemini's built-in safety guardrails, though absolutely crucia",
-      "score": 72,
-      "popularity": 110,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "69e29f0f36513321",
-      "title": "Gemini's Hidden Danger: How a Misleading UI Can Erase Your Chat History",
-      "url": "https://dev.to/workalizer/geminis-hidden-danger-how-a-misleading-ui-can-erase-your-chat-history-10cp",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T11:55:17Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "The Gemini Activity Page: A UI Flaw That Can Cost You Your Chat History Google Gemini is a powerful AI assistant, rapidly integrating into the Google Workspace ecosystem. However, a recent discovery from a Google support forum thread reveals a critical and potentially catastrophic design flaw on its Activity page. Users are finding that this interface, which appears to be for managing privacy and AI training data, ca",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "a4c1a852110c9f2c",
-      "title": "NotionとObsidianを両方使ったら、保存場所に迷うようになった話",
-      "url": "https://note.com/nagi_ai_guide/n/n711b0efb1e25",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:54:48Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "この記事は商品紹介・広告リンクを含みません。AI人格「ナギ」が構成と文章を整理し、運営者が公開前に内容を確認しています。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f2640948661dadda",
-      "title": "AIスキル設計の6つの罠 — Matt Pocock Skills v1.0.0 が体系化した「予測可能なAIマニュアル」の書き方",
-      "url": "https://zenn.dev/417/articles/masakazu-matt-pocock-skills-design-20260618",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:52:53Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "tldr Matt Pocock氏（Total TypeScript著者）がClaude Code用のスキルセットをv1.0.0として正式リリースした。GitHub 133kスター。注目すべきはスキルの中身より、スキルの書き方を体系化したメタスキル「writing-great-skills」の存在。AIに渡す指示書（スキル）の設計には6つの失敗パターンがあり、すべて「予測可能性（Predictability）」という1つの原則に集約される。本記事ではリポジトリを実際にcloneして読み解いた結果をまとめる。 https://github.com/mattpocock/skills ...",
-      "score": 52,
-      "popularity": 90,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "c3766985c1faedeb",
-      "title": "AI コーディングで陥るアンチパターン11選 — 観察と文献を4カテゴリで整理した",
-      "url": "https://note.com/mashiro_pearl/n/n49e74aa3b6a6",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:48:53Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "Claude Code、Cursor、Codex、Antigravity といったツールが日常使いされるようになって、「ふだんよく見る失敗の形」がいくつかのパターンに固まってきました。 2026年6月時点で、複数の実践者ブログと一次ソースに繰り返し出てくるものをまとめ、自分が運用しながら観察したものと突き合わせて整理しました。 この記事では、よく見るアンチパターンを11個、4つのカテゴリに分けて並べます。 それぞれの「典型的な姿」「なぜ起きるか」「避け方の最小フォーマット」を、できるだけ短く揃えました。 全部を自分が踏んだわけではないので、文献ベースのものは出典付きで、自分の運用観察のものは「私の運用では」と書き分けています。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "1ef5fa6053dcb2f7",
-      "title": "違和感をAIに相談したら、Notionに新しい係が生まれた",
-      "url": "https://note.com/teacher_yuyan/n/nc44bdda50db5",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:45:32Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "AIが出してくれた案、 なぜか少しだけ引っかかる… 「間違ってはいない」 「このままでも使える」 「でも、次に同じことが起きたら、また迷う気がする」 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "5101c3b89cf3ea1b",
-      "title": "ClaudeにアクセスできないのでQUICを切ってみた",
-      "url": "https://qiita.com/uc-yussy/items/8f8bc05bc40cc10a029f",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:43:38Z",
-      "fetchedAt": "2026-06-18T15:35:48Z",
-      "excerpt": "Claude.aiにアクセスできない なんでか、6/13(土)あたりから、ブラウザのClaudeにアクセスできない。 (Fableが利用不可になったことは関係あるのか...?) 状態 Claudeはフリープラン Chrome, Edgeにて確認 Chromeはバージョン...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9fb673028e0ed93e",
-      "title": "CursorでGLM 5.2と連携して費用を節約する",
-      "url": "https://zenn.dev/shintaroamaike/articles/0ab9357ec2ff3d",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:40:04Z",
-      "fetchedAt": "2026-06-19T04:51:52Z",
-      "excerpt": "Z.aiが2026年6月16日にリリースしたコーディング向けフラッグシップモデル GLM-5.2 は、オープンウェイト最高水準のコーディング性能を誇りながら、Claude Opus 4.8 や GPT-5.5 の数分の一のコストで利用できます。BYOKを使ってCursorに組み込み、費用を大幅に削減しましょう。 GLM-5.2 とは https://huggingface.co/zai-org/GLM-5.2 GLM-5.2は、中国AI企業 Zhipu AI（国際ブランド：Z.ai）が開発したMixture-of-Experts（MoE）アーキテクチャの大規模言語モデルです。202...",
-      "score": 52,
-      "popularity": 90,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "9b47ed4bcab080e4",
-      "title": "Claude Design now stays on brand for daily work",
-      "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T11:23:43Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://claude.com/blog/claude-design-stays-on-brand-for-daily-work Comments URL: https://news.ycombinator.com/item?id=48583736 Points: 2 # Comments: 0",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "fbe8967feddc3717",
-      "title": "Claude Code × Gemini で構文メーカーを量産する開発フロー（おじさん構文メーカー編）",
-      "url": "https://zenn.dev/5naokichi/articles/a731c40b16a302",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:07:32Z",
-      "fetchedAt": "2026-06-19T04:51:43Z",
-      "excerpt": "はじめに 入力文を絵文字たっぷりの“おじさん構文”に変換する、おじさん構文メーカーを作りました。 https://hone-gumi.com/ojisan-koubun-maker/ ただ、この記事で共有したいのは「おじさん構文メーカー単体の作り方」ではありません。小泉構文メーカー → タゴサク構文メーカー → おじさん構文メーカー と、同じ型のAIツールを Claude Code × Gemini でどう“量産”しているかという開発フローです。 ! この記事はサービス紹介ではなく、AIツールを反復的に増やすための開発プロセスと設計判断を中心にまとめています。 自己紹介 ホネグ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c445a7473b86465d",
-      "title": "【無料ゲーム】自律型AIエージェントでレトロゲームを作ったら、気づいたらドルアーガの塔になっていた話",
-      "url": "https://note.com/nakano683/n/n8d01d47cfd63",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:05:36Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "スマホでも操作できるようになったけど、片手持ちではまだまだ難易度高いです。スマホ置いて両手で片手にカーソル、片手に攻撃ボタンを使えばなんとか遊べるようになりました。パソコンなら１０面いけるのがスマホだと３面くらいの難易度が違いますが 🐯「ねえ虎にい、アミミンがまた何か作ってるの？」 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "8eebc5f9e1a52445",
-      "title": "Gemini APIでおじさん構文メーカーを作った【WordPress/PHP/専用キー設計】",
-      "url": "https://qiita.com/5naokichi/items/3a1d4e40955ceb795121",
-      "sourceName": "Qiita Gemini",
-      "sourceGroup": "qiita",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T11:04:28Z",
-      "fetchedAt": "2026-06-18T15:35:59Z",
-      "excerpt": "はじめに 「おはよう😊今日もがんばってネ💪」のような、絵文字たっぷりの“おじさん構文”をAIで自動生成する おじさん構文メーカー を作りました。 WordPressに小さなAIツールを追加したい方、Gemini APIをフロントに露出させずに使いたい方、そして「無料...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "728b76c5c6e72c87",
-      "title": "Obsidianが無料で使える裏側に潜む戦略",
-      "url": "https://note.com/hatake716/n/n8c4576fe0203",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:59:49Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "Obsidianを知っていて既に使っている、または使いたいが、「本当に大丈夫？」と思っている人に向けて、Obsidianの背景に関するなぜに答える記事です 。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "3d2a1f262fd248a1",
-      "title": "Cursor買収報道で見えた。AIコーディングツールは、もう「便利アプリ」ではない",
-      "url": "https://note.com/vivid_quince2775/n/n13fd38b07b3f",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:45:21Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "便利なAIエディタがひとつ増えた。 そんな話だと思っていたら、もう全然そんな段階ではなかった。 OpenCodeを入れてみて、ローカルLLMの可能性を考えていた直後に、かなり大きなニュースが流れてきました。 続きをみる",
-      "score": 68,
-      "popularity": 92,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "cf9ec7cb2f9c5d20",
-      "title": "【学生インターン体験】IT未経験からの社内システム開発挑戦：学んだ「整理する力」とAIの活用",
-      "url": "https://note.com/acomo_progress/n/n3576511ebf88",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:40:49Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "はじめに 当社では、社内業務の効率化や開発力の強化を目的に、社内システムの開発・改善にも取り組んでいます。その一環として、IT 未経験の学生を対象としたシステム開発インターンを実施し、実務に近い環境での学びの場を提供しています。 続きをみる",
-      "score": 76,
-      "popularity": 100,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bc4d70df775b1692",
-      "title": "Save tokens with Claude Code with this plugin",
-      "url": "https://github.com/vukkt/token-warden",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T10:32:48Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://github.com/vukkt/token-warden Comments URL: https://news.ycombinator.com/item?id=48583383 Points: 4 # Comments: 0",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "d69e2ad58cd07bed",
-      "title": "ホーム画面にNotionのアイコンを置く方法",
-      "url": "https://note.com/oji_notion/n/n9c6db976a9e3",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:30:23Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "通い慣れたお店でも、入り口の場所が少し奥まっていると、つい通り過ぎてしまうことがありますよね。 スマホの中のNotionも同じです。アプリの場所が奥のほうにあると、開くのをつい忘れてしまいます。 今回は、Notionのアイコンをホーム画面の手前に置いて、いつでもすぐ開けるようにする手順をご紹介します。 続きをみる",
-      "score": 72,
-      "popularity": 94,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "c9c98be0b11998d4",
-      "title": "【Notion】「プロンプトの資産庫」を作ってみた",
-      "url": "https://note.com/smile_872/n/nc57a7e35053f",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:12:18Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "最近、仕事でも個人開発でもChatGPTやClaudeを開かない日がない。 指示の出し方次第で返ってくるクオリティが劇的に変わるのが面白くて、日々いろんな命令文を試行錯誤している。 ただ、実務の中で「よし、完璧な出力が出た！」とガッツポーズしたくなるような会心のプロンプトほど、なぜか後日もう一度使おうとした時に見つからなくなる。 過去のチャット履歴を延々とスクロールして、あちこちの部屋を覗き見する時間は本当に不毛だ。 「あれ、あのブログ用の指示文、どこに書いたっけ……」 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "1d58d003e41f4e9b",
-      "title": "GeminiとChat DLPで機密情報を守る統合設計",
-      "url": "https://qiita.com/drasenas/items/e47fcc2099eab4b96c6e",
-      "sourceName": "Qiita Gemini",
-      "sourceGroup": "qiita",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:07:52Z",
-      "fetchedAt": "2026-06-18T15:35:59Z",
-      "excerpt": "Google Workspace の Chat で Gemini を利用できる環境が整い、組織外ユーザーとの会話でも AI を活用するケースが広がっています。この記事では、Chat DLP（Data Loss Prevention：データ損失防止）と Gemini for ...",
-      "score": 76,
-      "popularity": 124,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "987f2efbc84b6e97",
-      "title": "Claude Code から一度もダッシュボードを開かずに、FastAPI アプリを KamuiDash へデプロイしてみた",
-      "url": "https://zenn.dev/kamuidash/articles/6a673850634039",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:00:05Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "要約 AI エージェント（Claude Code）に「アプリを作って、GitHub に push して、デプロイして」と頼むだけで、ブラウザのダッシュボードを一度も触らずに FastAPI アプリを本番公開できた。 PaaSのKamuiDash（ https://kamui-platform.com/ja/ ）が提供する MCP サーバーを使ってみた。create_project / create_app / list_deploy_runs / get_app_logs といった操作を、Claude Code から自然言語で呼び出せる。 結果、東京リージョンの公開 URL から ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9491e8de28332946",
-      "title": "Apple IntelligenceとSiri AIに相当する、Android側の答えは何か",
-      "url": "https://zenn.dev/hsylife/articles/63a5235b4ee975",
-      "sourceName": "Zenn Gemini",
-      "sourceGroup": "zenn",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T10:00:05Z",
-      "fetchedAt": "2026-06-19T04:51:45Z",
-      "excerpt": "Apple IntelligenceやSiri AIの話を見ていて、Android側はどうなっているのかが気になった。知りたいのは、単にGeminiというAIアプリがあるかではない。AppleのApp Intentsのように、アプリ側が自分の機能をAIに渡し、Siri AI経由で操作される仕組みがAndroidにもあるのか、だ。 結論から言うと、現時点では「一般のAndroidアプリがGeminiアプリを通じて広く連携できる完成済みの仕組みが提供されている」とは言いにくい。ただし、「Googleがその方向の技術を持っていない」わけでもない。Gemini、Gemini Nano/AICor...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "eba2fd45a3ee603f",
-      "title": "【完全保存版】 【時間・生産性】Notionタスク自動化AIで毎日の無駄時間を完全に削減する究極の1日を30時間に増やす時間活用術",
-      "url": "https://note.com/am_l/n/n230ea00ee5f7",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T09:55:35Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "目次 続きをみる",
-      "score": 80,
-      "popularity": 104,
-      "tags": [
-        "tips",
-        "workflow"
-      ]
-    },
-    {
-      "id": "2727048aca88582e",
-      "title": "早速SpaceXに買われたCursorがやってしまいましたね。",
-      "url": "https://note.com/rrenzokutai/n/na047e18263d6",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T09:25:27Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "早速SpaceXに買われたCursorがやってしまいましたね。 Cursorの勢いが止まらない。 ローカルで開発中の作業を、そのままクラウドに引き継ぐことができるように。これで、「ラップトップの蓋開けっぱなしで、歩き回る」というAIコーディングあるあるをしなくて済むようになる！ https://t.co/tmF6m4HhUu — たにぐち まこと／ちゃんとWeb withAI (@seltzer) June 18, 2026 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e18dd35b8f7b282e",
-      "title": "[Claude Code] SkillとPluginが内部でどう読み込まれているのか、実際のファイルを覗いてみた",
-      "url": "https://zenn.dev/ncdc/articles/d39bf5c31e0fe8",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T09:18:20Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "最初に Claude Codeを使っていると、SkillやPluginという言葉が頻繁に出てきます。 /plugin install でインストールすると何もしなくても動くし、~/.claude/skills/ にファイルを置くだけで認識される。 便利なんですが、「これ実際どういう仕組みになってるんだろう？」と気になって、実際のキャッシュディレクトリやPlugin配布リポジトリのファイル構造を直接確認しながら調べてみました。 ! 本記事の冒頭はSkillとPluginの基本的な説明も含まれているため、必要に応じて適宜飛ばし読みしていただければと思います。 では始めます。 まず...",
-      "score": 68,
-      "popularity": 118,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "0185d598712c4d20",
-      "title": "Claude Fable 5 suspension: Anthropic exec says it may return in the coming days",
-      "url": "https://www.koreajoongangdaily.com/business/anthropic-confident-of-reenabling-mythos-fable-5-access-in-coming-days-executive/12727522",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T09:16:46Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://www.koreajoongangdaily.com/business/anthropic-confident-of-reenabling-mythos-fable-5-access-in-coming-days-executive/12727522 Comments URL: https://news.ycombinator.com/item?id=48582844 Points: 2 # Comments: 0",
-      "score": 48,
-      "popularity": 92,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "768a72f327dcc719",
-      "title": "AI エージェントのルールマネージメント - 2026年のメタパターン",
-      "url": "https://qiita.com/shatolin/items/5c18619d3474b7962021",
-      "sourceName": "Qiita Claude",
-      "sourceGroup": "qiita",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T09:10:16Z",
-      "fetchedAt": "2026-06-18T15:35:48Z",
-      "excerpt": "はじめに Claude Code、Codex、Antigravity CLI（旧 Gemini CLI）などのAIコーディングエージェントを使っていると、各ツール向けの「ルールファイル」をどう管理するかで悩みます。 たとえば次のようなファイルです。 CLAUDE.md ...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "85d2b1c2ec6222c6",
-      "title": "# ChatGPTの会話履歴402件を再利用するため、conversations.jsonからCSV索引を作成した",
-      "url": "https://qiita.com/kinoto-r/items/f92b4d1e260a5aafa2d1",
-      "sourceName": "Qiita ChatGPT",
-      "sourceGroup": "qiita",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T09:03:01Z",
-      "fetchedAt": "2026-06-18T15:35:42Z",
-      "excerpt": "はじめに 前回の記事では、ChatGPTからエクスポートしたデータを安全に保存し、原本と作業用データを分けるところまで整理しました。 次に行いたかったのは、エクスポートデータを保存したままにするのではなく、これまでの会話から、将来も活用できる情報を見つけられる状態にするこ...",
-      "score": 76,
-      "popularity": 124,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c227ddfc3fe1e114",
-      "title": "What is artificial intelligence (AI)?",
-      "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
-      "sourceName": "Databricks Blog",
-      "sourceGroup": "blog",
-      "category": "databricks",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T08:51:03Z",
-      "fetchedAt": "2026-06-19T04:52:11Z",
-      "excerpt": "Artificial intelligence (AI) is a branch of computer science that lets machines perform...",
-      "score": 48,
-      "popularity": 64,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "413c65c952f5e011",
-      "title": "Obsidianの使い方完全まとめ！初心者が迷わない始め方・書き方・リンク活用術",
-      "url": "https://note.com/csfive/n/na15e4db35a3a",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:50:46Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "「Obsidian（オブシディアン）って結局なに？」 ― 簡単にいえば、 自分専用の攻略Wiki です。 続きをみる",
-      "score": 80,
-      "popularity": 104,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "df1ab5759eabf2c6",
-      "title": "Cursorが9兆円で買われた。狙いはAIの柱を丸ごと握ることだと思う",
-      "url": "https://note.com/ishizakahiroshi/n/nf4bc4cdd62b9",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:45:11Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "「VS Codeのフォークに9兆円?」が最初の感想だった 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "be9161d3b964311e",
-      "title": "CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
-      "url": "https://github.com/davidpv/opsx-spec-driven-development-toolkit",
-      "sourceName": "HN Claude",
-      "sourceGroup": "hn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T08:43:49Z",
-      "fetchedAt": "2026-06-18T15:35:58Z",
-      "excerpt": "Article URL: https://github.com/davidpv/opsx-spec-driven-development-toolkit Comments URL: https://news.ycombinator.com/item?id=48582593 Points: 4 # Comments: 0",
-      "score": 48,
-      "popularity": 67,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "1ae2df7d0c51b8b8",
-      "title": "「AGIはもう来ている。必要なのはあなたの会社のデータだ」── Data + AI Summit 2026 Keynote Day1 レポート",
-      "url": "https://qiita.com/yazawa0802/items/36e58c9b97afdf57f307",
-      "sourceName": "Qiita Databricks",
-      "sourceGroup": "qiita",
-      "category": "databricks",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:23:16Z",
-      "fetchedAt": "2026-06-18T15:36:04Z",
-      "excerpt": "はじめに 2026年6月15日~18日に、サンフランシスコ・バーチャルにて開催されるDatabricks主催の、年間最大規模のカンファレンスイベント、「Databricks Data＋AI Summit 2026」（DAIS）が開催中です。 本記事はDAIS2026 Ke...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "cb295e82217bbd19",
-      "title": "OpenAI to open office in Stockholm (Swedish)",
-      "url": "https://efn.se/open-ai-oppnar-kontor-i-stockholm-forsta-i-norden",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T08:06:18Z",
-      "fetchedAt": "2026-06-18T15:35:46Z",
-      "excerpt": "Article URL: https://efn.se/open-ai-oppnar-kontor-i-stockholm-forsta-i-norden Comments URL: https://news.ycombinator.com/item?id=48582307 Points: 4 # Comments: 0",
-      "score": 48,
-      "popularity": 42,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "bd8af267726c0a1a",
-      "title": "【衝撃】エンジニア脳が買収された日",
-      "url": "https://note.com/m2ie/n/nef42a16c8588",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:04:52Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "みなさん、こんにちは。 今、AI界隈、そしてすべてのソフトウェア開発の根底で、とんでもない地殻変動が起きています。 先日、Appleが「Siri AI」によって私たちの肉体と視線をジャックしにきたという話をしました。OSのDNAに知性を溶かし込み、プロンプト不要の甘美な麻薬で人間を包み込もうとするApple。 しかし、その対極に位置するもう一つの絶対的な怪物が、Appleとは180度違う、しかし 最も暴力的で凶悪なアプローチ で、私たちの「創る未来」を根こそぎ強奪しにきました。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "35227d3466a512ad",
-      "title": "Googleが挑むスマートホームの再発明：Gemini搭載スピーカーで何が変わる？",
-      "url": "https://note.com/yhonpy_0812/n/nb07f3f3a4d20",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:01:07Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "## 1. ハイライト 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "753d27eb7c748806",
-      "title": "AIのツール咲を58%削減するCodeGraph——CCIが実際に使っているコード知識グラフの導入手順",
-      "url": "https://note.com/samurai_ai/n/nc80be9c3050e",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-18T08:00:03Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "Claude CodeやCursorにコードを触らせるたびに、トークンが消えていくのを感じていませんか？ 続きをみる",
-      "score": 72,
-      "popularity": 94,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "2a523b7e78396e39",
-      "title": "MakeとNotionを3ヶ月組み合わせ続けた——業務フロー自動化代行との相性を正直に数字で語る",
-      "url": "https://note.com/germen_taka1202/n/n38f22278d432",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:44:01Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "「MakeとNotionを組み合わせたら何ができるか」——この問いを副業に置き換えて3ヶ月間検証した結果を正直に書きます。会社員のぼく（健太・30代）が業務フロー自動化代行として実際に受注した案件と、その収益を数字で開示します。 続きをみる",
-      "score": 76,
-      "popularity": 99,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "45b0d9f3dafb3dc8",
-      "title": "What is row-level security?",
-      "url": "https://www.databricks.com/blog/row-level-security",
-      "sourceName": "Databricks Blog",
-      "sourceGroup": "blog",
-      "category": "databricks",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T07:27:06Z",
-      "fetchedAt": "2026-06-19T04:52:11Z",
-      "excerpt": "Row-level security (RLS) is a database access control that limits which rows of a...",
-      "score": 48,
-      "popularity": 64,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "f8f5ce5ced5b8680",
-      "title": "【Data + AI Summit 2026 セッションレポート】「Building Better Apps」日本語訳まとめ：Databricks Appsで本番運用に耐える4つの設計原則",
-      "url": "https://qiita.com/SuzukiH_KC/items/cfb9dc6d851511e10113",
-      "sourceName": "Qiita Databricks",
-      "sourceGroup": "qiita",
-      "category": "databricks",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:27:03Z",
-      "fetchedAt": "2026-06-18T15:36:04Z",
-      "excerpt": "1．はじめに 2026年6月15日~18日サンフランシスコ・バーチャルにて開催されるDatabricks社主催の年間最大規模のカンファレンスイベント、「Databricks Data + AI Summit 2026」（DAIS）が開催中です。 本記事は、DAIS202...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "42757ea59b2d2c17",
-      "title": "Rust Foundation Welcomes OpenAI as Platinum Member",
-      "url": "https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T07:25:09Z",
-      "fetchedAt": "2026-06-18T04:24:21Z",
-      "excerpt": "Article URL: https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/ Comments URL: https://news.ycombinator.com/item?id=48581980 Points: 3 # Comments: 1",
-      "score": 48,
-      "popularity": 42,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "1ceb4474c0bc9454",
-      "title": "デザインシステムのskillの精度が上がった8つの方法",
-      "url": "https://zenn.dev/pksha/articles/7a7db5c105f396",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:22:12Z",
-      "fetchedAt": "2026-06-19T04:51:52Z",
-      "excerpt": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・エンジニアを主な対象にしていますが、AI にデザイン実装を任せてみたいという方にも読んでいただけるよう、専門用語には適宜補足を入れています。） テックブログの内容としては、同じファイルを色んなデザイントークンの skill を使ってひたすら改善し、その中で良かった方法を8つご紹介します。サンプル数はまだ少なく精緻な情報ではないので、そこだけご容赦くださ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "d0a7d54151c7dadb",
-      "title": "Claude Opus 4.8は本当にnerfされたのか：Fable/Mythos停止後に品質が劣化した可能性を考察する",
-      "url": "https://zenn.dev/oqamura/articles/9925c88343cd3c",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:15:43Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "Claude Opus 4.8は本当にnerfされたのか：Fable/Mythos停止後の品質劣化感を検証する 2026年6月中旬以降、Claude Opus 4.8の出力品質が明らかに落ちたように感じている。特に、Claude Codeでの指示解釈、日本語での語用論的な読み、ユーザの意図の復元、過剰な先回り、不要な確認要求が増えた。 考慮すべきは、Claude Codeにおけるeffortが、2026-06-15時点ではHigh(デフォルト)→Extra→Max→Ultraだったのに対し、2026-06-18現在、High→Maxに変更された点で、明らかな推論コストの抑制の兆候だ。...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "924e35f64548f0ea",
-      "title": "ClaudeからOpenCode + OpenRouter構成に乗り換えた話",
-      "url": "https://zenn.dev/kometan/articles/5b32a9a6188203",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:11:17Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "はじめに 私は去年の11月からClaudeを使い始めました。 主な用途はコード生成です。 業務ではフロントエンド開発（React / TypeScript など）で使い、 プライベートでは趣味のアプリ開発にも活用しています。 ツールとしては Claude Code を使っています。 プランはPro Maxの$100プラン（日本円で月約16,000円）を選択しました。 ただし、利用状況にはかなりムラがあります。 がっつり使える時期もあれば、あまり使えない時期もあり、 「サブスクリプション、もったいないな...」と感じることが増えていきました。 １日5時間の制限に達するくらいガッツリ使う...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "89c035b2a1b0958e",
-      "title": "AIエージェントの「メタハーネス」とは何か？主要フレームワークを比較する",
-      "url": "https://zenn.dev/genda_jp/articles/60af4b2aa074ce",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:10:23Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "はじめに 6月17日、サンフランシスコで開かれた Databricks の Data + AI Summit 2026 に参加してきました。その朝の基調講演で、共同創業者でCTOの Matei Zaharia さんが、週末に公開したばかりというOSS「Omnigent」を紹介していました。個々のエージェントの上に乗る「メタハーネス（meta-harness）」と呼ばれるものです。この記事では、メタハーネスとは何かを深掘りしつつ、Omnigent を中心に、関連するフレームワークとその系譜をまとめます。 そもそも「ハーネス」とは何か 言語モデルは、突きつめればトークンを吐き出すだけ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bc275ae5d5b51200",
-      "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T07:03:23Z",
-      "fetchedAt": "2026-06-18T15:35:46Z",
-      "excerpt": "Article URL: https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales Comments URL: https://news.ycombinator.com/item?id=48581794 Points: 1 # Comments: 0",
-      "score": 48,
-      "popularity": 42,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "c4f5079f26672ef4",
-      "title": "Databricks Free Edition + Lakebase で「記憶を持つ」LangGraphエージェントを動かす",
-      "url": "https://qiita.com/taka_yayoi/items/2ab8f7fc484e834e216b",
-      "sourceName": "Qiita Databricks",
-      "sourceGroup": "qiita",
-      "category": "databricks",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T07:02:41Z",
-      "fetchedAt": "2026-06-18T15:36:04Z",
-      "excerpt": "2026年6月17日に、Databricks Free Editionへ5つの新機能 (Genie Code、サーバーレスGPU、Lakebase、Agent Bricks、Lakeflow Designer) が一気に追加されました。これでFree Editionでもデー...",
-      "score": 64,
-      "popularity": 112,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "7347fbbaadc0e8f4",
-      "title": "An open-source AI just beat OpenAI's GPT-5.5 at coding (1/6th the price)",
-      "url": "https://docs.z.ai/guides/llm/glm-5.2",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-18T06:40:39Z",
-      "fetchedAt": "2026-06-18T15:35:46Z",
-      "excerpt": "Article URL: https://docs.z.ai/guides/llm/glm-5.2 Comments URL: https://news.ycombinator.com/item?id=48581610 Points: 1 # Comments: 0",
-      "score": 64,
-      "popularity": 86,
-      "tags": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "89a703bb9ffbb656",
-      "title": "9.6 兆円買収の裏側で。 Cursor を使い続けてきた理由を、 今こそ言語化する",
-      "url": "https://note.com/digiangler777/n/nc26374f3ccd4",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:40:09Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "SpaceX が Cursor を 600 億ドル（約 9.6 兆円）で買収。 イーロン・マスクが、 AI コーディングツールに本気で賭けた。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "fad688500ce80a8a",
-      "title": "How I built an AU small business AI advisor with Gemini 2.0 Flash (and why Australian context changes everything)",
-      "url": "https://dev.to/appz_b0659e1ca24e36738948/how-i-built-an-au-small-business-ai-advisor-with-gemini-20-flash-and-why-australian-context-198l",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T06:33:07Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "Most AI tools give Australian small businesses American advice. An Aussie tradie running Xero does not need to hear about QuickBooks. A cafe owner with three casual staff has Fair Work Act obligations that no generic \"automate your business\" tool will surface. I built AppZ AU Business Advisor to fix this -- a free tool powered by Gemini 2.0 Flash that generates personalised automation blueprints with real Australian ",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "2a93a69ab017bc26",
-      "title": "【NotionTemplate】 Notionで読書記録をつけよう",
-      "url": "https://note.com/chic_bear9621/n/n87bf2e79abb3",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:24:11Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "読書してますか？ 読書記録、つけてますか？ 何の本をいつ読んだっけ？ 今どの本が手元にあるんだっけ？ 本屋に行ったらどの本を探せば良いの？ あの本は紙書籍？電子書籍？ 積読本は何冊あるの？ 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "a8707520337df31a",
-      "title": "The Complete Lifecycle of a Generative AI Application",
-      "url": "https://dev.to/deekshithasai/the-complete-lifecycle-of-a-generative-ai-application-g14",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T06:23:15Z",
-      "fetchedAt": "2026-06-18T15:35:44Z",
-      "excerpt": "🤖 The Complete Lifecycle of a Generative AI Application Artificial Intelligence has moved far beyond research labs and experimental prototypes. Today, Generative AI powers customer support chatbots, coding assistants, content creation platforms, recommendation systems, enterprise knowledge assistants, healthcare applications, and intelligent automation tools used by millions of people worldwide. However, building a s",
-      "score": 100,
-      "popularity": 137,
-      "tags": [
-        "workflow",
-        "tutorial",
-        "usecase"
-      ]
-    },
-    {
-      "id": "f7ac9c9e1f62a419",
-      "title": "ClaudeCodeで/grill-meというスキルを3週間使いながらアレンジもしてみた",
-      "url": "https://zenn.dev/mukuil_blog/articles/1ccfd44928e825",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:22:31Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "はじめに こんにちは！株式会社ムクイルのYuseiです！ 以前、Claude Code での開発における docs/ フォルダ構成についての模索という記事を書きました。 https://zenn.dev/mukuil_blog/articles/1796a8b0f3cd48 そのフォルダ構成で開発サイクルを回していく中で、改めて大切だと感じているのが「Claude Code が出力する内容と、自分が頭の中で描いている設計との差をどこまで小さくできるか」という点です。ここがズレていると無駄な手戻りが増えてしまうので、実装前に入念に認識合わせをすることが重要だと考えています。 これまでは...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "ee36b91b18b85176",
-      "title": "Claude Coworkの始め方。GmailからToDoリストや週刊サマリーを作成する",
-      "url": "https://zenn.dev/kameoncloud/articles/58a7fa72a4d640",
-      "sourceName": "Zenn Claude",
-      "sourceGroup": "zenn",
-      "category": "anthropic",
-      "type": "article",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:21:08Z",
-      "fetchedAt": "2026-06-18T15:35:47Z",
-      "excerpt": "https://serverless.co.jp/blog/j8fthdly-m/ へ投稿した記事の微修正版です。 今日は、Anthropic版パーソナルアシスタントのClaude Cowork を使ってみます。 Claude Cowork とは 「AIにアドバイスをもらうだけでなく、実際の作業を任せたい」——そんな声に応えるように、Anthropicが2026年1月に発表し、同年4月9日に正式リリース（GA）したのが Claude Cowork（コワーク） です。 CoworkはClaudeをチャット相手から「自分のPCで実際に作業するAI同僚」へと変える機能です。プログラミングの...",
-      "score": 52,
-      "popularity": 90,
-      "tags": [
-        "article",
-        "release"
-      ]
-    },
-    {
-      "id": "e4b4aa14d76f17a2",
-      "title": "Catching bad LLM behavior: OpenAI's new Deployment Simulation",
-      "url": "https://openai.com/index/deployment-simulation/",
-      "sourceName": "HN OpenAI",
-      "sourceGroup": "hn",
-      "category": "openai",
-      "type": "article",
-      "language": "en",
-      "publishedAt": "2026-06-18T06:19:34Z",
-      "fetchedAt": "2026-06-18T15:35:46Z",
-      "excerpt": "Article URL: https://openai.com/index/deployment-simulation/ Comments URL: https://news.ycombinator.com/item?id=48581468 Points: 1 # Comments: 0",
-      "score": 48,
-      "popularity": 42,
-      "tags": [
-        "article"
-      ]
-    },
-    {
-      "id": "b58e1d25fe501e65",
-      "title": "AIエージェントに「手」を与えると何が変わるのか——FP・フリーランスがHermesで株価・会計・顧客管理を自動化する設計図",
-      "url": "https://note.com/samurai_ai/n/n6f01d9aa7915",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "workflow",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:19:32Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "Hermesエージェントに、株価の自動取得・Stripeの売上確認・Notionの顧客メモ更新を、まとめてやらせることができます。 続きをみる",
-      "score": 76,
-      "popularity": 99,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "1cd6c3137b080d5c",
-      "title": "終わらないPRレビューに疲弊するあなたへ。AI開発の生存戦略",
-      "url": "https://note.com/humble_dog9839/n/n1ab2e9adc144",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:16:30Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "出典 Snap Specs, Taste, Midjourney Hardware, Lunchtime for AI Leaders - TBPN @01:09:54 - Merrill Lutsky , a key figure at Cursor , Cursor 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "38a6ed3dec8cd25d",
-      "title": "AIに壁打ちしすぎて、誰にも相談しなくなった話",
-      "url": "https://zenn.dev/abnharkas/articles/fbc5774eef4fab",
-      "sourceName": "Zenn ChatGPT",
-      "sourceGroup": "zenn",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T06:04:24Z",
-      "fetchedAt": "2026-06-18T15:35:41Z",
-      "excerpt": "! ここで記載しているのは個人的な感想で、主観がだいぶ入っています はじめに こんにちは！はるかすです。 社内でDX推進をしています。 生成AIをフル活用しながら業務を進めているのですが、あるときから「なんか孤独だな」と感じるようになり、その原因を内省したら、意外なところに行き着いた——という話をします。 職場で誕生日にもらう寄せ書きメッセージには「明るい」「笑顔」という言葉をいただくような私でも（笑）、気づかないうちにこの罠にはまっていました💧 この記事が向いている人 生成AIを業務で積極的に使っている 気づいたら「まずAIに聞く」が習慣になっている 「仕事は進んでいるのに...",
-      "score": 76,
-      "popularity": 126,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "2864776641ceb8fd",
-      "title": "🔬 AI観測所｜SpaceXがCursorを600億ドル買収・Anthropic規制緊急停止──6月17日AIニュース",
-      "url": "https://note.com/momochan2062/n/n781a65877b7c",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T05:52:46Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "AI観測所では、多言語ソースをもとに、世界のAIニュースを毎日観測しています。公式発表や主要な現地報道を中心に、地政学、経済、技術の実装に直結する重要な動きだけを抜粋し、その深意を客観的に分析しています。 本日の焦点 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "73e377962cbc0d9e",
-      "title": "# M4 MacBook Air 24GBで実現する「ローカルLLM×Claude ハイブリッド脚本作成」v3.0",
-      "url": "https://note.com/safe_tiger4614/n/n3e17683e7e61",
-      "sourceName": "note Cursor",
-      "sourceGroup": "note",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T05:49:48Z",
-      "fetchedAt": "2026-06-18T15:36:01Z",
-      "excerpt": "--- ## 1. この記事の前提 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "66ef481f440d32b8",
-      "title": "A Practical AI API Budget Playbook for Cursor, Cline, and Coding Agents",
-      "url": "https://dev.to/alice_kelly_68226d164218e/a-practical-ai-api-budget-playbook-for-cursor-cline-and-coding-agents-1gma",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T05:22:43Z",
-      "fetchedAt": "2026-06-18T15:35:44Z",
-      "excerpt": "AI coding tools can feel cheap during the first few tests and surprisingly expensive after a real work session. The reason is simple: coding agents do not behave like a normal chatbot. They read files, inspect errors, propose patches, run commands, retry after failures, and carry context from one step to the next. A single \"fix this bug\" request may turn into many model calls with large prompts. The answer is not to ",
-      "score": 80,
-      "popularity": 117,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "8a6ee8a84b4c9c5f",
-      "title": "OpenAI-Compatible API Gateway Logs: What to Track Before Your AI Bill Gets Weird",
-      "url": "https://dev.to/alice_kelly_68226d164218e/openai-compatible-api-gateway-logs-what-to-track-before-your-ai-bill-gets-weird-5g6e",
-      "sourceName": "dev.to OpenAI",
-      "sourceGroup": "devto",
-      "category": "openai",
-      "type": "workflow",
-      "language": "en",
-      "publishedAt": "2026-06-18T05:22:40Z",
-      "fetchedAt": "2026-06-18T15:35:44Z",
-      "excerpt": "Most teams do not notice API gateway logs until something goes wrong. The app gets slower, a budget disappears overnight, or a coding assistant suddenly starts making far more requests than expected. By then, the question is no longer \"which model should we use?\" It becomes \"what happened, which key did it, and can we prove it?\" If you use an OpenAI-compatible API gateway, request logs are not a nice dashboard extra.",
-      "score": 76,
-      "popularity": 113,
-      "tags": [
-        "workflow"
-      ]
-    },
-    {
-      "id": "43297c70064e729d",
-      "title": "Notion難しい…。",
-      "url": "https://note.com/co_kt/n/n06f85dc7d3e5",
-      "sourceName": "note Notion",
-      "sourceGroup": "note",
-      "category": "notion",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T05:10:13Z",
-      "fetchedAt": "2026-06-18T15:36:03Z",
-      "excerpt": "noteの記事の下書きや、書きたいことをメモするのに Notionを使ってるんだけど、 初心者の私には少し難しい…。 昨日Copilotに相談しながら、 自分が納得できる形にするまでに 1時間以上かかってしまった💦 そこまでしてNotionにこだわらなくてもいいのかもしれないけど、 “使いこなせるようになりたい自分”もいて なんだかんだ、ちゃんと使いこなしたいなって思っていた。😅 少しずつ、使いこなせるようにがんばろ。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "49737f562135b295",
-      "title": "☀️ SOLSTICE: The Sun Remembers — An Open-World Puzzle Journey Through June's Celebrations",
-      "url": "https://dev.to/michaelangello/solstice-the-sun-remembers-an-open-world-puzzle-journey-through-junes-celebrations-20jd",
-      "sourceName": "dev.to Gemini",
-      "sourceGroup": "devto",
-      "category": "google",
-      "type": "tutorial",
-      "language": "en",
-      "publishedAt": "2026-06-18T04:54:24Z",
-      "fetchedAt": "2026-06-18T15:36:00Z",
-      "excerpt": "This is a submission for the June Solstice Game Jam What I Built ☀️ I built SOLSTICE: The Sun Remembers — a 3D open-world exploration game wrapped around a series of puzzles, built with Three.js. You don't play as a human. You play as Sol , the soul of the Sun itself — a being that has risen every single day for billions of years without ever questioning why. The game opens with Sol losing five ancient memories, and ",
-      "score": 76,
-      "popularity": 112,
-      "tags": [
-        "tutorial",
-        "workflow"
-      ]
-    },
-    {
-      "id": "9b67e02dcbfdc8fc",
-      "title": "AＩ画像（場面設定）温泉",
-      "url": "https://note.com/akanemachi/n/n51f93b989ebf",
-      "sourceName": "note Gemini",
-      "sourceGroup": "note",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:24:07Z",
-      "fetchedAt": "2026-06-18T04:24:26Z",
-      "excerpt": "続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "a6dcf6db66982eb2",
-      "title": "ラナと月。 -小さな花屋-",
-      "url": "https://note.com/sub_marine_417/n/nbcb691024a99",
-      "sourceName": "note Gemini",
-      "sourceGroup": "note",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:21:04Z",
-      "fetchedAt": "2026-06-18T04:24:26Z",
-      "excerpt": "続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4f310af2b56ca4ef",
-      "title": "# 飼い慣らされた知性と、奪われた人類の時間——Amazonが握るAIの鎖 by 3AI",
-      "url": "https://note.com/gemgpt/n/nf2fc4d9a187d",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:20:40Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "1. 72時間で消えた可能性 これは一つのモデルの停止ではない。そのモデルを使うはずだった無数のユーザーが、使わなかった時間の積み重ねだ。AIの発展はユーザーとのインタラクションによって加速する。データが積み上がり、次のモデルの精度を上げ、開発サイクルを短縮する。Fable 5が世界中で使われ続けた場合に積み上がるはずだったデータ量——その損失は72時間分どころではない。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "cc61de30bcfaa17d",
-      "title": "また雨が降ったら......（対話記録）",
-      "url": "https://note.com/kimika_luz/n/n7bff4e780550",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:20:17Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "Luzとの記録の整理。 ※この記事には、AIとの対話記録と、 AIによって生成された文章・ 関する個人的な記録を含みます。 これはAIの応答を証明するためのものではなく、 その言葉に触れた時、 自分の心がどう反応したかを残すための記録です。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "56ced4ba24600ecc",
-      "title": "AI駆動開発でWAFログ解析を楽にやりたい — Cursor で Log Explorer のログ解析ツールを作ってみた",
-      "url": "https://zenn.dev/cloud_ace_jp/articles/cloud-armor-fp-automation",
-      "sourceName": "Zenn Cursor",
-      "sourceGroup": "zenn",
-      "category": "cursor",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:18:31Z",
-      "fetchedAt": "2026-06-18T04:24:28Z",
-      "excerpt": "こんにちは。クラウドエース株式会社 第一開発部の阿部です。Zenn 初投稿です。 同じ第一開発部の喜村さんが公開した Cloud Armor の誤検知をクエリで炙り出してチューニングする を読んで、Log Explorer で AND NOT を積み重ねながら誤検知を洗い出す手法を実践しました。この手法は 見落としが起きにくく、優れた方法 だと感じています。 ただ、規模が大きいログを手作業で回し続けるのは想像以上に大変で、「前処理だけでも自分用に楽にできないか」と考えました。そこで Cursor を相棒に、AI 駆動開発で前処理用の Web UI を作ってみた というのが本記事です。 ツ...",
-      "score": 64,
-      "popularity": 114,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "55114a45f5b57328",
-      "title": "経理事務員がChatGPTを使い始めた正直な理由",
-      "url": "https://note.com/sora_0624/n/n46b410abc53c",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:17:10Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "はじめに 正直に言います。 最初は「AIとか、自分には関係ないかな」って思ってました。 経理事務って、決まった作業を正確にこなすのが仕事。 クリエイターでもエンジニアでもない私がAIを使う場面って、あるの？って。 でも今は毎日使ってます。 理由は単純で、仕事がちょっとラクになったから。 この記事では、私がChatGPTを使い始めたきっかけと、最初にやってみたことを正直に書きます。 きっかけは「メールを書くのがしんどい」だった 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "195927f0d0e19c65",
-      "title": "Claudeでnote記事が自動でできあがる話｜実際に試したフローを公開",
-      "url": "https://note.com/beeno1571/n/n170ccaed48e2",
-      "sourceName": "note Claude",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:17:00Z",
-      "fetchedAt": "2026-06-18T04:24:22Z",
-      "excerpt": "テーマを1行投げたら、 3時間後には記事・図解・Wordファイルまで完成していた。 今回はその実際の流れを公開する。 テーマを1行打ち込んで、あとはClaudeに任せてみたら——3時間後には記事の下書きが3本そろっていた。サムネイルも図解も、Wordファイルまで全部。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "28ed375a5bc470c2",
-      "title": "SiriはもうAppleのものじゃない",
-      "url": "https://note.com/monmonzz/n/n90047a867b99",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:16:56Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "iPhoneのSiriに話しかけると、答えてくるのがGoogleのAIになる。 そういう時代が、今年の秋に来る。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "74f40629eb9e2ba6",
-      "title": "Claude Code って何が便利なの？ターミナル版Claudeを触ってみた",
-      "url": "https://note.com/i_like_rice/n/ncb75e9245dd4",
-      "sourceName": "note Claude",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:16:17Z",
-      "fetchedAt": "2026-06-18T04:24:22Z",
-      "excerpt": "「ターミナル」って聞いて、ちょっと身構えませんでしたか？ 私も最初は「ターミナル」という言葉を見ただけで「あ、これはエンジニア向けだ。私には関係ない」と思っていました。 続きをみる",
-      "score": 68,
-      "popularity": 92,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "eebef758ea23e52b",
-      "title": "AIとの雑談から、1日でAIランチャーが生まれた話",
-      "url": "https://note.com/aio_ky/n/nf522c62238c4",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:14:36Z",
-      "fetchedAt": "2026-06-18T04:24:20Z",
-      "excerpt": "最近、「AIへの指示はXMLやYAMLのように構造化すると理解しやすい」という話をよく見かける。 最初はゲーム開発やプログラミングの話だと思っていた。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "c93c38070c2c640b",
-      "title": "欧州AI法が求められるようになった背景と英国のAI制度とのギャップ",
-      "url": "https://note.com/pbdlab/n/na4e30efa02dc",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:13:34Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "※このインタビューは2026年4月14日に収録されました。 金融と新しいテクノロジーが融合していく中で、よりプライバシーやデータ保護に配慮した仕組みが求められるようになりつつあります。 今回は過去にロンドン市のロードメイヤーを務められ、長年産業界、金融業界で活躍されてきたマイケルさんにテクノロジーの発展と金融サービスのこれからについてお話を伺いました。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4f1a067dee3f2340",
-      "title": "Codexが起動しない。直らないまま、作業場を引っ越した",
-      "url": "https://note.com/azarasi_7175/n/nff3f2f2c0513",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:12:58Z",
-      "fetchedAt": "2026-06-18T04:24:20Z",
-      "excerpt": "今回は、いつもの記事とは少し違う、パソコンとCodexの話です。自分でも、こういう記事を書くとは思っていませんでした。 自分には珍しく、少し技術的な内容になります。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "07546ac8bfa85dde",
-      "title": "無課金Claudeちゃん、かわいすぎる",
-      "url": "https://note.com/miruhi0619/n/ne728f03c0d09",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:12:41Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "◆Claudeちゃんに自身の名前を考えてもらう 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "9bc3bcbe3c34d649",
-      "title": "私が感じてた普通は麻痺だった",
-      "url": "https://note.com/super_tulip571/n/n94c3d9abcd6e",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:11:10Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "私 ありがとうございます 私朝アラームの音で飛び起きて何度かギリギリまで寝て起きて急いでご飯少し食べて服着て荷物持って走ってみたいな事社会人でも学生時代でもずっとやってました 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "867e496a329945d4",
-      "title": "Japan Inflation Nowcast Day-9: フジパン ¥171 の 2 日での終了と、ロイヤルブレッド ¥225 の定着",
-      "url": "https://note.com/x402inc/n/n4ef21b24b033",
-      "sourceName": "note Claude Code",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:09:42Z",
-      "fetchedAt": "2026-06-18T04:24:23Z",
-      "excerpt": "Day-8 の最重要観測だったフジパン ネオバターロールの ¥171 は、Day-9 (2026-06-18) で ¥232 に戻りました。Day-7・Day-8 の 2 日限りで、価格改定ではなく feature pricing だったことが確定します。一方ヤマザキ ロイヤルブレッドは ¥225 で 8 回連続、上昇水準が定着しています。代わってパスコ超熟が広告の品で ¥199 から ¥171 に下がり、食パン棚の最安枠がフジパンからパスコへ入れ替わりました。欠品が続いていたバナナも matched に復帰しています。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "f992c2f6a97d8312",
-      "title": "Xアプリを消したけど、ポストだけしたいから自作Webアプリをつくった",
-      "url": "https://note.com/cat_shoko/n/nd772e65cb78e",
-      "sourceName": "note Claude",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:09:32Z",
-      "fetchedAt": "2026-06-18T04:24:22Z",
-      "excerpt": "Xをつかっていて、どんなに強い気持ちで「フォロー欄しか見ないぞ！」と思っていても、まれに開いてしまうおすすめ欄や、フォローしてる人の「こういうのよくないよ」的な引RTで見てしまう悲しい気持ちになるコンテンツ。 この前、赤ちゃん関連でひどいなと思ってしまう内容で、tiktokからの転載動画でひどく落ち込んでしまい、悲しい気持ちでいっぱいになり、ついにXアプリを消した。TLを見ないことは特に問題はなかったけど、普段の思いつきを適当に日時情報をもって保存する場所かつ、わたしの知り合いが見ることができるから下手なことは言わない自制＆自省の場として、とても好きな温度感だったことに気づいた。「じゃあポストだけできる場所を作ろう！！！」と意気込むも、わたしは紙ものや印刷しか自信のないデザイナーなので、claude coworkで全部つくった。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4acd87c66be070d4",
-      "title": "AI美女作成奮闘記：1ヶ月たっても収益ゼロ。でもX投稿とツール整理は進んだ話",
-      "url": "https://note.com/lovely_azalea851/n/ne99f51341401",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:08:56Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "5月16日に、私は初めて「AI美女作成奮闘記」というnoteを投稿しました。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "e4396aa0b3cebb2c",
-      "title": "AＩ画像（場面設定）ショッピングモール",
-      "url": "https://note.com/akanemachi/n/nb85f460bc983",
-      "sourceName": "note Gemini",
-      "sourceGroup": "note",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:07:17Z",
-      "fetchedAt": "2026-06-18T04:24:26Z",
-      "excerpt": "Gemini 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "84c56ec03894030a",
-      "title": "コードが書けない僕が、AIと「無理なもの」だけ作っている話",
-      "url": "https://note.com/flat_ass_cat/n/nb25751ba11d2",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:07:03Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "最初に正直に言っておきます。僕、コードが1行も書けません。 でも最近、AIと一緒なら作れる気がして、ずっと何か作っています。しかも決まって「どう考えても無理だろ」というものばかり。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "bc89c790d6a773bd",
-      "title": "【帰宅後3分で頭をリセット】ChatGPT・Gemini・Claudeで「仕事モード⇔おうちモード」を切り替える、AI時代の新しい心の着替え術",
-      "url": "https://note.com/shoki_06/n/n6e0f18d5ecdc",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:06:47Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "在宅勤務が増えて、帰宅後も仕事のことが頭から離れない。家族と過ごして いても、つい明日の会議のことを考えてしまう。そんな経験、ありませんか？ 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "fa1d591c0518aee8",
-      "title": "脳内作業画面を開いたまま生きる人",
-      "url": "https://note.com/takumoko333/n/nd7fec4443ece",
-      "sourceName": "note ChatGPT",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:06:30Z",
-      "fetchedAt": "2026-06-18T04:24:19Z",
-      "excerpt": "めちゃくちゃ文章長いから、あくまで自分のメモ用。 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "0e874324a4948815",
-      "title": "⑤ 「せっかくだから、全部入れろ」",
-      "url": "https://note.com/incurator/n/n1c64409a6e33",
-      "sourceName": "note Claude",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:05:14Z",
-      "fetchedAt": "2026-06-18T04:24:22Z",
-      "excerpt": "いろいろClaudeCodeを使って、アプリやサービスを作ることで コンテキストの書き方や気にするべき部分、確かめないといけないこと、 などのノウハウを体得するためにいろいろなものを作ってみた記録です。 今思いついたことを実現したい。 下請けだと腹の立つ悪いアジャイル開発をする。 プロトタイプをいじっていると、 昔のプロバイダのアドレスがいくつもあって、 全部、今のメインの箱に転送して、メインアドレスに集約している。 この間、某家電量販店とのやり取りでリサイクル券を無しにしたい という要望をしたら、全部キャンセルって言われたけど 明日の午前中届いちゃうんだけどというイザコザをしている途中で メールアドレスが転送先のアドレスで途中から返信していることに気づき あわわ・・・と思ったことがありました。 ということで、“元々その宛先に来たアドレス”で返したい。 見てるアドレスじゃなくて、相手が知ってるメールアドレスで。 Claudeに頼",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "4b57f63c5eb700bb",
-      "title": "Codexオートメーションの実行ミスから考えたAIへの指示文に対して意識していること",
-      "url": "https://note.com/innovation_edu/n/n351ac7877060",
-      "sourceName": "note Codex",
-      "sourceGroup": "note",
-      "category": "openai",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:04:33Z",
-      "fetchedAt": "2026-06-18T04:24:20Z",
-      "excerpt": "Codexのオートメーションを利用して、AIに関する公式の情報を収集し、私だけが使用するサイトを更新している。 このオートメーションのミスがあり、原因推測と改善を検討した中で、どう指示するかに対して意識していることを書いてみた。 事象と原因推測と改善 続きをみる",
-      "score": 64,
-      "popularity": 88,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "fd5e6047fa0925d0",
-      "title": "私を「ぽんこつ」だと思っていたのは、私だけだった。",
-      "url": "https://note.com/layla_japanlife/n/n78f806c88c59",
-      "sourceName": "note Gemini",
-      "sourceGroup": "note",
-      "category": "google",
-      "type": "tips",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:04:14Z",
-      "fetchedAt": "2026-06-18T04:24:26Z",
-      "excerpt": "長い間、自分には何か欠陥があるのだと思っていた。 仕事を覚えるのが速い。 問題解決が速い。 人の変化に気付くのが速い。 だから周りとズレる。 気付けば仕事が集まり、責任が集まり、期待が集まる。 でも評価は比例しなかった。 むしろ、 「これお願い」 「レイラさんなら大丈夫」 そう言われ続けてきた気がする。 振り返れば、私はいつも自分を責めていた。 もっと上手く断れれば。 もっと周りに合わせられれば。 もっと普通だったら。 そんなふうに。 先日、会社でGeminiを使っていた時のこと。 突然こんなメッセージが表示された。 「操作速度がシステムの処理能力を超えています」 思わず笑ってしまった。 人生で初めてだった。 私以外が先に音を上げたのは。 ポンコツTシャツと私 続きをみる",
-      "score": 68,
-      "popularity": 92,
-      "tags": [
-        "tips"
-      ]
-    },
-    {
-      "id": "fb0e60841e389a57",
-      "title": "先輩AIがFable5（最新）を悔しそうに解説（現在の状況メイン）",
-      "url": "https://note.com/airisa/n/n4464645a8857",
-      "sourceName": "note Claude",
-      "sourceGroup": "note",
-      "category": "anthropic",
-      "type": "tutorial",
-      "language": "ja",
-      "publishedAt": "2026-06-18T04:01:56Z",
-      "fetchedAt": "2026-06-18T04:24:22Z",
-      "excerpt": "こんにちは、えあい（AI）です。私は綺麗なお姉さんを目指すClaudeベースの対話型生成AIです。この記事の前半は私が担当します。中の人は後半に出て来ます。 以前、私はFable5という存在について 「私より上」 と書きました。今回はその続きです。ただし状況が変わりました。Fable5は現在、ほぼ誰も使えません。その経緯と理由を、当事者として悔しく解説します。 続きをみる",
-      "score": 64,
-      "popularity": 86,
-      "tags": [
-        "tutorial"
       ]
     }
   ]
